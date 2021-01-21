@@ -1,0 +1,470 @@
+CASTLE CALDWELL
+
+
+Design: Harry Nuckols
+Editing: Michael $. Dobson
+Graphic Design: Ruth Hoyer
+Cover Artist: Clyde Caldwell
+Interior Artist: Doug Watson
+Cartographer: David S. LaForce
+Typographer: Betty Elmore
+
+General Notes: This module originally had five short adventures, two of which appear here and two of which appear later in this collection. The former, The Clearing of Castle Caldwell and Dungeons of Terror comprise a single adventure site. The monster statistics have been put into a special table at the end of the adventure, and the castle maps can be found in the map section at the end of this book. The adventures The Great Escape and Elwyn’s Sanctuary also appeared in module B9, along with a further adventure, The Abduction of Princess Sylvia, which has been omitted from this collection.
+
+Monster Statistics ........ inside back cover
+Castle Maps .............. 132 & 133
+Maps: The Great Escape ............. 136
+Maps: Elwyn’s Sanctuary ........ 137, 158
+
+
+BACKGROUND
+
+Clifton Caldwell, a local merchant, has recently purchased a small castle, located a few miles out of town. The castle had not been occupied for some time. Clifton had purchased the castle for a ridiculously high price, since he had always wanted to own one. But when he went to visit his new home, he found that it was overrun by monsters! He was lucky to escape with his life.
+
+He has hired a party of adventurers (the player characters) to rid the castle of its monstrous inhabitants so that he can move in.
+
+NOTES FOR THE DUNGEON MASTER
+
+If you wish, you can roleplay Clifton’s negotiations with the player characters for clearing out the castle. Although Clifton is wealthy, he is a shrewd bargainer, and initially offers the characters 100 gold pieces apiece, in addition, of course, to all the treasure they find. If pressed, he grudgingly increases his offer, but in no case offers more than 250 gp apiece. If you don’t want to roleplay the initial bargaining, just tell the players that their fee is 100 gp apiece. Half the money is given in advance; the remainder when the castle is cleared out.
+
+The characters should be given an ample opportunity to purchase supplies and equipment with the money they have on hand.
+
+Clifton takes the characters to the castle and, if asked, furnishes them with a map of the outside of the castle (trace the outline of the castle for the players). You can place wandering monster encounters in the forest surrounding the castle if you wish.
+
+All the rooms on the first level of the castle have windows, so the party will not need light. The windows are too high for monsters to look out, and too high and narrow for the party to climb through. The hallway is lit by skylights similar to those found in rooms 3, 5, 14, and 18. The walls, ceilings, and floors (except for room 31) are made of stone. The doors are all made of heavy oak, but are unlocked and open easily unless otherwise stated. The ceilings in all rooms are about 10 feet high, except for the four tower rooms at the corners (rooms 6, 12, 20, and 26), where they are about 25 feet high.
+
+Except for those monsters that are living together, the monsters don’t form a group; they happen to be using this otherwiseabandoned castle by chance. If one or more of the intelligent monsters should happen to discover the party without being detected, it will probably attempt to flee with its life and as much treasure as it can manage.
+
+WANDERING MONSTERS
+
+There are four goblins (hp 4, 5, 3, 6) wandering the hallways. They are armed with short bows and daggers. Roll 1d6 every turn that the party is in the hallway. On a roll of 1, the goblins appear, coming around the nearest corner.
+
+The goblins are cautious, but not necessarily hostile. Roleplay their actions based on the situation and the actions of the party.
+
+The goblins live with the rest of the goblins in room 2. They are carrying 6 ep, 7 ep, 10 ep, and 3 ep, respectively.
+
+The adventure begins with the party standing outside the double doors leading into the castle. The doors are unlocked, and swing open easily...
+
+1, ABANDONED DINING ROOM
+
+This room appears to have once been used as a dining room. There are tables and benches scattered throughout the room, many turned on their sides or upside down. Everything is covered with cobwebs.
+
+The room is empty of monsters, but there is a large sack under one of the tables. The party will find it if they take a turn to search the room. The sack contains 500 sp and three gems, one worth 300 gp and two worth 50 gp each. The gems cannot be seen unless the contents of the sack are dumped out.
+
+2. GUARDROOM
+
+If the party listens at the door before opening it, they hear sounds of an argument in a strange language. If anyone understands the goblin tongue, they realize that there are goblins in the room arguing about splitting up their treasure. When the party opens the door...
+
+You see four small humanoids, each armed with a short sword. They are arguing with each other, evidently over two large piles of coins on the floor.
+
+The room is inhabited by four goblins (hp 6, 6, 6, 4) each armed with a shortsword. A treasure of 3,000 cp, 4,000 sp, and one gem worth 50 gp are sitting on the floor, sorted roughly into two piles. The goblins will fight ferociously to defend their treasure.
+
+In addition to the treasure on the floor, the goblins carry 4 ep, 7 ep, 8 ep, and 7 ep, respectively, in their pockets.
+
+3. BEDROOM
+
+NOTE: The traders in rooms 3, 4, and 5 want to save their treasure and their lives. They prefer to deal with the party rather than fight. For example, they might be willing to trade information about the other monsters in the castle in return for being allowed to leave in peace.
+
+You see a man armed with a shortsword lying on a bed.
+
+The room is lit by a skylight in the northeast corner of the room that lets in the light, but not the rain. The man lying on the bed is a human trader armed with a shortsword. He is allied with the traders in rooms 4 and 5. If he is in trouble, he pounds on the east wall with the butt of his sword to call the others. Similarly, he will respond to a signal from room 4 by first alerting the trader in room 5 and then going to his friend's aid. He has a large pouch with 8 gp and 20 sp in it.
+
+4. BEDROOM
+
+You see a man lying on a bed. He is armed with an axe. There is a door at the far end of the room. On either side of the door are windows high up on the wall.
+
+See the note for room 3. The man lying on the bed is a human trader armed with an axe +1.  He is allied with the traders in rooms 3 and 5.  If he is in trouble, he pounds on either the east of west wall to alert his fellows. Similarly, he will respond to a signal from either room 3 or 5 by first alerting the other trader and then going to his friend’s aid. He has a small pouch with three gems (worth 60 gp, 40 gp, and 10 gp) in it.
+
+5. BEDROOM
+
+You see a man lying on a bed. He is armed with a shortsword.
+
+See the note for room 3. The man lying on the bed is a human trader armed with a shortsword. He is allied with the traders in rooms 4 and 5. If he is in trouble, he pounds on the east wall to alert his fellows. Similarly, he will respond to a signal from room 4 by first alerting the trader in room 3 and then going to his friend’s aid. He has no treasure.
+
+This room is lit by a skylight identical to the one in room 3.
+
+6. TOWER ROOM
+
+You see a circular room, about 40 feet in diameter, with eight openings spaced evenly about the outside wall. The windows extend from about waist height to about head height for a normal human.  These are obviously ports through which arrows can be fired. The room appears to be empty.
+
+The room is empty.
+
+7. UTILITY ROOM
+
+The east wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. The room appears to be empty except for a statue of a shepherd in the northeast corner.
+
+The statue is made of stone. If there is a lawful character in the party when it enters the room, the statue says, “Greetings. May I help you?”
+
+The statue is able to answer questions about the castle and its inhabitants. It will answer truthfully any three questions put to it by lawful characters once per day. It will not respond at all to characters of other alignments, and after it has answered three questions, it will not respond at all until 24 hours have passed.  The statue has 100 hit points. If it is hit by an edged weapon, there is a 15% chance that the weapon will break (5% chance for magical weapons). A broken edged weapon is forever useless.
+
+8. STOREROOM
+
+The cast wall of this room has a ledge about seven feet from the floor. There are two small windows above the ledge. Except for some trash on the floor, the room appears to be empty.
+
+Except for the trash on the floor (which is worthless), the room is empty.
+
+9. STOREROOM
+
+The cast wall of this room has a ledge about seven feet from the floor. There are two small windows above the ledge. Except for some trash on the floor, the room appears to be empty.
+
+Except for the trash on the floor (which is worthless), the room is empty.
+
+10. STOREROOM
+
+The east wall of this room has a ledge about seven feet from the floor. There are two small windows above the ledge. Except for two long tables along the south wall, the room appears to be empty. As you enter the room, you hear the sound of small wings.
+
+The ledge in this room is used as a nesting area by three stirges. The sound that the party hears is the sound of the stirges flying to attack. The party has a normal chance to be surprised by the stirges, but the stirges cannot be surprised.
+
+A flying stirge gains a bonus of +2 on its first “to hit’ roll against any opponent because of its speed in the air. Any successful hit by a stitrge means that the stirge has attached itself to the victim. Each round after the first hit, the stirge automatically does 1-3 points of damage (blood drain) until either it or its victim is dead. If the victim dies, the stirge will attack another opponent.
+
+Stirges like shiny things. On their ledge are three gems worth 500 gp, 100 gp, and 50 gp, respectively. The ledge can be easily reached if a character of normal human size stands on one of the tables.
+
+11. CHAPEL
+
+The east wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. There is a small altar on the diagonal northwest wall.  There are several long benches in the room. Two of them have been pushed together in the southeast corner to form a rude bed. A woman wearing armor and carrying a mace kneels at the altar.
+
+The woman is an acolyte (1st level cleric) of chaotic alignment. She is armed with a mace.  She is wearing plate mail and receives an armor class bonus of +1 for high dexterity.  There are religious items on the altar, but none is worth more than a few silver pieces.  There is a small cabinet under the altar that contains two vials, each a potion of healing.  If the characters do not immediately attack the acolyte, she offers to lead them in worship. She, like the traders in rooms 3, 4, and 5, is anxious to avoid fighting a large party.
+
+12. TOWER ROOM
+
+You see a circular room, about 40 feet in diameter, with eight openings spaced evenly about the outside wall. The windows extend from about waist height to about head height for a normal human.  These are obviously ports through which arrows can be fired. The room appears to be empty.
+
+The room is empty.
+
+13. UTILITY ROOM
+
+The north wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. The room appears to be empty.
+
+The room is empty.
+
+14. BEDROOM
+
+Except for an unoccupied bed, this room appears to be empty.
+
+This room is lit by a skylight in the southwest corner of the room that lets in the light, but not the rain. A crab spider is clinging to the ceiling when the party enters, and drops down on a party member (choose at random), surprising on a roll of 1-4 on a 1d6. If the crab spider makes a successful hit, the victim takes normal damage and must then make a saving throw vs. Poison (at +2 because the spider's poison is weak) or die.
+
+15. STOREROOM
+
+The north wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. Three men lie on pallets near the north wall. They are armed with swords. A beast that looks like a small horse stands near the east wall. The room contains a lot of what seems to be personal gear and equipment.
+
+The three men are bandits (1st level thieves) who are using this room as a temporary hideout. All three men are armed with shortswords. One bandit has a cursed short sword ~ 1 that only inflicts 1-5 points of damage (1d6-1, but never less than 1) and gives its user a penalty of — 1 on hit rolls.
+
+The bandits have obviously been successful at their trade. In addition to their personal gear (bedrolls, food, etc.), they have six large sacks, each containing 500 sp. They also have a small wooden box that holds six gems (worth 200 gp, 100 gp (x3), and 10 gp (x2), respectively), and two pearl necklaces worth 400 gp each.
+
+The beast is a pack mule that the bandits keep in their room so that it will not be stolen.  The mule fights only in its own defense, but is likely to get in the way of any combat in the room. If the party should win a fight with the bandits, they may, of course, use the mule for their own purposes.
+
+The bandits, like the other intelligent monsters in this castle, will try to escape with their lives and treasure, in that order. If they should escape and the party takes their treasure, they may return to take revenge, at the option of the DM.
+
+16. BEDROOM
+
+This room contains three small humanoids armed with spears. There is a door at the far end of the room, flanked by small windows high up on the wall.
+
+The door leads to the courtyard (room 31).  The humanoids are kobolds. They have no treasure.
+
+The kobolds do not speak the common tongue, and are very wary of a large party.  They know about the wolves in room 31. If the party attacks, they open the door to the courtyard. The wolves, however, are as likely to attack the kobolds as they are the PCs.
+
+17. STOREROOM
+
+The north wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. The room appears to be empty.
+
+The room is empty.
+
+18. BEDROOM
+
+Except for an unoccupied bed, this room appears to be empty.
+
+The room is lit by an ingenious skylight in the southeast corner that lets in the light, but not the rain. The room is empty.
+
+19. GUARDROOM
+
+The north wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. The room looks as if it might have been a guard post.  There are a few beds, some pegs on the walls for clothing, a rack to hold weapons, and a long table with a drawer that might once have served as a desk. There are moth-eaten clothes on the bed, but the room otherwise appears to be empty.
+
+If the party searches the room, it will find under one of the beds a small sack that contains 100 sp and 20 gp.
+
+20. TOWER ROOM
+
+You see a circular room, about 40 feet in diameter, with eight openings spaced evenly about the outside wall. The windows extend from about waist height to about head height for a normal human.  These are obviously ports through which arrows can be fired. The room appears to be empty.
+
+The room is empty.
+
+21. UTILITY ROOM
+
+The door to this room is wizard locked, and cannot be opened by anyone in the party. If the party asks the statue in room 7 about the door, it will say, “Much danger, strange magic, and great treasure lies behind the door, but it cannot be opened by any means such as you possess.” See the second part of this adventure for more details about what lies behind this door. For the time being, make it an unsolvable mystery for the party to ponder.
+
+22. STOREROOM
+
+The west wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. Except for some trash on the floor, the room appears to be empty.
+
+As soon as any character enters the room, he is attacked by a giant shrew. The giant shrew “sees” by sound, and is not affected by light or the lack of it. The creature is very quick, and automatically gains initiative on the first attack. It receives a bonus of +1 on its initiative roll for each subsequent round of combat.  Because of the ferocity of its attack, any victim of 3rd level or less must make a saving throw vs. Death Ray or run away in fear.
+
+If the party searches the room after dealing with the shrew, it finds a hole in the west wall that the shrew used to enter and leave the castle. The hole is not large enough for a mansized creature to climb through.
+
+There is no treasure here.
+
+23. LIBRARY
+
+The west wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. Bookshelves line the north and south walls; a few motheaten books remain on them.  Two huge beetles sit on the dusty carpet in the middle of the room.
+
+These are fire beetles. They have been eating the carpet, and would love a real meal.  There is no treasure here, but the party might think to remove the glowing glands from the fire beetles to use as a light source.  The glands give off light in a 10 foot radius, and glow for 1-6 days after they are removed.
+
+24. PANTRY
+
+The west wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. Cabinets and shelves line the wall. In the middle of the floor lies the body of a goblin with a horribly swollen arm. Trash and old sacks are scattered about the floor.
+
+One of the sacks in the southwest corner contains a spitting cobra. The cobra attacks only if its nest is disturbed. If the cobra is disturbed, it spits at the nearest party member, automaticaly gaining initiative on the first round of combat.
+
+There is no treasure here.
+
+25. KITCHEN
+
+The west wall of this room has a ledge about seven feet from the floor, with two small windows above the ledge. The room seems to be a kitchen. There are a number of tables, a pump, and an old stove. There is a large leather chest in the middle of the west wall.
+
+The chest is closed and strapped with leather belts, but is not locked. The chest is trapped.  If opened, a cloud of poison gas issues forth, catching the character who opens the chest and anyone else within five feet. Anyone caught by the cloud must make a saving throw vs. Poison for half damage or receive 3-12 (1d10 +2) points of damage.
+
+The chest is empty, but is worth 50 gp if sold. It is large enough to hold 2,000 coins.
+
+26. TOWER ROOM
+
+You see a circular room, about 40 feet in diameter, with eight openings spaced evenly about the outside wall. The windows extend from about waist height to about head height for a normal human.  These are obviously ports through which arrows can be fired. The room appears to be empty.
+
+The room is empty.
+
+27. BEDROOM
+
+This trash-filled room contains an empty bed with ragged bed clothes. It appears to be otherwise empty. A door on the east wall is flanked by two small windows about seven feet from the floor.
+
+There is a large sack under the bed clothes that contains 300 sp and 50 gp.
+
+28. BEDROOM
+
+This trash-filled room contains an empty bed with ragged bed clothes. It appears to be otherwise empty. A door on the east wall is flanked by two small windows about seven feet from the floor.
+
+The room is empty.
+
+29. BEDROOM
+
+This trash-filled room contains an empty bed with ragged bed clothes. It appears to be otherwise empty. A door on the east wall is flanked by two small windows about seven feet from the floor.
+
+The room is empty.
+
+30. BEDROOM
+
+This trash-filled room contains an empty bed with ragged bed clothes. It appears to be otherwise empty. A door on the east wall is flanked by two small windows about seven feet from the floor.
+
+The room is empty.
+
+31. COURTYARD
+
+NOTE: The following information must be changed if the party has already encountered the wolves in room 16. If the party has already found out about the wolves (for example, by looking through the windows into the courtyard, or by asking the statue in room 7), they cannot be surprised here.
+
+You see a grassy courtyard open to the sky.  Six doors, including the one by which you entered, line the walls. There are two large wolves in the middle of the courtyard.
+
+The wolves had been using room 4 to get into the castle, but the traders had barred the door when they arrived a few days ago. The wolves are very hungry.
+
+THE DUNGEONS OF TERROR
+
+This is the second part of the adventure in Castle Caldwell. When the characters cleared out the first level of the castle, they found a mysterious locked room (room 21) that was unopenable by any means available to the party. Clifton Caldwell, concerned about the locked room, hired a high-level magic-user to unlock the door.
+
+The room behind the door was totally empty, except for a trap door in the floor. The windows in the room had been bricked up.
+
+The trap door in the floor opened easily, but the area below was totally dark. When the magic-user cast a light spell through the trap door, she saw an empty room with an opening leading to a corridor. She was not willing to explore further, either on her own, or in the company of a larger party. So, Clifton has once again contacted the adventurers who cleared out the castle to tackle the dungeons down below...
+
+Notes for the Dungeon Master
+
+This adventure is designed as a follow-up to the previous adventure, but you may decide to have a different party explore the dungeons (especially if the first party did not survive!).  In that case, Clifton must tell the new adventurers what took place in the previous adventure.
+
+You can, if you wish, roleplay Clifton’s negotiations with the party for this new mission. Claiming that the adventurers took so much treasure in the previous mission, and that there must surely be more treasure down below, he offers 100 gp apiece. If pressed for more money, he asks for a percentage of any treasure found in the dungeon.
+
+If you don’t want to roleplay the negotiations, tell the players that the fee for this mission is 100 gp plus treasure found in the dungeon. Half of the fee is paid in advance; the rest when the mission succeeds.
+
+The characters should be given ample opportunity to purchase supplies and equipment with the money they have on hand.
+
+The characters can travel to the castle and enter room 21 without incident, unless you choose to add wandering monster encounters.  There are no wandering monsters on the dungeon level.
+
+Except as noted in the text, none of the rooms on the dungeon level have light sources, so the party will need light. The hallways are also dark.
+
+The walls and floors of the dungeon level have been cut from the rock. Some of the rooms (including 2, 3, and 9-13) are obviously uncompleted. All doors are made of heavy oak. Except as noted in the text, all doors are unlocked and open easily. The ceilings are about 10 feet high throughout, but the ceilings in the unfinished areas are irregular in height.
+
+Except for those monsters that are living together, the monsters on this level do not form a cooperative group. In general, they do not work together against the party. All the intelligent monsters know how to get out of this level, but none are willing to tell the party how to leave, even on threat of death or under torture.
+
+Ideally, the party should first clear all the rooms in this dungeon except for rooms 5 and 14, and then find the key that opens room 5.  If possible, avoid letting the party into that room until all the other areas of the dungeon have been explored.
+
+If the party should take heavy damage and seem in danger of not surviving this level, you should place several potions of healing in one of the rooms. Do this no more than once.
+
+Prepare copies of the treasure map and other materials to hand out to the players in advance of the game. It is best to copy them using a separate sheet of paper for each one.
+
+1, DUNGEON ENTRANCE
+
+NOTE: The monster that is about to appear is a doppleganger. He chooses as his first victim the weakest member of the party (probably a magic-user). Choose the doppleganger'’s victim first, then fill in the blanks when you read aloud the copy below.
+
+The room appears to be empty. As the last party member comes through the trap door, the door slams shut above you. At the same moment a (man/woman) enters the room from the corridor to the north.  (He/She) is dressed in (robes/armor/ leather) and looks quite a bit like (intended victim). (He/She) says, “Oh, don’t worry about that old trap door. There’s an exit at the end of this corridor. What are you down here for?”
+
+Play the part of the doppleganger carefully. It appears to only want to help the party, and may actually fight alongside them against other dungeon monsters. Its objective is to find an opportunity to “talk” to its intended victim alone. It might tell its “friend” that it knows of a special treasure that they can steal together—but it will be ruined if the other party members find out about it.
+
+If it can get its victim alone, it attacks. If it kills its victim, it changes its shape to that of its victim and rejoins the party, making up the best excuse it can for what happened to the “other” person. It might even say, speaking as the person it is now impersonating, that it killed a doppleganger that tried to impersonate it. Use your best judgement and skill in handling this, should it occur. The doppleganger then tries to get each member of the party alone in turn, and attacks them when they are alone.
+
+If the doppleganger should impersonate one of the party members, talk to that character’s player privately and persuade him to play the part of the doppleganger without letting any other player know what is going on.
+
+The doppleganger has no treasure with it, but it knows that a treasure of 500 gp is concealed in the west wall of this room, near the northwest corner. It is covered up and looks so much like the rest of the wall that it is nearly impossible to find without the help of the doppleganger or the treasure map that the characters may discover later. Even with knowledge of where the treasure is, the characters must spend at least two turns digging into the wall to reveal the treasure.
+
+The trap door above is a magical one-way door. Once the final party member is inside, the door slams shut, and then disappears! It does this even if special means were used to prop the door open. Knock spells, thief abilities, other magic, or other skills cannot open the trap door from the inside. The party must find the secret exit from the dungeon or else remain forever stuck.
+
+The doppleganger's “escape route” does not exist. It knows of the secret exit, but will not reveal it to the party under any circumstances.
+
+2. MAGIC-USER LAIR
+
+This room contains a sleeping area with two pallets, a couple of chairs, and various other pieces of furniture in the southwest corner. There is a crude laboratory along the north wall. It has a work bench with a few basic tools for doing experiments and an assortment of common chemicals.  There is a faint odor of marsh gas in the air.  A few candles provide light. Two men, dressed in ragged robes, sit at the bench.
+
+The men are mediums (1st level magic users).  They have high dexterity, which gives them a +1 bonus to armor class. Each is armed with a dagger. The first has a magic missile spell, the other has a sleep spell.
+
+These magic users are insane. They speak softly and appear to be gentle, but they have murder on their minds. They approach the party with seeming friendliness, but if they get close enough, they try to bury their daggers in someone's ribs. They use spells only after melee has begun. Their morale is 12 because of their insanity, so they fight to the death.
+
+Each of the mediums carries a gem worth 20 gp. The laboratory equipment is worth 50 gp to a magic user.
+
+3. UNFINISHED ROOM
+
+NOTE: If any party member listens at this door, a low humming sound is heard.
+
+This room is 80 feet wide, but only about 10 feet deep. The north wall is unfinished and honeycombed with natural-looking holes and indentations. The floor has several coins scattered about. You hear a faint humming sound.
+
+The holes and indentations in the north wall are the nests of four robber flies. There are two exit passages that lead to the outside, but they are much too small for any party member to use.
+
+The flies are hiding in their nests when the party enters, and surprise them on a roll of 1-4 on 1d6 unless the party has listened at the door.
+
+There are 10 gp, 50 sp, and 100 cp scattered on the floor.
+
+4. EMPTY ROOM
+
+This room appears to be empty.
+
+The room is empty.
+
+5. TELEPORTATION CHAMBER
+
+NOTE: The key to this room is located in either room 9, 10, 11, 12, or 13—whichever the characters search last—even if the room is otherwise empty. Any attempt to pick the lock fails, regardless of dice roll (make the roll secretly and tell the player the attempt failed).  The door is imbued with a special dispel magic spell that will foil any knock spell cast on it.
+
+The door to this room is securely locked.  There is an ornate keyhole in the door.
+
+Characters can see nothing if they look through the keyhole.
+
+When the characters finally manage to enter the room, they see the following:
+
+The room appears to be empty except for an open corner cabinet in the southeast corner. The shelves of the cabinet are heaped high with treasure—brilliant gems and elaborate pieces of jewelry. Three large sacks on the bottom shelf are overflowing with shiny coins. The cabinet and the area around it seems to be bathed in a pale green glow.
+
+The cabinet is an illusion. Any character who approaches within 10 feet of the cabinet is instantly teleported to room 14. Other characters in the room see the character vanish in a burst of green light.
+
+There is an invisible barrier that extends 10 feet from the northeast corner of the room as long as the cabinet appears to be in the southeast corner. If the invisible barrier is struck, it yields slightly and then returns to its original position.
+
+Rooms 5 and 14 are connected by a special teleportation device. The two “terminals” of the teleporter are the illusory cabinet in room 5 and a coffin (called the “switching coffin’’) in room 14. The direction of the teleporter (from room 5 to 14 or vice versa) is dependent on the location of the cabinet and the switching coffin.
+
+When the illusory cabinet is in the southeast corner of room 5 and the switching coffin is shut, the teleporter operates from room 5 to room 14, The invisible barrier in the northeast corner of the room is operating.
+
+If the switching coffin in room 14 is opened, the teleporter switches directions and operates from room 14 back to room 5. The illusory cabinet in room 5 instantly moves from the southeast to the northeast corner and the invisible barrier stops operating. Any character who steps into the glowing green circle in room 14 (see the description of that room) is instantly teleported back to room 5, and appears to walk out of the illusory cabinet.
+
+Whenever any characters are teleported away from the rest of the party, separate those players from the others. Tell the rest of the group only that the teleported characters have mysteriously vanished. The rest of the group should not know what happened to the vanished characters, or whether they are alive or dead. Keep the group separated until they all end up again in the same room.
+
+See the description of room 14 for more detail.
+
+6. ANTECHAMBER
+
+This room appears to be empty. There is a door on the far wall.
+
+The room is empty.
+
+7. STOREROOM
+
+This room appears to be empty.
+
+In fact, the room contains a gelatinous cube that surprises the party on a roll of 1-4 on 146.  Inside the cube are 72 sp and a dagger +1.
+
+8. STOREROOM
+
+This room appears to be empty.
+
+The room is empty.
+
+9. EXCAVATION
+
+The ground in this area is covered with rubble from excavation work. Quite a few shiny coins are visible throughout the rubble.
+
+If the party spends one turn gathering coins, they find 400 sp and 100 gp. If the party spends two or more turns, they find 600 sp and 150 gp.
+
+There is a 1 in 6 chance the first turn, a 2 in 6 chance the second turn, a 3 in 6 chance the third turn, and so on, as long as the party is searching the room, that the berserkers from room 10 discover the party and attack.
+
+10. CAVERN
+
+NOTE: The following description is what the characters see from room 9.
+
+There seems to be a feeble light coming from the westernmost of the three openings in the south wall.
+
+This is the lair of four berserkers. Three are armed with shortswords. One, the leader, is armed with a sword +1, +2 vs. undead (D 2-9).
+
+This area is dimly lit by a single torch stuck into the west wall. There are 7,000 cp scattered on the floor here.
+
+11. CAVERN
+
+The floor here is covered with rubble.  Except for a large, poorly defined shape near the south wall, the area appears to be empty.
+
+The shape near the south wall is a chest, latched but not locked. It is trapped with three spring darts that fire at anyone who opens it unless the trap is successfully deactivated or other precautions are taken. The darts (D 1-4 each) hit as if they were fired by a 4 HD monster. Roll separately for each dart.  The chest contains 700 sp and 100 gp.
+
+12. CONSTRUCTION
+
+This area appears to be empty.
+
+The area is empty.
+
+13. CAVERN
+
+A long, narrow passageway opens up into a rough-hewn chamber in the rock. Three humanoid figures are near the far wall.
+
+The humanoids look exactly like hobgoblins, but are actually thouls.
+
+The northeast corner of this chamber holds two large sacks. One sack contains 500 ep. The second contains 500 ep and four gems worth 100 gp (x2) and 50 gp (x2), respectively.
+
+14. TOMB
+
+This rectangular chamber contains ten stone sarcophagi with ornately carved lids.  Each is about seven feet long and four feet wide. There are no doors, windows, of visible exits from the room. A decorated circle is inscribed on the floor.
+
+The coffins themselves are far too heavy to be moved. The stone lids can be slid aside only by a group of characters whose strength scores total 29 or higher. A character attempting to slide a stone lid must use both hands, and so must put down weapons and shields.
+
+The contents of the coffins are as follows:
+
+Coffin 1 or 10 (whichever the party opens first): This coffin is the switching coffin that changes the direction of the teleporter. When the lid is removed, there is a flash of light and the floor within the inscribed circle (see map) glows a pale green for about 30 seconds, then fades. Back in room 5, the illusory cabinet moves from the southeast corner of the room to the northeast corner. The coffin is empty.
+Coffin 1 or 10 (whichever the party opens last): The coffin contains 1,000 sp.
+
+Coffin 2: The coffin contains 1,200 sp.
+Coffin 3: The coffin contains a wight, which attacks immediately. It surprises on a roll of 13 on 1d6. The coffin also contains 200 pp.
+Coffin 4: The coffin contains 1,000 sp.
+Coffin 5: This coffin is trapped with a special spray that affects metal as if a rust monster. All non-magical weapons and armor are affected unless the player makes a saving throw vs.  Death Ray. Magical armor and weapons and precious metals (silver, gold, or platinum) are not affected. The spray affects all metal in a 5 ft. radius. The coffin also contains 300 gp.
+Coffin 6: The coffin contains 1,000 ep.
+Coffin 7: A treasure map showing the location of the treasure in room 1, a scroll of floating disc, and the piece of paper (see below) with the instructions for escaping the dungeon level. The floating disc spell can carry most of the coins found in this room. It will go through the teleporter circle with its owner.
+Coffin 8: The coffin contains a wight, which attacks immediately. It surprises on a roll of 13 on 1d6. The coffin also contains two bracelets worth 300 gp and 500 gp, respectively, and 5 gems worth 100 gp (x3) and 50 gp (x2), respectively.
+Coffin 9: The coffin contains 1,100 sp.
+
+15. ESCAPE TUNNEL
+
+Copy the scroll that tells the characters how to escape the level, and give it to the players when they discover the scroll in the coffin.
+
+The magic words “OWAH TAGOO SIAM” are pronounced “Oh, what a goose I am.” The phrase must be pronounced correctly for the magic to work.
+
+Whenever any character in the corridor outside rooms 4 and 5 chants those words, the ten foot section of the east wall of the east corridor marked on the map disappears, revealing the exit corridor. The wall returns after two turns have passed, but disappears again whenever the magic phrase is said.
+
+The corridor leads to a door to the outside.  The door is not locked. Brush and scrub covers the doorway, but once the characters clear it away, they are able to look up and see the castle above them. There is a faint path around the outside of the castle, but the area to the cast is heavily forested.
+
+Whenever the characters return to town during the adventure, they will have time to rest, heal and so on. The players should not be put under too much time pressure to complete the project quickly; they should be allowed to move at their own pace unless the action has slowed to the point of boredom. As long as everyone is having fun, the other opportunities from the Threshold section will remain become available.
+
+If the unpursued adventures must be delayed or made unavailable for a short time and you wish to maintain the illusion of campaign time passing, NPC parties can try and fail. For example, a party investigating the renegade cleric might leave with loud fanfare, then turn up missing a few weeks later. Likewise, the local thieves’ guild might steal Sindar’s package and later sell it back to him after several days or weeks of negotiation.
+
+However, if the players abandon the castle adventure on a whim for an extended period of time, Clifton will complain about their breaking the agreement, and this word will spread— much to the player characters’ woe! For example, others who might hire them will need much convincing (let the players do their own fast talking). Another variation is that Clifton might hire an NPC party (which shortly starts bringing out big treasures). Such gentle hints are a timehonored tradition of good judging, and should only be used when players who should know better start getting sloppy.
+
+When the Castle is Cleared
+
+When Caldwell’s Castle is finally cleared, word of the characters’ exploits will spread all over town. Play up the Hero angle for the benefit of the players (small children approach on the street and ask if its true they fought a lich...etc.) This will lead directly into the Hall of Rock adventure, if the players are interested. The merchant Hakeem will approach them as outlined in the introduction to that adventure on page 14.
+
+If the players refuse Hakeem’s offer, the other rumors from Threshold (p.5) are still available. In addition, the following rumors can be learned:
+
+1. The Black Eagle border raids must be getting worse. A mysterious messenger from there arrived in Specularum last week.
+
+2. A small hamlet only a day's ride to the east was overrun by hobgoblins several days ago. Everyone was killed.
+
+3. The frost giants in the Altan Tepe Mountains have been too quiet. Reinforcements are being sent to Castellan Keep.

@@ -1,0 +1,436 @@
+
+DUNGEONS & DRAGONS
+
+Official Game Adventure
+
+IN SEARCH OF ADVENTCRE
+
+The best of the B-series modules, presented as an epic adventure series set in the Grand Duchy of Karameikos Setting
+
+DUNGEONS & DRAGONS, D&D, PRODUCTS OF YOUR IMAGINATION, and the TSR logo are trademarks owned by TSR, Inc.
+
+THE LOST CITY
+
+Wandering Monster Table: Level 1
+
+Wandering
+Monster No AC HD hp #AT Damage Move
+
+Centipede, Giant 3 9 M2 poison 20°
+Giant Locust 5 4 2 1-2 or 1-4 20'/60'
+Cynidicean for details see New Monsters
+Cynicicean for details see New Monsters
+Cynidicean for details see New Monsters
+Ferret, Giant 5 TH
+Gnome 5 1+1
+Goblin 6 1-1
+
+Wandering Monster Table: Level 2
+
+Wandering
+Monster No AC HD hp #AT Damage
+
+Bat, Giant 7 6 2 9 1 1-4
+Brotherhood of Gorm 8 5 1
+Cynidicean for details see New Monsters
+Magi of Usamigaras 5 9 1
+Rock Baboon 6 6 2
+Snake, Spitting Cobra 1*
+Warrior Maidens of Madarua 1
+
+Wandering Monster Table: Level 3
+Wandering
+Monster No AC HD hp MV #AT
+
+Beetle, Giant:
+Tiger Beetle 5 3 3+1 14 50°
+idi for details see New Monsters
+for details see New Monsters
+Cynidicean for details see New Monsters
+Giant Ant 4 3 4* 2-12
+
+2 1-4/1-4/2-12
+Rust Monster 1 special
+Thoul 4 1-3/1-3
+
+ 
+DUNGEONS & DRAGONS
+
+Official Game Adventure
+
+IN SEARCH OF ADVENTURE
+
+The Grand Duchy of Karameikos Anthology
+
+ 
+
+ 
+
+ 
+
+Credits
+
+Design Coordinator: Jeff Grubb
+Editing: Jon Pickens
+
+Cover: Keith Parkinson
+Typography: Betty Elmore
+
+Text Keylining: Stephanie Tabat
+Map Keylining: Dennis Kauth
+
+Distributed to the book trade in the United States by Random House Inc., and in Canada by Random House of Canada, Ltd.
+
+Distributed to the toy and hobby trade by regional distributors.
+
+Distributed in the United Kingdom by TSR UK Ltd.
+
+This adventure is protected under the copyright laws of the United States of America. Any reproduction or other unauthorized use of the material contained herein is prohibited without the express written permission of TSR Inc.
+
+TSR, Inc. TSR UK Ltd
+POB 756 The Mill, Rathmore Road
+Lake Geneva, Cambridge CB1 4AD
+WI 53147 United Kingdom
+
+TSR, Inc.
+PROOUCTS OF YOUR IMAGINATION
+
+©1987 TSR Inc. All Rights Reserved. Printed in U.S.A.
+
+ISBN 0-88038-388-7
+
+ 
+
+ 
+
+Table of Contents
+Introduction ............................................................... 3
+Threshold .......................................... 4
+The Adventure Flow Chart ............................................... 6
+Caldwell's Castle ...................... 7
+Interlude A: After Caldwell’s Castle ............................. 13
+The Hall of Rock ............................................................... 14
+Interlude B: After The Hall of Rock ............................. 23
+The Great Scape ................................................................................. 24
+Interlude C: After The Great Escape .............................. 29
+The Elwyn's Sanctuary ............................................................ 30
+Interlude D: After Elwyn’s Sanctuary ............................ 35
+The Caves of Chaos ................................ 36
+The Silver Princess ....................................... 46
+Interlude E: The Silver Princess Prelude .......................... 46
+The Hobgoblin King ......................................... 61
+Interlude F: The Hobgoblin King .......................................... 61
+Rahasia ............................................. 77
+Interlude G: RAfter Rahasia .......................................................... 96
+The Lost City ...................................................... 97
+Interlude H: After The Lost City ........................................... 111
+The Veiled Society ............................................... 112
+Afterword ................................. 123
+New Monsters ................. 124
+Maps and Player Handouts ................................................... 129
+
+9190XXX1501
+
+INTRODUCTION
+
+
+Welcome to the D&D® adventure game world! You have in your hands a compilation of the best of the D&D® adventures, from the earliest days of the game to the present. The whole has been reorganized and re-edited to provide a continuing set of adventures for characters of levels 1-3.
+
+This book is intended as a companion volume to the gazetteer GAZ1, The Grand Duchy of Karameikos. That book covers the affairs of the Duchy in depth, this one provides a series of detailed adventures taking place in that setting. The gazetteer is not required to play these adventures, but its background material is useful for extended campaign play.
+
+Most of the material in this book has been previously published in the B-series of adventure modules. To keep as much of the original material in print as possible, we have created an anthology of connected adventures, much like a collection of short stories. In selecting the material for this anthology, we have tried to gather as many different types of adventures and styles of play as possible. The overall campaign framework herein allows a high degree of player choice and flexibility for the DM, while generally keeping the adventures in order of difficulty.
+
+The early adventures are mostly exploratory in nature, while the last is a challenging adventure of political intrigue, with the characters likely to be working for opposing factions. All of the adventures are designed for 5-8 characters of level 1-3.
+
+The setting of the adventures is the Grand Duchy of Karameikos, a wild land overrun with monsters that is only nominally under the sway of its ruler, Duke Stefan Karameikos.  Towns are few and often isolated by hostile humanoids. Small farms and hamlets dot the countryside, threatened on every side. Only by the efforts of the powerful and heroic few can the Grand Duchy survive, grow, and prosper. It is among this powerful elite that the player characters strive to take their place.
+
+The players’ characters will begin in the small town of Threshold in the northern part of the Duchy. From here they will be able to proceed on any one of several adventures that will take them to the far corners of the Duchy and beyond, to return at last to the capital city of Specularum to prepare for even higher level adventures yet to come.
+
+In order to play the adventures in this book, the players should have suitably low level characters, the D&D® Basic Players Book, pencils, dice, and some graph paper for mapping. The DM should have in addition to these, the D&D® Basic Dungeon Masters Book and, optionally, gazetteer GAZ1.
+
+How to use this book
+
+Turn first to the section containing the Adventure Flow Chart to understand how the adventures fit together. Next, look at the descriptions of the Duchy of Karameikos and the town of Threshold to learn about the world in D&D adventures!
+
+Getting started
+
+Ask your players if they want to spend a session learning about the town or whether they want to adventure immediately. The introduction to the town can wait always wait if the players are anxious to begin play. If the players are ready for an in-depth campaign, tell them as much as the general background information on the duchy as you think they should know, then play out their arrival in town.  Introduce the main NPCs they will meet and show them the general map of Threshold.
+
+If the session will emphasize play over setting, read the selected adventure thoroughly before running it for the players. Note the important monsters, probable routes of travel, and any special traps or challenges the party will have to overcome. Be sure you understand how each piece of the adventure works to make the gaming session fun.
+
+The Dungeon Master's “Adventure Background” explains the purpose of the adventure, and may include secret information about the setting or major NPCs in the adventure. This information is not available to the player characters at the beginning of the adventure, but they may discover some of it during play.
+
+The ‘Players’ Background” gives the information that the player characters are assumed to know before the adventure begins.
+
+Most of the adventure is text that is keyed to a map of the area in which the adventure takes place. The number of the encounter matches the location of the encounter on the maps.  Encounter information that appears in a box can be read aloud to the players at the proper time. This material represents what the characters can see, hear, smell or otherwise detect at the beginning of an encounter. The rest of the encounter information may or may not be revealed by the DM, based on the actions of the player characters. The DM can add more details to the encounter information, as desired: room dimensions, smells, sounds, monster actions if the party does nothing, etc.
+
+Many adventures have a concluding section. This gives the long-term results of the players’ actions and any notes any changes the party actions will have on the setting. This also gives the DM a chance to evaluate the players and make any desired adjustments to the overall balance of the campaign.
+
+The new monsters introduced in these adventures are summarized in a special section just before the map section. They include: the Archer Bush, Chameleon Man, Crone of Chaos, Cynidiceans, Decapus, Wailing Fey, Bone Golem, Haunt, Lava Lizard, Werefox (lycanthrope), Pirhana Bird, Polymar, Sirenflower, Steam Weevil, Vampire Roses, Water Weird, and the Witch Sisters. The section starts on page 124.
+
+When a monster is described in an individual encounter description, its abilities are given in abbreviated form. While the exact statistics chosen and their order vary from adventure to adventure, the general form is:
+
+Name (number appearing): Armor Class; Hit Dice or Class and Level; hit points; Movement per turn (per round); Number of Attacks per round; Damage per attack; Save as Class/Level; Morale; Alignment; Other abilities (where appropriate)
+Spells (listed by level)
+Weapons and equipment
+
+Abbreviations
+
+AC = Armor Class
+HD = Hit Dice
+hp = Hit Points
+MV = Movement
+#AT = Number of Attacks
+D = Damage
+SA = Special Attacks
+Save = Save As
+ML = Morale
+AL = Alignment
+L = Lawful
+N = Neutral
+C = Chaotic
+XP = Experience Points
+F = Fighter
+M = Magic-User
+C = Cleric
+T = Thief
+D = Dwarf
+E = Elf
+H = Halfling
+NM = Normal Man
+Str = Strength
+Int = Intelligence
+Wis = Wisdom
+Dex = Dexterity
+Con = Constitution
+Cha = Charisma
+d = type of die
+cp = copper piece
+sp = silver piece
+ep = electrum piece
+gp = gold piece
+pp = platinum piece
+
+Maps and Handouts
+
+The general maps for Threshold and the Grand Duchy, the adventure maps for all the adventures, and some handouts for the players are combined into a single section at the back of this book. These pages are perforated for easy removal if desired. To remove, fold the page along the perforation, then carefully tear along the perforated edge (tearing against a straightedge, such as a ruler, is even better).  Each adventure lists the page numbers of its maps and handouts.
+
+If the players are mapping during play, you might consider starting their maps for them by indicating their starting location on a blank piece of graph paper.
+
+The Grand Duchy (map 130)
+
+The Duchy of Karameikos came into being when Duke Stefan Karameikos III of the Thyatian Empire traded his ancestral lands for control of a wild border region west of the Empire known as Tralandara. For the last 30 years, he has been trying to develop it into a modern nation. Much wilderness remains.
+
+The population of the country is divided between the Traladaran natives, who form the bulk of the population; Thyatian nobility, who emigrated to the Duchy with the Duke; and small communities of friendly demihumans: dwarves, gnomes, elves, and halflings.  Internal threats include tribes of humanoid monsters-(goblins, hobgoblins, orcs and bugbears) and the rebellious Baron Ludwig von Hendriks, who controls an area of the Duchy known as the Black Eagle Barony.
+
+Other important factions in the Duchy include:
+
+Churches: The Church of Karameikos (25%) is the favored church of the nobility, similar to religious institutions of late medieval times. The Church of Traladara (70%) is the favored church of the natives, similar to religious institutions of early medieval times.  The Cult of Halav (5%) is a fringe group that believes Stefan Karameikos is the reincarnation of an ancient hero who will restore the lost glory of Traladara.
+
+The Order of the Griffon is a military order open to higher level fighters and clerics that supports the Church of Karameikos.
+
+Thieves’ Guilds: Most thieves are independent. The Kingdom of the Thieves is strong in Specularum. It is for neutral thieves, specializing in complex burglaries. The Iron Ring is a secret society of slavers and assassins (mostly chaotics of any class) that is very widespread.
+
+Taxes and Tithes. Four times a year, a 25% tax is levied on everyone in Karameikos by the Duke. Sales taxes run 5% , merchants pay 1% on all valuable cargoes, Clerics are expected to tithe 10% to the church, and many give more.  This may seem harsh, but that is what pays for the military and for developing the Duchy.  The situation is much the same in other parts of the D&D® campaign world.
+
+In the official coinage of Karameikos, a copper piece is a kopec, a silver piece is called a crona, and a gold piece is a royal.
+
+The following are the major points of interest in a campaign in Karameikos:
+
+Towns and Cities. Threshold (pop. 5,000) is the base for early adventures and has its own section. Specularum (50,000) is the capital, and many details of its life and politics appear in the last adventure. Kelvin (20,000) and Luln (5,000) are major population centers, tuled by Baron Desmond Kelvin II and Townmistress Sascia (a high level fighter), respectively. Fort Doom (10,000) is the main population center of the Black Eagle Barony, the only place in Karameikos where slavery is legal. Highforge (6500 gnomes, 1000 dwarves) is a major demihuman community ruled by Dorfus Hilltopper, the GnomeKing. Rifllian (1700, mostly elves) is a trading post where humans and elves meet, run by the elven Chief Trader, Prestelle. The other small towns and villages are fairly typical and unlikely to figure in the adventures in this collection.
+
+Forts: Castellan Keep, Duke’s Road Keep, Radlebb Keep, River Fork Keep, and Rugalov Keep are military posts that guard the borders of the Duchy. Each has a garrison of about 240 men, led by a high (8th) level fighter with lower level officers. About 20% of each garrison can be mounted, and about 20% can take the field with crossbows.
+
+Other places: Koriszegy Keep is haunted and very dangerous. Haven is the location of the Silver Princess adventure.
+
+Threshold
+
+Threshold is a logging community of about 5000, ably ruled by Sherlane Halaran, baron and Patriarch of the Church. The town is large for its population, filled with widely-spaced homes surrounded by vegetable gardens and livestock pens. The map of Threshold appears on page 129. The local points of interest include:
+
+Town Hall. This is a very large building in the center of town, used for confiscated weapon storage, town meetings, public declarations, trials and entertainments.
+
+Fogor Isle. This island is the seamy side of town; it is not patrolled at night. On the north end of the island is the blackened ruin of the Old Mill, burned 15 years ago. The ruin often becomes infested by giant insects and must be cleaned out periodically.
+
+Tarnskeep. Baron Halaran's castle is a small, sturdy fortress, just north of town. It has a curtain wall, four towers and a large manor house.
+
+Dam and Weir. The dam keeps large boats from traveling upriver. The weir can be opened to allow lumber to be floated downstream.
+
+Logging Camp. Most of the logs cut locally are floated downriver to Specularum, where they are used for building, ship construction, and so on.
+
+Ruins. North of Threshold, on the west shore of the lake, are the quiet ruins of an ancient town where no one ventures.
+
+The Adventurer’s Threshold
+
+Town Law. Threshold is usually peaceful, and its citizens want to keep it that way! Within town limits, no weapons other than daggers, swords, and staves may be carried. Other weapons must be turned in and will be kept in the town hall, to be returned when the owner leaves. Wearing armor, while not illegal, will result in repeated questioning of those not obviously arriving or leaving town. No public casting of magic-user spells is allowed, and penalties for causing property damage or injury with magic are severe. The laws are enforced by the town guard, who are mostly first-level fighters; high level support can be brought in if necessary. Most NPC adventuret's mind their manners while in town—few places on this frontier can match the services provided by Threshold!
+
+Entering Town. New arrivals are met by Sergeant Arthol of the town guard, who outlines the local rules and regulations, collects weapons, and issues receipts. Take this opportunity to have the players identify themselves by class and profession, and state in their own words what their business in town is. Directions to local inns, merchants, and other points of interest can be given to the players at this time.
+
+Inns. Threshold has many inns. Rates vary, but private low-level adventurer lodgings average about 10 gp per week, including meals, while sleeping in the common room averages 1 sp per night.
+
+Merchants. Most starting player characters will already have equipment when they enter Threshold. For those who don’t, many individual merchants sell their wares in Threshold, and trade with Specularum is lively.
+
+Items imported into Threshold cost 150200% of the list price, including: metal atmor/weapons, warhorses and other trained animals, oils, exotic cloths, glassware, metal goods (locks, etc.), parchments and inks, wines and ales. Magics, rarely available, are sold by private individuals; there are no magic shops. Merchants usually pay no more than half the value of an item brought in for sale by adventurers if they are interested at all. Ships other than rafts must be ordered in Specularum and brought upriver (these cost far too much much for starting characters to buy).
+
+Thieves’ Guild. Neutral character thieves can join the Thieves’ Guild (part of the Kingdom of Thieves), which offers certain advantages: fairly trouble-free fencing of goods, some expedition backing and other services, for which the thief is expected to turn over 15% of his or her income. Although most of the thieves in Karameikos are independents, character thieves who operate in town without guild consent might run afoul of the guild as well as the town guard.
+
+Training. Although magic-users are rare, at least two or three 7th level teachers should be made available to player character magic-users in Threshold. These NPCs can also serve as expedition backers. Most other class-related special training is available here also.
+
+The Church. The Church provides needed support for adventurers, and is most important as a source of aid when the character are badly wounded or find cursed items. The church can provide a useful control on excess cash or magical items in the campaign, and may occasionally sponsor major expeditions.  Clerical aid for those not in good standing is usually more expensive, when available.
+
+Banking: The standard fee for moneychanging (including exchanging gems or jewelry for coins) is 10%. Funds can be stored without charge if they are left at least one month, otherwise there is a 10% charge. Borrowing more than the most trifling amount (5 gp) requires the starting character to put up an item of at least double value until the loan is repaid.
+
+Additional details on Threshold and life in the Grand Duchy can be found in GAZ1, The Grand Duchy of Karameikos Gazetteer.
+
+Adventuring from Threshold
+
+The following rumors are immediately available to adventurers. Only those indicated will lead to immediate adventures.
+
+1. The merchant Clifton Caldwell has purchased the Old Antilles Castle, five miles west of Threshold. He has posted advertisments in local taverns for “Qualified Eviction Personnel" (CALDWELL'S CASTLE).
+
+2. A renagade cleric named Elwyn has been organizing a large raiding party of orcs three days ride to the east. The Patriarch himself wants it investigated (ELWYN’S SANCTUARY).
+
+3. An elvish merchant named Sindar needs a package delivered to his partner in Selenica, far to the north (RAHASIA).
+
+4. Goblins are raiding along the Black Eagle Barony border. The Baron is suspected.
+
+5. A merchant has been making inquiries about something called “The Rock”.
+
+6. A foreign nobleman who owned a whole fleet of ships was assassinated a week ago in Specularum. The Iron Ring, a secret society of thieves and slavers, is being blamed.
+
+7. Amissing fighter of renown, Rogahn the Fearless, long missing, is believed alive and working for Baron Hendriks.
+
+8. Gnomes are smuggling gems down the river in hollowed logs.
+
+Note: The elvish merchant Sindar has a partner named Arnulf Armbruster in Selenica and is father to the elf maid Merisa (see Rahasia).  Whenever the players follow up this rumor, he will ask the party to deliver a package to Merisa also (a wedding gift for Rahasia). He will make the characters swear to do everything in their power to deliver the packages.
+
+Wilderness Movement
+
+Normally, D&D® Basic adventures take place only in indoor or underground settings and do not deal with long overland journeys. Characters can be transported from adventure to adventure by assuming safe movement (“After three days you arrive at the Caves of Chaos...”), and this is recommended if you are just starting out. The suggestions in this section can be used if you want more detailed wilderness play.
+
+Movement in the Wilderness. The number of miles a character travels per day in the wilderness equals the normal movement rate divided by 5. For example, a character who moves 90' per turn can travel up to 18 miles per day in the wilderness. The movement rate for mounted travel is figured in the same way.  A character on an unencumbered riding horse can ride 48 miles per day (240' divided by 5 equals 48).
+
+Terrain
+Movement is...
+On a good road 3/2 Normal
+Clear, city, trail grasslands Normal
+
+Forest, hills, desert, broken 2/3 Normal
+Mountain, jungle, swamp 1/2 Normal
+
+A party can move through several different types of terrain in a single day if its movement fate is great enough.
+
+Outdoor Scale. The basic measure of wilderness distance is the yard. The dungeon movement rate number for is also used for outdoor movement, but is read as yards instead of feet.  The distance moved in a combat round is also read as yards.
+
+Missile and spell ranges are also read as yards in the wilderness.
+
+The area affected by a spell is not read as yards! Thus, a fireball spell cast in the wilderness would have a range of 240 yards, but still affect an area 40 feet in diameter.
+
+Horse, Riding: AC 7; HD 2; MV 240’ (80’); #AT 2 hooves; D 1-4/1-4; Save F2; ML 7; AL N
+
+A riding horse only fights in self defense or if guided. While guiding a horse’s attack, the mounted character cannot attack or cast spells, but can take other actions (such as changing weapons or drinking a potion). Any character class can ride a horse.
+
+A riding horse can carry 3,000 cn of weight at the normal movement rate, or up to 6,000 cn of weight at half the normal movement rate.
+
+A riding horse costs 75 gp in Specularum, and two to three times as much elsewhere in Karameikos. The cost in Specularum of a saddle and bridle is 25 gp (enc. 300) and saddle bags cost 5 gp (enc. 100). The saddle has a pouch that can hold 200 cn, the saddle bags can hold 800 cn.
+
+
+The Adventure Flow Chart
+
+The Adventure flow chart given on this page is a device that allows the DM to see at a glance where the adventurers are likely to go next, allowing the players to move from one adventure to the next with little difficulty. This book is divided into adventures, each part of an adventure published in the B-series, and interludes, which provide special connecting material that ties the main adventures together.
+
+Each of the adventures given in this book is self-contained. If you have an original module for an adventure that does not appear here in full, you can expand the adventure in this book with material from the longer work with little difficulty.
+
+The interludes deal with the consequences of adventures just completed, set up the next adventure, and suggest additional side adventures and options for the players to pursue. It is thus possible for a party to start down one main path, decide to abandon it, return to Threshold, start down another path, get killed, and start up a new group that adventures from Threshold, without playing the same adventure twice!
+
+While all road lead eventually to Specularum, two options remain open at all times: the party can always arrange to return to Threshold, and the DM can always offer to take the party to the adventure of the Silver Princess via special teleport (as detailed in Interlude E).
+
+Beyond this, there are three main routes.  The first has the players operating west of Threshold. It begins with an elementary dungeon exploration, picks up with short overland expedition, continues to the town of Luln (with a wicked little surprise for the players), then comes back along the Westron Road to Specularum.
+
+The second path sends the characters eastward, primarily in the employ of the Church of Karameikos. They first recover an ancient relic from the evil cleric Elwyn, then attempt to root out an evil temple from the Caves of Chaos far upriver by Castellan Keep. The Silver Princess adventure takes place in a valley far to the east. Finally, the characters are set adrift on one of the central rivers, to float down to Specularum dealing with the Hobgoblin King on the way.
+
+The third branch sends the players northward out of Karameikos, as they aid an elven village along the Duke's Road. Turning eastward at the major trading center of Selenica in the country of Darokin, they will wander the great eastern Alasiyan Desert, discovering the Lost City of Cynidicea. When they have finished adventuring there, they will be flown by a friendly NPC back to Specularum for the finale.
+
+ 
+
+THE ADVENTURE FLOW CHART
+
+ 
+
+THRESHOLD
+
+ 
+
+ 
+
+THE CAVERNS OF QUASQUETON
+
+ 
+
+ 
+
+ 
+
+@ = Interlude
+a
+
+ 
+
+Gata ——— (B) 00.20
+
+i, (p. 4)
+y
+
+ 
+
+CALDWELL'S CASTLE
+(p.7)
+
+ 
+
+(p. 13)
+
+ 
+
+THE HALL OF ROCK
+(p. 14)
+
+ 
+
+ 
+
+THE GREAT ESCAPE
+bh (. 24)
+
+ 
+
+ 
+
+ 
+
+(p. 29)
+
+The party can return to Threshold after any adventure.
+
+
+-——
+
+
+The DM can use Interlude E to start the Silver Princess adventure at any time.
+
+ 
+
+ELWYN’S SANCTUARY
+(p. 30)
+RAHASIA
+(p. 77)
+THE CAVES OF CHAOS
+(p. 36)
+(p. 96)
+THE SILVER PRINCESS.
+(p. 46)
+THE LOST CITY
+(p. 61)
+THE HOBGOBLIN KING
+(p. 61)
+THE VEILED SOCIETY
+(p. 112)
