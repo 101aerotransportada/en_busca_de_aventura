@@ -1,0 +1,468 @@
+CASTILLO CALDWELL
+
+Diseño: Harry Nuckols
+Edición: Michael $. Dobson
+Diseño gráfico: Ruth Hoyer
+Artista de portada: Clyde Caldwell
+Artista interior: Doug Watson
+Cartógrafo: David S. LaForce
+Tipógrafo: Betty Elmore
+
+Notas generales: Este módulo originalmente tenía cinco aventuras cortas, dos de las cuales aparecen aquí y dos de las cuales aparecen más adelante en esta colección. El primero, El claro del castillo de Caldwell y Dungeons of Terror comprenden un único sitio de aventura. Las estadísticas de monstruos se han puesto en una mesa especial al final de la aventura, y los mapas del castillo se pueden encontrar en la sección del mapa al final de este libro. Las aventuras The Great Escape y Elwyn's Sanctuary también aparecieron en el módulo B9, junto con una aventura adicional, The Abduction of Princess Sylvia, que ha sido omitida de esta colección.
+
+Estadísticas de Monstruos ........ cubierta trasera interior
+Mapas del castillo ...................... 132 & 133
+Mapas: The Great Escape ............. 136
+Mapas: Santuario de Elwyn ........ 137, 158
+
+Fondo
+
+Clifton Caldwell, un comerciante local, ha comprado recientemente un pequeño castillo, ubicado a pocos kilómetros de la ciudad. El castillo no había estado ocupado por algún tiempo. Clifton había comprado el castillo a un precio ridículamente alto, ya que siempre había querido tener uno. Pero cuando fue a visitar su nuevo hogar, se dio cuenta de que estaba invadido por monstruos! Tuvo suerte de escapar con su vida.
+
+Ha contratado a un grupo de aventureros (los personajes del jugador) para librar al castillo de sus monstruosos habitantes para que pueda entrar.
+
+NOTAS PARA EL MAESTRO DE LA MAZMORRA
+
+Si lo deseas, puedes jugar a las negociaciones de Clifton con los personajes del jugador para despejar el castillo. Aunque Clifton es rico, es un negociador astuto, e inicialmente ofrece a los personajes 100 piezas de oro cada una, además, por supuesto, a todo el tesoro que encuentran. Si es presionado, aumenta a regañadientes su oferta, pero en ningún caso ofrece más de 250 mo cada uno. Si usted no quiere jugar a la negociación inicial, sólo decirle a los jugadores que su cuota es 100 mo cada uno. La mitad del dinero se da por adelantado; el resto cuando el castillo es despejado.
+
+Los personajes deben tener una amplia oportunidad de comprar suministros y equipos con el dinero que tienen a mano.
+
+Clifton lleva a los personajes al castillo y, si se les pide, los proporciona con un mapa del exterior del castillo (traza el contorno del castillo para los jugadores). Puede colocar encuentros monstruo errantes en el bosque que rodea el castillo si lo desea.
+
+Todas las habitaciones del primer nivel del castillo tienen ventanas, por lo que el grupo no necesitará luz. Las ventanas son demasiado altas para que los monstruos miren hacia fuera, y demasiado altas y estrechas para que el grupo trepa a través. El pasillo está iluminado por tragaluces similares a los que se encuentran en las habitaciones 3, 5, 14 y 18. Las paredes, techos y suelos (excepto la habitación 31) están hechos de piedra. Las puertas están hechas de roble pesado, pero están desbloqueados y abierto fácilmente a menos que se indique lo contrario. Los techos de todas las habitaciones tienen unos 10 pies de altura, a excepción de las cuatro salas de la torre en las esquinas (habitaciones 6, 12, 20 y 26), donde tienen unos 25 pies de altura.
+
+Excepto por los monstruos que viven juntos, los monstruos no forman un grupo; resultan estar usando este castillo de otra maneraabandonado por casualidad. Si uno o más de los monstruos inteligentes pasan a descubrir el partido sin ser detectado, probablemente intentará huir con su vida y tanto tesoro como pueda manejar.
+
+MONSTRUOS ERRANTES
+
+Hay cuatro duendes (hp 4, 5, 3, 6) vagando por los pasillos. Están armados con arcos cortos y dagas. Rodar 1d6 cada vez que el grupo está en el pasillo. En una tirada de 1, aparecen los duendes, que vienen en la esquina más cercana.
+
+Los duendes son cautelosos, pero no necesariamente hostiles. Juega a sus acciones en función de la situación y las acciones del partido.
+
+Los duendes viven con el resto de los duendes en la habitación 2. Llevan 6 me, 7 me, 10 me y 3 me, respectivamente.
+
+La aventura comienza con el grupo de pie fuera de las puertas dobles que conducen al castillo. Las puertas están abiertas, y el columpio se abren fácilmente...
+
+1, COMEDOR ABANDONADO
+
+Esta habitación parece haber sido utilizada una vez como comedor. Hay mesas y bancos repartidos por toda la habitación, muchos girados a sus lados o al revés. Todo está cubierto de telarañas.
+
+La habitación está vacía de monstruos, pero hay un gran saco debajo de una de las mesas. La parte lo encontrará si se toman un turno para registrar la habitación. El saco contiene 500 mpt y tres gemas, una que vale 300 mo y dos por valor de 50 mo cada una. Las gemas no se pueden ver a menos que el contenido del saco se desviera.
+
+2. GUARDIA
+
+Si el grupo escucha en la puerta antes de abrirla, oyen sonidos de una discusión en un lenguaje extraño. Si alguien entiende la lengua duende, se da cuenta de que hay duendes en la habitación discutiendo sobre dividir su tesoro. Cuando el grupo abre la puerta...
+
+Se ven cuatro pequeños humanoides, cada uno armado con una espada corta. Están discutiendo entre sí, evidentemente sobre dos grandes pilas de monedas en el suelo.
+
+La habitación está habitada por cuatro duendes (hp 6, 6, 6, 4) cada uno armado con una espada corta. Un tesoro de 3.000 mc, 4.000 mpt y una joya que vale 50 mo están sentados en el suelo, clasificados aproximadamente en dos pilas. Los duendes lucharán ferozmente para defender su tesoro.
+
+Además del tesoro en el suelo, los duendes llevan 4 me, 7 me, 8 me, y 7 me, respectivamente, en sus bolsillos.
+
+3. DORMITORIO
+
+NOTA: Los comerciantes de las habitaciones 3, 4 y 5 quieren salvar su tesoro y sus vidas. Prefieren tratar con el partido en lugar de pelear. Por ejemplo, podrían estar dispuestos a intercambiar información sobre los otros monstruos en el castillo a cambio de que se les permita salir en paz.
+
+Ves a un hombre armado con una espada corta tumbada en una cama.
+
+La habitación está iluminada por un tragaluz en la esquina noreste de la habitación que deja entrar la luz, pero no la lluvia. El hombre que está acostado en la cama es un comerciante humano armado con una espada corta. Se alía con los comerciantes en las habitaciones 4 y 5. Si está en problemas, golpea en la pared este con el trasero de su espada para llamar a los demás. Del mismo modo, responderá a una señal de la habitación 4 alertando primero al comerciante en la habitación 5 y luego yendo en ayuda de su amigo. Tiene una bolsa grande con 8 mo y 20 mpt en ella.
+
+4. DORMITORIO
+
+Ves a un hombre acostado en una cama. Está armado con un hacha. Hay una puerta en el otro extremo de la habitación. A ambos lados de la puerta hay ventanas en lo alto de la pared.
+
+Consulte la nota de la habitación 3. El hombre acostado en la cama es un comerciante humano armado con un hacha +1.  Se alía con los comerciantes en las habitaciones 3 y 5.  Si está en problemas, libras en el este de la pared oeste para alertar a sus compañeros. Del mismo modo, responderá a una señal de la habitación 3 o 5 alertando primero al otro comerciante y luego yendo en ayuda de su amigo. Tiene una pequeña bolsa con tres gemas (valor de 60 mo, 40 mo y 10 mo) en ella.
+
+5. DORMITORIO
+
+Ves a un hombre acostado en una cama. Está armado con una espada corta.
+
+Consulte la nota de la habitación 3. El hombre que está acostado en la cama es un comerciante humano armado con una espada corta. Se alía con los comerciantes en las habitaciones 4 y 5. Si está en problemas, libras en la pared este para alertar a sus compañeros. Del mismo modo, responderá a una señal de la habitación 4 alertando primero al comerciante en la habitación 3 y luego yendo en ayuda de su amigo. No tiene tesoro.
+
+Esta habitación está iluminada por un tragaluz idéntico al de la habitación 3.
+
+6. SALA TORRE
+
+Se ve una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente alrededor de la pared exterior. Las ventanas se extienden desde aproximadamente la altura de la cintura hasta aproximadamente la altura de la cabeza para un humano normal.  Estos son obviamente puertos a través de los cuales se pueden disparar flechas. La habitación parece estar vacía.
+
+La habitación está vacía.
+
+7. SALA DE UTILIDAD
+
+La pared este de esta habitación tiene una cornisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. La habitación parece estar vacía, excepto por una estatua de un pastor en la esquina noreste.
+
+La estatua está hecha de piedra. Si hay un personaje legal en el grupo cuando entra en la habitación, la estatua dice: "Saludos. ¿Puedo ayudarle?"
+
+La estatua es capaz de responder preguntas sobre el castillo y sus habitantes. Responderá con veracidad a las tres preguntas que le pongan los personajes legítimos una vez al día. No responderá en absoluto a los caracteres de otras alineaciones, y después de que haya respondido a tres preguntas, no responderá en absoluto hasta que hayan pasado 24 horas.  La estatua tiene 100 puntos de impacto. Si es alcanzado por un arma de filo, hay un 15% de probabilidad de que el arma se rompa (5% de probabilidad de armas mágicas). Un arma de borde roto es para siempre inútil.
+
+8. TRASTERO
+
+La pared fundida de esta habitación tiene una repisa a unos siete pies del suelo. Hay dos pequeñas ventanas por encima de la repisa. Excepto por algo de basura en el suelo, la habitación parece estar vacía.
+
+Excepto por la basura en el piso (que no vale la pena), la habitación está vacía.
+
+9. TRASTERO
+
+La pared fundida de esta habitación tiene una repisa a unos siete pies del suelo. Hay dos pequeñas ventanas por encima de la repisa. Excepto por algo de basura en el suelo, la habitación parece estar vacía.
+
+Excepto por la basura en el piso (que no vale la pena), la habitación está vacía.
+
+10. TRASTERO
+
+La pared este de esta habitación tiene una cornisa a unos siete pies del suelo. Hay dos pequeñas ventanas por encima de la repisa. A excepción de dos largas mesas a lo largo de la pared sur, la habitación parece estar vacía. Al entrar en la habitación, se oye el sonido de alas pequeñas.
+
+La repisa de esta habitación se utiliza como área de anidación por tres agitaciones. El sonido que el grupo oye es el sonido de los revuelos volando para atacar. el grupo tiene una oportunidad normal de sorprenderse por los revuelos, pero los revuelos no se pueden sorprender.
+
+Un agitador volador obtiene una bonificación de +2 en su primer "golpe' contra cualquier oponente debido a su velocidad en el aire. Cualquier golpe exitoso por un stitrge significa que el agitación se ha unido a la víctima. Cada ronda después del primer golpe, el agitado automáticamente hace 1-3 puntos de daño (drenaje de sangre) hasta que él o su víctima están muertos. Si la víctima muere, el agitado atacará a otro oponente.
+
+A Stirges le gustan las cosas brillantes. En su repisa hay tres gemas que valen 500 mo, 100 mo, y 50 mo, respectivamente. La repisa se puede alcanzar fácilmente si un carácter de tamaño humano normal se encuentra en una de las mesas.
+
+11. CHAPEL
+
+La pared este de esta habitación tiene una cornisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. Hay un pequeño altar en la pared noroeste diagonal.  Hay varios bancos largos en la habitación. Dos de ellos han sido empujados juntos en la esquina sureste para formar una cama grosera. Una mujer con armadura y una maza se arrodilla en el altar.
+
+La mujer es un acólito (clérigo de 1er nivel) de alineación caótica. Está armada con una maza.  Ella está usando correo de placas y recibe una bonificación de clase de armadura de +1 por alta destreza.  Hay objetos religiosos en el altar, pero ninguno vale más que unas pocas piezas de plata.  Hay un pequeño armario bajo el altar que contiene dos viales, cada uno una poción de curación.  Si los personajes no atacan inmediatamente al acólito, ella se ofrece a guiarlos en adoración. Ella, al igual que los comerciantes en las habitaciones 3, 4 y 5, está ansiosa por evitar luchar contra una gran fiesta.
+
+12. SALA TORRE
+
+Se ve una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente alrededor de la pared exterior. Las ventanas se extienden desde aproximadamente la altura de la cintura hasta aproximadamente la altura de la cabeza para un humano normal.  Estos son obviamente puertos a través de los cuales se pueden disparar flechas. La habitación parece estar vacía.
+
+La habitación está vacía.
+
+13. SALA DE SERVICIOS
+
+La pared norte de esta habitación tiene una repisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. La habitación parece estar vacía.
+
+La habitación está vacía.
+
+14. DORMITORIO
+
+A excepción de una cama desocupada, esta habitación parece estar vacía.
+
+Esta habitación está iluminada por un tragaluz en la esquina suroeste de la habitación que deja entrar la luz, pero no la lluvia. Una araña cangrejo se aferra al techo cuando el grupo entra, y cae sobre un miembro del grupo (elegir al azar), sorprendiendo en una tirada de 1-4 en un 1d6. Si la araña cangrejo hace un golpe exitoso, la víctima recibe daño normal y luego debe hacer un tiro de salvación contra Veneno (a +2 porque el veneno de la araña es débil) o morir.
+
+15. TRASTERO
+
+La pared norte de esta habitación tiene una repisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. Tres hombres yacen en palés cerca de la pared norte. Están armados con espadas. Una bestia que parece un pequeño caballo se para cerca de la pared este. La habitación contiene mucho de lo que parece ser equipo personal y equipo.
+
+Los tres hombres son bandidos (ladrones de primer nivel) que están usando esta habitación como escondite temporal. Los tres hombres están armados con espadas cortas. Un bandido tiene una espada corta maldita 1 que sólo inflige 1-5 puntos de daño (1d6-1, pero nunca menos de 1) y da a su usuario una penalización de - 1 en rollos de golpe.
+
+Los bandidos obviamente han tenido éxito en su oficio. Además de su equipo personal (bedrolls, comida, etc.), tienen seis sacos grandes, cada uno con 500 mpt. También tienen una pequeña caja de madera que contiene seis gemas (valor de 200 mo, 100 mo (x3) y 10 mo (x2), respectivamente), y dos collares de perlas por valor de 400 mo cada uno.
+
+La bestia es una mula que los bandidos guardan en su habitación para que no sea robada.  La mula lucha sólo en su propia defensa, pero es probable que se mete en el camino de cualquier combate en la habitación. Si el grupo debe ganar una pelea con los bandidos, pueden, por supuesto, utilizar la mula para sus propios propósitos.
+
+Los bandidos, como los otros monstruos inteligentes en este castillo, tratarán de escapar con sus vidas y tesoros, en ese orden. Si deben escapar y el grupo toma su tesoro, pueden volver a vengarse, a elección del DM.
+
+16. DORMITORIO
+
+Esta habitación contiene tres pequeños humanoides armados con lanzas. Hay una puerta en el otro extremo de la habitación, flanqueada por pequeñas ventanas en lo alto de la pared.
+
+La puerta conduce al patio (habitación 31).  Los humanoides son kobolds. No tienen tesoro.
+
+Los kobolds no hablan la lengua común, y son muy cautelosos de un gran partido.  Saben lo de los lobos en la habitación 31. Si el grupo ataca, abren la puerta al patio. Los lobos, sin embargo, son tan propensos a atacar a los kobolds como a los PC.
+
+17. TRASTERO
+
+La pared norte de esta habitación tiene una repisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. La habitación parece estar vacía.
+
+La habitación está vacía.
+
+18. DORMITORIO
+
+A excepción de una cama desocupada, esta habitación parece estar vacía.
+
+La habitación está iluminada por un ingenioso tragaluz en la esquina sureste que deja entrar la luz, pero no la lluvia. La habitación está vacía.
+
+19. GUARDIA
+
+La pared norte de esta habitación tiene una repisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. La habitación parece como si hubiera sido un puesto de guardia.  Hay algunas camas, algunas clavijas en las paredes para la ropa, un estante para sostener armas, y una mesa larga con un cajón que una vez podría haber servido como un escritorio. Hay ropa de polilla en la cama, pero la habitación de lo contrario parece estar vacía.
+
+Si el grupo busca en la habitación, encontrará debajo de una de las camas un pequeño saco que contiene 100 mpt y 20 mo.
+
+20. SALA TORRE
+
+Se ve una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente alrededor de la pared exterior. Las ventanas se extienden desde aproximadamente la altura de la cintura hasta aproximadamente la altura de la cabeza para un humano normal.  Estos son obviamente puertos a través de los cuales se pueden disparar flechas. La habitación parece estar vacía.
+
+La habitación está vacía.
+
+21. SALA DE SERVICIOS
+
+La puerta de esta habitación está cerrada con llave y nadie en el grupo no puede abrir la puerta de esta habitación. Si el grupo pregunta a la estatua en la habitación 7 sobre la puerta, dirá: "Mucho peligro, magia extraña y gran tesoro yace detrás de la puerta, pero no se puede abrir por ningún medio como el que posees". Vea la segunda parte de esta aventura para obtener más detalles sobre lo que hay detrás de esta puerta. Por el momento, que sea un misterio irresoluble para que el grupo reflexione.
+
+22. TRASTERO
+
+La pared oeste de esta habitación tiene una cornisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. Excepto por algo de basura en el suelo, la habitación parece estar vacía.
+
+Tan pronto como cualquier personaje entra en la habitación, es atacado por una musaraña gigante. La musaraña gigante "ve" por el sonido, y no se ve afectada por la luz o la falta de ella. La criatura es muy rápida, y automáticamente gana iniciativa en el primer ataque. Recibe una bonificación de +1 en su rollo de iniciativa para cada ronda de combate subsiguiente.  Debido a la ferocidad de su ataque, cualquier víctima de 3er nivel o menos debe hacer un tiro de salvación contra Rayo de la Muerte o huir con miedo.
+
+Si el grupo busca en la habitación después de lidiar con la musaraña, encuentra un agujero en la pared oeste que la musaraña utilizó para entrar y salir del castillo. El agujero no es lo suficientemente grande como para que una criatura de tamaño hombre pase.
+
+No hay ningún tesoro aquí.
+
+23. BIBLIOTECA
+
+La pared oeste de esta habitación tiene una cornisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. Las estanterías bordean las paredes norte y sur; unos cuantos libros de polilla permanecen en ellos.  Dos enormes escarabajos se sientan en la alfombra polvorienta en el medio de la habitación.
+
+Estos son escarabajos de fuego. Han estado comiendo la alfombra, y les encantaría una verdadera comida.  No hay ningún tesoro aquí, pero el grupo podría pensar en eliminar las glándulas brillantes de los escarabajos del fuego para usarlos como fuente de luz.  Las glándulas desprenden luz en un radio de 10 pies, y brillan durante 1-6 días después de que se retiran.
+
+24. PANTRY
+
+La pared oeste de esta habitación tiene una cornisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. Armarios y estantes bordean la pared. En el centro del suelo se encuentra el cuerpo de un duende con un brazo horriblemente hinchado. Servicio de recolección de residuos y sacos viejos están dispersos por el piso.
+
+Uno de los sacos en la esquina suroeste contiene una cobra escupiendo. La cobra ataca sólo si su nido es perturbado. Si la cobra es perturbada, escupe al miembro del partido más cercano, ganando automáticamente la iniciativa en la primera ronda de combate.
+
+No hay ningún tesoro aquí.
+
+25. COCINA
+
+La pared oeste de esta habitación tiene una cornisa a unos siete pies del suelo, con dos pequeñas ventanas por encima de la repisa. La habitación parece ser una cocina. Hay una serie de mesas, una bomba y una estufa vieja. Hay un gran cofre de cuero en el medio de la pared oeste.
+
+El pecho está cerrado y atado con cinturones de cuero, pero no está cerrado. El pecho está atrapado.  Si se abre, una nube de gas venenoso emite, atrapando al personaje que abre el pecho y a cualquier otra persona dentro de cinco pies. Cualquier persona atrapada por la nube debe hacer un tiro de salvación contra Veneno por la mitad de daño o recibir 3-12 (1d10 +2) puntos de daño.
+
+El cofre está vacío, pero vale 50 mo si se vende. Es lo suficientemente grande como para albergar 2.000 monedas.
+
+26. SALA TORRE
+
+Se ve una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente alrededor de la pared exterior. Las ventanas se extienden desde aproximadamente la altura de la cintura hasta aproximadamente la altura de la cabeza para un humano normal.  Estos son obviamente puertos a través de los cuales se pueden disparar flechas. La habitación parece estar vacía.
+
+La habitación está vacía.
+
+27. DORMITORIO
+
+Esta habitación llena de basura contiene una cama vacía con ropa de cama desigual. Parece estar vacío de otra manera. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos siete pies del suelo.
+
+Hay un saco grande debajo de la ropa de cama que contiene 300 mpt y 50 mo.
+
+28. DORMITORIO
+
+Esta habitación llena de basura contiene una cama vacía con ropa de cama desigual. Parece estar vacío de otra manera. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos siete pies del suelo.
+
+La habitación está vacía.
+
+29. DORMITORIO
+
+Esta habitación llena de basura contiene una cama vacía con ropa de cama desigual. Parece estar vacío de otra manera. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos siete pies del suelo.
+
+La habitación está vacía.
+
+30. DORMITORIO
+
+Esta habitación llena de basura contiene una cama vacía con ropa de cama desigual. Parece estar vacío de otra manera. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos siete pies del suelo.
+
+La habitación está vacía.
+
+31. PATIO
+
+NOTA: La siguiente información debe cambiarse si el grupo ya ha encontrado a los lobos en la habitación 16. Si el grupo ya se ha enterado de los lobos (por ejemplo, mirando a través de las ventanas hacia el patio, o preguntando a la estatua en la habitación 7), no pueden sorprenderse aquí.
+
+Ves un patio con césped abierto al cielo.  Seis puertas, incluida la por la que entraste, se alinean las paredes. Hay dos lobos grandes en el centro del patio.
+
+Los lobos habían estado usando la habitación 4 para entrar en el castillo, pero los comerciantes habían prohibido la puerta cuando llegaron hace unos días. Los lobos tienen mucha hambre.
+
+LAS MAZMORRAS DEL TERROR
+
+Esta es la segunda parte de la aventura en el Castillo caldwell. Cuando los personajes borraron el primer nivel del castillo, encontraron una misteriosa habitación cerrada (habitación 21) que no se puede abrir por cualquier medio disponible para el grupo. Clifton Caldwell, preocupado por la habitación cerrada, contrató a un usuario mágico de alto nivel para abrir la puerta.
+
+La habitación detrás de la puerta estaba totalmente vacía, excepto por una trampilla en el suelo. Las ventanas de la habitación habían sido desatados.
+
+La trampilla en el suelo se abrió fácilmente, pero el área de abajo era totalmente oscura. Cuando el usuario mágico lanzó un hechizo de luz a través de la puerta de la trampa, vio una habitación vacía con una abertura que conduce a un pasillo. Ella no estaba dispuesta a explorar más, ni por su cuenta, ni en compañía de un grupo más grande. Por lo tanto, Clifton ha contactado una vez más con los aventureros que despejaron el castillo para hacer frente a las mazmorras abajo...
+
+Notas para el maestro de mazmorras
+
+Esta aventura está diseñada como un seguimiento de la aventura anterior, pero usted puede decidir que un grupo diferente explorar las mazmorras (especialmente si la primera parte no sobrevivió!).  En ese caso, Clifton debe contar a los nuevos aventureros lo que ocurrió en la aventura anterior.
+
+Puedes, si lo deseas, jugar a las negociaciones de Clifton con el partido para esta nueva misión. Afirmando que los aventureros tomaron tanto tesoro en la misión anterior, y que seguramente debe haber más tesoro abajo, ofrece 100 mo cada uno. Si es presionado por más dinero, pide un porcentaje de cualquier tesoro encontrado en la mazmorra.
+
+Si no quieres jugar a las negociaciones, dile a los jugadores que la cuota de esta misión es de 100 mo más tesoro que se encuentra en la mazmorra. La mitad de la cuota se paga por adelantado; el resto cuando la misión tiene éxito.
+
+Los personajes deben tener una amplia oportunidad de comprar suministros y equipos con el dinero que tienen a mano.
+
+Los personajes pueden viajar al castillo y entrar en la habitación 21 sin incidentes, a menos que elija agregar encuentros monstruo errante.  No hay monstruos errantes en el nivel de la mazmorra.
+
+Excepto como se señala en el texto, ninguna de las habitaciones en el nivel de la mazmorra tiene fuentes de luz, por lo que el partido necesitará luz. Los pasillos también están oscuros.
+
+Las paredes y los suelos del nivel de la mazmorra han sido cortados de la roca. Algunas de las habitaciones (incluyendo 2, 3 y 9-13) están obviamente incompletas. Todas las puertas están hechas de roble pesado. Excepto como se señala en el texto, todas las puertas están desbloqueadas y abiertas fácilmente. Los techos son de aproximadamente 10 pies de altura en todo, pero los techos en las áreas inacabadas son irregulares en altura.
+
+Excepto por los monstruos que viven juntos, los monstruos de este nivel no forman un grupo cooperativo. En general, no trabajan juntos contra el partido. Todos los monstruos inteligentes saben cómo salir de este nivel, pero ninguno está dispuesto a decirle al partido cómo irse, incluso por amenaza de muerte o bajo tortura.
+
+Idealmente, el grupo debe primero despejar todas las habitaciones en esta mazmorra, excepto las habitaciones 5 y 14, y luego encontrar la llave que abre la habitación 5.  Si es posible, evita dejar entrar al grupo en esa habitación hasta que se hayan explorado todas las demás áreas de la mazmorra.
+
+Si el grupo debe sufrir mucho daño y parece estar en peligro de no sobrevivir a este nivel, debe colocar varias pociones de curación en una de las habitaciones. Haz esto no más de una vez.
+
+Preparar copias del mapa del tesoro y otros materiales para entregar a los jugadores antes del juego. Lo mejor es copiarlos usando una hoja de papel separada para cada uno.
+
+1, ENTRADA DE DUNGEON
+
+NOTA: El monstruo que está a punto de aparecer es un doppleganger. Elige como su primera víctima al miembro más débil del partido (probablemente un usuario mágico). Elija primero la víctima del doppleganger, luego rellene los espacios en blanco cuando lea en voz alta la copia de abajo.
+
+La habitación parece estar vacía. Cuando el último miembro del partido entra por la trampilla, la puerta se cierra por encima de ti. Al mismo tiempo, un (hombre/mujer) entra en la habitación desde el corredor hacia el norte.  (Está vestido con (robes/armadura/cuero) y se parece bastante (víctima prevista). "Oh, no te preocupes por esa vieja trampilla. Hay una salida al final de este pasillo. ¿Para qué estás aquí abajo?"
+
+Juega el papel del doppleganger con cuidado. Parece que sólo quiere ayudar a el grupo, y en realidad puede luchar junto a ellos contra otros monstruos de mazmorra. Su objetivo es encontrar la oportunidad de "hablar" con su víctima. Podría decirle a su "amigo" que sabe de un tesoro especial que pueden robar juntos, pero se arruinará si los otros miembros del partido se enteran de ello.
+
+Si puede conseguir a su víctima sola, ataca. Si mata a su víctima, cambia su forma a la de su víctima y se une al partido, inventando la mejor excusa que puede para lo que le pasó a la "otra" persona. Incluso podría decir, hablando como la persona que ahora está suplantando, que mató a un doppleganger que trató de hacerse pasar por él. Utilice su mejor juicio y habilidad en el manejo de esto, en caso de que ocurra. El doppleganger entonces trata de conseguir que cada miembro del partido a su vez, y los ataca cuando están solos.
+
+Si el doppleganger debe hacerse pasar por uno de los miembros del partido, hable con el jugador de ese personaje en privado y persuadirlo de que haga el papel del doppleganger sin dejar que ningún otro jugador sepa lo que está pasando.
+
+El doppleganger no tiene ningún tesoro con él, pero sabe que un tesoro de 500 mo está oculto en la pared oeste de esta habitación, cerca de la esquina noroeste. Está cubierto y se parece tanto al resto de la pared que es casi imposible de encontrar sin la ayuda del doppleganger o el mapa del tesoro que los personajes pueden descubrir más tarde. Incluso con conocimiento de dónde está el tesoro, los personajes deben gastar al menos dos turnos cavando en la pared para revelar el tesoro.
+
+La trampilla de arriba es una puerta mágica de un solo sentido. Una vez que el miembro final del partido está dentro, la puerta se cierra, y luego desaparece! Lo hace incluso si se utilizaron medios especiales para apuntalar la puerta abierta. Golpear hechizos, habilidades de ladrón, otras habilidades mágicas u otras habilidades no pueden abrir la puerta de la trampa desde el interior. El grupo debe encontrar la salida secreta de la mazmorra o de lo contrario permanecer para siempre atascado.
+
+La "ruta de escape" del doppleganger no existe. Sabe de la salida secreta, pero no la revelará a el grupo bajo ninguna circunstancia.
+
+2. GUARIDA DE USUARIO MÁGICO
+
+Esta habitación cuenta con una zona de dormitorio con dos palés, un par de sillas y varios otros muebles en la esquina suroeste. Hay un laboratorio crudo a lo largo de la pared norte. Tiene un banco de trabajo con algunas herramientas básicas para hacer experimentos y una variedad de productos químicos comunes.  Hay un débil olor a gas de pantano en el aire.  Algunas velas proporcionan luz. Dos hombres, vestidos con túnicas desiguales, se sientan en el banco.
+
+Los hombres son medios (usuarios mágicos de 1er nivel).  Tienen una alta destreza, lo que les da una bonificación de +1 a la clase de armadura. Cada uno está armado con una daga. El primero tiene un hechizo de misil mágico, el otro tiene un hechizo de sueño.
+
+Estos usuarios mágicos están locos. Hablan en voz baja y parecen ser gentiles, pero tienen un asesinato en sus mentes. Se acercan a el grupo con aparente amabilidad, pero si se acercan lo suficiente, tratan de enterrar sus dagas en las costillas de alguien. Usan hechizos sólo después de que el cuerpo a cuerpo haya comenzado. Su moral es de 12 debido a su locura, por lo que luchan hasta la muerte.
+
+Cada uno de los medios lleva una joya que vale 20 mo. El equipo de laboratorio vale 50 mo para un usuario mágico.
+
+3. SALA INACABADA
+
+NOTA: Si algún miembro del grupo escucha en esta puerta, se oye un zumbido bajo.
+
+Esta habitación tiene 80 pies de ancho, pero sólo unos 10 pies de profundidad. La pared norte está inacabada y con un panal de sol con agujeros y hendiduras de aspecto natural. El suelo tiene varias monedas esparcidas alrededor. Se oye un leve zumbido.
+
+Los agujeros y hendiduras en la pared norte son los nidos de cuatro moscas ladronas. Hay dos pasajes de salida que conducen al exterior, pero son demasiado pequeños para que cualquier miembro del partido lo use.
+
+Las moscas se esconden en sus nidos cuando el grupo entra, y los sorprenden en una tirada de 1-4 en 1d6 a menos que el grupo haya escuchado en la puerta.
+
+Hay 10 mo, 50 mpt y 100 mc esparcidos en el suelo.
+
+4. SALA VACÍA
+
+Esta habitación parece estar vacía.
+
+La habitación está vacía.
+
+5. CÁMARA DE TELETRANSPORTACIÓN
+
+NOTA: La llave de esta habitación se encuentra en las habitaciones 9, 10, 11, 12 o 13, cualquiera que duren los caracteres, incluso si la habitación está vacía. Cualquier intento de elegir el bloqueo falla, independientemente de la tirada de dados (hacer la tirada en secreto y decirle al jugador que el intento falló).  La puerta está impregnada de un hechizo mágico especial de disipación que frustrará cualquier hechizo de golpe lanzado sobre ella.
+
+La puerta de esta habitación está bien cerrada.  Hay una cerradura ornamentado en la puerta.
+
+Los personajes no pueden ver nada si miran a través de la cerradura.
+
+Cuando los personajes finalmente logran entrar en la habitación, ven lo siguiente:
+
+La habitación parece estar vacía, excepto por un armario de esquina abierta en la esquina sureste. Los estantes del gabinete están llenos de tesoros: gemas brillantes y elaboradas piezas de joyería. Tres sacos grandes en el estante inferior están llenos de monedas brillantes. El gabinete y el área alrededor de ella parece estar bañado en un brillo verde pálido.
+
+El armario es una ilusión. Cualquier personaje que se acerque a menos de 10 pies del gabinete es teletransportado instantáneamente a la habitación 14. Otros personajes de la habitación ven al personaje desaparecer en una ráfaga de luz verde.
+
+Hay una barrera invisible que se extiende 10 pies desde la esquina noreste de la habitación, siempre y cuando el gabinete parezca estar en la esquina sureste. Si la barrera invisible es golpeada, cede ligeramente y luego vuelve a su posición original.
+
+Las habitaciones 5 y 14 están conectadas por un dispositivo de teletransporte especial. Las dos "terminales" del teletransportador son el gabinete ilusorio de la habitación 5 y un ataúd (llamado "ataúd de cambio") en la habitación 14. La dirección del teletransportador (de la habitación 5 a la 14 o viceversa) depende de la ubicación del gabinete y del ataúd de conmutación.
+
+Cuando el gabinete ilusorio está en la esquina sureste de la habitación 5 y el ataúd de conmutación está cerrado, el teletransportador opera desde la habitación 5 a la habitación 14, La barrera invisible en la esquina noreste de la habitación está operando.
+
+Si se abre el ataúd de conmutación en la habitación 14, el teletransportador cambia de dirección y opera desde la habitación 14 hasta la habitación 5. El gabinete ilusorio de la sala 5 se mueve instantáneamente desde el sureste hasta la esquina noreste y la barrera invisible deja de funcionar. Cualquier personaje que entre en el círculo verde brillante de la habitación 14 (ver la descripción de esa habitación) se teletransporta instantáneamente de vuelta a la habitación 5, y parece salir del gabinete ilusorio.
+
+Cada vez que los personajes sean teletransportados lejos del resto del grupo, separe a esos jugadores de los demás. Dile al resto del grupo sólo que los personajes teletransportados han desaparecido misteriosamente. El resto del grupo no debe saber qué pasó con los personajes desaparecidos, o si están vivos o muertos. Mantenga el grupo separado hasta que todos terminen de nuevo en la misma habitación.
+
+Consulte la descripción de la habitación 14 para obtener más detalles.
+
+6. ANTECHAMBER
+
+Esta habitación parece estar vacía. Hay una puerta en la pared.
+
+La habitación está vacía.
+
+7. TRASTERO
+
+Esta habitación parece estar vacía.
+
+De hecho, la habitación contiene un cubo gelatinoso que sorprende a el grupo en una tirada de 1-4 en 146.  Dentro del cubo hay 72 mpt y una daga +1.
+
+8. TRASTERO
+
+Esta habitación parece estar vacía.
+
+La habitación está vacía.
+
+9. EXCAVACIÓN
+
+El suelo de esta zona está cubierto de escombros de los trabajos de excavación. Hay bastantes monedas brillantes visibles a lo largo de los escombros.
+
+Si el grupo gasta un turno recogiendo monedas, encuentran 400 mpt y 100 mo. Si el partido pasa dos o más turnos, encuentran 600 mpt y 150 mo.
+
+Hay un 1 en 6 oportunidad el primer turno, un 2 en 6 oportunidad la segunda vuelta, un 3 en 6 oportunidad el tercer turno, y así sucesivamente, siempre y cuando el grupo está buscando en la habitación, que los berserkers de la habitación 10 descubren el grupo y el ataque.
+
+10. CAVERNA
+
+NOTA: La siguiente descripción es lo que los caracteres ven de la habitación 9.
+
+Parece haber una luz débil proveniente de la más occidental de las tres aberturas en la pared sur.
+
+Esta es la guarida de cuatro berserkers. Tres están armados con espadas cortas. Uno, el líder, está armado con una espada +1, +2 contra no-muertos (D 2-9).
+
+Esta zona está tenuemente iluminada por una sola antorcha pegada en la pared oeste. Hay 7.000 mc esparcidos en el suelo aquí.
+
+11. CAVERNA
+
+El piso está cubierto de escombros.  A excepción de una forma grande y mal definida cerca de la pared sur, el área parece estar vacía.
+
+La forma cerca de la pared sur es un pecho, cerrado pero no cerrado. Está atrapado con tres dardos de primavera que disparan a cualquiera que la abra a menos que la trampa se desactive con éxito u se tomen otras precauciones. Los dardos (D 1-4 cada uno) golpean como si fueran disparados por un monstruo de 4 HD. Rodar por separado para cada dardo.  El pecho contiene 700 mpt y 100 mo.
+
+12. CONSTRUCCION
+
+Esta área parece estar vacía.
+
+El área está vacía.
+
+13. CAVERNA
+
+Un pasadizo largo y estrecho se abre a una cámara áspera en la roca. Tres figuras humanoides están cerca de la pared lejana.
+
+Los humanoides se parecen exactamente a los duendes, pero en realidad son thouls.
+
+La esquina noreste de esta cámara tiene dos sacos grandes. Un saco contiene 500 me. El segundo contiene 500 me y cuatro gemas por valor de 100 mo (x2) y 50 mo (x2), respectivamente.
+
+14. TUMBA
+
+Esta cámara rectangular contiene diez sarcófagos de piedra con tapas talladas ornamentadamente.  Cada uno tiene unos siete pies de largo y cuatro pies de ancho. No hay puertas, ventanas, de salidas visibles de la habitación. En el suelo hay un círculo decorado.
+
+Los ataúdes en sí son demasiado pesados para ser movidos. Las tapas de piedra pueden ser deslizadas a un lado sólo por un grupo de personajes cuya fuerza anota un total de 29 o más. Un personaje que intenta deslizar una tapa de piedra debe usar ambas manos, por lo que debe poner las armas y escudos.
+
+El contenido de los ataúdes es el siguiente:
+
+Ataúd 1 o 10 (cualquiera que sea el grupo que se abra primero): Este ataúd es el ataúd de conmutación que cambia la dirección del teletransportador. Cuando se retira la tapa, hay un destello de luz y el suelo dentro del círculo inscrito (ver mapa) brilla un verde pálido durante unos 30 segundos, luego se desvanece. De vuelta en la habitación 5, el gabinete ilusorio se mueve desde la esquina sureste de la habitación a la esquina noreste. El ataúd está vacío.
+Ataúd 1 o 10 (cualquiera que sea la última apertura de el grupo): El ataúd contiene 1.000 mpt.
+
+Ataúd 2: El ataúd contiene 1.200 mpt.
+Ataúd 3: El ataúd contiene un wight, que ataca inmediatamente. Sorprende en una tirada de 13 en 1d6. El ataúd también contiene 200 pp.
+Ataúd 4: El ataúd contiene 1.000 mpt.
+Ataúd 5: Este ataúd está atrapado con un mptray especial que afecta al metal como si fuera un monstruo de óxido. Todas las armas y armaduras no mágicas se ven afectadas a menos que el jugador haga un tiro de salvación vs.  Rayo de la Muerte. La armadura mágica y las armas y los metales preciosos (plata, oro o platino) no se ven afectados. El pulverizador afecta a todo el metal en un radio de 5 pies. El ataúd también contiene 300 mo.
+Ataúd 6: El ataúd contiene 1.000 me.
+Ataúd 7: Un mapa del tesoro que muestra la ubicación del tesoro en la habitación 1, un pergamino de disco flotante y el pedazo de papel (ver más abajo) con las instrucciones para escapar del nivel de la mazmorra. El hechizo de disco flotante puede llevar la mayoría de las monedas que se encuentran en esta habitación. Pasará por el círculo del teletransportador con su propietario.
+Ataúd 8: El ataúd contiene un wight, que ataca inmediatamente. Sorprende en una tirada de 13 en 1d6. El ataúd también contiene dos pulseras por valor de 300 mo y 500 mo, respectivamente, y 5 gemas por valor de 100 mo (x3) y 50 mo (x2), respectivamente.
+Ataúd 9: El ataúd contiene 1.100 mpt.
+
+15. TÚNEL DE ESCAPE
+
+Copia el pergamino que les dice a los personajes cómo escapar del nivel, y dáselo a los jugadores cuando descubran el pergamino en el ataúd.
+
+Las palabras mágicas "OWAH TAGOO SIAM" se pronuncian "Oh, qué ganso soy." La frase debe pronunciarse correctamente para que la magia funcione.
+
+Cada vez que cualquier carácter en el pasillo fuera de las habitaciones 4 y 5 canta esas palabras, la sección de diez pies de la pared este del corredor este marcada en el mapa desaparece, revelando el pasillo de salida. El muro regresa después de que hayan pasado dos turnos, pero desaparece de nuevo cada vez que se dice la frase mágica.
+
+El pasillo conduce a una puerta hacia el exterior.  La puerta no está cerrada. Cepillo y exfoliante cubre la puerta, pero una vez que los personajes la despejen, son capaces de mirar hacia arriba y ver el castillo por encima de ellos. Hay un camino débil alrededor del exterior del castillo, pero el área al yeso está muy boscosa.
+
+Cada vez que los personajes regresen a la ciudad durante la aventura, tendrán tiempo para descansar, sanar, etc. Los jugadores no deben ser sometidos a demasiada presión de tiempo para completar el proyecto rápidamente; se les debe permitir moverse a su propio ritmo a menos que la acción se haya ralentizado hasta el punto del aburrimiento. Mientras todos se diviertan, las otras oportunidades de la sección Umbral permanecerán disponibles.
+
+Si las aventuras no logradas deben retrasarse o no estar disponibles durante un corto período de tiempo y desea mantener la ilusión de que pase el tiempo de campaña, los partidos npC pueden intentar fallar. Por ejemplo, un grupo que investiga al clérigo renegado podría irse con una fanfarria fuerte y luego aparecer desaparecido unas semanas más tarde. Del mismo modo, el gremio de ladrones locales podría robar el paquete de Sindar y luego vendérselo después de varios días o semanas de negociación.
+
+Sin embargo, si los jugadores abandonan la aventura del castillo por un largo período de tiempo, Clifton se quejará de que rompieron el acuerdo, y esta palabra se extenderá, ¡mucho para el aflicción de los personajes del jugador! Por ejemplo, otros que podrían contratarlos necesitarán mucho más convincente (dejar que los jugadores hagan su propia charla rápida). Otra variación es que Clifton podría contratar a un partido NPC (que pronto comienza a sacar grandes tesoros). Tales suaves pistas son una tradición de buen juicio, y sólo se debe utilizar cuando los jugadores que deben saber mejor comienzan a ser descuidados.
+
+Cuando el castillo está despejado
+
+Cuando el Castillo de Caldwell sea finalmente despejado, la noticia de las hazañas de los personajes se extenderá por toda la ciudad. Juega el ángulo de héroe para el beneficio de los jugadores (los niños pequeños se acercan en la calle y preguntan si es cierto que lucharon contra un lich... etc.) Esto llevará directamente a la aventura del Salón del Rock, si los jugadores están interesados. El comerciante Hakeem se acercará a ellos como se describe en la introducción a esa aventura en la página 14.
+
+Si los jugadores rechazan la oferta de Hakeem, los otros rumores de Umbral (p.5) siguen estando disponibles. Además, se pueden aprender los siguientes rumores:
+
+1. Las incursiones fronterizas del águila negra deben estar empeorando. Un misterioso mensajero de allí llegó a mptecularum la semana pasada.
+
+2. Una pequeña aldea de sólo un día de viaje hacia el este fue invadida por duendes hace varios días. Todos fueron asesinados.
+
+3. Los gigantes heladas en las montañas del Tepe de Altan han sido demasiado silenciosos. Se están enviando refuerzos a la Torre Castellana.

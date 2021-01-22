@@ -3,7 +3,7 @@ DUNGEONS & DRAGONS
 
 Official Game Adventure
 
-IN SEARCH OF ADVENTCRE
+IN SEARCH OF ADVENTURE
 
 The best of the B-series modules, presented as an epic adventure series set in the Grand Duchy of Karameikos Setting
 
@@ -269,7 +269,7 @@ Inns. Threshold has many inns. Rates vary, but private low-level adventurer lodg
 
 Merchants. Most starting player characters will already have equipment when they enter Threshold. For those who don’t, many individual merchants sell their wares in Threshold, and trade with Specularum is lively.
 
-Items imported into Threshold cost 150200% of the list price, including: metal atmor/weapons, warhorses and other trained animals, oils, exotic cloths, glassware, metal goods (locks, etc.), parchments and inks, wines and ales. Magics, rarely available, are sold by private individuals; there are no magic shops. Merchants usually pay no more than half the value of an item brought in for sale by adventurers if they are interested at all. Ships other than rafts must be ordered in Specularum and brought upriver (these cost far too much much for starting characters to buy).
+Items imported into Threshold cost 150-200% of the list price, including: metal armor/weapons, warhorses and other trained animals, oils, exotic cloths, glassware, metal goods (locks, etc.), parchments and inks, wines and ales. Magics, rarely available, are sold by private individuals; there are no magic shops. Merchants usually pay no more than half the value of an item brought in for sale by adventurers if they are interested at all. Ships other than rafts must be ordered in Specularum and brought upriver (these cost far too much much for starting characters to buy).
 
 Thieves’ Guild. Neutral character thieves can join the Thieves’ Guild (part of the Kingdom of Thieves), which offers certain advantages: fairly trouble-free fencing of goods, some expedition backing and other services, for which the thief is expected to turn over 15% of his or her income. Although most of the thieves in Karameikos are independents, character thieves who operate in town without guild consent might run afoul of the guild as well as the town guard.
 
