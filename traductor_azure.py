@@ -35,11 +35,29 @@ def traduce_texto(texto):
     # Llamada a Cognitive Services para la traducción.
     request = requests.post(constructed_url, params=params, headers=headers, json=body)
 
-    if args.verbose > 0 or True:
+    traduccion = request.json()[0]["translations"][0]["text"]
+    print(
+        f"Traducción recibida: {len(texto)} bytes enviados, {len(traduccion)} bytes recibidos.",
+        file=sys.stderr,
+    )
+
+    if args.verbose > 0:
         # Muestra el texto original y el traducido.
-        print(f"{args.verbose}\n")
         print(f"Texto original:\n{texto}\n")
-        print(f'Texto traducido:\n{request.json()[0]["translations"][0]["text"]}')
+        print(f"Texto traducido:\n{traduccion}")
+
+    if args.destino:
+        fichero_destino = open(args.destino, "a")
+    else:
+        fichero_destino = open(sys.stdout)
+
+    try:
+        fichero_destino.write(traduccion)
+        fichero_destino.close()
+
+    except (OSError, IOError):
+        print(f"Error al acceder al fichero {args.destino}")
+        sys.exit(1)
 
 
 parser = argparse.ArgumentParser()
@@ -79,25 +97,26 @@ if not endpoint_var_name in os.environ:
 endpoint = os.environ[endpoint_var_name]
 
 if args.origen:
-    fichero_origen = args.origen
+    fichero_origen = open(args.origen, "r")
 else:
-    fichero_origen = sys.stdin
+    fichero_origen = open(sys.stdin)
 
 try:
-    with open(fichero_origen) as f:
-        texto = ""
-        while True:
-            linea = f.readline()
-            texto += linea
+    texto = ""
+    while True:
+        linea = fichero_origen.readline()
+        texto += linea
 
-            if len(texto) > LONGITUD_MAXIMA:
-                traduce_texto(texto)
-                texto = ""
+        if len(texto) > LONGITUD_MAXIMA:
+            traduce_texto(texto)
+            texto = ""
 
-            if linea == "":
-                traduce_texto(texto)
-                break
+        if linea == "":
+            traduce_texto(texto)
+            break
 
 except (OSError, IOError):
-    print(f"Error al acceder al fichero {origen}")
+    print(f"Error al acceder al fichero {args.origen}")
     sys.exit(1)
+
+fichero_origen.close()
