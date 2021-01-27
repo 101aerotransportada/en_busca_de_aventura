@@ -1,0 +1,331 @@
+Índice de contenidos
+Introducción ............................................................... 3
+Umbral .......................................... 4
+El diagrama de flujo de la aventura ............................................... 6
+El castillo de Caldwell ...................... 7
+Interludio A: Después del Castillo de Caldwell ............................. 13
+La Sala de la Roca ............................................................... 14
+Interludio B: Después de la Sala de la Roca ............................. 23
+El Gran Escape ................................................................................. 24
+Interludio C: Después de la Gran Fuga .............................. 29
+El santuario de Elwyn ............................................................ 30
+Interludio D: Después del Santuario de Elwyn ............................ 35
+Las Cuevas del Caos ................................ 36
+La princesa de plata ....................................... 46
+Interludio E: Preludio de la Princesa de Plata .......................... 46
+El Rey Hobgoblin ......................................... 61
+Interludio F: El Rey Hobgoblin .......................................... 61
+Rahasia ............................................. 77
+Interludio G: Después de Rahasia .......................................................... 96
+La ciudad perdida ...................................................... 97
+Interludio H: Después de la ciudad perdida ........................................... 111
+La sociedad velada ............................................... 112
+Epílogo ................................. 123
+Nuevos monstruos ................. 124
+Mapas y folletos para el jugador ................................................... 129
+
+9190XXX1501
+
+INTRODUCCIÓN
+
+
+¡Bienvenido al mundo de las aventuras de D&D®! Tienes en tus manos una recopilación de las mejores aventuras de D&D®, desde los primeros días del juego hasta el presente. El conjunto ha sido reorganizado y reeditado para proporcionar un conjunto continuo de aventuras para personajes de niveles 1 a 3.
+
+Este libro está pensado como un volumen complementario del nomenclátor GAZ1, El Gran Ducado de Karameikos. Ese libro cubre los asuntos del Ducado en profundidad, éste proporciona una serie de aventuras detalladas que tienen lugar en ese escenario. El nomenclátor no es necesario para jugar estas aventuras, pero su material de fondo es útil para el juego de la campaña extendida.
+
+La mayor parte del material de este libro ha sido publicado previamente en la serie B de módulos de aventuras. Para mantener la mayor cantidad posible de material original impreso, hemos creado una antología de aventuras conectadas, como una colección de cuentos. Al seleccionar el material para esta antología, hemos tratado de reunir tantos tipos de aventuras y estilos de juego como sea posible. El marco general de la campaña permite un alto grado de elección por parte del jugador y de flexibilidad para el director de juego, al tiempo que mantiene las aventuras en orden de dificultad.
+
+Las primeras aventuras son principalmente de naturaleza exploratoria, mientras que la última es una desafiante aventura de intriga política, en la que los personajes probablemente trabajen para facciones opuestas. Todas las aventuras están diseñadas para 5-8 personajes de nivel 1-3.
+
+El escenario de las aventuras es el Gran Ducado de Karameikos, una tierra salvaje plagada de monstruos que sólo está nominalmente bajo el dominio de su gobernante, el duque Stefan Karameikos.  Las ciudades son escasas y a menudo están aisladas por humanoides hostiles. Pequeñas granjas y aldeas salpican el campo, amenazadas por todos lados. Sólo gracias a los esfuerzos de unos pocos poderosos y heroicos, el Gran Ducado puede sobrevivir, crecer y prosperar. Es entre esta poderosa élite donde los personajes de los jugadores se esfuerzan por ocupar su lugar.
+
+Los personajes de los jugadores comenzarán en la pequeña ciudad de Umbral, en la parte norte del Ducado. Desde aquí podrán continuar con cualquiera de las diversas aventuras que les llevarán a los rincones más lejanos del Ducado y más allá, para regresar finalmente a la capital de Specularum y prepararse para aventuras de nivel aún más alto que están por venir.
+
+Para jugar las aventuras de este libro, los jugadores deben tener personajes de nivel adecuadamente bajo, el Libro Básico del Jugador de D&D®, lápices, dados y algo de papel cuadriculado para hacer el mapa. El director de juego debe tener, además, el Libro Básico de Dungeon Masters de D&D® y, opcionalmente, el nomenclátor GAZ1.
+
+Cómo utilizar este libro
+
+Dirígete primero a la sección que contiene el Diagrama de Flujo de Aventuras para entender cómo encajan las aventuras. A continuación, consulta las descripciones del Ducado de Karameikos y de la ciudad de Umbral para conocer el mundo de las aventuras de D&D.
+
+Cómo empezar
+
+Pregunta a tus jugadores si quieren pasar una sesión aprendiendo sobre el pueblo o si quieren aventurarse inmediatamente. La introducción a la ciudad puede esperar siempre si los jugadores están ansiosos por empezar a jugar. Si los jugadores están preparados para una campaña en profundidad, cuéntales toda la información general de trasfondo sobre el ducado que creas que deben saber, y luego juega con su llegada a la ciudad.  Presenta a los principales PNJ que conocerán y muéstrales el mapa general de Umbral.
+
+Si la sesión se centra en el juego más que en la ambientación, lee detenidamente la aventura seleccionada antes de presentarla a los jugadores. Anota los monstruos importantes, las probables rutas de viaje y cualquier trampa o desafío especial que el grupo tenga que superar. Asegúrate de que entiendes cómo funciona cada parte de la aventura para que la sesión de juego sea divertida.
+
+El "Trasfondo de la Aventura" del Dungeon Master explica el propósito de la aventura, y puede incluir información secreta sobre el escenario o los PNJs más importantes de la aventura. Esta información no está disponible para los personajes jugadores al principio de la aventura, pero pueden descubrir parte de ella durante el juego.
+
+El "Trasfondo de los jugadores" proporciona la información que se supone que los personajes jugadores conocen antes de que comience la aventura.
+
+La mayor parte de la aventura es texto que se relaciona con un mapa de la zona en la que se desarrolla la aventura. El número del encuentro coincide con la ubicación del mismo en los mapas.  La información del encuentro que aparece en un recuadro puede leerse en voz alta a los jugadores en el momento adecuado. Este material representa lo que los personajes pueden ver, oír, oler o detectar de otra manera al comienzo del encuentro. El resto de la información del encuentro puede o no ser revelada por el DM, basándose en las acciones de los personajes jugadores. El DM puede añadir más detalles a la información del encuentro, si lo desea: dimensiones de la habitación, olores, sonidos, acciones de los monstruos si el grupo no hace nada, etc.
+
+Muchas aventuras tienen una sección de conclusión. En ella se dan los resultados a largo plazo de las acciones de los jugadores y se anotan los cambios que las acciones del grupo tendrán en el escenario. Esto también le da al DM la oportunidad de evaluar a los jugadores y hacer cualquier ajuste deseado en el equilibrio general de la campaña.
+
+Los nuevos monstruos introducidos en estas aventuras se resumen en una sección especial justo antes de la sección del mapa. Incluyen: el Arbusto Arquero, el Hombre Camaleón, la Arpía del Caos, los Cynidiceans, el Decapus, la Fey de los Lamentos, el Golem de Hueso, el Haunt, el Lagarto de Lava, el Werefox (licántropo), el Pájaro Piraña, el Polymar, la Flor de Sirena, el Gorgojo del Vapor, las Rosas Vampiro, la Rareza del Agua y las Hermanas Brujas. La sección comienza en la página 124.
+
+Cuando un monstruo se describe en una descripción de encuentro individual, sus habilidades se dan de forma abreviada. Aunque las estadísticas exactas elegidas y su orden varían de una aventura a otra, la forma general es
+
+Nombre (número que aparece): Clase de Armadura; Dados de Golpe o Clase y Nivel; Puntos de Golpe; Movimiento por turno (por ronda); Número de Ataques por ronda; Daño por ataque; Salvación como Clase/Nivel; Moral; Alineamiento; Otras habilidades (cuando sea apropiado)
+Hechizos (listados por nivel)
+Armas y equipo
+
+Abreviaturas
+
+CA = Clase de Armadura
+HD = Dados de Golpe
+hp = Puntos de Vida
+MV = Movimiento
+#AT = Número de Ataques
+D = Daño
+SA = Ataques Especiales
+Save = Salvar como
+ML = Moral
+AL = Alineamiento
+L = Legítimo
+N = Neutral
+C = Caótico
+XP = Puntos de experiencia
+F = Luchador
+M = Usuario de la magia
+C = Clérigo
+T = Ladrón
+D = Enano
+E = Elfo
+H = Halfling
+NM = Hombre normal
+Str = Fuerza
+Int = Inteligencia
+Wis = Sabiduría
+Dex = Destreza
+Con = Constitución
+Cha = Carisma
+d = tipo de dado
+cp = pieza de cobre
+sp = pieza de plata
+ep = pieza de electrum
+gp = pieza de oro
+pp = pieza de platino
+
+Mapas y folletos
+
+Los mapas generales de Umbral y el Gran Ducado, los mapas de aventura de todas las aventuras y algunos folletos para los jugadores están combinados en una sola sección en la parte posterior de este libro. Estas páginas están perforadas para facilitar su extracción si se desea. Para quitarlas, dobla la página a lo largo de la perforación y luego rómpela con cuidado a lo largo del borde perforado (rasgarla contra un borde recto, como una regla, es aún mejor).  Cada aventura indica los números de página de sus mapas y folletos.
+
+Si los jugadores van a trazar un mapa durante el juego, puedes considerar la posibilidad de empezar sus mapas por ellos indicando su ubicación inicial en un trozo de papel cuadriculado en blanco.
+
+El Gran Ducado (mapa 130)
+
+El Ducado de Karameikos surgió cuando el Duque Stefan Karameikos III del Imperio Tiatiano cambió sus tierras ancestrales por el control de una región fronteriza salvaje al oeste del Imperio conocida como Tralandara. Durante los últimos 30 años, ha intentado convertirla en una nación moderna. Queda mucha naturaleza salvaje.
+
+La población del país se divide entre los nativos de Traladaran, que forman el grueso de la población; la nobleza de Thyatian, que emigró al Ducado con el Duque; y pequeñas comunidades de simpáticos demihumanos: enanos, gnomos, elfos y halflings.  Las amenazas internas incluyen tribus de monstruos humanoides (goblins, hobgoblins, orcos y bugbears) y el rebelde barón Ludwig von Hendriks, que controla una zona del Ducado conocida como la Baronía del Águila Negra.
+
+Otras facciones importantes en el Ducado son
+
+Iglesias: La Iglesia de Karameikos (25%) es la iglesia favorita de la nobleza, similar a las instituciones religiosas de la época medieval tardía. La Iglesia de Traladara (70%) es la iglesia preferida de los nativos, similar a las instituciones religiosas de los primeros tiempos medievales.  El Culto de Halav (5%) es un grupo marginal que cree que Stefan Karameikos es la reencarnación de un antiguo héroe que restaurará la gloria perdida de Traladara.
+
+La Orden del Grifo es una orden militar abierta a luchadores y clérigos de alto nivel que apoya a la Iglesia de Karameikos.
+
+Gremios de ladrones: La mayoría de los ladrones son independientes. El Reino de los Ladrones es fuerte en Specularum. Es para ladrones neutrales, especializados en robos complejos. El Anillo de Hierro es una sociedad secreta de esclavistas y asesinos (en su mayoría caóticos de cualquier clase) que está muy extendida.
+
+Impuestos y diezmos. Cuatro veces al año, el Duque cobra un impuesto del 25% a todos los habitantes de Karameikos. Los impuestos sobre las ventas son de un 5%, los comerciantes pagan un 1% sobre todas las cargas valiosas, los clérigos deben diezmar un 10% a la iglesia, y muchos dan más.  Esto puede parecer duro, pero es lo que paga el ejército y el desarrollo del Ducado.  La situación es muy parecida en otras partes del mundo de campaña de D&D®.
+
+En la moneda oficial de Karameikos, una pieza de cobre es un kopec, una pieza de plata se llama crona y una pieza de oro es un real.
+
+A continuación, los principales puntos de interés en una campaña en Karameikos:
+
+Pueblos y ciudades. Umbral (5.000 habitantes) es la base para las primeras aventuras y tiene su propia sección. Specularum (50.000) es la capital, y muchos detalles de su vida y política aparecen en la última aventura. Kelvin (20.000) y Luln (5.000) son los principales centros de población, gobernados por el Barón Desmond Kelvin II y la Alcaldesa Sascia (una luchadora de alto nivel), respectivamente. Fort Doom (10.000) es el principal centro de población de la Baronía del Águila Negra, el único lugar de Karameikos donde la esclavitud es legal. Highforge (6500 gnomos, 1000 enanos) es una importante comunidad demihumana gobernada por Dorfus Hilltopper, el rey gnomo. Rifllian (1700, mayoritariamente elfos) es un puesto comercial donde se reúnen humanos y elfos, dirigido por el comerciante jefe elfo, Prestelle. Las demás ciudades y pueblos pequeños son bastante típicos y es poco probable que aparezcan en las aventuras de esta colección.
+
+Fuertes: La Fortaleza de Castellan, la Fortaleza del Camino del Duque, la Fortaleza de Radlebb, la Fortaleza de la Bifurcación del Río y la Fortaleza de Rugalov son puestos militares que vigilan las fronteras del Ducado. Cada uno tiene una guarnición de unos 240 hombres, dirigidos por un combatiente de nivel alto (8º) con oficiales de nivel inferior. Alrededor del 20% de cada guarnición puede ir a caballo, y alrededor del 20% puede tomar el campo con ballestas.
+
+Otros lugares: La Fortaleza de Koriszegy está embrujada y es muy peligrosa. El Refugio es la ubicación de la aventura de la Princesa de Plata.
+
+Umbral
+
+Umbral es una comunidad maderera de unos 5000 habitantes, hábilmente gobernada por Sherlane Halaran, barón y patriarca de la Iglesia. La ciudad es grande para su población, llena de casas muy espaciadas rodeadas de huertos y corrales de ganado. El mapa de Umbral aparece en la página 129. Los puntos de interés de la localidad son:
+
+El Ayuntamiento. Es un edificio muy grande en el centro de la ciudad, utilizado para el almacenamiento de armas confiscadas, reuniones de la ciudad, declaraciones públicas, juicios y entretenimientos.
+
+Isla Fogor. Esta isla es el lado sórdido de la ciudad; no está patrullada por la noche. En el extremo norte de la isla se encuentra la ruina ennegrecida del Viejo Molino, quemado hace 15 años. La ruina suele estar infestada de insectos gigantes y debe ser limpiada periódicamente.
+
+Tarnskeep. El castillo del barón Halaran es una pequeña y robusta fortaleza, justo al norte de la ciudad. Tiene una muralla, cuatro torres y una gran casa señorial.
+
+Presa y azud. La presa impide que los grandes barcos viajen río arriba. El dique puede abrirse para permitir que la madera flote río abajo.
+
+Campamento maderero. La mayoría de los troncos que se cortan en la zona se transportan río abajo hasta Specularum, donde se utilizan para la construcción de edificios, barcos, etc.
+
+Ruinas. Al norte de Umbral, en la orilla oeste del lago, se encuentran las tranquilas ruinas de una antigua ciudad donde nadie se aventura.
+
+El Umbral de los Aventureros
+
+Ley del pueblo. Umbral es generalmente pacífica, y sus ciudadanos quieren mantenerla así. Dentro de los límites de la ciudad, no se pueden llevar más armas que dagas, espadas y bastones. Las demás armas deben ser entregadas y se guardarán en el ayuntamiento, para ser devueltas cuando el propietario se marche. Llevar armadura, aunque no es ilegal, dará lugar a repetidos interrogatorios a quienes no lleguen o salgan de la ciudad de forma evidente. No se permite el lanzamiento público de hechizos de usuarios de magia, y las penas por causar daños a la propiedad o lesiones con magia son severas. Las leyes son aplicadas por la guardia de la ciudad, que son en su mayoría luchadores de primer nivel; si es necesario, se puede traer apoyo de alto nivel. La mayoría de los aventureros NPC cuidan sus modales mientras están en la ciudad; ¡pocos lugares en esta frontera pueden igualar los servicios proporcionados por Umbral!
+
+Entrar en la ciudad. Los recién llegados son recibidos por el sargento Arthol de la guardia de la ciudad, que les explica las normas y reglamentos locales, recoge las armas y entrega los recibos. Aprovecha esta oportunidad para que los jugadores se identifiquen por su clase y profesión, y digan con sus propias palabras cuál es su negocio en la ciudad. En este momento se pueden dar indicaciones a los jugadores sobre las posadas locales, los comerciantes y otros puntos de interés.
+
+Posadas. Umbral tiene muchas posadas. Las tarifas varían, pero los alojamientos privados para aventureros de bajo nivel tienen un promedio de 10 gp por semana, incluyendo las comidas, mientras que dormir en la sala común tiene un promedio de 1 sp por noche.
+
+Comerciantes. La mayoría de los personajes iniciales del jugador ya tendrán equipo cuando entren en Umbral. Para aquellos que no lo tengan, muchos comerciantes individuales venden sus mercancías en Umbral, y el comercio con Specularum es animado.
+
+Los artículos importados en Umbral cuestan entre el 150 y el 200% del precio de lista, incluyendo: armaduras/armas de metal, caballos de guerra y otros animales entrenados, aceites, telas exóticas, cristalería, artículos de metal (cerraduras, etc.), pergaminos y tintas, vinos y cervezas. Los objetos mágicos, raramente disponibles, son vendidos por particulares; no hay tiendas de magia. Los mercaderes no suelen pagar más de la mitad del valor de un artículo traído a la venta por los aventureros, si es que les interesa. Los barcos que no sean balsas deben pedirse en Specularum y traerse río arriba (estos cuestan demasiado para que los personajes principiantes los compren).
+
+Gremio de ladrones. Los ladrones de carácter neutro pueden unirse al Gremio de Ladrones (parte del Reino de los Ladrones), que ofrece ciertas ventajas: un cerco de mercancías bastante libre de problemas, cierto apoyo a las expediciones y otros servicios, por los que se espera que el ladrón entregue el 15% de sus ingresos. Aunque la mayoría de los ladrones de Karameikos son independientes, los ladrones de carácter que operan en la ciudad sin el consentimiento del gremio podrían entrar en conflicto con el gremio, así como con la guardia de la ciudad.
+
+Entrenamiento. Aunque los usuarios de magia son raros, al menos dos o tres maestros de 7º nivel deberían estar disponibles para los usuarios de magia de los personajes jugadores en Umbral. Estos PNJs también pueden servir como apoyo a las expediciones. La mayoría de los otros entrenamientos especiales relacionados con las clases también están disponibles aquí.
+
+La Iglesia. La Iglesia proporciona el apoyo necesario a los aventureros, y es más importante como fuente de ayuda cuando el personaje está malherido o encuentra objetos malditos. La iglesia puede proporcionar un control útil sobre el exceso de dinero u objetos mágicos en la campaña, y ocasionalmente puede patrocinar grandes expediciones.  La ayuda clerical para aquellos que no están en buena posición suele ser más cara, cuando está disponible.
+
+Bancos: La tarifa estándar para el cambio de dinero (incluyendo el cambio de gemas o joyas por monedas) es del 10%. Los fondos pueden guardarse sin cargo si se dejan al menos un mes, de lo contrario se cobra un 10%. Pedir prestado más que la cantidad más insignificante (5 gp) requiere que el personaje inicial ponga un objeto de al menos el doble de valor hasta que se devuelva el préstamo.
+
+Se pueden encontrar detalles adicionales sobre Umbral y la vida en el Gran Ducado en GAZ1, El Gran Ducado de Karameikos Gazetteer.
+
+Aventurarse desde Umbral
+
+Los siguientes rumores están inmediatamente disponibles para los aventureros. Sólo los indicados conducirán a aventuras inmediatas.
+
+1. El mercader Clifton Caldwell ha comprado el Viejo Castillo de las Antillas, a cinco millas al oeste de Umbral. Ha puesto anuncios en las tabernas locales para "Personal de desalojo cualificado" (CASTILLO DE CALDWELL).
+
+2. Un clérigo renagado llamado Elwyn ha estado organizando una gran partida de asalto de orcos a tres días de camino hacia el este. El propio Patriarca quiere que se investigue (SANTUARIO DE ELWYN).
+
+3. Un mercader élfico llamado Sindar necesita que se le entregue un paquete a su socio en Selenica, muy al norte (RAHASIA).
+
+4. Los goblins están asaltando la frontera de la Baronía del Águila Negra. Se sospecha del Barón.
+
+5. Un mercader ha estado haciendo averiguaciones sobre algo llamado "La Roca".
+
+6. Un noble extranjero que poseía toda una flota de barcos fue asesinado hace una semana en Specularum. Se culpa al Anillo de Hierro, una sociedad secreta de ladrones y esclavistas.
+
+7. Un luchador de renombre, Rogahn el Intrépido, desaparecido desde hace tiempo, se cree que está vivo y trabaja para el Barón Hendriks.
+
+8. Los gnomos están contrabandeando gemas por el río en troncos huecos.
+
+Nota: El mercader elfo Sindar tiene un socio llamado Arnulf Armbruster en Selenica y es padre de la doncella elfa Merisa (ver Rahasia).  Cuando los jugadores sigan este rumor, pedirá al grupo que entregue también un paquete a Merisa (un regalo de boda para Rahasia). Hará que los personajes juren hacer todo lo que esté en su mano para entregar los paquetes.
+
+Movimiento en el desierto
+
+Normalmente, las aventuras de D&D® Basic tienen lugar sólo en escenarios interiores o subterráneos y no tratan de largos viajes por tierra. Los personajes pueden ser transportados de aventura en aventura asumiendo un movimiento seguro ("Después de tres días llegas a las Cuevas del Caos..."), y esto es recomendable si estás empezando. Las sugerencias de esta sección se pueden utilizar si se desea un juego más detallado en las tierras vírgenes.
+
+Movimiento en las Tierras Salvajes. El número de millas que un personaje viaja por día en las tierras vírgenes es igual a la tasa de movimiento normal dividida por 5. Por ejemplo, un personaje que se mueve 90' por turno puede viajar hasta 18 millas por día en las tierras vírgenes. La velocidad de movimiento para viajar a caballo se calcula de la misma manera.  Un personaje montado en un caballo sin cargas puede recorrer 48 millas por día (240' dividido por 5 es igual a 48).
+
+Terreno
+El movimiento es...
+En un buen camino 3/2 Normal
+Claro, ciudad, pastizales de sendero Normal
+
+Bosque, colinas, desierto, quebrado 2/3 Normal
+Montaña, selva, pantano 1/2 Normal
+
+Un grupo puede moverse a través de diferentes tipos de terreno en un solo día si su suerte de movimiento es lo suficientemente grande.
+
+Escala de terreno. La medida básica de la distancia en exteriores es la yarda. El número de la tasa de movimiento de la mazmorra para también se utiliza para el movimiento en exteriores, pero se lee como yardas en lugar de pies.  La distancia movida en una ronda de combate también se lee como yardas.
+
+Los rangos de misiles y hechizos también se leen como yardas en la naturaleza.
+
+El área afectada por un hechizo no se lee como yardas. Por lo tanto, un hechizo de bola de fuego lanzado en el desierto tendría un alcance de 240 yardas, pero aún así afectaría a un área de 40 pies de diámetro.
+
+Caballo, Montar: AC 7; HD 2; MV 240' (80'); #AT 2 cascos; D 1-4/1-4; Save F2; ML 7; AL N
+
+Un caballo de monta sólo lucha en defensa propia o si es guiado. Mientras guía el ataque de un caballo, el personaje montado no puede atacar ni lanzar hechizos, pero puede realizar otras acciones (como cambiar de arma o beber una poción). Cualquier clase de personaje puede montar un caballo.
+
+Un caballo de montar puede llevar 3.000 cn de peso a la velocidad de movimiento normal, o hasta 6.000 cn de peso a la mitad de la velocidad de movimiento normal.
+
+Un caballo de montar cuesta 75 gp en Specularum, y dos o tres veces más en el resto de Karameikos. El coste en Specularum de una silla de montar y una brida es de 25 gp (enc. 300) y las alforjas cuestan 5 gp (enc. 100). La silla de montar tiene una bolsa que puede contener 200 cn, las alforjas pueden contener 800 cn.
+
+
+El diagrama de flujo de la aventura
+
+El diagrama de flujo de la aventura que aparece en esta página es un dispositivo que permite al DM ver de un vistazo a dónde pueden ir los aventureros a continuación, lo que permite a los jugadores pasar de una aventura a la siguiente con poca dificultad. Este libro está dividido en aventuras, cada una de las cuales forma parte de una aventura publicada en la serie B, y en interludios, que proporcionan material especial de conexión que une las aventuras principales.
+
+Cada una de las aventuras que se ofrecen en este libro es autónoma. Si tienes un módulo original para una aventura que no aparece aquí en su totalidad, puedes ampliar la aventura de este libro con material de la obra más larga sin mucha dificultad.
+
+Los interludios tratan de las consecuencias de las aventuras que acaban de completarse, establecen la siguiente aventura y sugieren aventuras secundarias y opciones adicionales para que los jugadores las lleven a cabo. Así, es posible que un grupo comience por un camino principal, decida abandonarlo, regrese a Umbral, comience por otro camino, sea asesinado y comience un nuevo grupo que se aventure desde Umbral, ¡sin jugar la misma aventura dos veces!
+
+Aunque todos los caminos conducen finalmente a Specularum, hay dos opciones que permanecen abiertas en todo momento: el grupo siempre puede organizar el regreso a Umbral, y el DM siempre puede ofrecer llevar al grupo a la aventura de la Princesa de Plata mediante un teletransporte especial (como se detalla en el Interludio E).
+
+Más allá de esto, hay tres rutas principales.  La primera tiene a los jugadores operando al oeste de Umbral. Comienza con una exploración elemental de mazmorras, continúa con una corta expedición por tierra, sigue hasta la ciudad de Luln (con una pequeña y malvada sorpresa para los jugadores), y luego vuelve por el Camino de Westron hasta Specularum.
+
+El segundo camino envía a los personajes hacia el este, principalmente al servicio de la Iglesia de Karameikos. Primero recuperan una antigua reliquia del malvado clérigo Elwyn, y luego intentan desarraigar un templo maligno de las Cuevas del Caos, río arriba, junto a la Fortaleza de Castellan. La aventura de la Princesa de Plata tiene lugar en un valle lejano al este. Por último, los personajes se encuentran a la deriva en uno de los ríos centrales, para descender a Specularum lidiando con el Rey Hobgoblin en el camino.
+
+La tercera rama envía a los jugadores hacia el norte de Karameikos, mientras ayudan a una aldea de elfos a lo largo del Camino del Duque. Girando hacia el este en el importante centro comercial de Selenica en el país de Darokin, recorrerán el gran desierto oriental de Alasiyan, descubriendo la Ciudad Perdida de Cynidicea. Cuando hayan terminado de aventurarse allí, serán llevados por un PNJ amigo de vuelta a Specularum para el final.
+
+
+
+EL ORGANIGRAMA DE LA AVENTURA
+
+ 
+
+UMBRAL
+
+ 
+
+ 
+
+LAS CAVERNAS DE QUASQUETON
+
+ 
+
+ 
+
+ 
+
+@ = Interludio
+a
+
+ 
+
+Gata --- (B) 00.20
+
+i, (p. 4)
+y
+
+ 
+
+EL CASTILLO DE CALDWELL
+(p.7)
+
+ 
+
+(p. 13)
+
+ 
+
+LA SALA DE LA ROCA
+(p. 14)
+
+ 
+
+ 
+
+LA GRAN HUIDA
+bh (. 24)
+
+ 
+
+ 
+
+ 
+
+(p. 29)
+
+El grupo puede volver a Umbral después de cualquier aventura.
+
+
+-——
+
+
+El DM puede utilizar el Interludio E para iniciar la aventura de la Princesa de Plata en cualquier momento.
+
+ 
+
+EL SANTUARIO DE ELWYN
+(p. 30)
+RAHASIA
+(p. 77)
+LAS CUEVAS DEL CAOS
+(p. 36)
+(p. 96)
+LA PRINCESA DE PLATA
+(p. 46)
+LA CIUDAD PERDIDA
+(p. 61)
+EL REY HOBGOBLIN
+(p. 61)
+LA SOCIEDAD VELADA
+(p. 112)
