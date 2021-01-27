@@ -1,0 +1,417 @@
+THE HALL OF ROCK
+
+Design: Michael Malone
+Editing: Edward G. Sollers
+Cover Art: Larry Elmore
+Interior Art: Doug Watson
+Graphic Design: Ruth Hoyer
+Cartography: David S. “Diesel” LaForce
+
+General Notes: The original adventure, B 8, Journey to the Rock, was a one-round tournament with three different trails to the Rock.  The most direct route has been selected for this collection.
+
+Maps ..................... 134-135
+Player Handout ........... 159
+
+INTRODUCTION
+
+The following is DM information. Please read the adventure thoroughly before trying to run it for the players.
+
+Adventure Background
+
+Thousands of years ago, Tuma was a city of wealth and glory, and its people lived by a code of wisdom, honor, justice, and peace.  This city of Law roused envy and hatred in the hearts of those who followed the ways of Chaos. Many times evil armies attempted to destroy Tuma, but its defenders were always victorious. Finally, the enemies of Tuma used powerful evil sorceries to remove the inhabitants of Tuma to another dimension, where they are still trapped. Over the centuries, Tuma became a forgotten city, the subject of superstition and whispererd legends. Only one man knows its true story — Lirdrium Arkayz.
+
+Arkayz was once part of the ruling council of the city of Tuma. During the final defense of the city, the council decided that two members of the council would go into hiding, so that if the city fell, the two hidden members could continue the fight. Arkayz was one of the two, but he was not allowed to know the identity of the other, so that he could not betray his colleague if captured. The council created a magical talisman which would give the chosen ones the power they neceded to fight evil. The talisman was in two parts that had to be joined for its magic to be used. The talisman was the way the chosen ones would recognize each other, for no impostor would be able to use the magic of the amulet. The amulet also kept the chosen ones from aging.  Arkayz’ half was hidden in the Hall of the Rock.
+
+The enemies of Tuma could not find or destroy the talisman, but they cast a spell that made it impossible for anyone from Tuma to recover it from its hiding place. Arkayz has hired adventurers to get the talisman for him, but all have failed. Although he is a just and honorable man, Arkayz never reveals the nature of the talisman or his own true identity. As far as anyone else is concerned, Arkayz is a wise and eccentric wizard who long ago gave up adventuring to study philosophy and write poetry. If the player characters reach the Hall of The Rock, the magic that prevents Arkayz from entering The Rock will be broken. He can then recover the talisman even if the player characters do not. If the player characters succeed in their mission, Arkayz will at last have a chance to free his people. Once his part of the talisman is recovered, Arkayz will know how to find his hidden colleague, and Arkayz and his colleague will work together to save the people of Tuma. Although the talisman has considerable magical power, its secrets are beyond the reach of the player characters.
+
+STARTING THE ADVENTURE
+
+The player characters begin the adventure in Threshold, which is several hours travel south of the Forest of Carm. When the party decides to visit The Manor, start them at the south edge of the map, at any of the three trails leading into the Forest of Carm. The player characters will not have any encounters on the trail leading to The Manor.
+
+All boxed text in the “Player's Background” and elsewhere in the module is encounter or event description for the players.  Boxed text usually comes before the DM's information for the encounter.
+
+Read the boxed ‘Players’ Background” to the players to start the adventure.
+
+Players’ Background
+
+As you're finishing breakfast at a cheap inn in Threshold, a traveler walks into the common room. In a loud voice he says, “Peace be upon you all! I, Hakeem the merchant, seek worthy friends in search of adventure!”
+
+If anyone decides to talk to Hakeem, he says:
+
+As I passed through Sylvanhome forest on the way here, I stopped at The Manor, a fine palace owned by the wizard Lirdrium Arkayz. His servant Jenlar Temlin paid me to deliver his message here. The wizard needs adventurers to undertake a quest, and he is willing to pay well anyone who answers his call. The letter of his servant explains all. Good day, my friends.” He lays a scroll on your table, then turns to leave.
+
+Tell the player characters that they have heard local people talking about Jenlar Temlin—he has a reputation as a brave, honorable, and trustworthy fighter. Then give them Jenlar Temlin’s letter and Jenlar Temlin’s map. If the characters follow Hakeem out of the inn, they will see him preparing to ride away on a mule.  If they question him further, he says that he believes Jenlar Temlin and Lirdrium Arkayz to be trustworthy, but he knows nothing else about them.
+
+Hakeem the Merchant, normal human: AC 9; HD 1; hp 4; MV 120' (40'); #AT 1; D 1-6; Save NM; ML 6; ALL; XP 5
+
+Hakeem is armed with a short sword, but he is not wearing armor. He carries 35 gp.
+
+If player characters ask others (such as tavern patrons or innkeepers) about Jenlar Temlin or Lirdrium Arkayz, they will be told that both are highly respected. Arkayz is a philosopher, sage, and advisor. The characters can get directions to The Manor from anyone they ask.
+
+THE FOREST
+
+With Jenlar Temlin’s map to guide you, you head for The Manor. Soon you enter the forest, following a narrow trail that leads to the north. Sometimes you catch a fleeting glimpse of a rabbit or squirrel that flees at your approach. However, you see nothing, animal or monster, that could threaten you. The trail seems peaceful and safe. As dusk approaches, the trail opens into a large clearing. A majestic building of white marble stands in the middle of the clearing. The elegant house is not fortified or protected by a defensive wall. An open courtyard decorated with statues of heroic adventurers and fierce monsters surrounds the house. From the descriptions of the villagers, you know at once that this is The Manor of Lirdrium Arkayz—the start of your adventure.
+
+ No one is in sight. If the characters scout clearing, they will find nothing threatening.  When they call out or try to enter, the doors of the house open silently.
+
+THE MANOR
+
+Two fighters answer the door. They say, “We have expected you. Jenlar Temlin is waiting to see you.” They escort you into a lavishly-furnished room with a long table in the middle. A middle-aged man ina red robe sits at the head of the table. He rises when you enter. His hair and long, drooping mustache are red, and his eyes are green. He has the look of a tough, experienced warrior. He says, “I trust you had a safe journey. Evil creatures have learned not to bother us here. Welcome to The Manor. I am Jenlar Temlin. The terms for hiring you are these: If you go to The Rock and bring its secret back, Master Arkayz will pay 300 gold pieces to each of you. You will also be able to keep whatever treasures you find along the way. Master Arkayz only wishes to have the secret of The Rock; he has no need for more wealth. We will provide riding horses for all of you, if you do not already have them. You can start now or rest here overnight and set out in the morning.”
+
+ Jenlar Temlin, Champion (7th Level Fighter): AC 6; F7; hp 42; MV 120’ (40'); #AT 1; D 1d4 (+2 for magic weapon); Save F7; ML 9; ALL; XP 450
+
+Combat Rolls: The “‘to hit’ rolls of a 7th level fighter are given in the D&D Expert game tules. If you do not have these rules, use the “4+ to 5” line on the Basic Game Monsters’ Hit Chart. The saving throws of a 7th level fighter are given in the Basic Game Saving Throw Chart.
+
+Magical Items: dagger +2, ring of protection +1
+
+Other Notes: Jenlar Tenlin is not wearing armor. His AC is due to a +2 dexterity bonus and to his magical ring.
+
+2 Guards (2nd Level Fighters): AC 4; F2; hp 16, 14; MV 60’ (20’); #AT 1; D 1-8; Save F2; ML 8; ALL; XP
+
+If the player characters bargain for a higher price, you can raise the payment. The maximum Jenlar will pay is 500 gp. If they ask to speak to Lirdrium Arkayz direrctly, Jenlar tells them that “Master Arkayz is engaged in some magical experiments that cannot be interrupted.”
+
+Whenever the characters are ready to leave, Jenlar Temlin speaks to them a final time.
+
+I have a warning to give you, one that might help you on your way. Master Arkayz wrote it himself and hopes that you will be wise enough to remember it, and use it when you need it.”
+
+Jenlar Temlin reaches into his robe and brings out a small scroll. He unwinds it, clears his throat and begins to read.  “*Golden dreams can quickly turn to nightmares filled with flames that burn.  Dark clouds may not bring you light, but watch for silver linings bright. Strength is not as strength might look; remember falsely-covered books! Simple treasures won't grow old, and all that glitters is not gold!” Jenlar winds up the scroll and adds, “Legends also say that the secret is in two parts, visible and invisible. Good luck to you all.”
+
+THE FOREST TRAIL
+
+FOREST TRAIL OPTIONAL
+ENCOUNTER TABLE
+
+DAYTIME (roll 1d8)
+Die Roll Optional Encounter
+
+Goblins
+
+Sprites (in forest only)
+Ogre
+
+Boar
+
+Wolf
+
+Elves (in forest only)
+Goblin Hunting Trap
+Rat Pack
+
+DYAVRWNE
+
+Goblins. (244) AC 6; HD 1-1; hp 3 each; MV 90' (30'); #AT 1; D 1d6; Save NM; ML 7; AL C; XP 5 each. Each goblin carries a spear and 2-12 ep. These goblins are a hunting band. If the player characters take prisoners, the goblins will tell them how to recognize and avoid the hunting trap (optional encounter 7).  Sprites. (6) AC 5; HD 1/2*; hp 3 each; MV 180’ (60) flying; #AT 1 spell; D curse; Save E1; ML7; ALN; XP6 each. These playful and curious creatures will try to get the characters to play with them. If the party refuses, the sprites will scold and fly away. If any character plays tag with the sprites for five turns, the sprites will return during the next hostile optional encounter and cast a curse on the party's opponents (—2 on “to hit” and saving throw rolls).
+
+Ogre. (1) AC 5; HD 4+1; hp 19; MV 90’ (30'); #AT 1; D 1d8+2; Save F4; AL C; XP 125. This ogre carries 40 gp. He threatens to attack unless the characters pay 80 gp as a bribe. If they do, he attacks anyway.
+
+Boar. (1-2) AC 7; HD 3; MV 90’ (30'); #AT 1; D 2d4; Save F2; ML 9; AL N; XP 35 each.  These animals will not attack if a character throws food to them and leaves them alone.  Wolf. (1-3) AC 7; HD 2+2; MV 180’ (60); #AT 1; D 1-6; Save Fl; ML 6; AL N; XP 25 each.
+
+Elves. (1d6 +2) AC 6; HD 1*; MV 120’ (40'); #AT 1; D 1-6; Save E1; ML 8; AL N; XP 13.  Spell: charm person. These elves are a patrol that keeps on the watch for bandits or large monsters. Each is armed with a longbow, 20 arrows, and a spear. They all wear leather armor and have a ~1 bonus on their armor class due to high dexterity. The elves have secretly followed the party. If the characters were kind to the sprites, the elves say that the sprites told them about it. They will also give a potion of healing to the party if a character is wounded. Otherwise, treat this as a normal encounter. The elves will reveal themselves and demand to know why the characters are in the forest. If the characters claim to be adventurers seeking to slay evil monsters, the elves will be satisfied. If the party talks to the elves about The Rock, they say that they know nothing about it. The elves will then disappear into the forest. Characters will not be able to follow them.
+
+Goblin Hunting Trap. This is a pit 20’ square and 15’ deep, intended to trap animals not adventurers. Dwarf, elf, and thief characters have an 80% chance to spot this pit; other characters have a 40% chance to spot it. Make the spotting roll even if no one is searching for atrap, because this trap is not hard to find. (If the characters took a goblin prisoner in an earlier encounter, he will tell them how to spot this pit automatically.) If the pit is not spotted, the lead player character automatically falls in and suffers 1d4 points of damage.  Rat Pack. (20) AC 9; HD 1 hit point each; MV 60’ (30'); #AT 1; D 1-6 (no disease); Save NM; AL Neutral; XP 5 per pack). These rats live in a hollow log in the trail. If anyone rides or walks over the log or tries to move it, they will swarm out and attack. Their only treasure is a small gem worth 10 gp.
+
+NIGHTTIME (roll 1d6)
+Die Roll Optional Encounter
+
+Giant Bats
+Giant Rats
+Wolves
+Ogre
+Goblins
+Dire Wolf
+
+AvVRwOne
+
+Giant Bats. (2d4) AC 6; HD 2; MV 30! (10')/ 180' (60'); #AT 1; D 1d4; Save F1; ML 8; ALN; XP 20.
+
+Giant Rats. (2d6) AC 7; HD 1/2; hp 3 each; MV 120’ (40’); #AT 1; D 1-3 (no disease); Save NM; ML 8; AL C: XP 5 each.
+
+Wolves. (1d4 +1) AC 7; HD 2+2; MV 180’ (60'); #AT 1; D 1-6; Save Fl; ML 6; ALN; XP 25 each.
+
+Ogre. AC 5; HD 4+1; hp 19; MV 90! (30'); #AT 1; D by weapon; Save F4; AL C; XP 125. The ogre is wearing a helmet made from the skull and antlers of a large stag.  He carries two giant spears (D 1d6 +2) as well as a club (D 1d4 +2). If possible, he will throw both spears before closing to attack. He carries 52 gp and 5 pp.
+
+Goblins. (244) AC 6; HD 1-1; hp 3 each; MV 90' (30'); #AT 1; D 1d8; Save NM; ML 7 or 9; AL C; XP 5 each. If the characters killed all the goblins in the optional daytime encounter, these goblins are a speciallyorganized band out for revenge (ML 9). If the optional daytime goblin encounter did not take place or if the characters freed any prisoners, these goblins are a wandering bandit gang (ML 7).
+
+Dire Wolf. (1) AC 6; HD 4+1; hp 25; MV 150’ (50'); #AT 1; D 2d4; Save F2; ML 8; XP 125.
+
+Forest Trail Encounters
+
+All encounter descriptions in this section assume that the characters are traveling in daylight. If the characters decide to travel at night, you will have to modify encounter descriptions accordingly.
+
+W1. HARPY CLEARING
+
+The trail is about 20 feet wide. Overhanging trees block out most of the bright blue sky. The sun is still hidden by the tall trees, and only the bright sky lights up the forest.  Rabbits, squirrels, and other small animals run among the trees, bushes and scrub. A few deer show their faces for a moment, then turn and run until their white tails vanish in the thick forest. The trail seems to be opening up just ahead. To your right the line of the forest is moving away to the north. You come to a clearing with bright green grass and some patches of fragrant wild roses. Suddenly, you hear singing, soft, fair voices singing to you, calling you to leave the trail and come to them.
+
+All characters must roll a saving throw versus Spells. Those who fail their saving throw will become confused and immediately stop, taking no other action. They have been charmed by the song of four harpies (AC 7; HD 3*; hp 19, 15, 15, 12; #AT 2 claws/1 mace; D 1-4/ 1-4/1-6; MV 60’ (20’)/fly 150’ (50'); Save F6; ML 7; AL Chaotic; XP 50 each) hidden in the tall trees of the Sylvanhome. Characters making a successful saving throw will not have to roll any further saving throws against the continued singing. The harpies will charge into the clearing and attack even if no one has been charmed. Harpies will ignore any charmed characters and attack the others first. They will still be singing even as they attack. Charmed characters will try to prevent others from attacking the harpies but charmed characters will not attack other player characters. The first harpy to attack will be the one with the most hit points. She drank a potion of growth before attacking. The potion doubled her size, and doubles the damage done by her attacks. Her hit points are not doubled. As she attacks she screams, “I am mighty Helgarth, queen of harpies! Who dares to attack the Wings of Death?” Helgarth wears a tiara worth 200 gp. The other harpies have no treasure.
+
+Any character who searches the clearing for clues or further dangers will find a trail on the north side of the clearing that leads to encounter W2.
+
+W2. LAIR OF THE HARPIES
+
+As you search the clearing, you find a narrow trail leading north out of the clearing, in the direction from which the harpies came. This trail is narrow, about 5 feet wide, and is overgrown with weeds and brambles.
+
+Some time ago, the harpies ordered their charmed victims to build a lair for them and cut a narrow trail from this clearing to the monsters’ lair. The harpies themselves seldom used this trail, since they are able to fly. The trail makes it easier to get to get the harpies’ victims back to the lair. Characters will have to go in single file on the trail. Those with horses will have to lead them by the bridle. A player character will not be able to take an unbarded horse along this trail, as the thorns and brambles would injure the horse.
+
+The trail is tough going. Several times, fighters must use their weapons to clear the trail ahead. After twenty minutes of travel, the trail opens out slightly. Blood, feathers, and a broken mace lie on the trail.
+
+The characters will find the harpies’ latest victim in the lair. Twenty minutes after the characters find the signs of battle, the trail opens up again.
+
+One mile from the trail, an irregular clearing 80’ in diameter has been cut and burned into the forest. Broken saplings and charred logs litter the ground. A cave about 40’ square stands in the middle of the clearing, 20' away from you. The cave is built of boulders heaped around the overhang of a rocky outcropping. As you study this ugly scene, you realize that you no longer hear the sounds of small forest creatures that were so common elsewhere in the forest. Here, all is silence.
+
+The cave entrance is 10’ wide and is on the west side of the cave. The interior of the cave is dark. Anyone who approaches within five feet of the entrance will smell a foul stench from the filth and rottenness within the cave. Anyone who looks inside with infravision or normal light will see three small creatures inside the cave.
+
+Filth, garbage, and gnawed bones are strewn about the cave. Three newborn harpies live amid this squalor. When they see you, the ugly creatures utter shrill cries and hop toward you, feebly flapping their tiny wings.
+
+The little harpies (AC 9; HD 1/2; hp 1 each; MV 15’ (5'); #AT 0; D None; Save NM; ML 7; AL Chaotic; XP 5) cannot harm anyone. However, they have all the evil instincts of an adult harpy.
+
+A dead cleric lies in the back of the cave.  His backpack contains three vials of holy water and a scroll with a cure light wounds spell.
+
+The cave contains 80 gp, 700 ep, 400 sp, and 2 50 gp gems.
+
+The characters should now return to the trail. This side trip to the harpy lair took forty minutes to travel a distance of one mile. The difficulty of traveling in untracked wilderness should be apparent to them.
+
+W3. GNOMES IN THE WILDERNESS
+
+The horses seem to hear it first, stopping and turning their ears to the wind. Gradually your ears pick it up, too—singing! At first the sound is hard to identify, distant and faint. Soon you can pick out snatches of melody, the sound of many voices singing what seems to be a work song. As the singing grows stronger, you can barely make out...something big...being pulled along the trail by a team of several dozen humanoids.
+
+At this point, ask the players what their characters are doing: standing in the trail and peering at the strange object, pressing on toward the mountains, or trying to conceal themselves somehow. If the characters stick around to find out what the object is, read the following description:
+
+ 
+
+As the object draws closer, it begins to take shape. It’s a large, flat-bottomed wooden hull with a single mast, hitched to a double rope harness and being pulled by several dozen small humanoids. A dozen or so more humanoids are picking up round logs from the rear of the ship and carrying them as quickly as they can to the front of the ship, where they drop the logs in the ship's path to serve as rollers. Even so, the weight of the ship pushes the logs into the soft earth, and the pullers are straining with all their might against the obstinate bulk.  Standing atop the foredeck is a small humanoid with a beard almost as long as he is tall. He is shouting through a megaphone, exhorting his workers to pull harder and sing louder.
+
+The person on board the ship is Robern Sternslate, known to his friends as ‘Stubborn Rob” and to his detractors as ‘Rob the Rube.” (AC 5; HD 2; hp 11; MV 60’ (20’); #AT 1; D 1-4; Save D1; ML 10; AL L; XP 10). Robern is armed with a belaying pin (treat as club).
+
+Robern and his companions are gnomes, but they are a long way from home. As soon as the ship is within shouting distance of the characters (assuming the characters are out in the open), Robern hollers at the gnomes pulling the ship to stop and take a rest. From the foredeck he hollers down to the party, ‘Ahoy there! This be the Motherlode Rover! Ye wouldn't by any chance know where I could find an ocean round these parts, would ye?  I've come a long way, and have yet to run across one!”
+
+If the characters respond in a friendly manner, Robern has his bosun (asleep on the deck) pipe them aboard. The bosun blows a few shrill notes on a whistle and tosses a rope ladder over the side of the ship.
+
+Robern and his crew are, in fact, searching for an ocean. Their trek began when a wandering merchant stopped by the clan stronghold and sold Robern a book about shipbuilding and ocean navigation. Being unnaturally adventurous (for a gnome), Robern decided the ocean was something worth secing. A group of gnomes from the clan bet him that he couldn’t even find his way to an ocean, much less sail on it. Never one to back down from a challenge, Robern gathered as many trusted friends as he could, built his ramshackle ship (sort of a cross between a longboat and a barge), and set out in search of the ocean. It’s been several months since he left the clan stronghold, and he has no idea where to look for an ocean, but he isn’t about to turn
+back in disgrace.
+
+In telling his story, Robern stresses the bravery and determination of his crew. He desperately needs directions to an ocean (any large body of water will do!), but he can’t come right out and ask for help without admitting that he’s lost. This puts Robern in a somewhat awkward position. He presses the characters for “‘news of the ocean” or any nautical charts they might be willing to sell.
+
+Besides directions, Robern is interested in expanding his crew. Quite a few of his original supporters have deserted the expedition, leaving him shorthanded. A few drunks and loiterers have been hired along the way, but Robern really wants to buy some draft animals. He offers the characters 60 gp apiece for their horses; not as much as they could get ina town, but a fair offer.
+
+The ship is loaded with food and water.  Robern and his crew have been pulling the ship for several days.
+
+Robern has 40 gnomes in his crew (AC 5; HD 1; hp 3; MV 60' (20'); #AT 1; D 1-6; Save D1; ML 10; ALL; XP 10. Each crewman has a boarding pike (treat as spear) but only 10 are armed at any one time. The rest are working the rollers that keep the ship moving.
+
+W4. THE CHAMELEON MEN
+
+ 
+
+The trees of the Western Bough rise up on your right, tall and beautiful. Likewise, Rendwood on your left is filled with color: red and yellow leaves, brown tree trunks covered with green moss, the blue of wildflowers, deep black shadows. After 3 1/2 miles, the Western Bough forest rolls away to the north; one half mile away, across a flat plain, stand tall mountains with snow-capped peaks shining in the sun. Your trail turns south and west, following the edge of Rendwood and heading for a narrow strip of flatland between the woods and the mountains. You travel for another mile when, suddenly, 10 strange looking humanoid creatures clamber clumsily out of the brush ahead of you.  With awkward swiftness they form a line across the trail, blocking your path. They look like living rainbows, their tall and thin bodies striped with red, blue, green, orange, yellow, brown, black and white.  Those closer to the trees of Rendwood are harder to see; they seem to blend right in with the forest. They wear loincloths, and carry long daggers. Each has a very small sack tied to his waist. One of the creatures holds up his broad hand. In halting Common, he says in a rasping voice, ‘This place is ours. Strangers pass only by leave of the Lord of Shade. Surrender your weapons and come with us. You cannot escape the judgment of the Omnerubesk.”
+
+ 
+
+The thin, awkward humanoids are chameleon men (AC 9; HD 2; hp 11, 11, 10, 9, 9, 9, 9, 8, 7, 6; #AT 1; D 1-4; MV 120! (40’); Save F2; SA disappearance; SD +2 initiative bonus; AL Neutral; XP 45 each).
+
+The chameleon men will wait for the reaction of the player characters; they will not fight until the characters attack, try to force their way past the roadblock, or try to escape.  If that happens, the chameleon men will display a very unusual power. Five of the chameleon men will suddenly vanish and reappear behind the characters, cutting off any retreat; the other five in front will charge the party, ready to attack. When combat is joined, the attacking chameleon men will vanish and reappear off to the left or right of the character attacked; this “vanishing move” gives the chameleon men +2 on initiative die rolls.  They will use this vanishing move every combat round. There is no chance of chameleon men colliding with characters or with each other.
+
+Throughout the battle, the chameleon men will call on the party to surrender or be killed for trespassing. If a chameleon man is killed, he will fall to the ground like a heap of old tags. When there is only one chameleon man left, he will vanish, but not reappear (unless he is killed before he can escape).
+
+If the bodies of the dead chameleon men are searched after the battle, the characters will find 20 ep, 10 gp, and 2 pp on each.
+
+If the player characters agree to surrender, the chameleon men will disarm them and take them, blindfolded and bound, to the mountain cavern of the chameleon men, encounter W5. If the characters defeat the chameleon men, ignore encounter W5.
+
+W5. THE CAVERN OF THE CHAMELEON MEN
+
+ 
+
+The chameleon men disarm you, and bandage your wounds. All of you are blindfolded, and your hands are bound behind you. You for what seems that a long time, but you cannot tell how long or how far.  When your blindfolds are removed, you see that you are in a cave 60’ long and 30’ wide, with the entrance in the 30' side.  There are two torches, in brackets, on each wall. Daylight shines outside the cave’s entrance. Two chameleon men stand guard within the cave.
+
+The two guards in the cave are named Kanreon and Thronik (AC 9; HD 2; hp 11, 9; #AT 1; D 1-4; MV 120’ (40’); Save F2; SA disappearance; SD +2 on initiative die rolls; ML 7; AL Neutral; XP 45). Two additional chameleon men (hp 9, 7) stand guard outside the cave. Kanreon and Thronik will not be hostile; they will even talk with the party, if any character wishes to talk with them. Allow the characters to speak with Kanreon and Thronik as long as they like. When they are finished, Kanreon leaves and talks to the Omnerubesk for a half-hour. When Kanreon returns, he and Thronik will take the characters into the main cavern to be judged.
+
+The cavern is hundreds of feet wide and at least forty feet high; you cannot tell how long it is. Sunlight streams into the cavern from shafts cleverly cut into the rocky ceiling, and from these slices in the rock the sunlight fills the cavern. You know you are far underground, for the air is chilly, and no wind stirs. Veins of precious metal and gem-bearing ores stripe the walls of the cavern like rocky rainbows. The floor of the cavern is filled with many different kinds of vegetable growth, from mushrooms as tall as houses to rainbow-colored trees that touch the very ceiling of the cavern. A waterfall roars in the distance, and you can catch a glimmer of it as the cleverly directed sunlight dances on its tumbling waters. The inhabitants of the cavern are tilling soil, picking fruit, and running errands—a typical day in the life of the chameleon people.
+
+You are led into a small chamber off the main cavern. In the small chamber, a chameleon man sits on a throne carved from the rock itself. The stripes on his skin are faded with age, and he bears himself with dignity. Twenty armed guards protect him.  He gazes silently at you, and Kanreon introduces him as Lemullar the Omnerubesk, Lord of Shade and Hue.
+
+The Omnerubesk (AC 9; HD 4; hp 21; #AT 1; D unarmed; MV 120' (40’); Save F4; ML9; SA disappearance; SD +2 on initiative die rolls; AL Neutral; XP 90) and his twenty speararmed guards (AC 9; HD 2; hp 9 each; #AT 1; D 1-6; MV 120’ (40'); Save F2; ML 7; SA disappearance; SD +2 on initiative die rolls; AL Neutral; XP 45 each) never speak. Kanreon does all the talking for Lemullar; the Omnerubesk merely nods his head to show approval or disapproval of what is being said by both the characters and Kanreon.
+
+You stand for a few silent seconds in the middle of the cavern. Then Lemullar gestures, and Kanreon speaks. “You were in our territory without the prior approval of the Omnerubesk. This is a crime and an insult against our people. But the Omnerubesk is generous; he offers you a chance to win your freedom. You have two choices: you can either pay a fine for what you have done, or one of you can duel one of our people in single combat.
+
+The chameleon men demand that the party pay 80-180 gp (2d6 +6 x 10) for each chameleon man killed in the previous encounter.  Characters may try to bargain, but the minimum the chameleon men will accept is 70-120 gp (1d6 +6 x 10). If this price is still too high for the characters to pay, the chameleon men will accept one player character as a hostage until the rest of the party gets enough money to pay the fine. All characters except the hostage will be freed. The hostage will be kept as an honored prisoner and will not be mistreated. The hostage will be released when the party returns with enough money to pay the fine.
+
+If the characters are unable or unwilling to pay a fine and unwilling to allow a character to be held prisoner, a character must fight in single combat. Allow them as much time as they need to decide. If they choose combat, Kanreon explains further:
+
+This will be an “‘honor duel,” an old way of settling disputes among our people. The two combatants will fight with duelling clubs that only wound, not kill. You will be allowed to wear armor. No spells or magic are permitted for you. Nor can anyone else interfere in the honor duel. If you defeat our champion, you will be set free. If you lose, one of you will remain as hostage until the others return to pay the fine.  Which one of you will be the champion?
+
+After the characters choose their champion, they will be led out to an arena area 30' square in the main cavern. The arena is guarded by 10 of Lemullar’s guards and is surrounded by spectators. When the chameleon champion (AC 9; HD 2; hp 12; #AT 1; D 1-4; MV 120’ (40'); Save F2; SA disappearance; SD +2 on initiative die rolls; ML 12; AL N) appears, there is a rousing cheer. The player character chosen as champion will be untied, and the two will fight it out. The chameleon champion will use his disappearing powers while the character is allowed armor. The chameleon champion will not surrender. The clubs cause 1d4 points of damage, but are not lethal.  Anyone who is reduced to 0 hit points is unconscious, not killed. An unconscious character will revive in 2d10 minutes, and damage caused by the club will heal at the rate of 1 point per hour.
+
+Whatever the outcome, the chameleon men will take the party back blindfolded and tied up to the place they first met (encounter location W4). If the characters left a hostage behind, the chameleon men will watch daily for the party’s return.
+
+W6. THE STONE BRIDGE
+
+The land on both sides of the trail is hard and rocky. Jagged boulders and sharp stones litter the ground. The trail remains smooth, however, and you have no trouble riding along it. A swift-flowing river crosses your trail, spanned by a bridge made of dull gray stone. An atch made of the same stone stands at the mouth of the bridge. Odd runes are carved into the arch.  The runes are ancient, yet somehow familar. Beyond the bridge the trail leads into a small stand of trees, which blocks your view of the terrain beyond it.
+
+The bridge is guarded by two monsters placed long ago by the magicians of Tuma. Characters can cross the bridge safely only if they perform a simple ceremony known by all the people of Tuma. The arch was built as a warning to all who would try to cross. The characters will have to fight the guardians unless they decipher the runes and guess what they must do.
+
+The inscription is in an ancient form of the common language. A character who casts a read languages spell can automatically read the runes. However, it is possible to read the runes without using magic. If a character tries to read the runes without using a spell, roll 3d6 and subtract 1. If the result is equal to or lower than the Intelligence ability of the character, the character can read the inscription. If the roll is higher than the Intelligence ability, the character cannot understand the runes.  Each player is allowed only one try at deciphering the inscription without magic. The runes read: “Let no man cross the bridge without first giving to the water that which is its due.”
+
+All dwarf, elf, halfling, and female human characters can safely cross the bridge. However, a male human character can cross safely only if he pours some water into the river when he steps onto the bridge. If he tries to cross without doing this, the guardians of the bridge will attack.
+
+The guardians are two snake-shaped water weirds (AC 5; HD 3*; hp 14, 12; #AT 1; D 1+ drowning; MV 60’ (20') in water only; Save F6; ML 12; AL Chaotic.) They attack from both sides of the bridge, one per side, and they attack only human males and any other characters who attack them. They will also fight any character that tries to stop them from attacking the human males.
+
+Any character who is hurt by a water weird will be able to read the runes on the arch automatically, even if the character had tried to read them before and failed. If such a character tries to read the inscription, read the following:
+
+The arch, which was dull gray, is now as blue as the river and the strange monsters!  You can now read the mysterious runes on the arch! They read, “‘Let no man cross the bridge without first giving to the water that which is its due.”
+
+When destroyed, the water weirds lose their snake shapes and collapse into the river as a spray of water. They have no treasure.
+
+W7. THE STEALTHY CRAFTSMAN
+
+The trail narrows as you enter the rugged foothills of the Barkel Mountains. The trail sometimes winds or slopes upward, but the going is still fairly easy. After a few minutes of travel through this rugged landscape, you hear the quiet movement of someone or something else in the rocks about forty yards to your right. There is definitely something moving, something that does not want to be seen.
+
+A character who goes into the rocks to investigate hears the creature run briefly, then stop.  After five rounds, the creature begins moving again. This game of cat-and-mouse continues for 5 rounds. At that point, roll for surprise. If the party surprises the opponent, they will see him as he runs between two rocks. If the opponent is not surprised, he will come out of hiding unless the party has tried to use spells or missile weapons on him. Before he shows himself, he shouts, “Don’t shoot! I’m coming out!”
+
+You see a middle-aged dwarf with an irongray beard emerge. He is wearing a hooded brown cloak that matches the terrain. He does not seem to be waring armor, and his only weapon is a hammer. He has a small sack and a large chisel thrust into his belt.
+
+The dwarf's name is Dunnark Ironhammer, (AC 9; Dw 3; hp 18; MV 60’ (20’); #AT 1; D 1-4; Save Dw 3; ML 8; ALI; XP 35) and he is the armorer for a small clan of dwarves living in the Krayzen Mountains. He is here to mine some semi-precious gems (value 10 gp each) he uses to decorate the weapons and armor he makes. The gem vein is in a surface layer of rock; he simply chisels them out. He was moving through the rocks to lead the characters away from the gem vein; the characters will not be able to find it. Dunnak left most of the gems in a secure hiding place that only he can find, but he is carrying four of the gems with him.
+
+If the party attacks, run the combat normally. Dunnak will surrender if he fails a morale check.
+
+If the party does not attack, Dunnak will be friendly and apologize for frightening the party, saying, “I had to be sure I'd be all right before I showed myself.” Dunnak will not admit why he is here, saying that he is an adventurer himself. He offers to drink with the characters, and challenges a fighter (or dwarf, if there is one in the party) to a weapon-throwing contest. If the party agrees, he bets his gems against the party's money. Let the players decide ho the contest will be run, as long as it is fair to both. If the character wins, Dunnark pays up cheerfully.
+
+If the characters ask him about The Rock, Dunnark says only, “I’ve never been there, but I've heard that going there is a bad idea.” The DM decides if the dwarf will or will not accompany the party following this encounter (he should not unless the party is weak).
+
+THE END OF THE TRAIL
+
+You're approaching the end of your journey. Jenlar Temlin’s map indicates that The Rock is less than two miles away. Barring any trouble, you should reach The Rock soon. The trail slowly bends until it is heading due north. About a half-mile from the bridge, the trail ends in a tangle of boulders and rubble. Ahead of you lies a land filled with huge boulders and thousands of rocks of every size and shape.
+
+During the final battle, the defenders of Tuma caused avalanches and rockslides here, to slow the advance of the evil armies. The rubble has been partially cleared. Movement through here is still possible, although it will take the characters three hours to exit the square in which the trail ends. They will have to dismount and lead their horses, as this area is strewn with small sharp rocks that could injure a horse's hooves. After a slow journey through the mountains the party will arrive at The Rock.
+
+After their various trials and battles, the party has reached its destination—The Rock itself.  However, to gain entry to The Rock, they must first defeat the defenders. The party's true goal is obtaining the talisman hidden within The Rock. Evil spells prevent anyone native to Tuma (like Lirdrium Arkayz) from entering The Rock; this is the reason Arkayz was forced to hire the party. However, if the characters gain the talisman, Arkayz will know immediately, and the party will magically vanish and reappear at The Manor, their mission complete.
+
+The Rock is defended by elaborate illusions. If the characters recognize this, their final battle will be much easier.
+
+R1. CRONE OF CHAOS
+
+You stand before a solitary peak in the center of a plain one-half mile square. Your hearts tell you this is your goal, this is The Rock. This mighty pillar of stone is 150’ tall from the base to its flat summit. The base is roughly rectangular, 50’ wide on its northern and southern sides, and only 15’ wide on the east and west sides. The Rock becomes more circular near the summit.  The sides of the peak are steep, and it would be difficult to climb them, if possible at all. You ride closer and see a lovely young woman chained to The Rock. Her clothing is purple and yellow, but frayed and tattered; her golden hair is dirty, and she wears a tarnished silver tiara. Her face is blotched with grime, her features pale and drawn with pain and loneliness. In a shrill voice she shouts to you. “Flee for your lives! An old hag who loathes my beauty has imprisoned me here until I die, old and ugly. Flee before she returns to punish you for daring to come near me!”
+
+The party is confronted with the first of the evil illusions that guard The Rock, for the seeming ‘‘damsel in distress’ is actually an inhuman monster, the Crone of Chaos (AC 7; HD 6*; hp 20; MV 120' (40’); #AT 2; D 1-6/ 1-6; SA magical attack; Save F6; ML 12; AL Chaotic; XP 500). The crone uses the illusion to disguise her true repulsive appearance. She is magically aware of all who approach The Rock, so the characters will see the disguised crone regardless of which side they approach from.
+
+The crone is not a true magic-user or cleric, but she has several magical attacks she will use on the party, in the order given below. She maintains the illusion of herself as bound and helpless until the final attack. The magical attacks are not cast in the way that normal spells are, and the illusion prevents anyone from knowing that the crone is responsible for them (although anyone using a detect magic spell will see that there is some kind of magic in the area where the woman stands). To further deceive the characters, the young woman will call piteously for help and shout encouragement to the player characters.
+
+Animal Control. The crone can control all normal and giant animals automatically (no saving throw). She causes the characters’ horses to throw their riders and run away. Any horse without a rider will also run. A character thrown to the ground must spend the next round getting up and cannot attack. While characters are getting up, the crone uses her second attack.
+
+Daggers of Sorcery. This attack causes a ghostly white dagger to appear in the air before each character and attack by itself. The attack looks as if the daggers were wielded by invisible hands. A dagger moves on its own and keeps up with a character as the character moves until either the dagger or the character is destroyed. If a character was shown from his horse in the previous round, the attacking dagger automatically has initiative and a +2 bonus “‘to hit” as the character gets up. The daggers are magical constructs; they can be attacked and destroyed in the same way as living creatures. Each dagger has the following characteristics: AC 2; hp 1; #AT 1; D 1-4; Save Fl. Any hit scored by a character destroys a dagger.
+
+As each dagger is destroyed, all characters who fought that dagger must roll a saving throw vs. Spells. Those characters failing their rolls become dizzy and weak for 6 rounds (—2 on Hit Rolls and saving throw rolls). Characters who make successful saving throws are unaffected.  The Crone Revealed. After the last of the four is destroyed, the form of the young captive woman changes. In mere seconds, the beautiful young woman becomes a withered, hidcous old woman with sparse white hair, leathery skin, fangs, long inhuman arms, and large hands with claw-like fingers. The crone will attack the character nearest her.
+
+The crone is a ancient creature, given unnaturally long life by the magic of the enemies of Tuma. When they learned of the talisman and its power, they tried to destroy it and found that they could not. So they set warding spells over The Rock and placed this creature there as a guard. She can exist only as long as the talisman remains in The Rock and would die if it were removed. She knows this, and is therefore the perfect guardian.
+
+If the characters examine the area of The Rock where the crone first stood, they see narrow crack in the rock. The crone stood in front of this through most of the battle. Examining the crack further, they find a golden sword wedged in the far end of the crack. This is The Sword of The Rock, a magical sword +2 that cannot be used by evil creatures. Along the blade of the sword the following words are written in the common tongue: “Broad and wide the path to nowhere; thin and narrow the way to true riches. Unravel the riddle the riches to win.” Either write these words down for the players to read, or read them for the players to hear. If you choose to read them, repeat them whenever the characters ask, for the characters will have the sword with them and will be able to read the words whenever they please.
+
+The riddle’s meaning is that The Rock can be entered through either of its narrow sides, east or west. The entrances are hidden by powerful illusions; no character will find a secret door or a magical door; detect magic will not penetrate the illusion. But a mere placing of the hand on either the eastern or western face of The Rock will result in the hand passing through solid stone. The northern and southern exposures are only rock, and any character touching these faces will feel only stone. The party cannot take their horses into The Rock.
+
+When the party discovers how to enter The Rock, go to encounter R2.
+
+R2. THE HALL OF THE ROCK
+
+The stone is not solid! Anything that touches this side of The Rock passes through as if through air! Is this the entrance you seek, or yet another deadly trap?
+
+When the characters gather their courage and enter The Rock, continue with the description.
+
+You find yourselves in a large hall 380’ long and 240’ wide. The hall is brightly lit, as if the light of the noon sun were shining down into it. The walls are 50’ high, and from there the ceiling curves upward until it is approximately 350 feet high overhead.  You stand in the center of the hall, looking forward. At the far end of the hall you see four raised platforms on the floor, grouped in two pairs, and seven chests between the pairs of platforms. Each platform has a statue of a crowned king on it. The walls of the hall are made of white marble filigreed with gold and silver in various natural forms: trees, flowers, wildlife, clouds; and human life: warriors, builders raising cities, market place scenes, etc. Letters of silver and gold are etched into the floor in front of you. They read, HUBRELIS TUMASSEN. To your left, the hall seems to be run-down and battered, as if time and weather had eroded the splendor of that side. The right side of the hall, however, glows and sparkles with beauty and wonder, as if it were still newly made. You stand in a group at the very heart of this magnificent hall!
+
+This hall is too large to be the inside of The Rock that was seen from the outside; in truth, The Rock is merely a concealed magical portal lead leads to this hall, which once held all the greatest treasures of Tuma.
+
+The words, HUBRELIS TUMASSEN, are written in a style similar to the inscription on the arches of the Stone Bridge. A character can read them automatically with a read languages, or can read them if the character's Intelligence is high. When a character tries to read the words, roll 3d6 and subtract 1. If the result is equal to or less than the character's Intelligence, he or she can understand the words.  When translated, they read, “THE GREAT PRIDE OF TUMA.”
+
+Now that the party has finally reached The Rock, there are 2 possible conclusions for this module, each one depending on the strength of the party when it reaches The Rock. The party may have all its original members, but each character may have only a fraction of original hit points left; the party may be small, but with each character left alive having all original hit points; or the party may be large and strong, or small and weak. Whatever the case, Journey to The Rock provides two endings: one for a strong party, and one fora weak party. Ending A will describe what a strong party encounters in the Hall of The Rock; Ending B will detail what a weak party encounters. As DM, you choose the ending that is appropriate for your players.
+
+Give the players their copy of the Hall of The Rock Map.
+
+ENDING A
+
+In this ending, the player characters will have to fight the kings of ancient Tuma, all statues that are far more than they seem at first.
+
+The statues on the platforms are living statues made to resemble the kings of the ancient city of Tuma. Although each is made of white marble and looks like a normal, nonmagical statue, the four have the powers and statistics of the type of living statue it is. Living statues normally attack with their fists and get two attacks per round. These kingly living statues, however, will attack with weapons instead. The weapon each carries is the weapon that the king, a mighty fighter, gained fame with in life. As long as they use their weapons, each living statue will get only one attack per round. If by some means a statue loses its weapon, it will then strike twice per round, as a normal living statue does.
+
+Although these living statues are powerful opponents, they have a secret weakness that a lucky player character may discover. The magic that animates each of these living statues is in the crown that each statue wears. If a character rolls a “20" on the die when rolling “to hit” for a missile or melee attack, the blow has knocked the crown off the statue's head. The statue immediately stops attacking and becomes immobile. If a character is foolish enough to replace the crown on the statue’s head, the statue will animate and attack again!
+
+The crown also determines the type of living statue each is. For example, a statue with an iron crown is treated as an iron living statue.
+
+In addition to its special weakness, each statue can be destroyed normally in combat, as with any other living statue.
+
+Read the following description to the party when they get within 90’ of any platform or any chest. Once the characters are within 90’ the statues will animate and attack. They continue to attack even if the party retreats.
+
+As you approach the platforms and the chests, you can see the royal statues more clearly. The platforms are the pedestals for each statue. The king on the left is the oldest of the four, the one next to him is younger, the two on the right are younger still.  Perhaps they are a dynasty, a family of kings. All of them have a proud and noble appearance, as if each fully deserved to wear a crown...
+
+Wait! Suddenly the statues move! Their heads turn slowly as they survey you with sightless eyes. Each raises a weapon as if to salute you and welcome you to this great hall. Then, to your horror, you realize that the salute is a challenge to you all, for the kings are stepping off their platforms and moving toward you!
+
+The following paragraphs describe each kingly statue. You can give the physical description of the statue to any player character who is fighting that statue.
+
+King Alcidaxes. This statue is of an old man, full of years and wisdom. His face is lined with the worries of kingship, and even his graven eyes seem to show sadness. He wears a plain iron crown, with no decoration.  His weapon is a mighty battle axe. King Alcidaxes has the abilities of an iron living statue (AC 2; HD 4*; hp 12; MV 30’ (10’); #AT 1 (with axe) or 2; D 1-8 (with axe) + special or 1-8/1-8 + special; Save F4; ML 11; AL Neutral; XP 125). Attackers with non-magical metal weapons must make a saving throw versus Spells when the statue is hit; failure means that the weapon is stuck until the statue is killed. If Alcidaxes’ crown is knocked off, stuck weapons can be removed. The Sword of The Rock will not get stuck in Alcidaxes’ body.
+
+King Belkazar. This king has a serene, happy, expression on his face, as though he was at peace with himself and with the world. The statue is carved to show a holy symbol around the king’s neck. His crown is of granite, carved to look like a circular city wall. His weapon is a mace. King Belkazar had the abilities of a rock living statue (AC 4; HD 5*: hp 15; MV 60' (20'): #AT 1 (with mace) or 2; D 1-6 (with mace) or 2-12/2-12; Save F5; ML 11; AL Chaotic; XP 300). A rock living statue normally attacks by shooting magma from his fingers.  King Belkazar will not do this as long as he has his mace.
+
+King Calobanes. This king is young, and has a carefree, happy expression on his face.  He looks like a young man who has learned how to enjoy life. His crown is of quartz crystal, with agates, and semi-precious stones set in it. His weapon is a long dagger. King Calobanes has the abilities of a crystal living statue (AC 4; HD 3; hp 9; MV 90’ (30'); #AT 1 (with dagger) or 2; D 1-4 (with dagger) or 1-6/ 1-6; Save F3; ML 11; AL Lawful; XP 35).
+
+King Delophenes. This king is obviously the brother of King Calobanes, and the two look about the same age. Closer examination reveals that they are twins, but where Calobanes was fun-loving and carefree, Delophanes looks studious and somber. His weapon is a long dagger. King Delophanes has the abilities of a crystal living statue (AC 4; HD 3; hp 9; MV 90! (30'); #AT 1 (with dagger) or 2; D 1-4 (with dagger) or 1-6/ 1-6; Save F3; ML 11; AL Lawful; XP 35).
+
+If all three statues are slain, they will crumble into powder, leaving the party with the weapons and crowns of the statues. If the party examines the pedestals from which the statues came, they find the name of the king engraved on each pedestal. From further inscriptions on the pedestals, they learn the following:
+
+Alcidaxes was the father of Belkazar.  Calobanes and Delophanes were Belkazar’s sons. Each of them passed suffered in life because they were foolish and made bad judgements in time of crisis.
+
+The only treasure the kings have is their crowns. If a dwarf or other character wants to know how valuable each is, estimate that each is worth approximate 1000 gp. This is another illusion, for the crowns were made to reflect the king's splendor. When the crowns are removed from the Hall of The Rock, each is worth only 50 gp.
+
+ENDING B
+
+The chests against the wall with the balconies are all made of wood; but the first is a simply constructed chest while the 7th is richly decorated with gems and silver and gold metalwork. The chests also vary in decoration so that the first is the simplest chest and the last is the most ornate.
+
+Having read the description of the Hall of The Rock to the players, describe the the appearance of the seven chests to the characters, using the description supplied above. After this, divide the party into two groups, one having the highest Wisdom and one having the lowest Wisdom, without telling them how the division is made. Take the group with lower Wisdom aside and privately read them the following description:
+
+You hear quiet voices calling to you. They tell you to look at the glorious side of the hall, saying, “This is Tuma! This is the greatness that was once lost but can now be yours. For long years its glory has waited for bold adventurers like yourselves to come and claim that which your daring and bravery has earned you. This is yours by right of valor, by might of arms, by sleight of hand and by keenness of mind.  Others have tried, but they have failed— all because they would not take the riches they had earned. Come, now. Take your due. The wealth of Tuma is yours; you deserve it more than any other. Behold the folly of those who have ignored Tuma’s greatness! See the worn and weary section of this great hall! It has been brought so low by fools who mistook poverty for humility, simplicity for piety, who called wealth and riches greed and avarice. These fools thought honor meant lowering one’s self when one should have elevated one’s greatness. Do not be a fool! Let the trumpet of your true worth ring out! The great deserve the best! The bravest demand the finest! You have made it to The Rock; do not walk away empty-handed, a pauper forever! Be not a fool; be not a fool!”
+
+Try to be as persuasive as possible in order that the characters truly believe the words of the soft voices.
+
+To the other group, the ones with the highest Wisdom, say nothing except the previous description of the hall, except to call their attention again to the glorious side of the hall.  This is not the proper choice, for the chest containing the treasure of Tuma and the Secret of The Rock is not the fanciest chest, but the simplest. Having tried to sway the party towards the richer side of the hall, read the following to the players.
+
+You stand gazing at the seven chests lining the wall beneath the balconies. The first chest is elegant in its sheer simplicity, but each succeeding chest surpasses it in value and design. The last chest is by far the best of the lot. Its jewels sparkle in the mysterious light of the hall; its gold and silver glitter with light. And then, from nowhere, a deep, rich voice calls out to welcome you to the Hall of The Rock. “You are indeed brave heroes to have reached this great Hall! To you a reward shall be given for your great courage. In one of these seven chests lies the goal of your journey, and much more! But you can choose only one of these chests and must be content with what you find. You have done well thus far; choose well and your journey shall be a success. What you have experienced on the way here will prove to be a guide beyond measure. Think, then, and choose; think and choose!” The voice falls silent, and you are left with only your thoughts.
+
+The voice’s reference to “experiences on the way here” is meant to get the party to reflect on how appearances have been deceptive throughout the journey. Now the characters must use their wits instead of their muscles.
+
+For Ending B, the fighting mentioned on the golden sword refers to the battle to make the right decision. If the party is being overly suspicious or paranoid, explain this interpretation of the sword’s riddle to them. But this interpretation applies only to Ending B; in Ending A the fighting is quite literal.
+
+There is only one chest that the party can choose in order to be successful in learning the secret of The Rock, and that one chest is the first chest, the simple, wooden chest. Should the party select any other chest, the voice will shout out in an angry tone: ‘Foolish, greedy creatures! You dare presume to discover the Secret of The Rock! Never shall so great a secret be learned by the likes of you! Begone!  Nothing have you learned from your troublesome journey here! Begone and bother this place no more!” The hall will then fade from view, and the characters will find themselves outside The Rock and facing a perilous journey back to the Manor.
+
+Failure in this quest produces some very interesting results. If the party had been captured by the chameleon men and had struck an agreement, then payment will still have to be made. If the payment is too much less than what the party had promised, then you will have to choose what is to be done. At the very best, the party will be forbidden passage along the trail and will have to return to the Manor by another way.
+
+But this happens only if the wrong chest is chosen. If the party picks the right chest, the following will occur. The wooden chest will not be locked even though it appears to be locked; all the other chests are locked in fact.  Upon opening the wooden chest the characters will find these items within it: 100 pp; 1,500 gp; 4 gold wristbands worth 100 gp each; a ring of protection +1; 2 potions of healing a rope of climbing; 2 daggers + 1; and acuriously fashioned talisman that looks like a capital T with a short diagonal stem hanging off the right side of the crossbar of the T. At the tip of the diagonal stem there is a small red stone, not a ruby, and whose worth can’t be estimated by any character. When the contents of the chest have been thoroughly examined, the voice will again cry out to the party.
+
+“Well done, brave heroes! To you shall the secret of The Rock be revealed. And this be that greatest of secrets: A soul falls into judgement when a soul climbs high enough to sit in judgement’s seat; judge not by what is seen, but by what is truly there. Let the eyes of the heart guide and counsel the eyes of the body.  Glitter does not make a golden prize; hidden in the heart the answer lies. How a creature looks never changes what's inside. Judge with righteous judgement; be wise. Be wise!”
+
+The talisman in the chest is magically intelligient, and it is the source of the mysterious voices. The Hall of the Rock is intended to deceive foolish or greedy adventurers and keep them from obtaining the talisman. The talisman will activate the magical portal when the party tries to open a chest, but the characters will have enough time to collect the treasure (if they choose the correct chest). If they made the wrong choice, they will not have a second chance to re-enter the Hall of The Rock; the talisman will keep the magical portal closed.
+
+Payment due the chameleon men, had the party been forced into a bargain, will be taken from the total of treasure gathered from the start of the game, nor from where the party met the chameleon men. If a set price had been the bargain, then the characters have no problems; if the price was a percentage of the treasure found, then the players will have to work this out.
+
+RETURNING TO THE MANOR
+
+After the party has settled accounts with the chameleon men (if necessary), Lirdrium Arkayz will find the characters (wherever they are) and magically return them to the Manor of Lirdriam Arkayz. Jenlar Temlin will come down the wide steps to ask if the journey has been successful; he will ask for the Secret of The Rock. The Secret consists of the Talisman’s last words to the characters. If someone recites the Secret, Jenlar Temlin smiles and says:
+
+You have indeed done well, but the Secret of The Rock is a twofold secret. What else have you brought back from your journey to The Rock?”
+
+He will, in essence, be asking for the strange talisman. If the characters are at a loss to understand what Jenlar means, he will ask outright for the talisman with the large T on it. When given the talisman, Jenlar will bow, and give each character the reward they negotiated at the begining of the adventure. If the characters are curious about the talisman or The Rock, Jenlar says:
+
+Master Arkayz is engaged in secret labor and the talisman is necessary for the work's completion. It was to have been his long ago, and you have restored it to him. The Secret of The Rock is wisdom you may benefit from in the future. I am glad that you have succeeded where so many others have failed. This bodes a bright future for all of you.
+
+If the party entered The Hall of The Rock but failed to obtain the talisman, Jenlar will be unconcerned, since Lirdrium will be able to obtain the talisman by other means. He praises the bravery of the player characters, saying that no one else has done as well.
+
+The party can then leave or spend the night at the Manor and set out for Threshold the following day.
+
+This interlude links the Hall of Rock adventure to the Great Escape. A side trip to the Caverns of Quasqueton is also possible, if you wish to prepare that adventure.
+
+As the characters return to Threshold from the manor of the mage Arkayz, they will find an old man with a staff camped on the trail. If they talk to him, they will learn his story of the Black Eagle Barony.
+
+The old man claims to be Anton Turino, a spy in the service of Duke Stefan. He has been seeking evidence that Baron Hendriks is causing unrest in the Duchy by secretly sponsoring goblin raids along the western border. He has learned that spies from the Black Eagle Barony are everywhere. He is meeting a contact with the final proof he needs to expose the plot at Lone Tree Hill, a day’s ride east of Luln, however, there is a problem. He can’t take the proof to Specularum personally and needs help. The job doesn’t pay anything, but when he talks to the Duke, he will arrange for the Duke to grant them a personal favor.
+
+The story is a complete lie. Anton is an agent for Baron Hendriks whose job is rooting out threats to the Baron. There haven't been any for awhile, and Anton has devised this plan to make himself look good. In fact, a goblin force, secretly backed by the Baron, will shortly raid Luln.  Anton wants to trick the players into going west, then turn them over to the Baron's men as capto avoid interference.
+
+If the party attacks and kills Anton, (fake a combat: Anton is AC 7 and dies on the fourth hit—he makes all saving throws and sleep will not work, further, he should not cause more than 10 points of damage to the party) they will find a soon.” If you have stocked the Cavems of Quasqueton, Anton will have a map to this location marked “Quasqueton? Check later.”
+
+This is a trap for players who take NPCs at face value. Anton has no identification or proof that his story is true. He will answer questions with questions and misdirection, pausing a moment before each evasion. His story has weak points (such as how he can talk to the Duke if he can’t go to Specularum). A detect evil spell will reveal his evil intentions toward the characters. There is no problem if the party refuses to go with Anton, he will just make another plan that doesn’t involve them.
+
+If the characters go with him (or decide to investigate around Luln on their own) go to the Great Escape Adventure.
+
+B1 Note: Module B1. In Search of the Unknown featured a “Stock-your-own” complex run by Rogahn, fighter of renown, and Zelligar, a powerful mage. The maps to this adventure are given on page 150.
