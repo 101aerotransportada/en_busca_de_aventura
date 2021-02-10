@@ -63,7 +63,7 @@ Muchas aventuras tienen una sección de conclusión. En ella se dan los resultad
 
 Los nuevos monstruos introducidos en estas aventuras se resumen en una sección especial justo antes de la sección del mapa. Incluyen: el Arbusto Arquero, el Hombre Camaleón, la Arpía del Caos, los Cynidiceans, el Decapus, la Fey de los Lamentos, el Golem de Hueso, el Haunt, el Lagarto de Lava, el Werefox (licántropo), el Pájaro Piraña, el Polymar, la Flor de Sirena, el Gorgojo del Vapor, las Rosas Vampiro, la Rareza del Agua y las Hermanas Brujas. La sección comienza en la página 124.
 
-Cuando un monstruo se describe en una descripción de encuentro individual, sus habilidades se dan de forma abreviada. Aunque las estadísticas exactas elegidas y su orden varían de una aventura a otra, la forma general es
+Cuando un monstruo se describe en una descripción de encuentro individual, se proporcionan sus habilidades de forma abreviada. Aunque las estadísticas exactas elegidas y su orden varían de una aventura a otra, la forma general es:
 
 Nombre (número que aparece): Clase de Armadura; Dados de Golpe o Clase y Nivel; Puntos de Golpe; Movimiento por turno (por ronda); Número de Ataques por ronda; Daño por ataque; Salvación como Clase/Nivel; Moral; Alineamiento; Otras habilidades (cuando sea apropiado)
 Hechizos (listados por nivel)
@@ -72,19 +72,19 @@ Armas y equipo
 Abreviaturas
 
 CA = Clase de Armadura
-HD = Dados de Golpe
-hp = Puntos de Vida
+DG = Dados de Golpe
+pv = Puntos de Vida
 MV = Movimiento
-#AT = Número de Ataques
+AT = Número de Ataques
 D = Daño
-SA = Ataques Especiales
+AE = Ataques Especiales
 Save = Salvar como
 ML = Moral
 AL = Alineamiento
-L = Legítimo
+L = Legal
 N = Neutral
 C = Caótico
-XP = Puntos de experiencia
+PX = Puntos de experiencia
 F = Luchador
 M = Usuario de la magia
 C = Clérigo
@@ -93,18 +93,18 @@ D = Enano
 E = Elfo
 H = Halfling
 NM = Hombre normal
-Str = Fuerza
+Fue = Fuerza
 Int = Inteligencia
-Wis = Sabiduría
-Dex = Destreza
+Sab = Sabiduría
+Des = Destreza
 Con = Constitución
-Cha = Carisma
+Car = Carisma
 d = tipo de dado
-cp = pieza de cobre
-sp = pieza de plata
-ep = pieza de electrum
-gp = pieza de oro
-pp = pieza de platino
+mc = moneda de cobre
+mp = moneda de plata
+me = moneda de electrum
+mo = moneda de oro
+mpt = moneda de platino
 
 Mapas y folletos
 
