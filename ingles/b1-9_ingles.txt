@@ -218,7 +218,7 @@ party.
 
 If the party’s plan does not succeed, the jail-
 er leaves, taking the noon meal with him. He
-THE GREAT ESCAPE
+
 
  
 
@@ -472,7 +472,7 @@ searching here must roll his Dexterity or less,
 using 3d6, or slip on the floor and turn an
 ankle. A turned ankle cuts a character's move-
 ment rate by half for 1d6 turns.
-THE GREAT ESCAPE
+
 
  
 
@@ -729,7 +729,7 @@ This room is used by the commander when
 entertaining visitors. Inside the cabinet is a set
 of silverware (worth 600 gp) and fine china
 (worth 200 gp). There is nobody here now.
-THE GREAT ESCAPE
+
 
  
 
@@ -996,7 +996,7 @@ rounded by four comfortable chairs. There
  
 
  
-THE GREAT ESCAPE
+
 
  
 
@@ -1200,7 +1200,7 @@ Officer (F3)
 41 Warrior (F2) 1 19 6 2 8 120'(40') 1 1-6 F2 9 N No 2
 
 28
-INTERLUDE C
+
 
  
 
@@ -1413,7 +1413,7 @@ gy Keep must be constantly watched. Also,
 Sascia has her eye on a knighthood, and is
 interested in proving her leadership without
 resorting to the Duke's soldiers.
-ELWYN’S SANCTUARY
+
 
  
 
@@ -1632,7 +1632,7 @@ jagged shape of the outside looks like a
  
 
  
-ELWYN’S SANCTUARY
+
 
  
 
@@ -1906,7 +1906,7 @@ lower level of the fortress. The corridor leads
 to room 5b, and then to a series of steps that
 will return the party to the upper level, as
 shown on the map of the lower level.
-ELWYN’S SANCTUARY
+
 
 5b. ORC LAIR
 
@@ -2143,7 +2143,7 @@ appears to be made of a silvery metal.
  
 
  
-The altar is made of marble, too heavy to be
+
 moved. The pedestal is a solid block of
 mahogany; it can be moved, although it is
 extremely heavy. At least four party members
@@ -2392,7 +2392,7 @@ black curtain.
  
 
 If the party looks behind the curtain, they see:
-ELWYN’S SANCTUARY
+
 
  
 
@@ -2591,7 +2591,7 @@ Statue
 16 Elwyn (C6) 1 17 a 6 24 120'(40') 1 1-6 + Gilt 12S) siaNessts) 500
 
 special
-INTERLUDE D
+
 
  
 
@@ -2806,7 +2806,7 @@ in the caves.
 SNe
 
 Pe
-THE CAVES OF CHAOS
+
 
  
 
@@ -2962,7 +2962,7 @@ sters set warning devices to alert them of
 intruders. If characters run from overwhelm-
 ing numbers have the monsters set up a ruse
 by causing a few to shout and make noise as if
-THE CAVES OF CHAOS
+
 
  
 
@@ -3156,7 +3156,7 @@ the table at the north end having a large
 chair at its head where the orc leader usu-
 ally holds court. The place is empty of orcs,
 although there is a small fire of charcoal
-THE CAVES OF CHAOS
+
 
  
 
@@ -3345,7 +3345,7 @@ if possible; otherwise, they will flee the place
 entirely, carrying their goods away.)
 
 D. GOBLIN LAIR: The natural cave quickly
-THE CAVES OF CHAOS
+
 
  
 
@@ -3534,7 +3534,7 @@ preted as a cordial invitation to dine. . . .)
 Careful inspection of the barred door has a
 1 in 6 chance per person examining it of
 detecting a secret mechanism which allows
-THE CAVES OF CHAOS
+
 
 23.
 
@@ -3750,7 +3750,7 @@ tough (AC 2 due to plate and shield, HD
 and skill, MV 30’, Save F5, ML 10). He has
 5 pp and 31 gp in his purse. He wears a sil-
 ver and gem studded belt (value 600 gp).
-THE CAVES OF CHAOS
+
 
  
 
@@ -3944,7 +3944,7 @@ guards from 35. and the chieftain and his
 mate from 36.
 
 38. COMMON ROOM: 3 males (AC 5, HD
-THE CAVES OF CHAOS
+
 
  
 
@@ -4135,7 +4135,7 @@ The cave the minotaur dwells in has
 skulls and bones arrayed in decorative pat-
 terns. The secret door is actually a slab of
 stone which takes not less than 3 humans
-THE CAVES OF CHAOS
+
 
  
 
@@ -4330,7 +4330,7 @@ zombies, (AC 7, HD 1, hp 3 each, #AT 1, D
 Once the skeletons are disposed of, it is
 an easy task to pry the 4 garnets (gems)
 from the back of the chair.
-THE CAVES OF CHAOS
+
 
  
 
@@ -4518,7 +4518,7 @@ ered by draperies of deep purple with
 embroidered symbols and evil sayings, done
 in scarlet and gold and black thread. As soon
 as the party enters the place, black candles in
-THE CAVES OF CHAOS
+
 
  
 
@@ -4710,7 +4710,7 @@ vial, enough liquid to turn six persons back
 to normal, but she does not intend to give
 it away. If freed she will attempt to
 “stone” her rescuers.
-INTERLUDE E
+
 
 THE SILVER PRINCESS
 
@@ -4900,7 +4900,7 @@ pened so suddenly that the people are con-
  
 
  
-THE SILVER PRINCESS
+
 
  
 
@@ -5110,7 +5110,7 @@ ics. The robes are decorated with 100 eyes.
 Beneath the robes the clerics wear plate mail.
 They all carry shields painted with a single
 large red eye.
-THE SILVER PRINCESS
+
 
  
 
@@ -5335,7 +5335,7 @@ is marked by a ““B” instead of an “A”. If the
 levers in this room and room 2 are both moved
 to the “up” position, the gates to the south
 will raise.
-THE SILVER PRINCESS
+
 
  
 
@@ -5597,7 +5597,7 @@ ting, the victim must save vs. Poison or die in
 1-10 turns (instead of being blinded). Next to
 the spitting cobra is a large golden key worth
 150 gp.
-THE SILVER PRINCESS
+
 
  
 
@@ -5834,7 +5834,7 @@ and attack. If the rubble is moved from a dis-
 tance (with a spear, pole or similar item), the
 centipede will scurry out of the room without
 attacking.
-THE SILVER PRINCESS
+
 
  
 
@@ -6091,7 +6091,7 @@ tal statues are life forms made of crystals,
 instead of flesh. While they look just like nor-
 mal statues, they are actually living beings.
 Whenever this room is entered the DM should
-THE SILVER PRINCESS
+
 
 roll a monster reaction (2d6). On a roll of 5 or
 less, the statues will attack.
@@ -6343,7 +6343,7 @@ a female minstrel. In front of each tapestry
  
 
 52
-THE SILVER PRINCESS
+
 
  
 
@@ -6588,7 +6588,7 @@ guardsmen who were turned into stone by the
 Eye of Arik. The dead guard captain was mur-
 dered by Travis (see room 34). The room holds
 no treasure nor monsters.
-THE SILVER PRINCESS
+
 
  
 
@@ -6836,7 +6836,7 @@ together to form a single column, growing
  
 
  
- 
+
 
 together so closely, that in some places,
 they almost form a wall from floor to ceil-
@@ -7066,7 +7066,7 @@ encountered, in any direction and doing any-
 thing the DM chooses. To determine exactly
 which monster is encountered, use the Wan-
 dering Monster Table: Level 2.
-THE SILVER PRINCESS
+
 
  
 
@@ -7296,7 +7296,7 @@ is reading it.
  
 
 The statue in this room is one of Princess
-THE SILVER PRINCESS
+
 
  
 
@@ -7554,7 +7554,7 @@ The wall map magically depicts the spreading
 influence of the Eye of Arik. It indicates that if
 the player characters do not succeed in their
 mission, Haven is doomed.
-THE SILVER PRINCESS
+
 
 62, BALLROOM
 
@@ -7774,7 +7774,7 @@ ty is not already aware what their true mission
 is and how the mission can be accomplished,
 the DM should take this opportunity to
 inform them.
-THE SILVER PRINCESS
+
 
  
 
@@ -8024,7 +8024,7 @@ blue, the other is yellow.
 
 This particular bath tub is magical. If the red
 stone is placed in the tub, the tub will fill with
-THE SILVER PRINCESS
+
 
 hot water. If the yellow stone is placed in the
 tub, the tub will fill with cold water. If both
@@ -8204,7 +8204,7 @@ ed to stone will become flesh. Only those indi-
 viduals unfortunate enough to die as a result
 of the disaster will not be restored to life. Oth-
 erwise, Haven will return to normal.
-INTERLUDE F
+
 
 THE HOBGOBLIN KING
 
@@ -8375,7 +8375,7 @@ yard on The Hill. True
 
 6 — Anevil witch lives on The
 Hill. Her house appears to
-THE HOBGOBLIN KING
+
 
  
 
@@ -8581,7 +8581,7 @@ of the monastery. The building has withstood
 the ravages of time fairly well, though its
 insides have been looted repeatedly. In the
 large room, which was the dining room for the
-guards, the long tables and benches have been
+
 overturned, and shattered pottery lies over
 much of the floor. The small room off the din-
 ing room was a kitchen; a few cracked pots and
@@ -8821,7 +8821,7 @@ that leads to the forest outside the monastery.
 Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3,
 2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 +
 disease; Save Fl; ML 8; ALN.
-THE HOBGOBLIN KING
+
 
  
 
@@ -9054,7 +9054,7 @@ ring. Inside the trunk are five huge jugs of
 wine, a sack holding 400 gp and 1,000 sp, and
 a dirty leather sack that is actually a bag of
 holding.
-THE HOBGOBLIN KING
+
 
  
 
@@ -9270,7 +9270,7 @@ are defeated, all the monsters are dead, or the
 monsters fail a morale check. In the latter
 case, any surviving creatures flee toward room
 #66 to alert the hobgoblin king.
-THE HOBGOBLIN KING
+
 
  
 
@@ -9495,7 +9495,7 @@ cell doors.
 
 46. CLERIC’S OFFICE
 The door to this chamber is locked.
-THE HOBGOBLIN KING
+
 
  
 
@@ -9730,7 +9730,7 @@ bodies.
 If the characters approach for a closer look,
 they see that all of the bodies have been
 pierced by many arrows, but they have not
-THE HOBGOBLIN KING
+
 
 been dead for long. As the characters
 approach, two shadowy forms advance from
@@ -9954,7 +9954,7 @@ unidentifiable meat.
 57. READY ROOM
 
 The doors to this room are unlocked.
- 
+
 
 A group of goblins and hobgoblins are
 seated around two tables and three wood-
@@ -10184,7 +10184,7 @@ ly back from the long tables, and spilled
  
 
  
-THE HOBGOBLIN KING
+
 
  
 
@@ -10424,7 +10424,7 @@ As explained in the description of area #62,
 characters gain entrance to this dungeon level
 by falling through the trapdoors in the corri-
 dor outside the chamber of the hobgoblin
-THE HOBGOBLIN KING
+
 
  
 
@@ -10655,7 +10655,7 @@ against the wall next to their pile of bones.
 Most of the garbage is merely old belt buckles,
 links from chain mail, strapless shields, and
 the like. A few items of value might be turned
-THE HOBGOBLIN KING
+
 
  
 
@@ -10887,7 +10887,7 @@ smashed. A character can smash the chest
 open by making a successful “open doors”
 roll. The chest contains 12 pp, 45 gp, and 180
 gP-
-THE HOBGOBLIN KING
+
 
  
 
@@ -11038,7 +11038,7 @@ where the party may elect to camp or rest. If
 they do, they encounter no wandering mon-
 sters. This area is one of the few places the
 characters don’t have to worry about combat!
-THE HOBGOBLIN KING
+
 
  
 
@@ -11241,7 +11241,7 @@ reach the bridges through the secret doors
 exiting at the southern end of bridge C. Note
 that when the kobold chieftan arrives, the
 morale of all of the kobolds is eight.
-THE HOBGOBLIN KING
+
 
  
 
@@ -11470,7 +11470,7 @@ unless touched. Once something comes into
 contact with one of them, however, they both
 awaken and enter into combat on the next
 round.
-THE HOBGOBLIN KING
+
 
 Lava Lizards (2): AC 3; HD 4*; hp 20,17; MV
 90'(30'); #AT 1 bite/1 burn; D 1-6/1-6;
@@ -11693,7 +11693,7 @@ keep it, the dragon will refuse to go adventur-
 ing and should remain, in a campaign con-
 text, a source of prestige for which the
 characters pay heavily.
-RAHASIA
+
 
  
 
@@ -11865,7 +11865,7 @@ as far as you can see. The trail you walk
  
 
  
-RAHASIA
+
 
  
 
@@ -12088,7 +12088,7 @@ The gates can be opened as normal doors.
 There are no guards. Rahasia will not enter the
 courtyard. She tells the PCs she will hide in
 the brush nearby, waiting for their return.
-RAHASIA
+
 
  
 
@@ -12324,7 +12324,7 @@ rooms branch off both sides of the hallway.
 
 The rooms are empty, except for dust and cob-
 webs.
-RAHASIA
+
 
  
 
@@ -12553,7 +12553,7 @@ Lawful characters can examine the pendant
 on the statue. The pendant is part of a talis-
 man of power, described in the Appendix
 under New Magical Items.
-RAHASIA
+
 
  
 
@@ -12788,7 +12788,7 @@ next room, cell 27n.
 Siswa (5): AC 8; El; hp 6, 6, 5, 4, 3; MV 120’
 (40’); #AT 1; D 1d8; Save E1; ML 8; ALC;
 XP 13
-RAHASIA
+
 
  
 
@@ -13004,7 +13004,7 @@ Directly behind the statue, in the floor of the
 temple, is a secret door that opens over a stair-
 case down to the treasure room (area 44 on the
 lower level).
-RAHASIA
+
 
  
 
@@ -13245,7 +13245,7 @@ portal is a one-way receiving portal from the
 roadside shrine. The southern portal sends
 anything entering it to the receiving teleport
 in the Hall of the Siswa, area 28 on the middle
-RAHASIA
+
 
 level. The western portal sends anything
 entering it to the southern alcove of the road-
@@ -13472,7 +13472,7 @@ and 12 gems (each worth 100 gp).
 
 A secret door in the north wall leads to the
 Tower Tunnel, area 44a.
-RAHASIA
+
 
  
 
@@ -13700,7 +13700,7 @@ metal doors.
  
 
  
-RAHASIA
+
 
  
 
@@ -13931,7 +13931,7 @@ in the coffin. A secret panel in the bottom of
 the coffin conceals 1,000 cp, 800 ep, and 500
 
 gp.
-RAHASIA
+
 
  
 
@@ -14162,7 +14162,7 @@ in the coffin. A secret panel in the bottom of
 the coffin conceals 1,000 cp, 800 ep, and 500
 
 gp.
-54B. SOLORENA’S CRYPT
+
 
  
 
@@ -14380,7 +14380,7 @@ The double doors at the west end of the corri-
 
 dor are bronze. All other doors are wood and
 badly scorched.
-RAHASIA
+
 
  
 
@@ -14630,7 +14630,7 @@ power.
 The ancient contents of the jars crumbled
 into useless dust long ago. The lab equipment
 is also useless.
-RAHASIA
+
 
  
 
@@ -14846,7 +14846,7 @@ this room.
 Giant Rats (8): (AC 7; HD 1d4 points; hp 4,
 3, 3,3, 3,3, 2, 2; MV 120’ (40’); #AT 1;D
 1d3 + disease; Save NM; M 8; ALN; XP 3
-RAHASIA
+
 
  
 
@@ -15065,7 +15065,7 @@ room 85. The disc is cool to the touch and easily
 supports 20,000 coin weight. Passengers are in
 no danger of falling off the disc. The disc cannot
 be removed from the shaft.
-RAHASIA
+
 
  
 
@@ -15298,7 +15298,7 @@ from the wall.
  
 
  
-RAHASIA
+
 
  
 
@@ -15538,7 +15538,7 @@ soon as any PC climbs onto the opposite plat-
 form, that PC is teleported to area 91. The
 portcullis the PC entered the maze through
 remains open.
-RAHASIA
+
 
  
 
@@ -15683,7 +15683,7 @@ wall.
  
 
  
-RAHASIA
+
 
  
 
@@ -15914,7 +15914,7 @@ The iron throne looks exactly like the
 throne in room 54. Anyone who sits in the
 throne is instantly sent to the throne in room
 54.
-RAHASIA
+
 
  
 
@@ -16116,7 +16116,7 @@ their word to Sindar by delivering Merisa’s
 package to Rahasia.
 
  
-RAHASIA
+
 
 APPENDIX
 
@@ -16253,7 +16253,7 @@ Arnulf is delighted with Sindar’s gift, a magi-
 healthy bonus if the trading is good
 Whether they accept or not, a day or two
 later they will be caught in a , and
-THE LOST CITY
+
 
  
 
@@ -16422,7 +16422,7 @@ when fighting in full daylight.
 
 Every Cynidicean wears a stylized mask,
 usually of an animal or human face. Some are
-THE LOST CITY
+
 
  
 
@@ -16623,7 +16623,7 @@ victims to feed the monster. Otherwise, the
 goblins do not usually harm Cynidiceans.
 After all, if the Cynidiceans died out, Zargon
 would start eating goblins!
-THE LOST CITY
+
 
  
 
@@ -16855,7 +16855,7 @@ language and laughing merrily.
  
 
  
-THE LOST CITY
+
 
 These small winged people are sprites (AC 5;
 HD 1/2; hp 3 each; MV 20’, fly 60’; #AT 1
@@ -17090,7 +17090,7 @@ ask them to join the Brotherhood. The DM
 may decide this or roll 2d6. A roll of 9-12
 means the party will be asked to join. A roll of
 6-8 means the party members may join, but
-THE LOST CITY
+
 
  
 
@@ -17304,7 +17304,7 @@ details about the Brothers see rooms 11 and
 Cynidicean. See the encounters given
 under “Cynidicean” in the New Monsters sec-
 tion or make up new ones.
-THE LOST CITY
+
 
 Hobgoblin. These are on a mission for the
 Priests of Zargon (capturing prisoners, raiding
@@ -17507,7 +17507,7 @@ members will be given silver masks, daggers,
 and rainbow-colored robes.
 
 Lesser members will not be initiated, but
-THE LOST CITY
+
 
  
 
@@ -17757,7 +17757,7 @@ ers. The fighters wear masks with the face
  
 
  
-THE LOST CITY
+
 
  
 
@@ -17994,7 +17994,7 @@ ated here. The initiation is simple. The char-
 acter dresses in a white robe and ritually
 washes his hands in the bowl (which contains
 water). He draws his weapon and kneels
-THE LOST CITY
+
 
  
 
@@ -18250,7 +18250,7 @@ body apart with their sharp claws.
  
 
 105
-THE LOST CITY
+
 
  
 
@@ -18490,7 +18490,7 @@ harmed by magical spells.
 The wailing fey is guarding King Alexan-
 der's grave. It attacks by wailing. The DM
 should describe the wailing fey’s piercing wail
-THE LOST CITY
+
 
  
 
@@ -18731,7 +18731,7 @@ will have no other effect. Without a spell, the
 paralysis will wear off in 2-8 turns. The jewels
 on the coffin are worth 3000 gp. A search of
 the body will discover a set of lockpicks.
-THE LOST CITY
+
 
 A master thief from the reign of King Alex-
 ander and Queen Zenobia used his skills to
@@ -18955,7 +18955,7 @@ Stone = 12, Dragon Breath = 14, Spells =
 
 If Demetrius is reduced to 0 hp, the pos-
 sessed character will die.
-THE LOST CITY
+
 
  
 
@@ -19198,7 +19198,7 @@ Zenobia.
 
 10. Slaves digging under the pyramid uncov-
 er the foundations of an ancient temple.
-THE LOST CITY
+
 
  
 
@@ -19436,7 +19436,7 @@ in room 58 that someone is coming. Second, it
 will be a dangerous hazard to a party leaving
 room 56a if everyone forgets it is here. (In this
 case it is triggered by a 1d6 roll of 1 or 2, and
-INTERLUDE H
+
 
  
 
@@ -19641,7 +19641,7 @@ there already. If so, go to Interlude E (p.46).
 Phen > pln or apap tay
 
 ity, Arnulf will know the way.
-THE VEILED SOCIETY
+
 
  
 
@@ -19813,7 +19813,7 @@ There are no random encounters in this
 adventure. If the characters need to find a fair-
 ly common person (a street urchin, beggar,
 merchant, etc.), they will not have much trou-
-THE VEILED SOCIETY
+
 
  
 
@@ -20037,7 +20037,7 @@ Suddenly, the crowd sways to the sides of
  
 
  
-THE VEILED SOCIETY
+
 
  
 
@@ -20277,7 +20277,7 @@ UNDER THE FLOORS
 Zweis nervously looked at the others around
 the table. Antonito casually studied his fin-
 getnails. Anton, hunched beside a candle,
-THE VEILED SOCIETY
+
 
  
 
@@ -20523,7 +20523,7 @@ The characters find themselves knee-deep in rot-
 ting, runny garbage from an inn. An old cistern
 above the room has collapsed. There is now a
 hole in the ceiling where it has collapsed.
-THE VEILED SOCIETY
+
 
 5. The Goodwife’s Cellar
 
@@ -20764,7 +20764,7 @@ hood.
 The trap door leads to a cellar. Digging imple-
 ments, beams, and piles of dirt cover the cellar
 floor. The tunnel entrance is collapsed but the
-THE VEILED SOCIETY
+
 
  
 
@@ -20998,7 +20998,7 @@ The horses have AC 7, HD 2, 9 hp and move
 80’. Six characters working together can pull
 
 down one horse and rider.
-THE VEILED SOCIETY
+
 
  
 
@@ -21204,7 +21204,7 @@ authority and the players will have little control.
 The Duke immediately begins gathering
 troops from the surrounding area. By the next
 day, he has 2,000 men ready to enter the city.
-THE VEILED SOCIETY
+
 
  
 
@@ -21464,7 +21464,7 @@ Simion. He must not be allowed to try to
 make peace among the factions. A good
 description is given of Simion. Simion is the
 only one that matters. The characters may
-THE VEILED SOCIETY
+
 
  
 
@@ -21678,7 +21678,7 @@ party is surprised, the man fires another shot
 at the group. He continues to do this until the
 characters attack or charge him, He then runs
 in the direction shown on Map 6.
-THE VEILED SOCIETY
+
 
  
 
@@ -21911,7 +21911,7 @@ closes behind them. In the roots of the
 sirenflower are a few bones and rusted items.
 Searching among these reveals 500 gp and a
 potion of diminution.
-THE VEILED SOCIETY
+
 
  
 
@@ -22146,7 +22146,7 @@ acters’ involvement in the family downfall.
 This can be a starting point for adventures as
 the Radu faction tries to take revenge on the
 player characters.
-THE VEILED SOCIETY
+
 
  
 
@@ -22235,7 +22235,7 @@ oi
  
 
 123
-NEW MONSTERS
+
 
  
 
@@ -22447,7 +22447,7 @@ masks zig-zag slowly down the hall in sin-
 gle file. They are trying to avoid the invisi-
 ble snakes on the floor. They will try to
 show the party the invisible snakes and
-NEW MONSTERS
+
 
  
 
@@ -22658,7 +22658,7 @@ block the sound. A wailing fey will attack any
 living creature it sees. It will continue to wail
 until it is destroyed or until the intruders have
 run away.
-NEW MONSTERS
+
 
  
 
@@ -22867,7 +22867,7 @@ forest or in underground caverns, and seem to
 have developed limited infravision that allows
 them to detect prey up to 30 feet away even in
 total darkness.
-Polymar
+
 
 Armor Class: 9
 
@@ -23077,7 +23077,7 @@ victims make a saving throw vs. paralyzation
 their saving throw take damage, and are
 seized and dragged into the water. When
 weitds trap and drag a victim under water,
-NEW MONSTERS
+
 
  
 
@@ -23238,7 +23238,7 @@ cast any two of the above spells, plus any two
 of the following: continual light, levitate,
 mirror image. She may also cast one hold per-
 son spell per day.
-= THRESHOLD
+
 +k POPULATION: 5,000
 
 LAKE WINDRUSH
@@ -23262,7 +23262,7 @@ TSR, Inc. All Rights Reserved.
 129
 
  
- 
+
 
  
 
@@ -23330,7 +23330,7 @@ SivescuGn race
 ©1987 TSR, Inc. All Rights Reserved.
 
  
-Z
+
 tip
 
 oF
@@ -23480,7 +23480,7 @@ coon Sea Gates wetts Docks
 13. Hall of the Order oF the GriffON
 
 14, MaGicians’ Guild Hall
-CASTLE CALDWELL
+
 
 CASTLE CALDWELL,
 GROUND LEVEL
@@ -23603,7 +23603,7 @@ GROUND LEVEL
 
 ©1987 TSR, Inc. All Rights Reserved.
 132
-iCASTLE CALDWE
+
 
 al
 
@@ -23732,7 +23732,7 @@ R, |
  
 
  
-THE HALL OF ROCK
+
 
 DUNGEON MASTER’S
 ADVENTURE MAP
@@ -23771,7 +23771,7 @@ THE GREENW
 ©1987 TSR, Inc. All Rights Reserved.
 
 134
-THE HALL OF ROCK
+
 
 MAGICAL PORTAL
 
@@ -23782,7 +23782,7 @@ MAGICAL PORTAL
 THE HALL OF THE ROCK
 
 135
-1 SQUARE = 10 FEET
+
 
 THE GREATESCAPE FNEMY OUTPOST
 
@@ -23936,7 +23936,7 @@ WINDOW
 ©1987 TSR, inc. All Rights Reserved.
 
 136
-FORTRESS OF ELWYN THE ARDENT
+
 
 1 SQUARE = 10 FEET
 
@@ -24113,14 +24113,14 @@ N
 ©1987 TSR, Inc. All Rights Reserved.
 
 137
- 
+
 
 THE CAVES OF CHAOS
 
 ©1987 TSR, Inc. All Rights Reserved.
 
 138
- 
+
 
  
 
@@ -24205,7 +24205,7 @@ THE CAVES OF CHAOS
 
 ©1987 TSR, Inc. All Rights Reserved.
 139
-FIRST LEVEL (Entrance)
+
 
  
 
@@ -24213,7 +24213,7 @@ THE SILVER PRINCESS
 
 ©1987 TSR, Inc. All Rights Reserved.
 140
-SECOND LEVEL (Upper)
+
 KEY:
 
   
@@ -24320,7 +24320,7 @@ THE SILVER PRINCESS
 
 ©1987 TSR, Inc. All Rights Reserved.
 141
- 
+
 
 THE HOBGOBLIN KING MAP OF THE RUINED MONASTERY
 
@@ -24346,7 +24346,7 @@ frm] Secret Door [£"> | Tree Statue
  
 
  
- 
+
 
 THE HOBGOBLIN KING MAP OF DUNGEON LEVEL I
 
@@ -24398,7 +24398,7 @@ Scale: 1 square = 10 feet
  
 
 143
- 
+
 
 MAP OF DUNGEON LEVEL II
 
@@ -24419,7 +24419,7 @@ Scale: 1 square = 10 feet
 THE HOBGOBLIN KING
 
  
- 
+
 
 THE HOBGOBLIN KING MAP OF DUNGEON LEVEL III
 
@@ -24444,7 +24444,7 @@ a ET
 ©1987 TSR, Inc. All Rights Reserved.
 
 145
-RAHASIA
+
 
  
 
@@ -24518,7 +24518,7 @@ SCALE: 1 LARGE SQUARE = 100 FEET
 
 ©1987 TSR, Inc. All Rights Reserved.
 146
-Map 2
+
 
 GU MeO ae anad
 
@@ -24551,7 +24551,7 @@ Uae Oda pare
 ©1987 TSR, Inc. All Rights Reserved.
 
  
-iy Jee,
+
 eo
 geen TH
 ah
@@ -24577,7 +24577,7 @@ ks c
 ©1987 TSR, Inc. All Rights Reserved.
 
  
-ss RAHASIA
+
 
 UTA OI CL8Y/ (PY,
 2 |
@@ -24587,7 +24587,7 @@ lA
 ©1987 TSR, Inc. All Rights Reserved.
 
  
-seam [FH ]
+
 
    
 
@@ -24754,7 +24754,7 @@ NOLANDSVND 4O SNYSAVO SHL
 150
 
 ©1987 TSR, Inc. All Rights Reserved.
-THE LOST CITY
+
 
  
 
@@ -24775,7 +24775,7 @@ Tier 3
 ©1987 TSR, Inc. All Rights Reserved.
 
 151
-Tier 4
+
 
  
 
@@ -24928,7 +24928,7 @@ Rubble
 Altar
 
 ©1987 TSR, Inc. All Rights Reserved.
-THE LOST CITY
+
 
 a |
 e e
@@ -24941,7 +24941,7 @@ eee ae
 ©1987 TSR, Inc. All Rights Reserved.
 
 153
-THE VEILED SOCIETY
+
 
   
    
@@ -25443,7 +25443,7 @@ Soa COASTAL ROAD
  
 
 ©1987 TSR, Inc. All Rights Reserved.
-THE VEILED SOCIETY
+
 
 RY
 
@@ -25469,7 +25469,7 @@ HIGHREACH (VOLAGA) RIVER
 
 TSR, Inc. All Rights
 155
- 
+
 
 THE VEILED SOCIETY MAP 6
 
@@ -25542,7 +25542,7 @@ a Balcony
 
 ©1987 TSR, Inc. All Rights Reserved.
 156
-THE VEILED SOCIETY
+
 
  
 
@@ -25652,7 +25652,7 @@ building
 157
 
  
- 
+
 
 CALDWELL’S CASTLE
 
@@ -25704,7 +25704,7 @@ TREASURE MAP #1 ELWYN’S SANCTUARY
 ©1987 TSR, Inc. All Rights Reserved. TREASURE MAPS
 
 158
-MAP 1|
+
 
  
 
@@ -25855,7 +25855,7 @@ RAHASIA
 ©1987 TSR, Inc. All Rights Reserved.
 
 THE HALL OF ROCK
- 
+
 
  
 
@@ -25990,7 +25990,7 @@ WOIYAYUIT AO AWVN AHL NI
  
 
 160
-Wandering
+
 
 Monster
 
@@ -26273,7 +26273,7 @@ ONZE
 SA/SD
 
  
-
+
 
 DUNGEONS
 DRAGONS’
@@ -26294,7 +26294,7 @@ Grand Duchy of Karameikos Setting
 
 Pavey +) er
 DUNGEONS & DRAGONS, D&D, PRODUCTS OF YOUR IMAGINATION, and the TSR logo are trademarks owned by TSR, Inc.
-
+
 9190XXX1401
 
 ce)
