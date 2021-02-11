@@ -137,7 +137,7 @@ creature you have seen is a large humanoid
 
  
 
-24
+
 
  
 
@@ -389,7 +389,7 @@ clothing belongs to the man in room 6, and
 includes leather armor and a belt with a dag-
 ger. The basket is filled with wet towels.
 
-25
+
 
 6. MEN’S EXERCISE ROOM
 
@@ -651,7 +651,7 @@ first finding and removing the poison needle
 must make a saving throw vs. Poison or die.
 The chest contains 300 gp.
 
-26
+
 
 This room contains barrels and kegs of var-
 ious sizes. Several racks around the room
@@ -911,7 +911,7 @@ empty.
 
 The visiting officer is quartered here. Her
 
-27
+
 
 things are in the wardrobe. In addition to
 clothing, there is plate mail armor, a shield,
@@ -1199,7 +1199,7 @@ Officer (F3)
 36 Veteran (F1) 1 19 7 1 6 120'(40’) 1 1-6 Fi Se Ne No sw
 41 Warrior (F2) 1 19 6 2 8 120'(40') 1 1-6 F2 9 N No 2
 
-28
+
 
 
  
@@ -1377,7 +1377,7 @@ The Town of Luln
 Luln is a frontier town about the size of
 Threshold, but much more crowded, and its
 
-29
+
 
 living conditions are slightly more primitive.
 The general services provided are much the
@@ -1552,7 +1552,7 @@ ahead of time and be prepared to hand them
 out to the players. The treasure maps need not
 be drawn to scale (page 158).
 
-30
+
 
 There will be no wandering monsters in
 Elwyn’s fortress. If desired, you can add wan-
@@ -1818,7 +1818,7 @@ fee east-west you about 20 feet north-
 
  
 
-31
+
 
 south. The area seems to be empty except
 for an altar similar to the one your saw ear-
@@ -2071,7 +2071,7 @@ The room is empty, except for the secret trea-
 sure marked with an ‘‘X" on the map. The
 treasure map (Treasure Map #2) found in
 
-32
+
 
 room 5 will reveal its location to the party. As
 in room 5, the treasure is hidden behind a
@@ -2306,7 +2306,7 @@ special award of 100 experience points to the
 player who comes up with a workable and cre-
 ative solution to the trap.
 
-33
+
 
 ELWYN’S SANCTUARY
 
@@ -2736,7 +2736,7 @@ and exit through the front door, or they can
 follow Elwyn's secret corridor to the door that
 leads to the outside.
 
-35
+
 
 Following the adventure at Elwyn’s Sanctuary,
 the adventurers return to Threshold with the
@@ -2900,7 +2900,7 @@ bushes elsewhere.
 UNDERGROUND: The caves, passages, and
 rooms of the complex are on different levels.
 
-36
+
 
 Passages slope upwards and downwards
 between the contours, even where stairways
@@ -3094,7 +3094,7 @@ are invaded, those able will help in its
 defense. Males have d6 sp each, females d4
 sp each; the young have nothing. Amidst
 
-37
+
 
 the litter of cloth and bits and scraps of
 odds-and-ends there is a piece of silk worth
@@ -3283,7 +3283,7 @@ nothing of value in it. The males will go to
 the entrance if they hear the net falling,
 arriving in 1 round.
 
-38
+
 
 15, COMMON HALL: General meetings
 are held here, and food is likewise cooked
@@ -3472,7 +3472,7 @@ join forces with them, so adjust encounters
 appropriately.)
 E. OGRE CAVE: Persons entering this place
 
-39
+
 
 will notice a strong, sour odor and then
 notice what appears to be a huge bear
@@ -3683,7 +3683,7 @@ due to chain mail, HD 1+1, hp 6 each,
 here at all times. If warning comes, two
 will move to the door to wait in ambush,
 
-40
+
 
 and the others will pass through the secret
 entrance (to area 31.) to alert the chief.
@@ -3880,7 +3880,7 @@ COME! (Come in and report to the first
 guard on the left for a hot meal and bed
 assignment.)”
 
-41
+
 
 GUARD ROOM: 3 bugbears (AC 5,
 HD 3 +1, hp 11 each, #AT 1, D 2-8, Save
@@ -4071,7 +4071,7 @@ begin to function, so start to misdirect them by
 naming incorrect directions, i.e. southeast
 instead of northeast, east instead of west, etc.
 
-42
+
 
 Don't worry about calling the same passage as a
 different direction should they travel over the
@@ -4648,7 +4648,7 @@ scroll of protection from undead, a helm of
 alignment change, and a silver dagger
 worth 800 gp because of the gems set into
 
-45
+
 
 its pommel.
 
@@ -5045,7 +5045,7 @@ destroyed at the same time. Finally, two notes
 played on the Ice Harp will summon the min-
 strel Rowena (see room 32). Rowena is one of
 
-47
+
 
 the legends of Haven. She was a famous min-
 strel who left Haven years ago to visit the Pro-
@@ -5256,7 +5256,7 @@ will find it will not budge, and will in addi-
 tion suffer the effects of touching the red
 zone.
 
-48
+
 
 Both wooden doors are shut. If the charac-
 ters successfully try to hear any noise behind
@@ -5519,7 +5519,7 @@ outside the palace when the disaster struck.
 They managed to rush back inside before the
 red glow surrounded the palace. Unfortu-
 
-49
+
 
 nately they ran into a party of goblins who
 sneaked into the palace through the lower
@@ -5754,7 +5754,7 @@ the sword and attack the character attempting
 to take the sword. The man will attack like a
 10 hit dice monster.
 
-50
+
 
 The man is an illusion and will disappear
 after 4 rounds or when it is touched by a char-
@@ -6010,7 +6010,7 @@ resembling a tiger's skin.
  
 
 The monster is a giant tiger beetle (AC 3; HD
-51
+
 
 3+1; hp 15; MV 50’; #AT 1; D 2-12; Save F1;
 ML 9; AL N). Tiger beetles are carnivorous
@@ -6342,7 +6342,7 @@ a female minstrel. In front of each tapestry
 
  
 
-52
+
 
 
  
@@ -6508,7 +6508,7 @@ of Travis.” Except for the beds and footlockers,
 the room is empty when the party enters. The
 footlockers contain spare guard's uniforms.
 
-53
+
 
 The footlockers show signs of having been
 searched.
@@ -6755,7 +6755,7 @@ The chest holds 1,000 cp, 400 sp, and 200 gp.
 This money is used to pay the guards. Travis
 hid the chest in the cell.
 
-54
+
 
 A number of life-sized stone statues of
 humans and dwarves have been piled in
@@ -6993,7 +6993,7 @@ roundings (normally they surprise on 1-4 on
 moment. Troglodytes secrete an oil when
 fighting which smells so bad that characters
 
-55
+
 
 THE SILVER PRINCESS
 
@@ -7208,7 +7208,7 @@ has recently been cleaned out.
 
  
 
-56
+
 
 53. MIRABILIS’ ROOM
 
@@ -7462,7 +7462,7 @@ shipped. A statue wearing clerical robes
 
  
 
-57
+
 
 stands in front of an altar. More statues of
 people of many different ages, all dressed
@@ -7700,7 +7700,7 @@ way, they will step on a hidden pressure plate
 that rings an alarm bell in room 65, warning
 the monster there of the party’s presence.
 
-58
+
 
 65. GREAT HALL
 
@@ -7962,7 +7962,7 @@ on top of the table.
 
  
 
-59
+
 
 Several chairs and tables form a semi-circle
 in front of the fireplace in this room. A
@@ -8302,7 +8302,7 @@ been excluded.
 
 PASTS) ces, Shera ere ntare ays, ciovetats Stet wtetstateha 142-145
 
-61
+
 
 Beginning the Adventure
 
@@ -8513,7 +8513,7 @@ Important!
 
 Encounters with wandering monsters are
 
-62
+
 
 designed to keep the PCs on their toes. They
 are not designed to be the ultimate challenge
@@ -8739,7 +8739,7 @@ The three spots marked with Xs on the map
 are entrances to tunnels that goblins have
 carved into the tangle. The tunnel entrances
 
-63
+
 
 THE HOBGOBLIN KING
 
@@ -8984,7 +8984,7 @@ smooth stone and very clean.
 
  
 
-64
+
 
 The two secret doors leading out of this cham-
 ber may be discovered with the normal rolls.
@@ -9213,7 +9213,7 @@ hobgoblins and four of the goblins are sleep-
 ing when the party discovers this room; the
 sleeping monsters require two rounds to arm
 
-65
+
 
 and prepare for battle.
 
@@ -9710,7 +9710,7 @@ lins wear shortswords, and the dwarf wears a
 
 leather apron and carries a larger hammer.
 
-67
+
 
 Torches placed on the walls at frequent
 intervals light this chamber. Two massive
@@ -10339,7 +10339,7 @@ on his belt the key to the chest in room #67.
 Room #67 is the chamber of the two hobgob-
 lin bodyguards.
 
-70
+
 
  
 
@@ -10621,7 +10621,7 @@ any human language they ever knew, commu-
 nicating in a series of grunts, hoots, and
 shouts.
 
-71
+
 
 This large cavern appears to be empty. The
 ceiling is high, and the far end curves out
@@ -10812,7 +10812,7 @@ before selecting a new victim. It will not pur-
 sue characters beyond the mouth of its cave if
 it has already killed one; if not, it will pursue
 
-72
+
 
 until it slays a character. It will then cease pur-
 suit and drag the corpse back to its den.
@@ -11004,7 +11004,7 @@ you is a dry shelf.
 
  
 
-73
+
 
  
 
@@ -11180,7 +11180,7 @@ Kobolds (4): AC 7; HD 1/2; hp 4, 4, 3, 2; MV
 60'(20'); #AT 1; D 1-5 (1d6 — 1); Save NM;
 ML 6; ALC.
 
-74
+
 
 If these kobolds are still in the cavern, they are
 in the northern portion; in the southern
@@ -11389,7 +11389,7 @@ for the kobolds to be surprised.
 
 If a thief tries to climb one of these cliffs,
 
-75
+
 
 the kobold on top waits until the thief is half-
 way up, and then drops stones at him or her
@@ -11628,7 +11628,7 @@ and do not attempt to leave the room, be
 aware of when the dragon grows weary of con-
 versation (2-12 turns): its comments should be
 
-76
+
 
 more curt and impolite, even hostile. If the
 characters still do not attack within two
@@ -12015,7 +12015,7 @@ roadside shrine.
 THE ROADSIDE SHRINE
 Use Map 1 for the Roadside Shrine.
 
-78
+
 
  
 
@@ -12308,7 +12308,7 @@ The hallway is empty. The hand directs the
 Siswa on a counter-clockwise circle of the tem-
 ple.
 
-79
+
 
  
 
@@ -12706,7 +12706,7 @@ Any character who is in the way must make a
 saving throw vs. poison or fall asleep for 1d6
 turns.
 
-81
+
 
 Within the chest are 200 sp, 150 ep, a bot-
 tle and a half of fine wine and a pair of smooth
@@ -12941,7 +12941,7 @@ lamps on the walls. The walls rise 30 feet,
 
  
 
-82
+
 
  
 
@@ -13169,7 +13169,7 @@ notes.
 
  
 
-83
+
 
 There is a secret door on the north side of the
 alcove that leads to the Rahib’s bedroom, area
@@ -13672,7 +13672,7 @@ thing. When an encounter occurs, roll 1d6
 and use the resulting encounter on Table 3
 (inside back cover).
 
-85
+
 
 50. GATES OF THE TOWER
 
@@ -14207,7 +14207,7 @@ That you may feel the strength of bone.”
 
 Skeleton: AC 4; HD 1; hp 8; MV 60’ (20);
 #AT 1; D 1d6; Save F1; ML12; AL C; XP
-10
+
 
 54C. TRILENA’S CRYPT
 
@@ -14327,7 +14327,7 @@ drunk for 1d4 turns after they awaken. Dur-
 ing that time, they attack at — 4. Drunk char-
 acters cannot move quietly.
 
-87
+
 
 RAHASIA
 
@@ -14550,7 +14550,7 @@ you!
 
  
 
-88
+
 
 The dragon is only an illusion. All characters
 who see the dragon must make saving throws
@@ -14771,7 +14771,7 @@ food hangs in the air.
 
  
 
-89
+
 
 This kitchen is 20 feet wide by 30 feet long.
 Examination of the cupboards reveals that the
@@ -15221,7 +15221,7 @@ from area 87 because the archway between the
 rooms is much lower than the ceiling in area
 105.
 
-91
+
 
 This dark corridor is 30 feet long. A pair of
 steel doors are in the east end, and a pair of
@@ -15445,7 +15445,7 @@ Archway #1 at 93C leads to 93D
 Archway #4 at 93D leads to 93E
 Archway #2 at 93E leads to 93F
 
-92
+
 
 Archway #2 at 93F leads to room 96, middle
 alcove.
@@ -15663,7 +15663,7 @@ obelisk point ceases to glow. The gem is then
 ready to be placed in the Dragon Throne in
 room 100.
 
-93
+
 
 97. TEMPLE OF FIRE
 
@@ -16077,7 +16077,7 @@ archway turns into a platinum statue. See the
 explanation for room 87 for details about the
 archway and its effects.
 
-95
+
 
 106. SOUTH TREASURY EXIT
 
@@ -16355,7 +16355,7 @@ most important building in the city.
 The fall of Cynidicea began on the day that
 workers, digging under the great pyramid,
 
-97
+
 
 chanced upon the lair of a strange monster
 called Zargon. Zargon was roughly humanoid
@@ -16557,7 +16557,7 @@ close unless held, jammed, or spiked open.
 Unless otherwise stated, the pyramid will be
 unlit.
 
-98
+
 
 Remember that the characters are out of
 food and water. They must have these supplies
@@ -17016,7 +17016,7 @@ The green oozing slime (AC n/a; HD 2*; hp
 9; MV 1'; #AT 1; D special; Save Fl; ML 12;
 ALN). Green slime can only be hurt by fire or
 
-100
+
 
 The room contains an old bed, writing
 table, chair, and a chest. From the looks of
@@ -17238,7 +17238,7 @@ wandering monsters). The party can rest,
 rememorize spells, and so on if they stay long
 enough.
 
-101
+
 
 TIERS 3 AND 4
 (Dungeon Level 2)
@@ -17440,7 +17440,7 @@ ruthless personality. He is a fanatic who will
 do anything to promote the cult of Usami-
 garas and his own power. He tries his best to
 
-102
+
 
 hide this under a pleasant manner. While he
 will welcome the party, he will also do his best
@@ -17672,7 +17672,7 @@ of damage per round from the gas.
 The gas will disappear after 2 turns (120
 rounds). There is only one gas charge in the
 
-103
+
 
 statue (the Magi recharge the statue when nec-
 essary).
@@ -17915,7 +17915,7 @@ Female fighters, female dwarves, female
 halflings, and female elves can become full
 members of the Warrior Maidens of Madarua.
 
-104
+
 
 All other characters may only become lesser
 members.
@@ -18249,7 +18249,7 @@ body apart with their sharp claws.
 
  
 
-105
+
 
 
  
@@ -18417,7 +18417,7 @@ Alexander and Queen Zenobia.
 
  
 
-106
+
 
 This is not the real tomb of King Alexander
 and Queen Zenobia. This is a fake tomb to
@@ -18654,7 +18654,7 @@ characters, only scare them. Unless the party
 does something obviously stupid (like stand-
 ing and arguing while the boulder is rolling
 
-107
+
 
 toward them), the DM should let the party
 escape after a close shave—into the room or
@@ -18882,7 +18882,7 @@ polymar (AC 9; HD 10; hp 45; MV 20’; #AT
 polymar is a semi-intelligent, many-celled
 creature that can reshape its body to look like
 
-108
+
 
 any creature of 10 HD or less, or any object up
 to 10’ x 10’ x 10’ in size. The polymar will not
@@ -19121,7 +19121,7 @@ surprised. The gargoyles will attack as soon as the
 party enters the room. They can only be hit with
 magical weapons and are not affected by sleep
 
-109
+
 
 or charm spells. The desk has three drawers and a
 locked cabinet. Inside the cabinet are 2000 ep, a
@@ -19351,7 +19351,7 @@ party is viewing the room through the gelati-
 nous cube. The monster will move toward and
 attack the party immediately. Victims hit by a
 
-110
+
 
 gelatinous cube must make a save vs. Paralysis
 or be paralyzed for 2-8 turns (unless the paral-
@@ -19744,7 +19744,7 @@ wattle, constructed on a wooden frame. A few
 buildings are made of stone or fired brick.
 Most businesses are on the ground floor, the
 
-112
+
 
 owner living upstairs.
 
@@ -19956,7 +19956,7 @@ The player characters enter the city for the first
 time. This encounter will acquaint the players
 with the city and how things are done here. It
 
-113
+
 
 also encourages the players to join different
 sides of the power struggle. Allow the players
@@ -20201,7 +20201,7 @@ great deal of work for the nobles of the city,
 and it is rumored he has a small hoard of
 money.
 
-114
+
 
 Second Event
 
@@ -20441,7 +20441,7 @@ more and load the bundle into the hole. They
 fill the hold with dirt, move some items over
 the spot, and then leave the cellar. If the play-
 
-115
+
 
 ers reveal themselves, the two men attempt to
 flee. In the bundle is the body of a young
@@ -20694,7 +20694,7 @@ ries on her body. Under her fingernails are a
 few strands of red hair Lucia Vorloi is blond.
 Stephanos has light brown hair. On her right
 
-116
+
 
 check and palm is dried blood.
 
@@ -20917,7 +20917,7 @@ have closed for the day, but many people
 
  
 
-117
+
 
  
 
@@ -21138,7 +21138,7 @@ the system below:
 1. Have the characters describe how they want
 the commoners to attack. (Charge the men
 
-118
+
 
 guarding this street; fifty men attack here
 while the rest protect the sides and rear, etc.)
@@ -21381,7 +21381,7 @@ Before he can continue, 10 men appear,
 
  
 
-119
+
 
 five at each end of the street. They all wear
 black hoods. They stop 10’ away from the
@@ -21604,7 +21604,7 @@ are correct if their questions are vague.
 
 When the characters are at this stage of the
 
-120
+
 
 investigation, it is impossible to know where
 they will want to go in the city. Do not try to
@@ -21826,7 +21826,7 @@ entrance to the chambers from the Mead Hall.
 
 If the party does not catch Akarios, he
 
-121
+
 
 escapes behind the curtain.
 2. Beyond the Curtain
@@ -22067,7 +22067,7 @@ Estaish (1st level elf): AC 9; MV 20’ due to
 weakness; E1; hp 3; #AT 0; D 0; Save E1;
 ML 12; ALL; Spells None
 
-122
+
 
 7. The Secret Chamber
 
@@ -22234,7 +22234,7 @@ oi
 
  
 
-123
+
 
 
  
@@ -22381,7 +22381,7 @@ Hit Dice: 1
 
 Move: 120' (40')
 
-124
+
 
 Attacks: 1
 Damage: 1-6
@@ -22591,7 +22591,7 @@ decapuses have been found. In the center of
 the decapus’s 4’ wide body is its mouth. The
 mouth of a decapus is terrible to behold. It is
 
-125
+
 
 very wide and has long yellow teeth and a hor-
 rible foul breath.
@@ -22798,7 +22798,7 @@ of 9. A werefox in human form has the ability
 to charm a person of the opposite sex. This
 ability works like a charm person spell, but
 
-126
+
 
 lasts only one day. In fox form, the werefox
 can charm animals. The werefox can charm
@@ -23002,7 +23002,7 @@ them off, the swarm does only one point of
 damage. Note that the swarm can only attack
 one creature or character at a time.
 
-127
+
 
 NEW MONSTERS
 
@@ -23204,7 +23204,7 @@ it telepathically.
 If the PCs capture Solorens, she pretends to
 be Sylva.
 
-128
+
 
  
 
@@ -23259,7 +23259,7 @@ os (WATEROLDE)
 
 SCALE: ONE INCH
 TSR, Inc. All Rights Reserved.
-129
+
 
  
 
@@ -23464,7 +23464,7 @@ coon Sea Gates wetts Docks
 
 7. ToreNescu TeRRitoRy
 
-131
+
 
  
 
@@ -23602,7 +23602,7 @@ GROUND LEVEL
  
 
 ©1987 TSR, Inc. All Rights Reserved.
-132
+
 
 
 al
@@ -23770,7 +23770,7 @@ THE GREENW
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-134
+
 
 
 MAGICAL PORTAL
@@ -23781,7 +23781,7 @@ MAGICAL PORTAL
 
 THE HALL OF THE ROCK
 
-135
+
 
 
 THE GREATESCAPE FNEMY OUTPOST
@@ -23935,7 +23935,7 @@ WINDOW
 
 ©1987 TSR, inc. All Rights Reserved.
 
-136
+
 
 
 1 SQUARE = 10 FEET
@@ -24112,14 +24112,14 @@ N
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-137
+
 
 
 THE CAVES OF CHAOS
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-138
+
 
 
  
@@ -24204,7 +24204,7 @@ ONE SQUARE EQUALS 10 FEET
 THE CAVES OF CHAOS
 
 ©1987 TSR, Inc. All Rights Reserved.
-139
+
 
 
  
@@ -24212,7 +24212,7 @@ THE CAVES OF CHAOS
 THE SILVER PRINCESS
 
 ©1987 TSR, Inc. All Rights Reserved.
-140
+
 
 KEY:
 
@@ -24319,7 +24319,7 @@ T Trap
 THE SILVER PRINCESS
 
 ©1987 TSR, Inc. All Rights Reserved.
-141
+
 
 
 THE HOBGOBLIN KING MAP OF THE RUINED MONASTERY
@@ -24397,7 +24397,7 @@ Scale: 1 square = 10 feet
 
  
 
-143
+
 
 
 MAP OF DUNGEON LEVEL II
@@ -24414,7 +24414,7 @@ Scale: 1 square = 10 feet
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-144
+
 
 THE HOBGOBLIN KING
 
@@ -24443,7 +24443,7 @@ a ET
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-145
+
 
 
  
@@ -24517,7 +24517,7 @@ SCALE: 1 LARGE SQUARE = 100 FEET
  
 
 ©1987 TSR, Inc. All Rights Reserved.
-146
+
 
 
 GU MeO ae anad
@@ -24751,7 +24751,7 @@ TaA1 BaddNn
 
 NOLANDSVND 4O SNYSAVO SHL
 
-150
+
 
 ©1987 TSR, Inc. All Rights Reserved.
 
@@ -24774,7 +24774,7 @@ Tier 3
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-151
+
 
 
  
@@ -24833,7 +24833,7 @@ in Ceiling
 
 Trap
 
-152
+
 
  
 
@@ -24940,7 +24940,7 @@ eee ae
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-153
+
 
 
   
@@ -25468,7 +25468,7 @@ RY
 HIGHREACH (VOLAGA) RIVER
 
 TSR, Inc. All Rights
-155
+
 
 
 THE VEILED SOCIETY MAP 6
@@ -25541,7 +25541,7 @@ a Balcony
  
 
 ©1987 TSR, Inc. All Rights Reserved.
-156
+
 
 
  
@@ -25649,7 +25649,7 @@ building
 
 ©1987 TSR, Inc. All Rights Reserved.
 
-157
+
 
  
 
@@ -25703,7 +25703,7 @@ TREASURE MAP #1 ELWYN’S SANCTUARY
 
 ©1987 TSR, Inc. All Rights Reserved. TREASURE MAPS
 
-158
+
 
 
  
@@ -25840,7 +25840,7 @@ ead o 9
 Zag: oa
 ¥2 acd
 =
-33
+
 rr
 i
 —
@@ -25989,7 +25989,7 @@ WOIYAYUIT AO AWVN AHL NI
 
  
 
-160
+
 
 
 Monster
