@@ -1558,7 +1558,7 @@ The liquid in the pool is a kind of ink. The water of the pool is heated by hot 
 
 Once the characters reach the statue they will find that the rubies can be pried out easi- ly. If the party carefully examines the statue, there is a 50% chance they will discover that the head of the statue can be unscrewed. Hid- den inside the head, packed in a protective oilskin bag, is a ring of protection + 1.
 
-46, BLADE TRAP
+46. BLADE TRAP
 
 At the corner of the corridor is a trap. When a character walks over a pressure plate in the floor the trap might be sprung. Roll 1d6. The trap will be sprung on a roll of 1. Roll sepa- rately for each character that walks around the corner. If the trap is sprung, a weighted blade (like a guillotine blade) will fall from the ceil- ing causing 1-10 points of damage to the per- son who sprung the trap. The blade is hidden in the ceiling.
 
@@ -1609,1081 +1609,229 @@ Key to Dungeon Level Two
 
 49. WATCH TOWER
 
- 
-
-This watch tower has 6 windows overlook-
-ing the surrounding lands. There is a trap
-door in the center of the floor. A stone
-statue of a guard stands looking out each
-window. Except for the statues the room
-looks empty.
-
- 
-
- 
-
- 
+This watch tower has 6 windows overlooking the surrounding lands. There is a trap door in the center of the floor. A stone statue of a guard stands looking out each window. Except for the statues the room looks empty.
 
 The room is empty except for the statues,
 
 50. PASSAGEWAY
 
- 
+As soon as you open the door, bright lights flood the hallway. You see three swords fighting each other, as if being held by invisible men.
 
-As soon as you open the door, bright lights
-flood the hallway. You see three swords
-fighting each other, as if being held by
-invisible men.
-
- 
-
- 
-
- 
-
-The fighting swords and bright light is an illu-
-sion placed there by the palace magic-user to
-frighten intruders who might enter the palace
-through the tower. The illusion is triggered by
-the door opening without the password
-“Argenta” being spoken. If any character
-touches the illusion it will be dispelled.
+The fighting swords and bright light is an illusion placed there by the palace magic-user to frighten intruders who might enter the palace through the tower. The illusion is triggered by the door opening without the password “Argenta” being spoken. If any character touches the illusion it will be dispelled.
 
 51. LABORATORY
 
- 
+You see a room filled with stuffed animals, shelves filled with books and scrolls, and jars of powders and herbs. Strange symbols are painted on the walls. An iron statue of a warrior stands in the southeast corner of the room. A polishing cloth is draped over the warrior's shield.
 
-You see a room filled with stuffed animals,
-shelves filled with books and scrolls, and
-jars of powders and herbs. Strange symbols
-are painted on the walls. An iron statue of
-a warrior stands in the southeast corner of
-the room. A polishing cloth is draped over
-the warrior's shield.
-
- 
-
- 
-
- 
-
-This room was the palace magic-user’s labora-
-tory. The iron statue is actually a living iron
-statue (AC 2; HD 4; hp 18; MV 10’; #AT 2;D
-1-8/1-8; Save F4; ML 11; ALN). Living iron
-statues have bodies which can absorb iron and
-steel. When hit, they will take normal dam-
-age, but if a non-magical metal weapon is
-used, the attacker must save vs. Spells or the
-weapon will become stuck in the body of the
-living iron statue, and can only be removed if
-the statue is killed.
+This room was the palace magic-user’s laboratory. The iron statue is actually a living iron statue (AC 2; HD 4; hp 18; MV 10’; #AT 2;D 1-8/1-8; Save F4; ML 11; ALN). Living iron statues have bodies which can absorb iron and steel. When hit, they will take normal damage, but if a non-magical metal weapon is used, the attacker must save vs. Spells or the weapon will become stuck in the body of the living iron statue, and can only be removed if the statue is killed.
 
 52. STOREROOM
 
 This small room appears to be empty.
 
-The room once held stores of various sorts but
-has recently been cleaned out.
-
- 
-
-
+The room once held stores of various sorts but has recently been cleaned out.
 
 53. MIRABILIS’ ROOM
 
- 
+A plain bed and a huge wooden desk dominate this sparsely furnished bedchamber. A broom lies in one corner near a pile of dirt. A tattered pair of silk bedroom slippets lie on the floor near the bed. A small nightstand has been overturned. While you watch, a small black kitten races out from under the bed, bats one of the slippers around, then runs back under the bed.
 
-A plain bed and a huge wooden desk dom-
-inate this sparsely furnished bedchamber.
-A broom lies in one corner near a pile of
-dirt. A tattered pair of silk bedroom slip-
-pets lie on the floor near the bed. A small
-nightstand has been overturned. While
-you watch, a small black kitten races out
-from under the bed, bats one of the slip-
-pers around, then runs back under the
-bed.
+The room is the bedroom of the palace magicuser, Mirabilis. The black kitten is his familiar and pet. Three times a day the kitten can transform itself into a panther (AC 4; HD 4; hp 18; MV 70’; #AT 3; D 1-4/1-4/1-8; Save F2; ML 8; ALL). The transformation lasts 10 rounds. When in kitten form the creature is harmless. Note that while panthers are usually neutral in alignment, the kitten/panther is lawful because this magical animal is the familiar of a magic-user.
 
- 
-
- 
-
- 
-
-The room is the bedroom of the palace magic-
-user, Mirabilis. The black kitten is his familiar
-and pet. Three times a day the kitten can
-transform itself into a panther (AC 4; HD 4;
-hp 18; MV 70’; #AT 3; D 1-4/1-4/1-8; Save
-F2; ML 8; ALL). The transformation lasts 10
-rounds. When in kitten form the creature is
-harmless. Note that while panthers are usually
-neutral in alignment, the kitten/panther is
-lawful because this magical animal is the
-familiar of a magic-user.
-
-If the party carefully searches the desk,
-there is a 50% chance that they will find a
-secret compartment. The secret compartment
-holds a potion of invisibility.
+If the party carefully searches the desk, there is a 50% chance that they will find a secret compartment. The secret compartment holds a potion of invisibility. 
 
 54. WASHROOM
 
- 
+A mirror is hung on the east wall. In front of the mirror is a wash stand. On top of the wash stand is a porcelain bowl filled with water. A statue stands in front of the wash stand. The statue is of an old man with long hair and beard. The man wears robes covered with magical symbols. The statue looks like a man trimming his beard with a pair of scissors.
 
-A mirror is hung on the east wall. In front
-of the mirror is a wash stand. On top of the
-wash stand is a porcelain bowl filled with
-water. A statue stands in front of the wash
-stand. The statue is of an old man with
-long hair and beard. The man wears robes
-covered with magical symbols. The statue
-looks like a man trimming his beard with a
-pair of scissors.
-
- 
-
- 
-
- 
-
-The statue is actually Mirabilis, the palace
-magic-user, who was turned into stone by the
-Eye of Arik. Mirabilis was trimming his beard
-at the time.
+The statue is actually Mirabilis, the palace magic-user, who was turned into stone by the Eye of Arik. Mirabilis was trimming his beard at the time.
 
 55. STUDY
 
- 
+A statue of a young girl playing with a dove is in the southeastern corner of this oddly shaped room. A large hand-carved bookcase stands next to the northeastern wall. Two wooden benches, one in front of each of the the two southwestern windows, have scrolls lying upon them. Two women stand next to one of the benches. Both women wear leather armor and carry swords. One of the women has just unrolled a scroll and is reading it.
 
-A statue of a young girl playing with a dove
-is in the southeastern corner of this oddly
-shaped room. A large hand-carved book-
-case stands next to the northeastern wall.
-Two wooden benches, one in front of each
-of the the two southwestern windows, have
-scrolls lying upon them. Two women stand
-next to one of the benches. Both women
-wear leather armor and carry swords. One
-of the women has just unrolled a scroll and
-is reading it.
+The statue in this room is one of Princess Argenta’s ladies in waiting who was turned to stone. None of the scrolls in the room are magical, they are merely blank parchment on which court officials sometimes write letters.
 
- 
+The two women appear to be fighters, but are really thieves. They were trying to loot the rooms of Mirabilis before the disaster struck. Mirabilis caught them and put them to sleep with a sleep spell. He was going to clean up and then report them to the guards, but disaster struck first. The women thieves were not affected by the disaster. They have only recently awakened and are setting out to loot the palace. The two women are named Candella (AC 5;T/2; hp 8; MV 40’; #AT 1; D 1-8; Save T2; ML 7; AL N; S12, 115, W13, D17, C15, Ch 14), and Duchess (AC 5;T/2; hp 11; MV 40’; #AT 1; D 1-8; Save T2; ML7; ALN; $11, 112, W15, D16, C18, Ch15). Because of their wisdom ability scores, both women gain a bonus of +1 on magic-based saving throws. The two thieves are both very attractive and will attempt to use this to their benefit.
 
- 
+These two thieves will act friendly toward the party. They will pretend to be young inexperienced fighters in search of adventure. They will politely ask to join the party, saying that they are not quite as tough or as prepared for adventuring as they had originally thought.
 
- 
+If they join the party the two thieves will wait for a good chance to steal whatever they can (either by trying to pick pockets or just grabbing any loot in sight), and then run away.
 
-The statue in this room is one of Princess
+If the thieves are not allowed to join the party, but are not attacked, they will try to get close enough to a character to try to pick that person's pockets. If discovered, they will claim that the person made a mistake, that they merely bumped into the person by accident. If successful they will leave with their loot.
 
+The thieves will each have the following: a backpack, 50’ rope, 12 iron spikes, mirror, wineskin, rations, 4 small sacks, 21 cp, 7 sp, 15 gp, wolfsbane (Duchess only), and a string of pearls worth 600 gp (Candella only).
 
- 
-
-Argenta’s ladies in waiting who was turned to
-stone. None of the scrolls in the room are
-magical, they are merely blank parchment on
-which court officials sometimes write letters.
-
-The two women appear to be fighters, but
-are really thieves. They were trying to loot the
-rooms of Mirabilis before the disaster struck.
-Mirabilis caught them and put them to sleep
-with a sleep spell. He was going to clean up
-and then report them to the guards, but disas-
-ter struck first. The women thieves were not
-affected by the disaster. They have only
-recently awakened and are setting out to loot
-the palace. The two women are named Can-
-della (AC 5;T/2; hp 8; MV 40’; #AT 1; D 1-8;
-Save T2; ML 7; AL N; S12, 115, W13, D17,
-C15, Ch 14), and Duchess (AC 5;T/2; hp 11;
-MV 40’; #AT 1; D 1-8; Save T2; ML7; ALN;
-$11, 112, W15, D16, C18, Ch15). Because of
-their wisdom ability scores, both women gain
-a bonus of +1 on magic-based saving throws.
-The two thieves are both very attractive and
-will attempt to use this to their benefit.
-
-These two thieves will act friendly toward
-the party. They will pretend to be young inex-
-perienced fighters in search of adventure.
-They will politely ask to join the party, saying
-that they are not quite as tough or as prepared
-for adventuring as they had originally
-thought.
-
-If they join the party the two thieves will wait
-for a good chance to steal whatever they can
-(either by trying to pick pockets or just grabbing
-any loot in sight), and then run away.
-
-If the thieves are not allowed to join the
-party, but are not attacked, they will try to get
-close enough to a character to try to pick that
-person's pockets. If discovered, they will claim
-that the person made a mistake, that they
-merely bumped into the person by accident.
-If successful they will leave with their loot.
-
-The thieves will each have the following: a
-backpack, 50’ rope, 12 iron spikes, mirror,
-wineskin, rations, 4 small sacks, 21 cp, 7 sp,
-15 gp, wolfsbane (Duchess only), and a string
-of pearls worth 600 gp (Candella only).
-
-When playing the roles of NPCs the DM
-should keep in mind that NPCs are reasonably
-normal persons. They seldom act suicidally,
-usually fighting only if there is a chance to
-win. While they will take risks, they will sel-
-dom take unreasonable risks. In this particular
-encounter, the two thieves want loot. They are
-likely to try whatever method offers the best
-possibilities for gaining the most loot at the
-least risk.
+When playing the roles of NPCs the DM should keep in mind that NPCs are reasonably normal persons. They seldom act suicidally, usually fighting only if there is a chance to win. While they will take risks, they will seldom take unreasonable risks. In this particular encounter, the two thieves want loot. They are likely to try whatever method offers the best possibilities for gaining the most loot at the least risk.
 
 56. MAGIC USER’S BEDROOM
 
- 
+In this room is a large canopy bed with heavy dark red curtains, all closed. Three matching rugs lie side by side on the floor. The room also contains a long wooden dresser, a matching chest of drawers, and a large stuffed easy chair.
 
-In this room is a large canopy bed with
-heavy dark red curtains, all closed. Three
+If the party opens the curtains to the bed they will see an old man lying in the bed. The old man has a long white beard and hair. He is wearing robes embroidered with magical symbols. If the party asks, let them know that the man looks exactly like the statue in room 54. Even the clothing is similar.
 
- 
+The creature on the bed is not really a man, it isa doppleganger (AC 5; HD 4*; hp 18; MV 30’; #AT 1; D 1-12; Save F10; ML 10; AL C). Dopplegangers are man-sized, shapechanging creatures that are intelligent and evil. A doppleganger is able to shape itself into the exact form of any human-like creature (up to 7’ tall) it sees. The creature is imitating the statue of Mirabilis. While the doppleganger can speak, it cannot cast spells (as Mirabilis could, if he were not stone). The doppleganger will try to join the party. Then, when it gets a chance and no one is watching, it will single out a victim. Just before it attacks, the doppleganger will turn into a duplicate of the victim. The doppleganger will try to secretly kill its victim so that it can take the victim’s place.
 
- 
+If Duchess and Candella are with the party, the doppleganger may choose one of them asa victim or one of the party members. Of course, if the doppleganger succeeds in killing its victim, and hides the corpse, it will pretend to be the new character. Sooner or later someone should notice that Mirabilis has disappeared. The doppleganger will continue to kill characters secretly until caught.
 
- 
-
-matching rugs lie side by side on the floor.
-The room also contains a long wooden
-dresser, a matching chest of drawers, and a
-large stuffed easy chair.
-
- 
-
- 
-
- 
-
-If the party opens the curtains to the bed they
-will see an old man lying in the bed. The old
-man has a long white beard and hair. He is
-wearing robes embroidered with magical sym-
-bols. If the party asks, let them know that the
-man looks exactly like the statue in room 54.
-Even the clothing is similar.
-
-The creature on the bed is not really a man,
-it isa doppleganger (AC 5; HD 4*; hp 18; MV
-30’; #AT 1; D 1-12; Save F10; ML 10; AL C).
-Dopplegangers are man-sized, shape-
-changing creatures that are intelligent and
-evil. A doppleganger is able to shape itself
-into the exact form of any human-like crea-
-ture (up to 7’ tall) it sees. The creature is imi-
-tating the statue of Mirabilis. While the
-doppleganger can speak, it cannot cast spells
-(as Mirabilis could, if he were not stone). The
-doppleganger will try to join the party. Then,
-when it gets a chance and no one is watching,
-it will single out a victim. Just before it
-attacks, the doppleganger will turn into a
-duplicate of the victim. The doppleganger
-will try to secretly kill its victim so that it can
-take the victim’s place.
-
-If Duchess and Candella are with tl. > party,
-the doppleganger may choose one of them asa
-victim or one of the party members. Of
-course, if the doppleganger succeeds in killing
-its victim, and hides the corpse, it will pretend
-to be the new character. Sooner or later some-
-one should notice that Mirabilis has disap-
-peared. The doppleganger will continue to
-kill characters secretly until caught.
-
-Sleep and charm spells do not affect dop-
-plegangers. When killed, a doppleganger will
-turn back to its original form, that of a
-human-like creature with blank features.
+Sleep and charm spells do not affect dopplegangers. When killed, a doppleganger will turn back to its original form, that of a human-like creature with blank features.
 
 57. ALCOVE
 
- 
+This small alcove contains two large cushioned chairs. A small book lies on the floor between them.
 
-This small alcove contains two large cush-
-ioned chairs. A small book lies on the floor
-between them.
-
- 
-
- 
-
- 
-
-The small book is a book of prayers. Someone
-has slashed the pages with a knife. The prayer
-book was slashed apart by the bugbears in room
-59.
+The small book is a book of prayers. Someone has slashed the pages with a knife. The prayer book was slashed apart by the bugbears in room 59.
 
 58. SANCTUARY
 
- 
+This large room looks like a temple where the patron Immortal of Haven is worshipped. A statue wearing clerical robes stands in front of an altar. More statues of people of many different ages, all dressed in normal clothing, sit on the wooden pews. Someone has splashed red paint over the altar and all the statues.
 
-This large room looks like a temple where
-the patron Immortal of Haven is wor-
-shipped. A statue wearing clerical robes
-
- 
-
- 
-
- 
-
-
-
-stands in front of an altar. More statues of
-people of many different ages, all dressed
-in normal clothing, sit on the wooden
-pews. Someone has splashed red paint over
-the altar and all the statues.
-
- 
-
- 
-
- 
-
-This room is the palace chapel. A service was
-being held at the time when the disaster
-struck. The cleric Branaur and the people
-attending the service were all turned into
-stone. The bugbears in room 59 have splashed
-red paint on the statues. If they check, the
-party will discover that the paint is still fresh.
+This room is the palace chapel. A service was being held at the time when the disaster struck. The cleric Branaur and the people attending the service were all turned into stone. The bugbears in room 59 have splashed red paint on the statues. If they check, the party will discover that the paint is still fresh.
 
 59. CHAPEL
 
- 
+This room is filled with symbols holy to the gods of Haven. Three large, human-like individuals are splashing red paint on the holy symbols using large buckets of paint. The three creatures are extremely hairy and ugly-looking.
 
-This room is filled with symbols holy to the
-gods of Haven. Three large, human-like
-individuals are splashing red paint on the
-holy symbols using large buckets of paint.
-The three creatures are extremely hairy and
-ugly-looking.
+If the party has encountered goblins or hobgoblins, they will recognize a family resemblance between goblins, hobgoblins and the three bugbears (AC 5; HD 3 +1; hp 14 each; MV 30’; #AT 1; D 1-6 +1; Save F3; ML 9; AL C). Bugbears are giant hairy goblins. Because of their strength, they add +1 to all damage rolls with weapons (but not on their “to hit” rolls).
 
- 
+60. SECRET CLOSET
 
- 
+You see a number of clerical robes and fighting gear hanging in this closet.
 
- 
-
-If the party has encountered goblins or hob-
-goblins, they will recognize a family resem-
-blance between goblins, hobgoblins and the
-three bugbears (AC 5; HD 3 +1; hp 14 each;
-MV 30’; #AT 1; D 1-6 +1; Save F3; ML 9; AL
-C). Bugbears are giant hairy goblins. Because
-of their strength, they add +1 to all damage
-rolls with weapons (but not on their “to hit”
-rolls).
-
-60, SECRET CLOSET
-
- 
-
-You see a number of clerical robes and
-fighting gear hanging in this closet.
-
- 
-
- 
-
- 
-
-Branaur keeps his spare robes and fighting
-equipment in this secret closet. His armor is
-plate mail +1 and his mace is a mace +1.
+Branaur keeps his spare robes and fighting equipment in this secret closet. His armor is plate mail +1 and his mace is a mace +1.
 
 61. GAME ROOM
 
- 
+A game table has been set up in the middle of the room. A chess set sits upon it, with a game apparently in progress. Two statues sit on either side of the chess board. One statue is of a man, the other is of a woman. On the north wall of the room is a mosaic map of Haven. The area on the map which fepresents the palace glows with a red light. The red light seems to be slowly expanding outward, covering more of Haven as you watch.
 
-A game table has been set up in the middle
-of the room. A chess set sits upon it, with a
-game apparently in progress. Two statues
-sit on either side of the chess board. One
-statue is of a man, the other is of a woman.
-On the north wall of the room is a mosaic
-map of Haven. The area on the map which
-fepresents the palace glows with a red
-light. The red light seems to be slowly
-expanding outward, covering more of
-Haven as you watch.
+The wall map magically depicts the spreading influence of the Eye of Arik. It indicates that if the player characters do not succeed in their mission, Haven is doomed.
 
- 
+62. BALLROOM
 
- 
+This large ballroom is decorated in silver, red and blue. The two huge fireplaces are stacked with logs. A bell-shaped wire framework hangs from the ceiling, supported by four white marble columns. The framework is decorated with intertwined leaves and flowers. You hear the strains of eerie music. Two pale, shadowy apparitions are dancing to the sounds of the strange music. The two figures are dressed in clothing that was popular more than three hundred years ago.
 
- 
+The ballroom had already been decorated for the grand dance to celebrate the finding of the ruby when the disaster struck Haven. The two ghostly dancers have haunted the ballroom since their tragic deaths nearly 300 years ago. The ghostly dancers were lovers who died on the eve of their marriage just before a grand ball to celebrate their marriage. Ever since then, they have haunted the ballroom at times right before a grand ball. They leave when the dance begins, but since the celebration has been postponed indefinitely, they continue to haunt the room.
 
-The wall map magically depicts the spreading
-influence of the Eye of Arik. It indicates that if
-the player characters do not succeed in their
-mission, Haven is doomed.
+Characters who look at the ghostly dancers must make a saving throw vs. Spells or run from the room in fright. Anyone who fails to save will run into room 63 (the garden). the ghostly dancers have no actual physical bodies. They cannot attack, nor can they be hurt by weapons or magic. If attacked, they will continue to dance on, completely ignoring the party.
 
-
-62, BALLROOM
-
- 
-
-This large ballroom is decorated in silver,
-red and blue. The two huge fireplaces are
-stacked with logs. A bell-shaped wire
-framework hangs from the ceiling, sup-
-ported by four white marble columns. The
-framework is decorated with intertwined
-leaves and flowers. You hear the strains of
-eerie music. Two pale, shadowy appari-
-tions are dancing to the sounds of the
-strange music. The two figures are dressed
-in clothing that was popular more than
-three hundred years ago.
-
- 
-
- 
-
- 
-
-The ballroom had already been decorated for
-the grand dance to celebrate the finding of the
-ruby when the disaster struck Haven. The two
-ghostly dancers have haunted the ballroom
-since their tragic deaths nearly 300 years ago.
-The ghostly dancers were lovers who died on
-the eve of their marriage just before a grand
-ball to celebrate their marriage. Ever since
-then, they have haunted the ballroom at
-times right before a grand ball. They leave
-when the dance begins, but since the celebra-
-tion has been postponed indefinitely, they
-continue to haunt the room.
-
-Characters who look at the ghostly dancers
-must make a saving throw vs. Spells or run
-from the room in fright. Anyone who fails to
-save will run into room 63 (the garden). the
-ghostly dancers have no actual physical
-bodies. They cannot attack, nor can they be
-hurt by weapons or magic. If attacked, they
-will continue to dance on, completely ignor-
-
-ing the party.
 63. PALACE GARDEN
 
- 
+This area is the palace garden. The garden is roofless and is lit from above by a blood ted light. The garden has become completely overgrown with weeds. Except fora large stand of white rose bushes in the center of the garden, all the flowers that once grew here have died. One type of weed seems most common in the garden. The weed is a large bush. It has a dwarf-sized central trunk covered with sickly-looking green leaves. Growing out of the central mound-like trunk is a tangle of many thorny branches. You see about a dozen of these plants. Beneath the weeds you can just barely see a cobblestone path that wanders through the garden.
 
-This area is the palace garden. The garden
-is roofless and is lit from above by a blood
-ted light. The garden has become com-
-pletely overgrown with weeds. Except fora
-large stand of white rose bushes in the cen-
-ter of the garden, all the flowers that once
-grew here have died. One type of weed
-seems most common in the garden. The
-weed is a large bush. It has a dwarf-sized
-central trunk covered with sickly-looking
-green leaves. Growing out of the central
-mound-like trunk is a tangle of many
-thorny branches. You see about a dozen of
-these plants. Beneath the weeds you can
-just barely see a cobblestone path that
-wanders through the garden.
+Where Arik rules, normal plants do not grow. The normal flowers in the garden have all died. In their place now grow weeds and two monstrous types of plants.
 
- 
+The garden introduces two new monsters: archer bushes and vampire roses. The bushes with the sickly green trunks and thorny brown branches are archer bushes (AC 7; HD 2; hp 9 each; MV 1’; #AT 1; D 1-4; Save Fl; ML 12; AL C). Archer bushes are carnivorous and can move slowly to reach dead prey. Hidden in the trunk, beneath the leaves, is a large mouth. The mouth holds extra hard thorns which the archer bush uses like teeth to devour prey once the prey is killed. Archer bushes attack by shooting a spray of thorns at their victims. The thorn spray is composed of several small thorns which become embedded in the victim’s flesh on a successful “to hit’’ roll. The thorn spray causes 1-4 points of damage, and can only be directed at one target at a time. Archer bushes can shoot their thorn spray up to 20 feet away. Each bush can only fire three such sprays in a day.
 
- 
+The white rose bush at the center of the garden is a vampire rose bush. Vampire roses (AC 7; HD 4; hp 18; MV 10’; #AT 1+ blood drain; D 1-8; Save F2; ML 12; AL C) look like normal white rose bushes. Like the archer bushes, however, they can uproot themselves to move about slowly. Each 4 hit dice worth of vampire roses represents a single rose bush. There is only one vampire rose bush in this garden. The 10’ long thorny stalks of a vampire rose can whip around a victim, inflicting 1-8 points of damage on a successful hit. Once the thorn stalk has struck and wrapped around a victim, the vampire rose will inflict 1-8 points of damage (blood-drain) each round automatically. The vampire rose also injects a hypnotic anesthetic into the victim's bloodstream. The victim must save vs. Spells or lose all willpower, allowing the vampire rose to continue sucking blood until the victim dies. If the victim saves successfully, any character with normal strength can break free and try to run away. After a vampire rose has completely drained a victim, the roses will be colored blood red instead of white for 1 day.
 
- 
-
-Where Arik rules, normal plants do not grow.
-The normal flowers in the garden have all
-died. In their place now grow weeds and two
-monstrous types of plants.
-
-The garden introduces two new monsters:
-archer bushes and vampire roses. The bushes
-with the sickly green trunks and thorny brown
-branches are archer bushes (AC 7; HD 2; hp 9
-each; MV 1’; #AT 1; D 1-4; Save Fl; ML 12;
-AL C). Archer bushes are carnivorous and can
-move slowly to reach dead prey. Hidden in the
-trunk, beneath the leaves, is a large mouth.
-The mouth holds extra hard thorns which the
-archer bush uses like teeth to devour prey once
-the prey is killed. Archer bushes attack by
-shooting a spray of thorns at their victims. The
-thorn spray is composed of several small
-thorns which become embedded in the vic-
-tim’s flesh on a successful “to hit’’ roll. The
-thorn spray causes 1-4 points of damage, and
-can only be directed at one target at a time.
-Archer bushes can shoot their thorn spray up
-to 20 feet away. Each bush can only fire three
-such sprays in a day.
-
-The white rose bush at the center of the gar-
-den is a vampire rose bush. Vampire roses (AC
-7; HD 4; hp 18; MV 10’; #AT 1+ blood
-drain; D 1-8; Save F2; ML 12; AL C) look like
-normal white rose bushes. Like the archer
-bushes, however, they can uproot themselves
-to move about slowly. Each 4 hit dice worth of
-vampire roses represents a single rose bush.
-There is only one vampire rose bush in this
-garden. The 10’ long thorny stalks of a vam-
-pire rose can whip around a victim, inflicting
-1-8 points of damage on a successful hit. Once
-the thorn stalk has struck and wrapped around
-a victim, the vampire rose will inflict 1-8
-points of damage (blood-drain) each round
-automatically. The vampire rose also injects a
-hypnotic anesthetic into the victim's blood-
-stream. The victim must save vs. Spells or lose
-all willpower, allowing the vampire rose to
-continue sucking blood until the victim dies.
-If the victim saves successfully, any character
-with normal strength can break free and try to
-run away. After a vampire rose has completely
-drained a victim, the roses will be colored
-blood red instead of white for 1 day.
-
-The archer bushes and the vampire bush
-work together. The vampire rose needs a vic-
-tim’s blood and the archer bushes need the
-victim's flesh. On a pedestal 5’ away from the
-vampire rose bush is a silver statuette of a
-dragon about to fly. The statuette is similar to
-the ones in rooms (33 & 43). The silver statu-
-ettes can be used to return the dragon Ariks-
-bane to Haven. Ariksbane can destroy the Eye
-of Arik (see room 30 for details).
+The archer bushes and the vampire bush work together. The vampire rose needs a victim’s blood and the archer bushes need the victim's flesh. On a pedestal 5’ away from the vampire rose bush is a silver statuette of a dragon about to fly. The statuette is similar to the ones in rooms (33 & 43). The silver statuettes can be used to return the dragon Ariksbane to Haven. Ariksbane can destroy the Eye of Arik (see room 30 for details).
 
 64. SILENT ALARM
 
-Corridor: As the party steps under this arch-
-way, they will step on a hidden pressure plate
-that rings an alarm bell in room 65, warning
-the monster there of the party’s presence.
-
-
+Corridor: As the party steps under this archway, they will step on a hidden pressure plate that rings an alarm bell in room 65, warning the monster there of the party’s presence.
 
 65. GREAT HALL
 
- 
+This large dining hall is panelled with rough wood. Wooden bracing beams run from floor to ceiling along all four walls. Crossbeams run from the bracing beams, supporting the wooden ceiling. A large fireplace is set in the north wall. A long Ushaped wooden table dominates the center of the room. Stuffed animal heads, obviously hunting trophies, hang on the walls.
 
-This large dining hall is panelled with
-rough wood. Wooden bracing beams run
-from floor to ceiling along all four walls.
-Crossbeams run from the bracing beams,
-supporting the wooden ceiling. A large
-fireplace is set in the north wall. A long U-
-shaped wooden table dominates the center
-of the room. Stuffed animal heads, obvi-
-ously hunting trophies, hang on the walls.
+This dining room was used for grand feasts. The wooden beams were intended to give it a “rugged” look. Hanging from the ceiling beams, waiting for the party, isa new monster, a decapus (which was warned of the party's approach when they stepped on the pressure plate in area 64).
 
- 
+The decapus (AC 5; HD 4; hp 18; MV 1’ or 30'; #AT 9; D 1-6 or 1-3 each; Save F2; ML 9; AL C) is a creature usually found in forests. It looks like a bloated, hairy globe with ten tentacles. Its hair is brown, and its body is green. In the center of the decapus's 4’ wide body is a huge, toothy mouth.
 
- 
+Decapuses usually live alone, preferring to hunt by themselves. They hunt by swinging through trees and scooping up their prey in their tentacles. The tentacles are 10’ long. They extend from all parts of its body. The tentacles are covered with suckers which the decapus can use not only to grasp prey, but to climb walls and ceilings.
 
- 
+The decapus attacks with nine of its tentacles, using the tenth tentacle to hang from the ceiling (or trees). When the floor or ground, the decapus is much more helpless. Its tentacles are not strong enough to support its weight upright for long periods of time. On the ground, the decapus can only manage six attacks, and these attacks do only half normal damage. When swinging through trees, the decapus can travel at 90' per turn, or 30’ per round. On the ground the decapus can only move 3’ per turn or 1’ per round.
 
-This dining room was used for grand feasts.
-The wooden beams were intended to give it a
-“rugged” look. Hanging from the ceiling
-beams, waiting for the party, isa new monster,
-a decapus (which was warned of the party's
-approach when they stepped on the pressure
-plate in area 64).
-
-The decapus (AC 5; HD 4; hp 18; MV 1’ or
-30'; #AT 9; D 1-6 or 1-3 each; Save F2; ML 9;
-AL C) is a creature usually found in forests. It
-looks like a bloated, hairy globe with ten ten-
-tacles. Its hair is brown, and its body is green.
-In the center of the decapus's 4’ wide body is a
-huge, toothy mouth.
-
-Decapuses usually live alone, preferring to
-hunt by themselves. They hunt by swinging
-through trees and scooping up their prey in
-their tentacles. The tentacles are 10’ long.
-They extend from all parts of its body. The
-tentacles are covered with suckers which the
-decapus can use not only to grasp prey, but to
-climb walls and ceilings.
-
-The decapus attacks with nine of its tenta-
-cles, using the tenth tentacle to hang from the
-ceiling (or trees). When the floor or ground,
-the decapus is much more helpless. Its tenta-
-cles are not strong enough to support its
-weight upright for long periods of time. On
-the ground, the decapus can only manage six
-attacks, and these attacks do only half normal
-damage. When swinging through trees, the
-decapus can travel at 90' per turn, or 30’ per
-round. On the ground the decapus can only
-move 3’ per turn or 1’ per round.
-
-If the party searches the room they will find
-on the mantle a book, which the orcs who
-serve Arik took from the library and brought
-to the decapus to guard. The book details
-what happens when Arik tries to break into
-another dimension. The party will recognize
-the description as similar to what has befallen
-Haven. The book also details methods of
-destroying an Eye of Arik, including those
-methods given in the introduction. If the par-
-ty is not already aware what their true mission
-is and how the mission can be accomplished,
-the DM should take this opportunity to
-inform them.
-
-
- 
+If the party searches the room they will find on the mantle a book, which the orcs who serve Arik took from the library and brought to the decapus to guard. The book details what happens when Arik tries to break into another dimension. The party will recognize the description as similar to what has befallen Haven. The book also details methods of destroying an Eye of Arik, including those methods given in the introduction. If the party is not already aware what their true mission is and how the mission can be accomplished, the DM should take this opportunity to inform them.
 
 66. WASHROOM
 
- 
+This room contains a counter along the east wall. Beneath the counter top is a pair of sliding cabinet doors. The room otherwise appears to be empty.
 
-This room contains a counter along the
-east wall. Beneath the counter top is a pair
-of sliding cabinet doors. The room other-
-wise appears to be empty.
-
- 
-
- 
-
- 
-
-This is a room where hunters clean up after the
-hunt. Beneath the counter are shelves filled
-with basins for holding water, bars of soap,
-and clean towels, The room is empty of mon-
-stefs or treasure.
+This is a room where hunters clean up after the hunt. Beneath the counter are shelves filled with basins for holding water, bars of soap, and clean towels, The room is empty of monstefs or treasure.
 
 67. LOUNGE
 
- 
+This room holds piles of broken furniture. Standing among the remains of the furniture is a huge fearsome, human-like creature about 9’ tall. The creature is wearing skins for clothing.
 
-This room holds piles of broken furniture.
-Standing among the remains of the furni-
-ture is a huge fearsome, human-like crea-
-ture about 9’ tall. The creature is wearing
-skins for clothing.
-
- 
-
- 
-
- 
-
-The human-like creature is an ogre (AC 5; HD
-4+1; hp 19; MV 30’; #AT 1; D 1-10; Save F4;
-ML 10; AL C). The ogre is on a rampage and
-has just destroyed the furniture here for the
-fun of it. The ogre is carrying a leather sack
-with 300 gp in it.
+The human-like creature is an ogre (AC 5; HD 4+1; hp 19; MV 30’; #AT 1; D 1-10; Save F4; ML 10; AL C). The ogre is on a rampage and has just destroyed the furniture here for the fun of it. The ogre is carrying a leather sack with 300 gp in it.
 
 68. SUMMONING ROOM
 
- 
+When you open the door you see a man chanting in some unknown language. The man is standing inside a blood fed circle. Strange symbols have been painted around the circle. The man has long black hair and wears red robes. Hanging from his belt is a mace. A red eye has been painted in the center of his forehead. Inside the circle, in front of the man, is a strange-looking sword. The sword, which appears to be made of ruby, rests on a plush black velvet cushion. As the man continues to chant, the sword begins to pulse with a crimson light.
 
-When you open the door you see a man
-chanting in some unknown language. The
-man is standing inside a blood fed circle.
-Strange symbols have been painted around
-the circle. The man has long black hair and
-wears red robes. Hanging from his belt is a
-mace. A red eye has been painted in the
-center of his forehead. Inside the circle, in
-front of the man, is a strange-looking
-sword. The sword, which appears to be
-made of ruby, rests on a plush black velvet
-cushion. As the man continues to chant,
-the sword begins to pulse with a crimson
-light.
+The man inside the circle is Catharandamus, a cleric who worships Arik (AC 2; C3; hp 15; MV 30’; #AT 1; D 1-6 +2 or by spell; ML 7; AL C; $16, 112, W17, D12, C10, Ch14). Right now, he is in the middle of a ceremony that will permit Arik to teleport from his prison dimension to Haven. The focal point of the ceremony is the ruby sword, which is the Sword of Arik. This sword will act as a gate through which Arik will enter Haven if the ceremony is successful. As soon as Catharandamus sees the party he will yell “Help!” A voice from behind the left inner door (to room 69) will answer ‘“‘Hang on, we're coming.” Two rounds later the 7 orcs and the werewolf from room 69 will burst into the room.
 
- 
+Catharandamus has two spells: darkness and cause fear. Darkness is the reverse of the spell light. It will block all sight except infravision within a circle of darkness 30' in diameter. It will cancel a light spell if cast against it and vice versa. If cast at an opponent's eyes, it will cause blindness until cancelled, or until the spell duration is reached (12 turns). Cause fear is the reverse of the spell remove fear. It will make any one creature flee for 2 turns unless a successful save vs. Spells is made. The spell has a range of 120’.
 
- 
-
- 
-
-The man inside the circle is Catharandamus, a
-cleric who worships Arik (AC 2; C3; hp 15;
-MV 30’; #AT 1; D 1-6 +2 or by spell; ML 7;
-AL C; $16, 112, W17, D12, C10, Ch14).
-Right now, he is in the middle of a ceremony
-that will permit Arik to teleport from his
-prison dimension to Haven. The focal point of
-the ceremony is the ruby sword, which is the
-Sword of Arik. This sword will act as a gate
-through which Arik will enter Haven if the
-ceremony is successful. As soon as Catharan-
-damus sees the party he will yell “Help!” A
-voice from behind the left inner door (to room
-69) will answer ‘“‘Hang on, we're coming.”
-Two rounds later the 7 orcs and the werewolf
-from room 69 will burst into the room.
-
-Catharandamus has two spells: darkness
-and cause fear. Darkness is the reverse of the
-spell light. It will block all sight except infra-
-vision within a circle of darkness 30' in diame-
-ter. It will cancel a light spell if cast against it
-and vice versa. If cast at an opponent's eyes, it
-will cause blindness until cancelled, or until
-the spell duration is reached (12 turns). Cause
-fear is the reverse of the spell remove fear. It
-will make any one creature flee for 2 turns
-unless a successful save vs. Spells is made. The
-spell has a range of 120’.
-
-Beneath his robes, Catharandamus wears a
-suit of plate mail armor. He carries and will
-fight with his magical mace +2.
+Beneath his robes, Catharandamus wears a suit of plate mail armor. He carries and will fight with his magical mace +2.
 
 69. BEDROOM
 
-The wooden chest is a treasure chest. It is
-trapped with a poison dart trap. A close
-inspection of the chest will show that the lock
-is in the form of a screaming face. The two
-eyes of the face can be pushed in. If both eyes
-are pushed in at the same time, the chest will
-be safe to open. If not, a poison needle will
-shoot out of the mouth when opened. Any-
-one opening the chest without precautions
-will be hit by the needle and must save vs. Poi-
-son or die within 2 rounds. Inside the chest are
-650 gp, 1,000 sp, and a pouch holding 10 fire
-agates (a type of gem stone) each worth 50 gp.
-The treasure belongs to Catharandamus and
-his bodyguard.
+The wooden chest is a treasure chest. It is trapped with a poison dart trap. A close inspection of the chest will show that the lock is in the form of a screaming face. The two eyes of the face can be pushed in. If both eyes are pushed in at the same time, the chest will be safe to open. If not, a poison needle will shoot out of the mouth when opened. Anyone opening the chest without precautions will be hit by the needle and must save vs. Poison or die within 2 rounds. Inside the chest are 650 gp, 1,000 sp, and a pouch holding 10 fire agates (a type of gem stone) each worth 50 gp. The treasure belongs to Catharandamus and his bodyguard.
 
 71. SITTING ROOM
 
- 
+This room contains a bed, a large wooden chest, a stool, and a wooden wardrobe.
 
-This room contains a bed, a large wooden
-chest, a stool, and a wooden wardrobe.
+The bedclothes are crumpled, as if a number of people had been sitting on the bed. The chest is filled with old nightshirts packed in mothballs. The wardrobe is empty. Normally this room is a guest bedroom. Recently, the room has been occupied by the bodyguard of Catharandamus, the cleric in room 68. The bodyguard is 7 large orcs (AC 6; HD 1; hp 6 each; MV 40’; #AT 1; D 1-6; Save Fl; ML 8; ALC). The orcs all carry shields with a red eye painted on them. The leader of the orcs is Alha, a werewolf (lycanthrope), When first encountered, she will be in human form, but she will change into a werewolf to attack if she can. Alha (AC 5 (9 in human form); HD 4*; hp 18; MV 60’; #AT 1; D 2-8; Save F4; ML 8; AL C) will also be wearing a red robe and has an eye painted on her forehead.
 
- 
-
- 
-
- 
-
-The bedclothes are crumpled, as if a number
-of people had been sitting on the bed. The
-chest is filled with old nightshirts packed in
-mothballs. The wardrobe is empty. Normally
-this room is a guest bedroom. Recently, the
-room has been occupied by the bodyguard of
-Catharandamus, the cleric in room 68. The
-bodyguard is 7 large orcs (AC 6; HD 1; hp 6
-each; MV 40’; #AT 1; D 1-6; Save Fl; ML 8;
-ALC). The orcs all carry shields with a red eye
-painted on them. The leader of the orcs is
-Alha, a werewolf (lycanthrope), When first
-encountered, she will be in human form, but
-she will change into a werewolf to attack if she
-can. Alha (AC 5 (9 in human form); HD 4*;
-hp 18; MV 60’; #AT 1; D 2-8; Save F4; ML 8;
-AL C) will also be wearing a red robe and has
-an eye painted on her forehead.
-
-If Catharandamus yells for help (from room
-68), Alha and the orcs will yell back that they
-are on their way and rush to his aid. Alha will
-turn into a werewolf and attack. Any human
-character who is severely hurt by her (losing
-more than half of his or her hit points) will
-become a lycanthrope of the same type in 2-24
-days. The victim will begin to show signs of
-the disease (such as an appetite for raw meat)
-after only half that time. The disease will kill
-non-humans instead of turning them into
-were-creatures. However, if the Eye of Arik is
-destroyed as a result of the party’s actions, any
-character with the disease of lycanthropy will
-automatically be cured.
+If Catharandamus yells for help (from room 68), Alha and the orcs will yell back that they are on their way and rush to his aid. Alha will turn into a werewolf and attack. Any human character who is severely hurt by her (losing more than half of his or her hit points) will become a lycanthrope of the same type in 2-24 days. The victim will begin to show signs of the disease (such as an appetite for raw meat) after only half that time. The disease will kill non-humans instead of turning them into were-creatures. However, if the Eye of Arik is destroyed as a result of the party’s actions, any character with the disease of lycanthropy will automatically be cured.
 
 70. TREASURE ROOM
 
- 
+This room appears to be bare except for a table and four chairs. A wooden chest sits on top of the table.
 
-This room appears to be bare except for a
-table and four chairs. A wooden chest sits
+Several chairs and tables form a semi-circle in front of the fireplace in this room. A worn rug lies rolled up in one corner. A knitting basket sits next to the rug. On a small table near the fireplace is a small tea cup on a saucer and a tea pot. Hanging over the fireplace is a portrait of Princess Argenta. She is holding a beautiful blood red ruby the size of an apple.
 
- 
-
- 
-
-on top of the table.
-
- 
-
-
-
-Several chairs and tables form a semi-circle
-in front of the fireplace in this room. A
-worn rug lies rolled up in one corner. A
-knitting basket sits next to the rug. On a
-small table near the fireplace is a small tea
-cup on a saucer and a tea pot. Hanging
-over the fireplace is a portrait of Princess
-Argenta. She is holding a beautiful blood
-red ruby the size of an apple.
-
- 
-
- 
-
- 
-
-The tea cup is magical. If any character touch-
-es the tea cup it will speak, reciting a tiddle-
-type poem which gives the party hints on how
-to stop the disaster that has befallen Haven.
-The riddle is:
+The tea cup is magical. If any character touches the tea cup it will speak, reciting a tiddletype poem which gives the party hints on how to stop the disaster that has befallen Haven. The riddle is:
 
 Three crystal notes;
-
 Two Silver drakes;
-
 One ruby sword;
-
 All will smash the Demon's Eye,
 And lift the curse from Haven.
 
-The riddle refers to the Ice Harp (room 32),
-the silver statuettes of the dragon Ariksbane
-(rooms 33, 43, and 63), and the Sword of Arik
-(room 68).
+The riddle refers to the Ice Harp (room 32), the silver statuettes of the dragon Ariksbane (rooms 33, 43, and 63), and the Sword of Arik (room 68).
 
 72. BATHING ROOM
 
- 
+The walls of this bathing room are painted with peaceful scenes of spring and summer. An ornate marble and silver bathtub sits against the eastern wall. A silver enamelled towel rack standing next to the tub holds a towel and wash cloth. A soap container of carved ivory sits on a stand next to the tub. At the head of the tub is a delicately sculpted tray. Sitting on the tray are three small gems. One gem is red, one is blue, the other is yellow.
 
-The walls of this bathing room are painted
-with peaceful scenes of spring and sum-
-mer. An ornate marble and silver bathtub
-sits against the eastern wall. A silver enam-
-elled towel rack standing next to the tub
-holds a towel and wash cloth. A soap con-
-tainer of carved ivory sits on a stand next to
-the tub. At the head of the tub is a deli-
-cately sculpted tray. Sitting on the tray are
-three small gems. One gem is red, one is
-blue, the other is yellow.
-
- 
-
- 
-
- 
-
-This particular bath tub is magical. If the red
-stone is placed in the tub, the tub will fill with
-
-
-hot water. If the yellow stone is placed in the
-tub, the tub will fill with cold water. If both
-stones are placed in the tub at the same time, the
-tub will fill with warm water. If the blue stone is
-placed in a tub full of water, the water will disap-
-pear. These gems are only worth 100 gp each,
-and they will only work in this bath tub.
+This particular bath tub is magical. If the red stone is placed in the tub, the tub will fill with hot water. If the yellow stone is placed in the tub, the tub will fill with cold water. If both stones are placed in the tub at the same time, the tub will fill with warm water. If the blue stone is placed in a tub full of water, the water will disappear. These gems are only worth 100 gp each, and they will only work in this bath tub.
 
 73. ARGENTA’S BEDROOM
 
- 
+A large ornate canopy bed sits in the middle of the room. The bed posts have been carved to resemble twining vines. The bed is covered with dull red velvet. Tapestries line three walls. They show typical scenes of life in Haven before the disaster struck. To cither side of the double door is a handcarved wooden chest of drawers. Both chest of drawers have mirrors on top of them. A small cushioned chair and matching footstool are at the end of the bed.
 
-A large ornate canopy bed sits in the mid-
-dle of the room. The bed posts have been
-carved to resemble twining vines. The bed
-is covered with dull red velvet. Tapestries
-line three walls. They show typical scenes
-of life in Haven before the disaster struck.
-To cither side of the double door is a hand-
-carved wooden chest of drawers. Both chest
-of drawers have mirrors on top of them. A
-small cushioned chair and matching foot-
-stool are at the end of the bed.
-
- 
-
- 
-
- 
-
-This was Princess Argenta’s room. It is cur-
-rently empty.
+This was Princess Argenta’s room. It is currently empty.
 
 74, GUARD ROOM
 
- 
+The room contains a wooden table and several wooden chairs. Standing next to the fireplace is a man dressed in the uniform of the palace guard. The man’s body has more than a dozen stab wounds, which would normally kill an individual.
 
-The room contains a wooden table and sev-
-eral wooden chairs. Standing next to the
-fireplace is a man dressed in the uniform of
-the palace guard. The man’s body has
-more than a dozen stab wounds, which
-would normally kill an individual.
+The man in the guard uniform is a corpse. Living in the corpse is a particular kind of undead spirit known as a wight (AC 5; HD 3*; hp 13; MV 30’; #AT 1; D Energy drain; Save F3; AL 12; AL C). Wights can only be hit by silvered or magical weapons, or turned by a cleric. On a successful hit from a wight, it will drain life energy. Each hit drains one level of experience or hit die and any abilities gained for that level are lost. For example, a 3rd level fighter struck by a wight becomes a 2nd level fighter, keeping only enough experience points to be at the midpoint of 2nd level, and losing one hit die of hit points. Any person totally drained of life energy by a wight will become a wight in 1-4 days, and will be under the control of the wight who drained him or her.
 
- 
-
- 
-
- 
-
-The man in the guard uniform is a corpse. Liv-
-ing in the corpse is a particular kind of undead
-spirit known as a wight (AC 5; HD 3*; hp 13;
-MV 30’; #AT 1; D Energy drain; Save F3; AL
-12; AL C). Wights can only be hit by silvered
-or magical weapons, or turned by a cleric. On
-a successful hit from a wight, it will drain life
-energy. Each hit drains one level of experience
-or hit die and any abilities gained for that level
-are lost. For example, a 3rd level fighter struck
-by a wight becomes a 2nd level fighter, keep-
-ing only enough experience points to be at the
-
-midpoint of 2nd level, and losing one hit die
-of hit points. Any person totally drained of
-life energy by a wight will become a wight in
-1-4 days, and will be under the control of the
-wight who drained him or her.
-
-Hidden behind a loose stone in the north
-wall is the wight’s treasure: 2,000 gp and a
-crystal ball.
+Hidden behind a loose stone in the north wall is the wight’s treasure: 2,000 gp and a crystal ball.
 
 75. ALE ROOM
 
- 
+On a stand in the southeast corner of the room sits a cask that has been tapped with a spout. A cabinet next to the cask holds dozens of glasses. The room also contains a half-dozen wooden chairs.
 
-On a stand in the southeast corner of the
-room sits a cask that has been tapped with
-a spout. A cabinet next to the cask holds
-dozens of glasses. The room also contains a
-half-dozen wooden chairs.
-
- 
-
- 
-
- 
-
-This room is an ale room. It is empty of mon-
-stefs of treasure at present.
+This room is an ale room. It is empty of monstefs of treasure at present.
 
 76. THRONE ROOM
 
- 
+An ornate throne of silver and oak sits atop a dais along the center of the north wall. On either side of the dais is a tapestry showing the changing seasons in Haven. Spring and Summer are shown on the tapestry to the left of the throne. Fall and Winter are shown on the tapestry to the right of the throne. The room is filled with statues of men, women and dwarves. The statues are arranged to resemble a typical court scene (one statue kneels in front of the throne, statues of guards flank the throne, a statue of a councilor is leaning over, as if whispering to a person on the throne, etc.) Resting in the middle of the throne is a glowing ruby the size of a large man’s fist.
 
-An ornate throne of silver and oak sits atop
-a dais along the center of the north wall.
-On either side of the dais is a tapestry
-showing the changing seasons in Haven.
-Spring and Summer are shown on the tap-
-estry to the left of the throne. Fall and
-Winter are shown on the tapestry to the
-right of the throne. The room is filled with
-statues of men, women and dwarves. The
-statues are arranged to resemble a typical
-court scene (one statue kneels in front of
-the throne, statues of guards flank the
-throne, a statue of a councilor is leaning
-over, as if whispering to a person on the
-throne, etc.) Resting in the middle of the
-throne is a glowing ruby the size of a large
-man’s fist.
+This is Princess Argenta’s court room, the heart of the palace. The statues are people who were turned to stone when the Eye of Arik took control. If the party looks closely at the ruby, they will notice what appears to be two people trapped inside. One is Princess Argenta, the other is Ellis the Strong, Knight of the White Drakes.
 
- 
+As soon as the first character touches the ruby, red vapors will billow up from it and surround the dais, momentarily obscuring vision, When the smoke clears, several fightets in glowing red plate mail with red swords and shields will be standing there guarding the dais. The number of guards will always be exactly equal to the number of party members present when the encounter begins.
 
- 
+The glowing guards are illusions, similar to the fighter in room 15. However, they will not go away for 10 rounds or when they are actually touched by a hand (not hit in combat). They attack as 3 hit dice monsters (inflicting 1-10 points per hit), and no attacks from the party will hit or harm them. As soon as one illusion is touched with a hand, they will all disappear and the “dead” and “wounded” characters will realize that the damage they took in this battle was imaginary.
 
- 
+This is the key room in the party’s quest. Their mission is to smash the ruby, thus freeing Haven from the disaster that has overtaken the valley. The ruby can only be destroyed in three ways: (1) Three parti notes played on the Ice Harp will shatter the ruby; (2) If the party brings two (or more) statuettes of the silver dragon into the room, the Ariksbane will be freed and the dragon’s breath will disintegrate the ruby (without harming anything else in the room); (3) If some character touches the ruby Sword of Arik to the ruby Eye of Arik, both will crumble into worthless powder.
 
-This is Princess Argenta’s court room, the
-heart of the palace. The statues are people
-who were turned to stone when the Eye of
-Arik took control. If the party looks closely at
-the ruby, they will notice what appears to be
-two people trapped inside. One is Princess
-
-Argenta, the other is Ellis the Strong, Knight
-of the White Drakes.
-
-As soon as the first character touches the
-ruby, red vapors will billow up from it and sur-
-round the dais, momentarily obscuring
-vision, When the smoke clears, several fight-
-ets in glowing red plate mail with red swords
-and shields will be standing there guarding
-the dais. The number of guards will always be
-exactly equal to the number of party members
-present when the encounter begins.
-
-The glowing guards are illusions, similar to
-the fighter in room 15. However, they will not
-go away for 10 rounds or when they are actu-
-ally touched by a hand (not hit in combat).
-They attack as 3 hit dice monsters (inflicting
-1-10 points per hit), and no attacks from the
-party will hit or harm them. As soon as one
-illusion is touched with a hand, they will all
-disappear and the “dead” and “wounded”
-characters will realize that the damage they
-took in this battle was imaginary.
-
-This is the key room in the party’s quest. Their
-mission is to smash the ruby, thus freeing Haven
-from the disaster that has overtaken the valley.
-The ruby can only be destroyed in three ways: (1)
-Three parti notes played on the Ice Harp
-will shatter the ruby; (2) If the party brings two
-(or more) statuettes of the silver dragon into the
-room, the Ariksbane will be freed and
-the dragon’s breath will disintegrate the ruby
-(without harming anything else in the room);
-(3) If some character touches the ruby Sword of
-Arik to the ruby Eye of Arik, both will crumble
-into worthless powder.
-
-As soon as the ruby Eye of Arik is destroyed,
-the disaster that has befallen Haven will not
-only end, it will begin to reverse. Sick cattle
-will recover, withered crops will grow green
-again. The orcs, goblins, hobgoblins and oth-
-er evil creatures that invaded Haven at the call
-of the ruby will flee. The forces besieging the
-Protector will be scattered. Those people turn-
-ed to stone will become flesh. Only those indi-
-viduals unfortunate enough to die as a result
-of the disaster will not be restored to life. Oth-
-erwise, Haven will return to normal.
+As soon as the ruby Eye of Arik is destroyed, the disaster that has befallen Haven will not only end, it will begin to reverse. Sick cattle will recover, withered crops will grow green again. The orcs, goblins, hobgoblins and other evil creatures that invaded Haven at the call of the ruby will flee. The forces besieging the Protector will be scattered. Those people turned to stone will become flesh. Only those individuals unfortunate enough to die as a result of the disaster will not be restored to life. Otherwise, Haven will return to normal.
 
 
 THE HOBGOBLIN KING
