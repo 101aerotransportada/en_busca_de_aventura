@@ -1272,1063 +1272,223 @@ After a short, bloody fight both men were killed, but not before they killed thr
 
 11. CAVERN ENTRANCE
 
- 
+Wind whistles softly through this dark damp cave carrying with it a musky smell. Straw is scattered about the floor, along with jagged bones. Chained to one wall isa large ape with pale white fur. As soon as it sees you it begins to rattle its chain and roar.
 
-Wind whistles softly through this dark
-damp cave carrying with it a musky smell.
-Straw is scattered about the floor, along
-with jagged bones. Chained to one wall isa
-large ape with pale white fur. As soon as it
-sees you it begins to rattle its chain and
-roar.
-
- 
-
- 
-
- 
-
-The white ape (AC 6; HD 4; hp 18; MV 40’;
-#AT 2; D1-4/1-4; Save F2; ML 7; ALN) used
-to guard the entrance to the caverns. It was fed
-regularly and became something of a pet. It
-would not attack anyone wearing a guard uni-
-form. Unfortunately, the white ape has not
-been fed for many days. If the party gives the
-ape food, the white ape will not attack. The
-ape’s chain is long enough that there is not
-enough room to pass without being attacked.
+The white ape (AC 6; HD 4; hp 18; MV 40’; #AT 2; D1-4/1-4; Save F2; ML 7; ALN) used to guard the entrance to the caverns. It was fed regularly and became something of a pet. It would not attack anyone wearing a guard uni- form. Unfortunately, the white ape has not been fed for many days. If the party gives the ape food, the white ape will not attack. The ape’s chain is long enough that there is not enough room to pass without being attacked.
 
 12. OAKEN CABINET
 
- 
+An oaken cabinet sits against the west wall of this hexagonal room. The cabinet is carved with scenes of springtime in Haven. The floor of the room is white marble, veined with black and gold.
 
-An oaken cabinet sits against the west wall
-of this hexagonal room. The cabinet is
-carved with scenes of springtime in Haven.
-The floor of the room is white marble,
-veined with black and gold.
+The cabinet is filled with pale green towels and pink bars of soap carved into dolphins. Hidden under the towels is a spitting cobra (AC 7; HD 1; hp 3; MV 30’; #AT 1; D 1-3 + poison; Save Fl; ML 7; AL N). The cobra is asleep. It will attack if it is disturbed, other- wise it will remain quiet.
 
- 
-
- 
-
- 
-
-The cabinet is filled with pale green towels
-and pink bars of soap carved into dolphins.
-Hidden under the towels is a spitting cobra
-(AC 7; HD 1; hp 3; MV 30’; #AT 1; D 1-3 +
-poison; Save Fl; ML 7; AL N). The cobra is
-asleep. It will attack if it is disturbed, other-
-wise it will remain quiet.
-
-A spitting cobra is a 3’ long, grayish-white
-snake that can spit a stream of venom up to 6’.
-It aims for its victim's eyes. If the spit hits, the
-victim must save vs. Poison or be blinded. If
-the DM wishes, he or she can have the cobra
-bite, instead of spit poison. The damage
-caused (1-3 points) refers only to when the
-cobra bites. If the cobra bites instead of spit-
-ting, the victim must save vs. Poison or die in
-1-10 turns (instead of being blinded). Next to
-the spitting cobra is a large golden key worth
-150 gp.
-
-
- 
+A spitting cobra is a 3’ long, grayish-white snake that can spit a stream of venom up to 6’. It aims for its victim's eyes. If the spit hits, the victim must save vs. Poison or be blinded. If the DM wishes, he or she can have the cobra bite, instead of spit poison. The damage caused (1-3 points) refers only to when the cobra bites. If the cobra bites instead of spit- ting, the victim must save vs. Poison or die in 1-10 turns (instead of being blinded). Next to the spitting cobra is a large golden key worth 150 gp.
 
 13. SUNKEN BATH
 
- 
+This hexagonal room contains a large sunk- en bath filled with water. The sunken bath is made of white marble veined with black and gold. The walls of this room are lav- ishly decorated with murals of water nymphs, ponds with long reeds, and hunters stalking water birds. In one corner of the room are seven flasks and a large peacock feather fan. Flying above the bath you see five birdlike creatures. The crea- tures resemble small feathered anteaters, with long noses.
 
-This hexagonal room contains a large sunk-
-en bath filled with water. The sunken bath
-is made of white marble veined with black
-and gold. The walls of this room are lav-
-ishly decorated with murals of water
-nymphs, ponds with long reeds, and
-hunters stalking water birds. In one corner
-of the room are seven flasks and a large
-peacock feather fan. Flying above the bath
-you see five birdlike creatures. The crea-
-tures resemble small feathered anteaters,
-with long noses.
+The 5 birdlike creatures are stirges (AC 7; HD 1; hp 5 each; MV 60’; #AT 1; D 1-3; Save F2; ML9; ALN). When a stirge attacks a creature, it thrusts its beak into the victim's body to suck out blood for 1-3 points of damage. A successful hit means that it has attached itself to the victim and will automatically suck blood for 1-3 points of damage per round until either it or its victim is dead. If its victim dies, it will leave. A flying stirge gains a bonus of +2 to hit on its first attack against any one opponent, due to its speed.
 
- 
+If the party investigates the seven flasks, they will find that six of the flasks contain scented bath oil in different colors. The last flask is a potion of ESP.
 
- 
+14. PINK PEDESTAL
 
- 
+Upon entering this room, the first thing you notice is a small, pink marble pedestal five feet tall. Light gleams from a small object atop the pedestal. The object is sil- ver in color. Other than the pedestal the room seems to be empty.
 
-The 5 birdlike creatures are stirges (AC 7; HD
-1; hp 5 each; MV 60’; #AT 1; D 1-3; Save F2;
-ML9; ALN). When a stirge attacks a creature,
-it thrusts its beak into the victim's body to
-suck out blood for 1-3 points of damage. A
-successful hit means that it has attached itself
-to the victim and will automatically suck
-blood for 1-3 points of damage per round
-until either it or its victim is dead. If its victim
-dies, it will leave. A flying stirge gains a bonus
-of +2 to hit on its first attack against any one
-opponent, due to its speed.
+When a character gets within one foot of the pedestal, a green glow will surround the ped- estal. In the midst of the glow you see the transparent face of the Protector. The Protec- tor warns the party to “Beware!” then disap- pears along with the green glow.
 
-If the party investigates the seven flasks,
-they will find that six of the flasks contain
-scented bath oil in different colors. The last
-flask is a potion of ESP.
+On top of the pedestal is a small silver pen- dant on a silver chain. If a character reaches out to touch the pendant he or she will hear hysterical laughter which seems to come from the pendant. Any character who actually touches the pendant must make a save vs. Spells or be driven insane. The insanity will mainly consist of suicidal bravery, always charging into deadly battles, accompanied by hysterical laughter. There is no known cure for the madness (unless the DM chooses to make one up).
 
-14, PINK PEDESTAL
+The silver pendant once belonged to Silverheart, the alchemist. When used by Silverheart, the pendant was magical because it contained part of his spirit. The power of the Eye of Arik warped the magic of the silver pendant. Through Arik’s evil influence, it drove Silverheart insane.
 
- 
+Ac the time that Silverheart went insane, he was in the midst of an important alchemical experiment. Because of his insanity, the exper- iment produced disastrous results. The entire section of the palace (on level 2) where he was working exploded. Silverheart and those peo- ple in that section of the palace at the time were killed. All that remains of the section of the palace where Silverheart worked is rubble. The only thing to survive the explosion was the pendant which was teleported to the ped- estal by the power of the Eye of Arik. The pen- dant lies and waits for more victims.
 
-Upon entering this room, the first thing
-you notice is a small, pink marble pedestal
-five feet tall. Light gleams from a small
-object atop the pedestal. The object is sil-
-ver in color. Other than the pedestal the
-room seems to be empty.
+15. MOSAIC ROOM
 
- 
+This hexagonal room is decorated with mosaic tiles. The mosaic covers the entire room, the walls, the floor and the ceiling. One scene shows a man in black plate armor riding a white dragon. A young woman wearing a golden crown is riding in front of the man. Another scene shows elves playing in some woods while a white dragon watches them from a hiding place behind two tall pines. On another wall is a scene showing a pool of bright blue water. Several mermaids swim and frolic in the water. The design on the floor shows the crowned maiden, the man in black armor, and the white dragon asleep around a key hole. All the mosaics look new.
 
- 
+Once the party has entered the room, if they examine the mosaic, the keyhole in the floor will emit a blue white glow which will last until a key is placed into the keyhole. If the players use any key other than the gold key from room 12, or fail when trying to pick the lock, a stone slab will fall from the ceiling over the spot where the keyhole is located. Any character caught by the stone will suffer 2-12 points of damage.
 
- 
+If the gold key is placed in the keyhole, another keyhole will appear on the east wall. The second keyhole is also opened by the gold key. Once the key is placed in this second lock and turned, the mosaic, keyhole, and key will vanish. A long silvery sword, floating in the air, will appear in their place. The sword glows with a bright blue white light. If a character reaches out to touch the sword, the man in black plate mail will suddenly appear beside the sword and attack the character attempting to take the sword. The man will attack like a 10 hit dice monster.
 
-When a character gets within one foot of the
-pedestal, a green glow will surround the ped-
-estal. In the midst of the glow you see the
-transparent face of the Protector. The Protec-
-tor warns the party to “Beware!” then disap-
-pears along with the green glow.
+The man is an illusion and will disappear after 4 rounds or when it is touched by a char- acter. Touch does not mean hitting it in com- bat, it means touching the illusion with a bare hand. Characters hit by the illusion will believe that they have actually taken damage and will feel “hurt,” though no damage will actually be taken. The illusion cannot be hit in combat.
 
-On top of the pedestal is a small silver pen-
-dant on a silver chain. If a character reaches
-out to touch the pendant he or she will hear
-hysterical laughter which seems to come from
-the pendant. Any character who actually
-touches the pendant must make a save vs.
-Spells or be driven insane. The insanity will
-mainly consist of suicidal bravery, always
-charging into deadly battles, accompanied by
-hysterical laughter. There is no known cure for
-the madness (unless the DM chooses to make
-one up).
-
-The silver pendant once belonged to
-Silverheart, the alchemist. When used by
-
-Silverheart, the pendant was magical because
-it contained part of his spirit. The power of
-the Eye of Arik warped the magic of the silver
-pendant. Through Arik’s evil influence, it
-drove Silverheart insane.
-
-Ac the time that Silverheart went insane, he
-was in the midst of an important alchemical
-experiment. Because of his insanity, the exper-
-iment produced disastrous results. The entire
-section of the palace (on level 2) where he was
-working exploded. Silverheart and those peo-
-ple in that section of the palace at the time
-were killed. All that remains of the section of
-the palace where Silverheart worked is rubble.
-The only thing to survive the explosion was
-the pendant which was teleported to the ped-
-estal by the power of the Eye of Arik. The pen-
-dant lies and waits for more victims.
-
-15, MOSAIC ROOM
-
- 
-
-This hexagonal room is decorated with
-mosaic tiles. The mosaic covers the entire
-room, the walls, the floor and the ceiling.
-One scene shows a man in black plate
-armor riding a white dragon. A young
-woman wearing a golden crown is riding in
-front of the man. Another scene shows
-elves playing in some woods while a white
-dragon watches them from a hiding place
-behind two tall pines. On another wall is a
-scene showing a pool of bright blue water.
-Several mermaids swim and frolic in the
-water. The design on the floor shows the
-crowned maiden, the man in black armor,
-and the white dragon asleep around a key
-hole. All the mosaics look new.
-
- 
-
- 
-
- 
-
-Once the party has entered the room, if they
-examine the mosaic, the keyhole in the floor
-will emit a blue white glow which will last
-until a key is placed into the keyhole. If the
-players use any key other than the gold key
-from room 12, or fail when trying to pick the
-lock, a stone slab will fall from the ceiling over
-the spot where the keyhole is located. Any
-character caught by the stone will suffer 2-12
-points of damage.
-
-If the gold key is placed in the keyhole,
-another keyhole will appear on the east wall.
-The second keyhole is also opened by the gold
-key. Once the key is placed in this second lock
-and turned, the mosaic, keyhole, and key will
-vanish. A long silvery sword, floating in the
-air, will appear in their place. The sword glows
-with a bright blue white light. If a character
-reaches out to touch the sword, the man in
-black plate mail will suddenly appear beside
-the sword and attack the character attempting
-to take the sword. The man will attack like a
-10 hit dice monster.
-
-
-
-The man is an illusion and will disappear
-after 4 rounds or when it is touched by a char-
-acter. Touch does not mean hitting it in com-
-bat, it means touching the illusion with a bare
-hand. Characters hit by the illusion will
-believe that they have actually taken damage
-and will feel “hurt,” though no damage will
-actually be taken. The illusion cannot be hit
-in combat.
-
-Once the illusion disappears, the sword will
-drop to the floor. It still glows. All characters
-will immediately discover that they took no
-damage, and characters who may have been
-“killed” will discover that they are actually
-alive and were only asleep. If the characters
-decide to touch the sword again, nothing will
-happen to them and the sword will “feel
-good” in their hands. The sword will always
-glow when not sheathed. There is no sheath
-for it in this room, nor will it fit into a sheath
-not specifically made for it. The magically
-glowing sword is a +1 weapon. It casts
-enough light to see for 30’. The weapon
-belonged to Ellis. He still wears the sheath (he
-is trapped inside the Eye of Arik).
+Once the illusion disappears, the sword will drop to the floor. It still glows. All characters will immediately discover that they took no damage, and characters who may have been “killed” will discover that they are actually alive and were only asleep. If the characters decide to touch the sword again, nothing will happen to them and the sword will “feel good” in their hands. The sword will always glow when not sheathed. There is no sheath for it in this room, nor will it fit into a sheath not specifically made for it. The magically glowing sword is a +1 weapon. It casts enough light to see for 30’. The weapon belonged to Ellis. He still wears the sheath (he is trapped inside the Eye of Arik).
 
 16. STEAM ROOM
 
- 
+This room is filled with a thick mist. The room seems hotter than normal.
 
-This room is filled with a thick mist. The
-room seems hotter than normal.
+The mist is actually steam and is safe to walk through. This is a steam room. The steam rises from a geyser underneath the room. Once inside the room, the party will find that there are wooden benches along the walls. The room holds no monsters, traps, or treasure.
 
- 
+17. CAVERN TEMPLE
 
- 
+The cavern opens into a large cave. The cave floor and walls have been polished smooth. Several statues once rested on a raised platform along the west wall. The statues seem to have been of three people kneeling in front of the Protector. They are bestowing gifts on the Protector. Now, however, the statues have been smashed. In their place is the crude clay statue of a large eye. The eye has been painted blood red.
 
- 
-
-The mist is actually steam and is safe to walk
-through. This is a steam room. The steam rises
-from a geyser underneath the room. Once
-inside the room, the party will find that there
-are wooden benches along the walls. The
-room holds no monsters, traps, or treasure.
-
-17, CAVERN TEMPLE
-
- 
-
-The cavern opens into a large cave. The
-cave floor and walls have been polished
-smooth. Several statues once rested on a
-raised platform along the west wall. The
-statues seem to have been of three people
-kneeling in front of the Protector. They are
-bestowing gifts on the Protector. Now,
-however, the statues have been smashed.
-In their place is the crude clay statue of a
-large eye. The eye has been painted blood
-red.
-
- 
-
- 
-
- 
-
-Hidden under the rubble of the broken
-statues is a giant centipede (AC 9; HD 1/2; hp
-2; MV 20’; #AT 1; D poison; Save NM; ML 7;
-ALN). If a character tries to move the rubble
-by hand, the giant centipede will be disturbed
-and attack. If the rubble is moved from a dis-
-tance (with a spear, pole or similar item), the
-centipede will scurry out of the room without
-attacking.
-
-
- 
+Hidden under the rubble of the broken statues is a giant centipede (AC 9; HD 1/2; hp 2; MV 20’; #AT 1; D poison; Save NM; ML 7; ALN). If a character tries to move the rubble by hand, the giant centipede will be disturbed and attack. If the rubble is moved from a dis- tance (with a spear, pole or similar item), the centipede will scurry out of the room without attacking.
 
 18. UNDERGROUND POOL
 
- 
+Most of this cave is filled with a pool of water. A small ledge circles the pool, run- ning along the east wall of the cave. The ledge is only wide enough for one person to walk along it without falling into the water. In the middle of the pool you see a disturbance in the water. There are several 3' long creatures swimming toward you. The creatures look like weasels.
 
-Most of this cave is filled with a pool of
-water. A small ledge circles the pool, run-
-ning along the east wall of the cave. The
-ledge is only wide enough for one person
-to walk along it without falling into the
-water. In the middle of the pool you see a
-disturbance in the water. There are several
-3' long creatures swimming toward you.
-The creatures look like weasels.
+The disturbance is caused by 3 giant ferrets (AC 5; HD 1+1; hp 6 each; MV 50’; #AT 1; D 1-8; Save Fl; ML 8; AL N). Giant ferrets usually hunt giant rats underground. Unfor- tunately, they are highly unpredictable, and they may attack the party if their reaction to the party is low enough.
 
- 
-
- 
-
- 
-
-The disturbance is caused by 3 giant ferrets
-(AC 5; HD 1+1; hp 6 each; MV 50’; #AT 1;
-D 1-8; Save Fl; ML 8; AL N). Giant ferrets
-usually hunt giant rats underground. Unfor-
-tunately, they are highly unpredictable, and
-they may attack the party if their reaction to
-the party is low enough.
-
-The water in the cave is fresh. The pool is
-fed by a stream which enters from the south.
-The ledge ends where the stream enters the
-pool. The party can go no further along the
-stream, for it has the same red glow as the land
-outside.
+The water in the cave is fresh. The pool is fed by a stream which enters from the south. The ledge ends where the stream enters the pool. The party can go no further along the stream, for it has the same red glow as the land outside.
 
 19. GREEN SLIME
 
- 
+The walls of this room are covered with green, oozing slime. Except for the slime, the room appears to be empty.
 
-The walls of this room are covered with
-green, oozing slime. Except for the slime,
-the room appears to be empty.
-
- 
-
- 
-
- 
-
-The oozing slime is green slime (AC can
-always be hit; HD 2*; hp 9; MV 1’; #AT 1; D
-special; Save Fl; ML 12; AL N). Green slime
-can be only harmed by fire or cold; it cannot
-be hurt by any other attacks. It dissolves wood
-and metal (in 6 rounds), but cannot dissolve
-stone. Once in contact with flesh, green slime
-will stick and turn the flesh into green slime.
-It cannot be scraped off, but must be burnt
-off. If it is not burned off, the victim will turn
-completely into green slime 1-4 rounds after
-the green slime first came into contact with
-the flesh. Burning green slime while it is on
-the victim causes 1/2 damage to the slime and
-1/2 damage to the victim.
+The oozing slime is green slime (AC can always be hit; HD 2*; hp 9; MV 1’; #AT 1; D special; Save Fl; ML 12; AL N). Green slime can be only harmed by fire or cold; it cannot be hurt by any other attacks. It dissolves wood and metal (in 6 rounds), but cannot dissolve stone. Once in contact with flesh, green slime will stick and turn the flesh into green slime. It cannot be scraped off, but must be burnt off. If it is not burned off, the victim will turn completely into green slime 1-4 rounds after the green slime first came into contact with the flesh. Burning green slime while it is on the victim causes 1/2 damage to the slime and 1/2 damage to the victim.
 
 20. SULFUR POOL
 
- 
+This small cave is largely filled with a bub- bling gray pool of liquid. The cave smells foul. The pool is surrounded by coarse red sand, The sandy ledge surrounding the pool on the south and west sides, is only wide enough for one person to stand on without touching the liquid.
 
-This small cave is largely filled with a bub-
-bling gray pool of liquid. The cave smells
-foul. The pool is surrounded by coarse red
-sand, The sandy ledge surrounding the
-pool on the south and west sides, is only
-wide enough for one person to stand on
-without touching the liquid.
-
- 
-
- 
-
- 
-
-The liquid is water, but the water has a very
-high content of sulfur. Because of the sulfur
-
-bubbles, the air here is not safe to breathe for
-long periods of time. Anyone staying in the
-room for one full turn will begin to feel dizzy.
-If they do not leave in the next round they will
-take 1 point of damage for each round they
-remain in the room without getting fresh air.
-If the party searches the room they will find
-that some unfortunate individual once fell
-into the pool. The victim is now nothing but
-bones. The victim clutches a leather bag. The
-bag is filled with 133 gp and a silver wolf-
-headed ring with two small sapphires for eyes
-(worth 300 gp).
+The liquid is water, but the water has a very high content of sulfur. Because of the sulfur bubbles, the air here is not safe to breathe for long periods of time. Anyone staying in the room for one full turn will begin to feel dizzy. If they do not leave in the next round they will take 1 point of damage for each round they remain in the room without getting fresh air. If the party searches the room they will find that some unfortunate individual once fell into the pool. The victim is now nothing but bones. The victim clutches a leather bag. The bag is filled with 133 gp and a silver wolf- headed ring with two small sapphires for eyes (worth 300 gp).
 
 21, STOREROOM
 
- 
+This room contains shelves along the south and west walls. The shelves are filled with wooden crates. Otherwise, the room appears to be empty.
 
-This room contains shelves along the south
-and west walls. The shelves are filled with
-wooden crates. Otherwise, the room
-
- 
-
- 
-
-appears to be empty.
-
- 
-
-The crates are filled with iron rations. Each
-week's worth of iron rations is packed in a sep-
-arate tin. The iron rations were used by the
-palace guards when they went on long patrols
-through the countryside. Except for the iron
-rations, the room is empty.
+The crates are filled with iron rations. Each week's worth of iron rations is packed in a sep- arate tin. The iron rations were used by the palace guards when they went on long patrols through the countryside. Except for the iron rations, the room is empty.
 
 22. BLOCKED EXIT
 
- 
+This area seems to have been in some kind of explosion or earthquake. Stairs once led up out of this area. Rubble covers the floor and blocks the stairs. Through cracks in the rubble, you catch a faint glimpse of a red glow outside the palace.
 
-This area seems to have been in some kind
-of explosion or earthquake. Stairs once led
-up out of this area. Rubble covers the floor
-and blocks the stairs. Through cracks in the
-rubble, you catch a faint glimpse of a red
-glow outside the palace.
-
- 
-
- 
-
- 
-
-This is part of the area devastated by the alche-
-mist Silverheart when he went insane and his
-experiment proved a disaster (see room 14).
-Though this area is actually below the experi-
-mental rooms, it was still caught in the explo-
-sion. Even if the characters clear the rubble,
-they would still have to face the red glow
-which surrounds the palace if they tried to use
-this exit.
+This is part of the area devastated by the alche- mist Silverheart when he went insane and his experiment proved a disaster (see room 14). Though this area is actually below the experi- mental rooms, it was still caught in the explo- sion. Even if the characters clear the rubble, they would still have to face the red glow which surrounds the palace if they tried to use this exit.
 
 23. SECRET ROOM
 
- 
+Four statues dominate the room, one in each corner. Each statue is of a young girl in a different pose. No two statues look alike. Between the two statues on the east wall is a plush chair. Four smaller chairs surround the central chair. A leather- covered book rests on the central chair. Between the statues on the north wall you see a 4’ long beetle with a striped shell resembling a tiger's skin.
 
-Four statues dominate the room, one in
-each corner. Each statue is of a young girl
-in a different pose. No two statues look
-alike. Between the two statues on the east
-wall is a plush chair. Four smaller chairs
-surround the central chair. A leather-
-covered book rests on the central chair.
-Between the statues on the north wall you
-see a 4’ long beetle with a striped shell
-resembling a tiger's skin.
+The monster is a giant tiger beetle (AC 3; HD 3+1; hp 15; MV 50’; #AT 1; D 2-12; Save F1; ML 9; AL N). Tiger beetles are carnivorous (meat-eaters) and have been known to attack humans when starving. They attack with a pair of powerful mandibles. The book on the chair is the diary of Princess Argenta. It stops on the day before disaster struck Haven. The final entry reads:
 
- 
+“Today my love arrived riding his noble dragon like the great hero he is. He swept me into his arms and proposed marriage. Natu- rally I acted reluctant. It wouldn't do to seem too enthusiastic. But when I saw the forlorn look on his face I immediately relented. We kissed, then set the wedding date. We will be married in two weeks, when Ellis’ service with the Knights of the White Drakes ends. We will invite the entire valley.”
 
- 
-
- 
-
-The monster is a giant tiger beetle (AC 3; HD
-
-
-3+1; hp 15; MV 50’; #AT 1; D 2-12; Save F1;
-ML 9; AL N). Tiger beetles are carnivorous
-(meat-eaters) and have been known to attack
-humans when starving. They attack with a
-pair of powerful mandibles. The book on the
-chair is the diary of Princess Argenta. It stops
-on the day before disaster struck Haven. The
-final entry reads:
-
-“Today my love arrived riding his noble
-dragon like the great hero he is. He swept me
-into his arms and proposed marriage. Natu-
-rally I acted reluctant. It wouldn't do to seem
-too enthusiastic. But when I saw the forlorn
-look on his face I immediately relented. We
-kissed, then set the wedding date. We will be
-married in two weeks, when Ellis’ service with
-the Knights of the White Drakes ends. We
-will invite the entire valley.”
-
-This was one of the rooms where Argenta
-often went to escape the duties of court life.
-When the disaster struck Argenta, along with
-Ellis, were magically shrunken and trapped
-inside the ruby. Both of them are still alive
-and will return to normal if the ruby is
-destroyed. The four statues in the room are
-Argenta’s ladies in waiting who were turned to
-stone when the disaster struck.
+This was one of the rooms where Argenta often went to escape the duties of court life. When the disaster struck Argenta, along with Ellis, were magically shrunken and trapped inside the ruby. Both of them are still alive and will return to normal if the ruby is destroyed. The four statues in the room are Argenta’s ladies in waiting who were turned to stone when the disaster struck.
 
 24. FOUNTAIN ROOM
 
- 
+There is a small fountain of water in one corner of this room. Tapestries hang along both the north and south walls; one shows a scene of a young maiden with golden hair sitting on a silver throne. Upon her head rests a crown of silver and rubies. In one hand she holds a silver scepter and in the other she holds a large ruby. The other tap- estry shows a warrior in black plate mail resting casually in a wooden chair deco- rated with carvings. His feet are propped upon a stool.
 
-There is a small fountain of water in one
-corner of this room. Tapestries hang along
-both the north and south walls; one shows
-a scene of a young maiden with golden hair
-sitting on a silver throne. Upon her head
-rests a crown of silver and rubies. In one
-hand she holds a silver scepter and in the
-other she holds a large ruby. The other tap-
-estry shows a warrior in black plate mail
-resting casually in a wooden chair deco-
-rated with carvings. His feet are propped
-upon a stool.
-
- 
-
- 
-
- 
-
-The two tapestries show Princess Argenta and
-the warrior Ellis the Strong. Except for the
-fountain, the rest of the room is empty. The
-fountain contains only water.
+The two tapestries show Princess Argenta and the warrior Ellis the Strong. Except for the fountain, the rest of the room is empty. The fountain contains only water.
 
 25. ANTEROOM
 
- 
+In this room is a 10’ wide semi-circular alcove. On either side of the alcove stands the statue of a warrior.
 
-In this room is a 10’ wide semi-circular
-alcove. On either side of the alcove stands
-the statue of a warrior.
-
- 
-
- 
-
- 
-
-The two statues are actually living crystal
-statues (AC 4; HD 3; hp 14; MV 30’; #AT 2;
-D 1-6/1-6; Save F3; ML 11; ALL). Living crys-
-tal statues are life forms made of crystals,
-instead of flesh. While they look just like nor-
-mal statues, they are actually living beings.
-Whenever this room is entered the DM should
-
-
-roll a monster reaction (2d6). On a roll of 5 or
-less, the statues will attack.
+The two statues are actually living crystal statues (AC 4; HD 3; hp 14; MV 30’; #AT 2; D 1-6/1-6; Save F3; ML 11; ALL). Living crys- tal statues are life forms made of crystals, instead of flesh. While they look just like nor- mal statues, they are actually living beings. Whenever this room is entered the DM should roll a monster reaction (2d6). On a roll of 5 or less, the statues will attack.
 
 26. SCHOOLROOM
 
- 
+The room contains several wooden desks and chairs. Against one wall is a blackboard.
 
-The room contains several wooden desks and
-chairs. Against one wall is a blackboard.
-
- 
-
- 
-
- 
-
-This room was a schoolroom for the children
-in the palace. It is empty of monsters or trea-
-sure.
+This room was a schoolroom for the children in the palace. It is empty of monsters or trea- sure.
 
 27. TRAPPED PASSAGE
 
- 
+This small chamber is more of a passageway than a room. It is very cramped and there are several sets of empty shelves on the walls.
 
-This small chamber is more of a passageway
-than a room. It is very cramped and there are
+The pit trap in the floor of this storage passage will be activated by the first person to step onto it, and triggered by the second one who steps onto it. Once triggered, the floor will swing open and drop whatever is on it into a 10’ deep pit. The cover will then swing back and lock shut. Anyone falling into the pit will take 1d6 points of damage.
 
- 
+If the first person who walks across the trap door reaches the other side before the second one tries, only the second person will fall in, otherwise both will fall in.
 
- 
+After one round, small openings will appear in the pit walls, and oil will pour into the pit. The oil will continue to pour forth until it fills the floor of the pit 1’ deep. Another wall open- ing will now appear and a torch (unlit) will fall into the oil. (When the palace was occupied, the torch would have been lit.)
 
-several sets of empty shelves on the walls.
-
- 
-
-The pit trap in the floor of this storage passage
-will be activated by the first person to step
-onto it, and triggered by the second one who
-steps onto it. Once triggered, the floor will
-swing open and drop whatever is on it into a
-10’ deep pit. The cover will then swing back
-and lock shut. Anyone falling into the pit will
-take 1d6 points of damage.
-
-If the first person who walks across the trap
-door reaches the other side before the second
-one tries, only the second person will fall in,
-otherwise both will fall in.
-
-After one round, small openings will appear
-in the pit walls, and oil will pour into the pit.
-The oil will continue to pour forth until it fills
-the floor of the pit 1’ deep. Another wall open-
-ing will now appear and a torch (unlit) will fall
-into the oil. (When the palace was occupied, the
-torch would have been lit.)
-
-The pit cannot be opened from inside. It can
-be opened from the outside using release mecha-
-nisms hidden inside secret compartments on the
-inside of either doorway. Check to see if any par-
-ty member discovers the secret doors of the com-
-partments. The release mechanism is a simple
-button that needs to be pressed. The stone cover
-will then slide back. If the party decides to try to
-smash the stone cover, it will take 10 turns to do
-so; roll for wandering monsters five times before
-the pit is opened.
+The pit cannot be opened from inside. It can be opened from the outside using release mecha- nisms hidden inside secret compartments on the inside of either doorway. Check to see if any par- ty member discovers the secret doors of the com- partments. The release mechanism is a simple button that needs to be pressed. The stone cover will then slide back. If the party decides to try to smash the stone cover, it will take 10 turns to do so; roll for wandering monsters five times before the pit is opened.
 
 28. LIBRARY
 
- 
+You see shelves covering most of the walls. The shelves are filled with books and scrolls. There are also a number of wooden tables and chairs in the room. You notice that the room has more candles to light it than is usual. The candles are not lit at present. Against the south wall is a fire- place which is also unlit.
 
-You see shelves covering most of the walls.
-The shelves are filled with books and
-scrolls. There are also a number of wooden
-tables and chairs in the room. You notice
-that the room has more candles to light it
-than is usual. The candles are not lit at
-present. Against the south wall is a fire-
+This room is the palace library. Since the stu- dents sometimes used the library both day and night, there are extra candles in the room.
 
- 
+Clinging to the ceiling is a giant crab spider (AC 7; HD 2*; hp 9; MV 40’; #AT 1; D 1-8 + poison; Save Fl; ML 7; ALN). Giant crab spi- ders have chameleon-like powers and can change their color to blend into their sur- roundings. They will surprise the party on a roll of 1-4 on 1d6. After the first attack, a crab spider can be seen and attacked normally. Crab spiders are carnivorous (meat-eaters). Any victim bitten by a crab spider must save vs. Poison or die in 1-4 turns. However, their poison is weak, and the victim may add +2 to the saving throw roll.
 
- 
-
-place which is also unlit.
-
- 
-
-This room is the palace library. Since the stu-
-
-dents sometimes used the library both day
-and night, there are extra candles in the room.
-
-Clinging to the ceiling is a giant crab spider
-(AC 7; HD 2*; hp 9; MV 40’; #AT 1; D 1-8 +
-poison; Save Fl; ML 7; ALN). Giant crab spi-
-ders have chameleon-like powers and can
-change their color to blend into their sur-
-roundings. They will surprise the party on a
-roll of 1-4 on 1d6. After the first attack, a crab
-spider can be seen and attacked normally.
-Crab spiders are carnivorous (meat-eaters).
-Any victim bitten by a crab spider must save
-vs. Poison or die in 1-4 turns. However, their
-poison is weak, and the victim may add +2 to
-the saving throw roll.
-
-If the party searches the books and scrolls
-carefully (which will take a full 3 turns), they
-will find that one scroll is a magic-user/elf
-spell scroll. The scroll contains the second
-level spell: web.
+If the party searches the books and scrolls carefully (which will take a full 3 turns), they will find that one scroll is a magic-user/elf spell scroll. The scroll contains the second level spell: web.
 
 29. FITTING ROOM
 
- 
+In the center of this room is a folding screen with three panels. The screen is five feet high and six feet wide. From behind the screen you hear a forlorn wailing sound. Behind the screen you see two vaguely human shadows. The shadows are about four and one half feet tall and have no heads or arms. Their legs are indistinct. The cerie shadows dance wildly about.
 
-In the center of this room is a folding
-screen with three panels. The screen is five
-feet high and six feet wide. From behind
-the screen you hear a forlorn wailing
-sound. Behind the screen you see two
-vaguely human shadows. The shadows are
-about four and one half feet tall and have
-no heads or arms. Their legs are indistinct.
-The cerie shadows dance wildly about.
+The shadows are caused by a lit lamp behind the screen, shining on two dressmakers’ dum- mies. Each dummy has a sleeveless dress on it ready for alteration. The dummies themselves are merely carved wooden torsos mounted on platforms of metal rods so that they stand roughly the height of a woman. Since the dummies have no heads or arms they do not cast shadows of heads or arms. The shadowy legs are indistinct because of the dress hang- ing down. The shadows are dancing because a breeze is blowing through the open door mak- ing a forlorn wailing sound.
 
- 
-
- 
-
- 
-
-The shadows are caused by a lit lamp behind
-the screen, shining on two dressmakers’ dum-
-mies. Each dummy has a sleeveless dress on it
-ready for alteration. The dummies themselves
-are merely carved wooden torsos mounted on
-platforms of metal rods so that they stand
-roughly the height of a woman. Since the
-dummies have no heads or arms they do not
-cast shadows of heads or arms. The shadowy
-legs are indistinct because of the dress hang-
-ing down. The shadows are dancing because a
-breeze is blowing through the open door mak-
-ing a forlorn wailing sound.
-
-The screen is a dressing screen. Members of
-this palace family and their retainers dressed
-behind it during fittings. The rest of the room
-contains bolts of cloth, ribbons, pin cushions,
-needles, etc.
+The screen is a dressing screen. Members of this palace family and their retainers dressed behind it during fittings. The rest of the room contains bolts of cloth, ribbons, pin cushions, needles, etc.
 
 30. BUTCHER’S ROOM
 
- 
+The floor of this room is covered with blood- stained sand. A rack on the north wall holds a number of large knives and meat cleavers. In the center of the room is a large wooden block about 2’ high, 3’ long, and 2’ wide. The wooden block is also bloodstained.
 
-The floor of this room is covered with blood-
-stained sand. A rack on the north wall holds a
-number of large knives and meat cleavers. In
-the center of the room is a large wooden
-block about 2’ high, 3’ long, and 2’ wide.
-The wooden block is also bloodstained.
+This room is a butchering room. Meat is butchered here, then stored in the ice cavern (room 31). Underneath the sand is a pit trap door in the floor. The trap door stands in front of the butcher's block. Anyone who walks on the door has a chance of accidently causing it to open. Roll 1d6 for each character walking over the trap door. It will open if a 1 or 2 is rolled. The trap door is used to get rid of refuse. The door opens to a chute which leads below to an underground river. Anyone open- ing the door will fall down the chute to the river below. The river is only 2' deep, but any- one falling down the chute will take 1d6 dam- age from the fall.
 
- 
+The underground river channel is blocked by a heavy iron grill. Anyone falling into the river will be swept against the grill by the pow- erful current. Fortunately the grill is too small for characters to be swept through.
 
- 
+Three giant rats (AC 7; HD 1/2; hp 3 each; MV 20’; #AT 1; D 1-3; Save NM; ML 8; ALN) are also trapped in the underground passage. They are desperate and in a state of panic. They will immediately attack. There is a 1 in 20 chance that any one of the giant rats carries a disease. If an individual is bitten by a dis- eased rat the victim must make a save vs. Poi- son. If the save fails, the victim will either die in 1-6 days or be sick in bed (unable to adven- ture) for one month. Roll 1d4; the disease is only deadly on a result of 1.
 
-This room is a butchering room. Meat is
-butchered here, then stored in the ice cavern
-(room 31). Underneath the sand is a pit trap
-door in the floor. The trap door stands in front
-of the butcher's block. Anyone who walks on
-the door has a chance of accidently causing it
-to open. Roll 1d6 for each character walking
-over the trap door. It will open if a 1 or 2 is
-rolled. The trap door is used to get rid of
-refuse. The door opens to a chute which leads
-below to an underground river. Anyone open-
-ing the door will fall down the chute to the
-river below. The river is only 2' deep, but any-
-one falling down the chute will take 1d6 dam-
-age from the fall.
-
-The underground river channel is blocked
-by a heavy iron grill. Anyone falling into the
-river will be swept against the grill by the pow-
-erful current. Fortunately the grill is too small
-for characters to be swept through.
-
-Three giant rats (AC 7; HD 1/2; hp 3 each;
-MV 20’; #AT 1; D 1-3; Save NM; ML 8; ALN)
-are also trapped in the underground passage.
-They are desperate and in a state of panic.
-They will immediately attack. There is a 1 in
-20 chance that any one of the giant rats carries
-a disease. If an individual is bitten by a dis-
-eased rat the victim must make a save vs. Poi-
-son. If the save fails, the victim will either die
-in 1-6 days or be sick in bed (unable to adven-
-ture) for one month. Roll 1d4; the disease is
-only deadly on a result of 1.
-
-If the underground passage is searched, the
-characters will find the dead body of an unfor-
-tunate victim. The body will be only a skele-
-ton. The individual was carrying a sack of
-mixed coins (10 gp, 8 sp; and 9 cp) plus a jade
-ring with dragons carved into it worth 250 gp.
+If the underground passage is searched, the characters will find the dead body of an unfor- tunate victim. The body will be only a skele- ton. The individual was carrying a sack of mixed coins (10 gp, 8 sp; and 9 cp) plus a jade ring with dragons carved into it worth 250 gp.
 
 31. ICE CAVE
 
- 
+As you walk down the stairs you notice a rapid drop in temperature. The tempera- ture is nearly freezing at the bottom of the stairs. You notice that the walls of the large cave at the foot of the stairs are covered with a thin layer of ice. Hanging from hooks in the ceiling are slabs of meat.
 
-As you walk down the stairs you notice a
-rapid drop in temperature. The tempera-
-ture is nearly freezing at the bottom of the
-stairs. You notice that the walls of the large
-cave at the foot of the stairs are covered
-with a thin layer of ice. Hanging from
-hooks in the ceiling are slabs of meat.
+This room is an ice cavern, a natural under- ground cave which stays cold all year round. Except for meats and other foods stored here, the room is empty.
 
- 
+32. ROWENA’S ROOM
 
- 
+Upon entering this rectangular room, the first thing you notice is a tapestry hanging on the wall; they show scenes from the life a female minstrel. In front of each tapestry is a couch. Pillows of various sizes are scat- tered on the couches. Empty wine goblets and wine bottles are piled into one corner of the room. Decorative candle holders filled with candle stubs sit on small tables near each couch. In the center of the room is a decorative wheel painted on the floor. The wheel is 5’ in diameter. In the middle of the wheel is a small lap harp made of crystal with strings of spun silver.
 
- 
+The crystal harp is known as the Ice Harp. It belongs to the minstreal Rowena, Rowena is one of the legends of Haven. Her music was so melodic that she was invited to live with the Protector. Time does not flow the same there as in the rest of the world. Though Rowena has lived there for many years, she is still a young woman.
 
-This room is an ice cavern, a natural under-
-ground cave which stays cold all year round.
-Except for meats and other foods stored here,
-the room is empty.
+If the party plays two notes on the Ice Harp, Rowena will appear. She will know about the Eye of Arik and will be able to tell the characters what happened to cause the disaster to Haven. She also knows the proper sequence of notes to play on the Ice Harp to shatter the ruby. She will show the party which notes to play.
 
-32, ROWENA’S ROOM
+Rowena cannot remain here for long or her real age will catch up with her and she will wither away to dust. She will explain what needs to be done, then she will return to the Protector’s realm. If the party attacks her for some reason, she will return there immedi- ately. The proper sequence of notes which destroys the ruby is too complicated for the party to accidently discover. For the short time she is in this world, Rowena is protected against all attacks. Thus it makes no differ- ence what her characteristics or statistics are. She will not attack, nor can she be harmed. If the party attacks her she will leave because she deems the party unworthy of her help.
 
- 
-
-Upon entering this rectangular room, the
-first thing you notice is a tapestry hanging
-on the wall; they show scenes from the life
-a female minstrel. In front of each tapestry
-
- 
-
- 
-
- 
-
-
-
-
- 
-
- 
-
-is a couch. Pillows of various sizes are scat-
-tered on the couches. Empty wine goblets
-and wine bottles are piled into one corner
-of the room. Decorative candle holders
-filled with candle stubs sit on small tables
-near each couch. In the center of the room
-is a decorative wheel painted on the floor.
-The wheel is 5’ in diameter. In the middle
-of the wheel is a small lap harp made of
-crystal with strings of spun silver.
-
- 
-
- 
-
- 
-
-The crystal harp is known as the Ice Harp. It
-belongs to the minstreal Rowena, Rowena is
-one of the legends of Haven. Her music was so
-melodic that she was invited to live with the
-Protector. Time does not flow the same there
-as in the rest of the world. Though Rowena
-has lived there for many years, she is still a
-young woman.
-
-If the party plays two notes on the Ice Harp,
-Rowena will appear. She will know about the
-Eye of Arik and will be able to tell the characters
-what happened to cause the disaster to Haven.
-She also knows the proper sequence of notes to
-play on the Ice Harp to shatter the ruby. She will
-show the party which notes to play.
-
-Rowena cannot remain here for long or her
-real age will catch up with her and she will
-wither away to dust. She will explain what
-needs to be done, then she will return to the
-Protector’s realm. If the party attacks her for
-some reason, she will return there immedi-
-ately. The proper sequence of notes which
-destroys the ruby is too complicated for the
-party to accidently discover. For the short time
-she is in this world, Rowena is protected
-against all attacks. Thus it makes no differ-
-ence what her characteristics or statistics are.
-She will not attack, nor can she be harmed. If
-the party attacks her she will leave because she
-deems the party unworthy of her help.
-
-The Ice Harp is magical. If the phrase “For
-the memory of Rowena” is chanted, the Ice
-Harp will play some of her most famous tunes.
-Princess Argenta often held parties in this
-room. The guests sat and drank wine while lis-
-tening to the Ice Harp.
+The Ice Harp is magical. If the phrase “For the memory of Rowena” is chanted, the Ice Harp will play some of her most famous tunes. Princess Argenta often held parties in this room. The guests sat and drank wine while lis- tening to the Ice Harp.
 
 33. ZOMBIE CHAMBER
 
- 
+This room has been partly cut from the sur- rounding rock. The stone work is cruder than is usual for the rest of the palace. Ona table in the corner of the room is the small silver statue of a dragon readying for flight. In front of the statue, acting as guards, are five humans. Each human guard has a gaping wound. The wounds look serious enough to kill any person who suffered them.
 
-This room has been partly cut from the sur-
-rounding rock. The stone work is cruder
-than is usual for the rest of the palace. Ona
-table in the corner of the room is the small
-silver statue of a dragon readying for
-flight. In front of the statue, acting as
-guards, are five humans. Each human
-guard has a gaping wound. The wounds
-look serious enough to kill any person who
-suffered them.
+The five guards are zombies (AC 8; HD 2; hp 9; MV 30’; #AT 1; D 1-8; Save Fl; ML 12; AL C). Zombies are undead monsters and may be “turned” by a cleric. They are not affected by sleep ot charm spells or any form of mind reading. Zombies are slow fighters and always strike last in a round (no initiative roll is need- ed). The zombies are guarding the silver dragon statuette and will attack on sight and fight to the death if not rurned (no morale roll necessary).
 
- 
+The silver dragon statuette is one of three identical statuettes. On the base of the statu- ette is the phrase “Ariksbane, Destroyer of Evil.” If any two statuettes are brought within 30' of the Eye of Arik, the dragon Ariksbane will be released from his imprisonment and appear. The dragon's frost breath can destroy the ruby Eye of Arik without harming anyone near the ruby (or trapped inside the ruby).
 
- 
-
- 
-
-The five guards are zombies (AC 8; HD 2; hp
-9; MV 30’; #AT 1; D 1-8; Save Fl; ML 12; AL
-C). Zombies are undead monsters and may be
-“turned” by a cleric. They are not affected by
-sleep ot charm spells or any form of mind
-reading. Zombies are slow fighters and always
-strike last in a round (no initiative roll is need-
-ed). The zombies are guarding the silver
-dragon statuette and will attack on sight and
-fight to the death if not rurned (no morale roll
-necessary).
-
-The silver dragon statuette is one of three
-identical statuettes. On the base of the statu-
-ette is the phrase “Ariksbane, Destroyer of
-Evil.” If any two statuettes are brought within
-30' of the Eye of Arik, the dragon Ariksbane
-will be released from his imprisonment and
-appear. The dragon's frost breath can destroy
-the ruby Eye of Arik without harming anyone
-near the ruby (or trapped inside the ruby).
-
-The silver statuettes are worth 500 gp each.
-If two of them are used to free Ariksbane, the
-statuettes will disappear. Ellis the Strong and
-Ariksbane will give the party 1,000 gp to pay
-for the statuettes that disappear.
+The silver statuettes are worth 500 gp each. If two of them are used to free Ariksbane, the statuettes will disappear. Ellis the Strong and Ariksbane will give the party 1,000 gp to pay for the statuettes that disappear.
 
 34. CAPTAIN OF THE GUARD’S ROOM
 
- 
+This room contains a bed, a small oak table, a wooden chair, a wooden footlocker and a pile of papers. The table has been toppled over, the chair has been smashed into pieces, the footlocker has been broken open, the papers are scattered over the floor, and the bed covers are smeared with blood stains.
 
-This room contains a bed, a small oak
-table, a wooden chair, a wooden footlocker
-and a pile of papers. The table has been
-toppled over, the chair has been smashed
-into pieces, the footlocker has been broken
-open, the papers are scattered over the
-floor, and the bed covers are smeared with
-
- 
-
- 
-
-blood stains.
-
- 
-
-This room used to be the quarters for the cap-
-tain of the guard. Just before the disaster
-struck, the captain was murdered by one of his
-own men. The murderer, Travis, had been
-driven mad when he saw the Eye of Arik. He
-now serves Arik, leading some of Arik’s orcs.
-The papers scattered on the floor are weekly
-reports which the guard captain had to fill
-out.
+This room used to be the quarters for the cap- tain of the guard. Just before the disaster struck, the captain was murdered by one of his own men. The murderer, Travis, had been driven mad when he saw the Eye of Arik. He now serves Arik, leading some of Arik’s orcs. The papers scattered on the floor are weekly reports which the guard captain had to fill out.
 
 35. BARRACKS
 
- 
+You see five double bunk beds in this room. At the foot of each bed are two footlockers. On the east wall, near one of the beds, a message has been scrawled. The letters of the message are too small for you to read at this distance.
 
-You see five double bunk beds in this
-room. At the foot of each bed are two
-footlockers. On the east wall, near one of
-the beds, a message has been scrawled.
-The letters of the message are too small for
-you to read at this distance.
+The message has been scratched onto the wall with the point of a dagger. It reads: “Beware of Travis.” Except for the beds and footlockers, the room is empty when the party enters. The footlockers contain spare guard's uniforms.
 
- 
+The footlockers show signs of having been searched.
 
- 
+One round after the party enters the room, the crazed guard Travis will enter. Travis has been driven insane by the sight of the Eye of Arik. Travis (AC 3; F 3; hp 16; MV 20’; #AT 1; D 1-4 (+2) or 1-8 (+2); Save F3; ML 12; AL C; $17, 113, W9, D12, C15, Ch8) will attack the party on sight. First he will throw his mag- ical throwing dagger +2. The dagger is, of course, +2 to hit. On the second round of combat, Travis will draw his sword and attack. He still wears his guard's uniform over plate mail (hence his armor class of 3).
 
- 
+While Travis fights, he will scream at the characters, “You'll never get my treasure! Thieves! Everywhere I look, thieves are trying to steal my treasure. You all must die! I'll nev- er let you steal my treasure!”
 
-The message has been scratched onto the wall
-with the point of a dagger. It reads: “Beware
-of Travis.” Except for the beds and footlockers,
-the room is empty when the party enters. The
-footlockers contain spare guard's uniforms.
-
-
-
-The footlockers show signs of having been
-searched.
-
-One round after the party enters the room,
-the crazed guard Travis will enter. Travis has
-been driven insane by the sight of the Eye of
-Arik. Travis (AC 3; F 3; hp 16; MV 20’; #AT 1;
-D 1-4 (+2) or 1-8 (+2); Save F3; ML 12; AL
-C; $17, 113, W9, D12, C15, Ch8) will attack
-the party on sight. First he will throw his mag-
-ical throwing dagger +2. The dagger is, of
-course, +2 to hit. On the second round of
-combat, Travis will draw his sword and attack.
-He still wears his guard's uniform over plate
-mail (hence his armor class of 3).
-
-While Travis fights, he will scream at the
-characters, “You'll never get my treasure!
-Thieves! Everywhere I look, thieves are trying
-to steal my treasure. You all must die! I'll nev-
-er let you steal my treasure!”
-
-Travis will fight to the death. The only trea-
-sure that can be found on him or in the room
-is the magical throwing dagger. The throwing
-dagger +2is +2 only when thrown. If used in
-melee it is +1.
+Travis will fight to the death. The only trea- sure that can be found on him or in the room is the magical throwing dagger. The throwing dagger +2is +2 only when thrown. If used in melee it is +1.
 
 36. SPY ROOM
 
- 
+You see a small room here. The only furni- ture in the room is a wooden stool. There is a small spy hole in the secret door that lets someone inside the room see the corridor outside. A rope bell pull hangs from a hole in the ceiling. 
 
-You see a small room here. The only furni-
-ture in the room is a wooden stool. There is
-a small spy hole in the secret door that lets
-someone inside the room see the corridor
-outside. A rope bell pull hangs from a hole
-in the ceiling.
+This is the room where Travis was hiding. The room is normally used as a watching post in times of invasion. The bell rope runs up through the rock to a bell in room 78. When a guard pulls the rope, the bell will ring, alert- ing the court of danger. The room is now emp- ty. If the party should open the secret door before going into room 35, Travis will still be in this room and will attack. (for details of the encounter see room 35).
 
- 
+37. ARMORY
 
- 
+Inside this room you see ten statues of guardsmen standing at attention. On the floor is the corpse of a guard captain. Along the walls of the room are empty racks which look like they might have once held weapons.
 
- 
-
-This is the room where Travis was hiding. The
-room is normally used as a watching post in
-times of invasion. The bell rope runs up
-through the rock to a bell in room 78. When a
-guard pulls the rope, the bell will ring, alert-
-ing the court of danger. The room is now emp-
-ty. If the party should open the secret door
-before going into room 35, Travis will still be
-in this room and will attack. (for details of the
-encounter see room 35).
-
-37, ARMORY
-
- 
-
-Inside this room you see ten statues of
-guardsmen standing at attention. On the
-floor is the corpse of a guard captain.
-Along the walls of the room are empty
-racks which look like they might have once
-held weapons.
-
- 
-
- 
-
- 
-
-This room was the armory. The ten statues are
-guardsmen who were turned into stone by the
-Eye of Arik. The dead guard captain was mur-
-dered by Travis (see room 34). The room holds
-no treasure nor monsters.
-
-
- 
+This room was the armory. The ten statues are guardsmen who were turned into stone by the Eye of Arik. The dead guard captain was mur- dered by Travis (see room 34). The room holds no treasure nor monsters.
 
 38. TRAVIS’ ROOM
 
@@ -2336,485 +1496,100 @@ no treasure nor monsters.
 
 42. CAVE OF THE STATUES
 
- 
+As soon as you open the door, the character who opened the door is attacked by a wild- eyed wolf.
 
-As soon as you open the door, the character
-who opened the door is attacked by a wild-
-eyed wolf.
+The wolf (AC 7; HD 2+2; hp 11; MV 60’; #AT 1; D 1-6; Save Fl; ML 12; AL C) used to be Travis’s pet dog. When Travis was driven insane by the Eye of Arik, his dog was turned into a wolf. Since the dog was magically trans- formed into a wolf who serves Arik, the ani- mal has a Chaotic alignment instead of the usual Neutral alignment for wolves. The wolf is as insane as Travis. Travis is the only one who is safe with the wolf. The wolf will attack the party on sight and fight to the death. It has heard the party outside the door and was wait- ing to attack as soon as the door was open. This is a special case where the DM need not roll for surprise, and even listening at doors will not be successful, since the surprise ele- ment has been determined in advance. It is still a good idea for the DM to pretend that he or she has checked for surprise and/or listen- ing at doors by rolling a few dice. If the party kills the wolf and looks into the room read them the following room description:
 
- 
+A small bed of fresh straw lies in the north- western corner of this room. A wooden plate, a pair of eating knives, and a bronze wine goblet rest on a table in the center of the room. Under the table is a wooden bowl filled with meat. Several old tapes- tries have been hung on the walls, and bits of fur and other types of floor coverings form a makeshift carpet. A lit lantern hangs over the table.
 
- 
+This is the room where Travis and his wolf live. Most of the furniture in the room has been brought here by Travis. The wooden bowl is filled with food for his wolf. On the east wall, behind one of the tapestries is a peephole Tra- vis uses to spy out into the hallway. If the party has not yet encountered Travis (see room 35), he will be following them. Travis will attack the rear of the party on round 2 of the combat with the wolf. For details of an encounter with Travis see room 35.
 
- 
+Travis’ treasure is concealed in this room. His treasure is hidden beneath the bed, under a loose stone in the floor. The treasure is kept in a small wooden case. The treasure consists of two sapphires each worth 300 gp, one large emerald worth 2,000 gp, and a gold ring with the initials “DB” carved on the inside. The treasure once belonged to his fellow guards- men.
 
-The wolf (AC 7; HD 2+2; hp 11; MV 60’;
-#AT 1; D 1-6; Save Fl; ML 12; AL C) used to
-be Travis’s pet dog. When Travis was driven
-insane by the Eye of Arik, his dog was turned
-into a wolf. Since the dog was magically trans-
-formed into a wolf who serves Arik, the ani-
-mal has a Chaotic alignment instead of the
-usual Neutral alignment for wolves. The wolf
-is as insane as Travis. Travis is the only one who
-is safe with the wolf. The wolf will attack the
-party on sight and fight to the death. It has
-heard the party outside the door and was wait-
-ing to attack as soon as the door was open.
-This is a special case where the DM need not
-roll for surprise, and even listening at doors
-will not be successful, since the surprise ele-
-ment has been determined in advance. It is
-still a good idea for the DM to pretend that he
-or she has checked for surprise and/or listen-
-ing at doors by rolling a few dice. If the party
-kills the wolf and looks into the room read
-them the following room description:
+Directly across the room from the door in the north wall is a huge wooden table. Behind it is set an ornately carved wooden chair. On the table is a candlestick, a feath- ered quill pen, and several pieces of parch- ment.
 
- 
-
-A small bed of fresh straw lies in the north-
-western corner of this room. A wooden
-plate, a pair of eating knives, and a bronze
-wine goblet rest on a table in the center of
-the room. Under the table is a wooden
-bowl filled with meat. Several old tapes-
-tries have been hung on the walls, and bits
-of fur and other types of floor coverings
-form a makeshift carpet. A lit lantern
-hangs over the table.
-
- 
-
- 
-
- 
-
-This is the room where Travis and his wolf live.
-Most of the furniture in the room has been
-brought here by Travis. The wooden bowl is
-filled with food for his wolf. On the east wall,
-behind one of the tapestries is a peephole Tra-
-vis uses to spy out into the hallway. If the party
-has not yet encountered Travis (see room 35),
-he will be following them. Travis will attack
-the rear of the party on round 2 of the combat
-with the wolf. For details of an encounter with
-Travis see room 35.
-
-Travis’ treasure is concealed in this room.
-His treasure is hidden beneath the bed, under
-a loose stone in the floor. The treasure is kept
-in a small wooden case. The treasure consists
-of two sapphires each worth 300 gp, one large
-emerald worth 2,000 gp, and a gold ring with
-the initials “DB” carved on the inside. The
-treasure once belonged to his fellow guards-
-men.
-
-Directly across the room from the door in
-the north wall is a huge wooden table.
-Behind it is set an ornately carved wooden
-chair. On the table is a candlestick, a feath-
-ered quill pen, and several pieces of parch-
-ment.
-
- 
-
- 
-
- 
-
-Travis used to hold court in this room. He
-would review his orc troops here. Since Travis
-had seen his captain fill out reports, he too has
-filled out reports on the condition of his
-troops. But Travis does not know how to write
-his reports, and they are a meaningless jumble
-of scribbles which no one can read (except Tra-
-vis). The room is empty of monsters and trea-
-sure.
+Travis used to hold court in this room. He would review his orc troops here. Since Travis had seen his captain fill out reports, he too has filled out reports on the condition of his troops. But Travis does not know how to write his reports, and they are a meaningless jumble of scribbles which no one can read (except Tra- vis). The room is empty of monsters and trea- sure.
 
 40. ORC BARRACKS
 
- 
+This room holds four double bunkbeds. Seated on the beds are eight human-like creatures who look like a combination of animals and men. Despite their weird looks, the creatures are all wearing the uni- forms of palace guards. The uniforms do not fit properly.
 
-This room holds four double bunkbeds.
-Seated on the beds are eight human-like
-creatures who look like a combination of
-animals and men. Despite their weird
-looks, the creatures are all wearing the uni-
-forms of palace guards. The uniforms do
+The human-like creatures are orcs (AC 6; HD 1; hp 4 each; MV 30’; #AT 1; D 1-6; Save F1; ML 8; ALC). The orcs were led by Travis who had them dress up in the uniforms of guards.
 
- 
+Ores are nocturnal, usually sleeping in the day and active in the dark. When fighting in full daylight, they must subtract 1 from their “to hit” roll. The orcs’ treasure totals 12 gp, 38 sp, and 56 cp.
 
- 
+41. JAIL CELLS
 
-not fit properly.
+This area is a group of jail cells. In the aisles between the cells you see two large apes with white fur.
 
- 
+The large apes are white apes (AC 6; HD 4; hp 18 each; MV 40’; #AT 2; D 1-4/1-4; Save F2; ML 7; AL N). the white apes will beat their chests and growl as the party enters the room. If their threats are ignored, they will attack.
 
-The human-like creatures are orcs (AC 6; HD
-1; hp 4 each; MV 30’; #AT 1; D 1-6; Save F1;
-ML 8; ALC). The orcs were led by Travis who
-had them dress up in the uniforms of guards.
+Three of the cells contain statues of men dressed in everyday clothing. The rest of the cells appear empty. Hidden behind a statue inside one of the cells is a small wooden chest. The chest holds 1,000 cp, 400 sp, and 200 gp. This money is used to pay the guards. Travis hid the chest in the cell.
 
-Ores are nocturnal, usually sleeping in the
-day and active in the dark. When fighting in
-full daylight, they must subtract 1 from their
-“to hit” roll. The orcs’ treasure totals 12 gp,
-38 sp, and 56 cp.
+A number of life-sized stone statues of humans and dwarves have been piled in this cave. No attempt has been made to store the statues in any order. Some statues lean against the walls, others have fallen down, and some have been stacked on top of other statues.
 
-41, JAIL CELLS
-
- 
-
-This area is a group of jail cells. In the aisles
-between the cells you see two large apes
-with white fur.
-
- 
-
- 
-
- 
-
-The large apes are white apes (AC 6; HD 4; hp
-18 each; MV 40’; #AT 2; D 1-4/1-4; Save F2;
-ML 7; AL N). the white apes will beat their
-chests and growl as the party enters the room.
-If their threats are ignored, they will attack.
-
-Three of the cells contain statues of men
-dressed in everyday clothing. The rest of the
-cells appear empty. Hidden behind a statue
-inside one of the cells is a small wooden chest.
-The chest holds 1,000 cp, 400 sp, and 200 gp.
-This money is used to pay the guards. Travis
-hid the chest in the cell.
-
-
-
-A number of life-sized stone statues of
-humans and dwarves have been piled in
-this cave. No attempt has been made to
-store the statues in any order. Some statues
-lean against the walls, others have fallen
-down, and some have been stacked on top
-of other statues.
-
- 
-
- 
-
- 
-
-The statues piled in this cave are humans who
-were turned to stone when the disaster struck.
-The orcs, goblins, and hobgoblins have been
-clearing out the rooms and carrying the statues
-to this cave. If the party takes the time to search
-the cave (5 turns) they will find a chest contain-
-ing weapons, beneath a pile of statues. The chest
-holds 4 swords, 2 maces, and a battle axe. One of
-the swords is a sword + 1. It is indistinguishable
-from the rest of the swords unless a detect magic
-is cast on it. If the party decides to use the
-swords, number the swords 1-4 and let the magic
-sword be number 3. Make sure each character
-who is using a sword (or any other weapon from
-the chest) tells the DM which weapon he or she is
-using. For example, sword #2 or mace #1. Any
-character using sword #3 will discover it is magi-
-cal the first time the sword is used in combat.
+The statues piled in this cave are humans who were turned to stone when the disaster struck. The orcs, goblins, and hobgoblins have been clearing out the rooms and carrying the statues to this cave. If the party takes the time to search the cave (5 turns) they will find a chest contain- ing weapons, beneath a pile of statues. The chest holds 4 swords, 2 maces, and a battle axe. One of the swords is a sword + 1. It is indistinguishable from the rest of the swords unless a detect magic is cast on it. If the party decides to use the swords, number the swords 1-4 and let the magic sword be number 3. Make sure each character who is using a sword (or any other weapon from the chest) tells the DM which weapon he or she is using. For example, sword #2 or mace #1. Any character using sword #3 will discover it is magi- cal the first time the sword is used in combat.
 
 43. FUNGUS CAVE
 
- 
+This room is filled with a number of clay pots of different sizes. Plants were once planted in the pots but all the plants are now dead. Withered stalks, dead leaves, and brown dried flowers litter the floor. Though all plant life in the clay pots is dead, a vile-looking yellow fungus grows on the west walls.
 
-This room is filled with a number of clay
-pots of different sizes. Plants were once
-planted in the pots but all the plants are
-now dead. Withered stalks, dead leaves,
-and brown dried flowers litter the floor.
-Though all plant life in the clay pots is
-dead, a vile-looking yellow fungus grows
-on the west walls.
-
- 
-
- 
-
- 
-
-The yellow fungus is yellow mold (AC can
-always be hit; HD 2; hp 9; MV 0’; #AT 1; D
-1-6 + special; Save F2; ML no applicable; AL
-N). Yellow mold can only be killed by fire. A
-torch will cause 1-4 points of damage to it each
-round. Yellow mold will eat through wood
-and leather, but does not harm metal or stone.
-It does not actually attack, but if it is touched,
-the mold will squirt out a 10’ x 10’ cloud of
-spores. Anyone caught within the cloud must
-save vs. Death Ray or choke to death within 6
-rounds.
+The yellow fungus is yellow mold (AC can always be hit; HD 2; hp 9; MV 0’; #AT 1; D 1-6 + special; Save F2; ML no applicable; AL N). Yellow mold can only be killed by fire. A torch will cause 1-4 points of damage to it each round. Yellow mold will eat through wood and leather, but does not harm metal or stone. It does not actually attack, but if it is touched, the mold will squirt out a 10’ x 10’ cloud of spores. Anyone caught within the cloud must save vs. Death Ray or choke to death within 6 rounds.
 
 44, CAVE OF THE LOCUSTS
 
- 
+This huge cave is filled with stalactites and stalagmites that glow blue. The stalactites and stalagmites in many places have grown together to form a single column, growing together so closely, that in some places, they almost form a wall from floor to ceil- ing. It looks difficult, but not impossible, to move through the cave.
 
-This huge cave is filled with stalactites and
-stalagmites that glow blue. The stalactites
-and stalagmites in many places have grown
-together to form a single column, growing
+This cave is the home of 8 giant locusts (AC 4; HD 2; hp 9 each; MV 60’; #AT 1; D special; Save F2; ML 5; AL N). Giant locusts are 3’ long, giant gray grasshoppers that live under- ground. They are herbivorous (plant-eaters) and often eat fungus such as yellow mold or shriekers. They cannot be harmed by most poisons. Giant locusts are stone gray and may not be noticed until they move or until the party approaches within 20’. They are very nervous and will flee most of the time rather than fight. They flee by jumping up to 60’. Unfortunately, when they panic their only thought is to escape. There is a 50% chance that they will try to flee by jumping right through the party. If they try to jump through the party, choose a character at random and roll to see if that character has been hit. If so, the character takes 1-4 points of damage from being battered. The locust then flies away.
 
- 
+Giant locusts can also attack and bite for 1-2 points (but not when they are fleeing). When frightened or attacked, giant locusts make a loud shrieking noise to warn their fellows. This shriek has a 20% chance per round of attracting wandering monsters to investigate.
 
- 
+If cornered, a giant locust will spit a brown gooey substance up to 10’ at its attackers. To hit a character, the locust need only make an attack against armor class 9, no matter what type of armor the individual is wearing. A character hit by giant locust spittle must save vs. Poison or be unable to do anything for 1 turn due to the awful smell. After this time he or she will be used to the smell, but any char- acter approaching within 5’ of the victim must also save or be violently ill. This effect will last until the spittle is washed off.
 
- 
-
-
-together so closely, that in some places,
-they almost form a wall from floor to ceil-
-ing. It looks difficult, but not impossible,
-to move through the cave.
-
- 
-
- 
-
- 
-
-This cave is the home of 8 giant locusts (AC 4;
-HD 2; hp 9 each; MV 60’; #AT 1; D special;
-Save F2; ML 5; AL N). Giant locusts are 3’
-long, giant gray grasshoppers that live under-
-ground. They are herbivorous (plant-eaters)
-and often eat fungus such as yellow mold or
-shriekers. They cannot be harmed by most
-poisons. Giant locusts are stone gray and may
-not be noticed until they move or until the
-party approaches within 20’. They are very
-nervous and will flee most of the time rather
-than fight. They flee by jumping up to 60’.
-Unfortunately, when they panic their only
-thought is to escape. There is a 50% chance
-that they will try to flee by jumping right
-through the party. If they try to jump through
-the party, choose a character at random and
-roll to see if that character has been hit. If so,
-the character takes 1-4 points of damage from
-being battered. The locust then flies away.
-
-Giant locusts can also attack and bite for 1-2
-points (but not when they are fleeing). When
-frightened or attacked, giant locusts make a
-loud shrieking noise to warn their fellows.
-This shriek has a 20% chance per round of
-attracting wandering monsters to investigate.
-
-If cornered, a giant locust will spit a brown
-gooey substance up to 10’ at its attackers. To
-hit a character, the locust need only make an
-attack against armor class 9, no matter what
-type of armor the individual is wearing. A
-character hit by giant locust spittle must save
-vs. Poison or be unable to do anything for 1
-turn due to the awful smell. After this time he
-or she will be used to the smell, but any char-
-acter approaching within 5’ of the victim must
-also save or be violently ill. This effect will last
-until the spittle is washed off.
-
-The blue glow of the stalactites and stalag-
-mites is caused by a type of moss. The moss is
-harmless. It can be used as a weak light source,
-casting light up to 10’. If the players search the
-cave they will find a small silver statuette of a
-dragon readying for flight. The statuette is in
-a niche along the north wall. The statuette
-looks the same as the one found in room 33
-(for more details see room 33).
+The blue glow of the stalactites and stalag- mites is caused by a type of moss. The moss is harmless. It can be used as a weak light source, casting light up to 10’. If the players search the cave they will find a small silver statuette of a dragon readying for flight. The statuette is in a niche along the north wall. The statuette looks the same as the one found in room 33 (for more details see room 33).
 
 45. CAVE POOL
 
- 
+A large pool of pitch black water fills the toom. You see the glint of gold coming from the far side of the pool. A hot wind blows through the cave. Moisture fills the air and tiny beads of water form on clothing, skin, and hair. The floor is damp and slick.
 
-A large pool of pitch black water fills the
-toom. You see the glint of gold coming from
-the far side of the pool. A hot wind blows
-through the cave. Moisture fills the air and
+Once the characters have entered the cave they will be able to see the crowned head of a large statue of a man. The statue seems to be made of bronze. The eyes of the statue are small tubies (value 50 gp each). The glint of gold comes from a crown on top of the statue’s head. The crown appears to be made of gold. The statue really is bronze, but the crown is only gold paint.
 
- 
+The liquid in the pool is a kind of ink. The water of the pool is heated by hot springs. The hot water absorbs color from a particular kind of mineral lining the pool. The result is a deep pur- ple ink. Anything that comes in contact with the ink will be stained purple. Since the ink is per- manent it will have to wear off naturally (1-6 days). It will not stain non-porous surfaces which do not absorb water very well (such as steel). The ink will not harm characters.
 
- 
-
- 
-
-tiny beads of water form on clothing, skin,
-and hair. The floor is damp and slick.
-
- 
-
- 
-
- 
-
-Once the characters have entered the cave they
-will be able to see the crowned head of a large
-statue of a man. The statue seems to be made
-of bronze. The eyes of the statue are small
-tubies (value 50 gp each). The glint of gold
-comes from a crown on top of the statue’s
-head. The crown appears to be made of gold.
-The statue really is bronze, but the crown is
-only gold paint.
-
-The liquid in the pool is a kind of ink. The
-water of the pool is heated by hot springs. The
-hot water absorbs color from a particular kind of
-mineral lining the pool. The result is a deep pur-
-ple ink. Anything that comes in contact with the
-ink will be stained purple. Since the ink is per-
-manent it will have to wear off naturally (1-6
-days). It will not stain non-porous surfaces which
-do not absorb water very well (such as steel). The
-ink will not harm characters.
-
-Once the characters reach the statue they
-will find that the rubies can be pried out easi-
-ly. If the party carefully examines the statue,
-there is a 50% chance they will discover that
-the head of the statue can be unscrewed. Hid-
-den inside the head, packed in a protective
-oilskin bag, is a ring of protection + 1.
+Once the characters reach the statue they will find that the rubies can be pried out easi- ly. If the party carefully examines the statue, there is a 50% chance they will discover that the head of the statue can be unscrewed. Hid- den inside the head, packed in a protective oilskin bag, is a ring of protection + 1.
 
 46, BLADE TRAP
 
-At the corner of the corridor is a trap. When a
-character walks over a pressure plate in the
-floor the trap might be sprung. Roll 1d6. The
-trap will be sprung on a roll of 1. Roll sepa-
-rately for each character that walks around the
-corner. If the trap is sprung, a weighted blade
-(like a guillotine blade) will fall from the ceil-
-ing causing 1-10 points of damage to the per-
-son who sprung the trap. The blade is hidden
-in the ceiling.
+At the corner of the corridor is a trap. When a character walks over a pressure plate in the floor the trap might be sprung. Roll 1d6. The trap will be sprung on a roll of 1. Roll sepa- rately for each character that walks around the corner. If the trap is sprung, a weighted blade (like a guillotine blade) will fall from the ceil- ing causing 1-10 points of damage to the per- son who sprung the trap. The blade is hidden in the ceiling.
 
 47. TROGLODYTE ROOM
 
- 
+In the center of the room you see three human-like reptiles with short tails, long legs, and a spiny “comb” on their heads and arms. They block the way out.
 
-In the center of the room you see three
-human-like reptiles with short tails, long
-legs, and a spiny “comb” on their heads
-and arms. They block the way out.
-
- 
-
- 
-
- 
-
-The human-like reptiles are troglodytes (AC
-5; HD 2*; hp 9 each; MV 40’; #AT 3; D 1-4
-each; Save F2; ML 9; AL C). Troglodytes are
-intelligent. They hate most other creatures
-and will try to kill anyone they meet. Hence
-they will attack on sight. Troglodytes have a
-chameleon-like power to blend into their sur-
-roundings (normally they surprise on 1-4 on
-1d6), but they are not using the ability at the
-moment. Troglodytes secrete an oil when
-fighting which smells so bad that characters
-
-
-
-THE SILVER PRINCESS
-
-will be nauseated unless they save vs. Poison.
-Nauseated characters have a penalty of —2 on
-their “to hit” rolls while in melee combat
-with the troglodytes.
+The human-like reptiles are troglodytes (AC 5; HD 2*; hp 9 each; MV 40’; #AT 3; D 1-4 each; Save F2; ML 9; AL C). Troglodytes are intelligent. They hate most other creatures and will try to kill anyone they meet. Hence they will attack on sight. Troglodytes have a chameleon-like power to blend into their sur- roundings (normally they surprise on 1-4 on 1d6), but they are not using the ability at the moment. Troglodytes secrete an oil when fighting which smells so bad that characters will be nauseated unless they save vs. Poison. Nauseated characters have a penalty of —2 on their “to hit” rolls while in melee combat with the troglodytes.
 
 48. WATCH ROOM
 
- 
-
-This room is higher than the surrounding
-countryside so that guards could look out
-on the surrounding land when standing
-watch. There are windows in the west and
-south walls. You notice that the red glow
-still surrounds the palace. In the center of
-the room is an iron ladder. The ladder
-leads to a trap door in the ceiling. By the
-south wall you see a statue that looks like a
-cleric. He looks frightened and had appar-
-ently just finished scratching a message
-into the wall. The inscription reads:
+This room is higher than the surrounding countryside so that guards could look out on the surrounding land when standing watch. There are windows in the west and south walls. You notice that the red glow still surrounds the palace. In the center of the room is an iron ladder. The ladder leads to a trap door in the ceiling. By the south wall you see a statue that looks like a cleric. He looks frightened and had appar- ently just finished scratching a message into the wall. The inscription reads:
 
 Evil red eye, malefaction!
-
 Sweet music from strings;
 Priceless Blade of Destruction,
 Salvation rides on dragon's wings!
 
- 
+The chief palace cleric had divined the evil intent of Arik when disaster struck. He hur- tiedly left the inscription — clues as to how to destroy the ruby — in the faint hope that it might help rescuers.
 
- 
+This trap door is the only way the party can reach the second level of the dungeon. It is important that the party reach the second level and finish their mission, but it is also important that they encounter a number of monsters and traps before reaching the second level. If they reached the second level too easi- ly the adventure would not be a challenge. On the other hand, since they must reach the sec- ond level, the DM might consider sending the vision of a Protector to the party if they cannot find the way to this trap door leading to the second level.
 
- 
-
-The chief palace cleric had divined the evil
-intent of Arik when disaster struck. He hur-
-tiedly left the inscription — clues as to how to
-destroy the ruby — in the faint hope that it
-might help rescuers.
-
-This trap door is the only way the party can
-reach the second level of the dungeon. It is
-important that the party reach the second
-level and finish their mission, but it is also
-important that they encounter a number of
-monsters and traps before reaching the second
-level. If they reached the second level too easi-
-ly the adventure would not be a challenge. On
-the other hand, since they must reach the sec-
-ond level, the DM might consider sending the
-vision of a Protector to the party if they cannot
-find the way to this trap door leading to the
-second level.
-
-SECOND
-DUNGEON LEVEL
+SECOND DUNGEON LEVEL
 
 Wandering Monsters
 
-The second dungeon level has its own wander-
-ing monster table. Check for wandering mon-
-sters every other turn. Roll 1d6: the party will
-encounter a wandering monster if a 1 is rolled.
-The wandering monster will be first seen 20-
-120 feet (2d6x10') away from the party when
-encountered, in any direction and doing any-
-thing the DM chooses. To determine exactly
-which monster is encountered, use the Wan-
-dering Monster Table: Level 2.
-
-
- 
+The second dungeon level has its own wander- ing monster table. Check for wandering mon- sters every other turn. Roll 1d6: the party will encounter a wandering monster if a 1 is rolled. The wandering monster will be first seen 20- 120 feet (2d6x10') away from the party when encountered, in any direction and doing any- thing the DM chooses. To determine exactly which monster is encountered, use the Wan- dering Monster Table: Level 2.
 
 ‘Wandering Monster Table: Level 2 (Roll 1d6)
 
- 
-
-Die Wandering
-
-Roll__Monster NO AC HD #AT Damage Move Save ML AL
+Die Roll Wandering Monster NO AC HD #AT Damage Move Save ML AL
 1 Ghoul 16 6 2 3 1-3 €a. 30° F209 C
 2 Goblin 2-8 6 1-1 1 1-6 20' NM. 7G
 3 Harpy ee te oO 1-4/1-4/1-6 20' SC
@@ -2822,49 +1597,16 @@ Roll__Monster NO AC HD #AT Damage Move Save ML AL
 5 Medusa L ent eee 1-6 + special 30’ BM rs CG
 6 Zombie 2-8 8 2 1 1-8 40' Fl Iz iG
 
-It is suggested that the monsters Harpy and
-Medusa be encountered no more than once as
-wandering monsters. If the DM rolls a wan-
-dering monster encounter with a second Har-
-py or Medusa, a wandering monster from the
-Level One table should be chosen instead.
-Both monsters are very difficult challenges,
-might upset the play balance if encountered
-too many times.
+It is suggested that the monsters Harpy and Medusa be encountered no more than once as wandering monsters. If the DM rolls a wan- dering monster encounter with a second Har- py or Medusa, a wandering monster from the Level One table should be chosen instead. Both monsters are very difficult challenges, might upset the play balance if encountered too many times.
 
-All the monsters on the second level wan-
-dering monster table appear in the D&D®
-Basic rules. Only those with unusual powers
-are described below.
+All the monsters on the second level wan- dering monster table appear in the D&D® Basic rules. Only those with unusual powers are described below.
 
-Ghoul: A successful attack by a ghoul will par-
-alyze any creature of ogre-size or smaller,
-except elves, unless the victim saves vs. Paraly-
-sis. Elves are immune to the paralysis, but still
-take normal damage from a ghoul’s attacks.
-Paralysis lasts for 2-8 turns.
+Ghoul: A successful attack by a ghoul will par- alyze any creature of ogre-size or smaller, except elves, unless the victim saves vs. Paraly- sis. Elves are immune to the paralysis, but still take normal damage from a ghoul’s attacks. Paralysis lasts for 2-8 turns.
 
-Harpy: Any character hearing the harpy’s song
-must save vs. Spells or be charmed. Charmed
-individuals will move toward the harpy, resist-
-ing any attempt to stop them, but not other-
-wise attacking. If a character successfully saves
-the character will not be affected by the harpy
-song for that encounter. Harpies are resistant
-to magic and have a +2 on all their saves.
-Medusa: Looking at a medusa will turn a char-
-acter to stone unless the victim saves vs. Turn
-to Stone. A medusa can also attack with her
-snaky hair. The bites of the snakes are poison-
-ous (save vs. Poison or die in one turn) and
-when the snakes hit they cause 1-6 points of
-damage. Anyone who tries to attack a medusa
-without looking at it must subtract 4 from
-their “to hit” roll. A medusa is resistant to
-magic and gains +2 on saves vs. Spells only,
-other saving throws are normal.
+Harpy: Any character hearing the harpy’s song must save vs. Spells or be charmed. Charmed individuals will move toward the harpy, resist- ing any attempt to stop them, but not other- wise attacking. If a character successfully saves the character will not be affected by the harpy song for that encounter. Harpies are resistant to magic and have a +2 on all their saves. Medusa: Looking at a medusa will turn a char- acter to stone unless the victim saves vs. Turn to Stone. A medusa can also attack with her snaky hair. The bites of the snakes are poison- ous (save vs. Poison or die in one turn) and when the snakes hit they cause 1-6 points of damage. Anyone who tries to attack a medusa without looking at it must subtract 4 from their “to hit” roll. A medusa is resistant to magic and gains +2 on saves vs. Spells only, other saving throws are normal.
 
 Key to Dungeon Level Two
+
 49. WATCH TOWER
 
  
