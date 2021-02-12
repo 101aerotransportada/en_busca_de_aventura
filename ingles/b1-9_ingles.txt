@@ -677,13 +677,13 @@ Room Monster No. Hit Roll AC HD hp MV #AT D Save ML AL SA/SD XP
 
 16a. EDWYN THE ARDANT
 
-If the party defeats the monsters and recovers the sacred bell, they can then leave the for- tress. However, as they leave, Elwyn the Ardent leaves her secret corridor and is wait- ing for the party in area 16a.
+If the party defeats the monsters and recovers the sacred bell, they can then leave the fortress. However, as they leave, Elwyn the Ardent leaves her secret corridor and is waiting for the party in area 16a.
 
-You see a woman standing in the corridor to the east. She is wearing a striped robe of bright yellow, lavender, white, and black, and she carries a glowing shield, She is clearly the woman depicted in the murals. There is a glint of metal armor beneath her robe, and on her belt is a key ring and a mace. As she begins to speak, you recog- nize the voice that has taunted you throughout this expedition:
+You see a woman standing in the corridor to the east. She is wearing a striped robe of bright yellow, lavender, white, and black, and she carries a glowing shield, She is clearly the woman depicted in the murals. There is a glint of metal armor beneath her robe, and on her belt is a key ring and a mace. As she begins to speak, you recognize the voice that has taunted you throughout this expedition:
 
-“In the name of Leptar, welcome to MY holy sanctuary. You have done very well; much better than all the other miserable wretches that have tried to assault my for- tress. I presume you found their bones after you defeated my orcs. Oh, well, orcs are easy to find, and they like working for Elwyn the Ardent. The new ones will enjoy feasting on YOUR bones when I get through with you!”
+“In the name of Leptar, welcome to MY holy sanctuary. You have done very well; much better than all the other miserable wretches that have tried to assault my fortress. I presume you found their bones after you defeated my orcs. Oh, well, orcs are easy to find, and they like working for Elwyn the Ardent. The new ones will enjoy feasting on YOUR bones when I get through with you!”
 
-Elwyn is wearing plate mail armor and carries a shield +1. The key ring on her belt opens the iron door between rooms 1 and 2. She is armed with a mace of draining +1. In addi- tion to normal damage, this mace will, on command, drain one experience level from the character hit, as a wight. It can only absorb a total of three levels. After those levels are used up, it becomes a normal mace + 1.
+Elwyn is wearing plate mail armor and carries a shield +1. The key ring on her belt opens the iron door between rooms 1 and 2. She is armed with a mace of draining +1. In addition to normal damage, this mace will, on command, drain one experience level from the character hit, as a wight. It can only absorb a total of three levels. After those levels are used up, it becomes a normal mace + 1.
 
 Note that Elwyn has superior strength, which gives her an additional +1 to damage on any attack.
 
@@ -699,13 +699,13 @@ Cause fear is the reverse of remove fear. It will make any one creature flee for
 
 Darkness is the reverse of light. It creates a circle of darkness 30 feet in diameter. Elwyn has already used this spell on the altar.
 
-Blight is the reverse of bless. It places a —1 penalty on enemies’ morale, hit rolls, and dam- age rolls. Each victim may make a saving throw vs. Spells to avoid the penalties. It affects all crea- tures within a 20 foot square area, and lasts for six turns. Elwyn casts this spell on the party when they first leave the altar. The DM should make a secret saving throw for each party member before they reach Elwyn.
+Blight is the reverse of bless. It places a —1 penalty on enemies’ morale, hit rolls, and damage rolls. Each victim may make a saving throw vs. Spells to avoid the penalties. It affects all creatures within a 20 foot square area, and lasts for six turns. Elwyn casts this spell on the party when they first leave the altar. The DM should make a secret saving throw for each party member before they reach Elwyn.
 
-Hold person affects human or human-like beings. Each victim must make a saving throw vs. Spells or be paralyzed for 9 turns. The spell may be cast at a single person or at a group. If cast at a single person, a — 2 penalty applies to the saving throw. If cast at a group, it will affect up to 4 persons (at the cleric’s choice), but with no penalty to their rolls. The paraly- sis can only be removed by its reverse or the dispel magic spell.
+Hold person affects human or human-like beings. Each victim must make a saving throw vs. Spells or be paralyzed for 9 turns. The spell may be cast at a single person or at a group. If cast at a single person, a — 2 penalty applies to the saving throw. If cast at a group, it will affect up to 4 persons (at the cleric’s choice), but with no penalty to their rolls. The paralysis can only be removed by its reverse or the dispel magic spell.
 
 Curse is the reverse of remove curse. It causes a misfortune or penalty to affect the victim, Curses ate limited only by the caster’s imagination, but if an attempted curse is too powerful, it may return to the caster! Elwyn is considering a curse to make one of the party's boots turn to glue and stick to the floor. The DM, of course, may think of a more ingenious curse. The victim is entitled to a saving throw vs. Spells against the curse.
 
-Elwyn’s strategy is to cast blight before the Party arrives. She will then cast hold person fol- lowed by curse. Then, she will cast cause fear. Afterward, she will pull out her mace +1 and attack the party. If the black dragon is still alive, she frees it from its chain and it also attacks the
+Elwyn’s strategy is to cast blight before the Party arrives. She will then cast hold person followed by curse. Then, she will cast cause fear. Afterward, she will pull out her mace +1 and attack the party. If the black dragon is still alive, she frees it from its chain and it also attacks the
 
 Unaware that the party has acquired a web spell, she is standing in the narrow corridor and can be quickly imprisoned if the party is clever. If the party uses the lightning bolt, they should be careful, because the rebound can cause a great deal of damage to their own side.
 
@@ -713,15 +713,15 @@ Elwyn should be a tough opponent, but not impossible to defeat. She will never s
 
 The party can use the key on Elwyn's belt to open the iron door between rooms 1 and 2, and exit through the front door, or they can follow Elwyn's secret corridor to the door that leads to the outside.
 
-Following the adventure at Elwyn’s Sanctuary, the adventurers return to Threshold with the bell. Word rapidly spreads about the party’s deeds. For the next week or so, the party will not be able to keep up with the invitations — this is a good time to have the characters drop a few hundred gold pieces for fancy dress, presents for the hosts, and similar items. This also a good time to introduce more NPC con- tacts if the players are interested. Eventually things will quiet down. The bell will be put away pending a decision to build a new shrine in Threshold or return it to Specu- larum (the former will call for a special tax, the latter could lead to a new adventure). At this time the players may either be called in by the Church or receive an unusual dream visit. The first leads to the Caves of Chaos, the second is with an evil temple hidden in some caves near Castellan Keep. The area is filled with human- oids, but the temple must be found and destroyed. The characters must travel upriver past Kelvin by boat, to the military post called Castellan Keep. If they agree, they will receive a letter of introduction from Sherlane.
+Following the adventure at Elwyn’s Sanctuary, the adventurers return to Threshold with the bell. Word rapidly spreads about the party’s deeds. For the next week or so, the party will not be able to keep up with the invitations — this is a good time to have the characters drop a few hundred gold pieces for fancy dress, presents for the hosts, and similar items. This also a good time to introduce more NPC contacts if the players are interested. Eventually things will quiet down. The bell will be put away pending a decision to build a new shrine in Threshold or return it to Specularum (the former will call for a special tax, the latter could lead to a new adventure). At this time the players may either be called in by the Church or receive an unusual dream visit. The first leads to the Caves of Chaos, the second is with an evil temple hidden in some caves near Castellan Keep. The area is filled with humanoids, but the temple must be found and destroyed. The characters must travel upriver past Kelvin by boat, to the military post called Castellan Keep. If they agree, they will receive a letter of introduction from Sherlane.
 
-The trip to the fort, though long, is unevent- ful. The party will leave the boat in a wildemess of wooded hills and complete their journey on foot.
+The trip to the fort, though long, is uneventful. The party will leave the boat in a wildemess of wooded hills and complete their journey on foot.
 
-The keep looms atop a sheer-walled mount of stone, reachable only by means of a narrow rocky track. Its gatehouse opens on an outer bailey, which contains stables, barracks, a tavem, a chapel, and similar structures. Through a second gatehouse is the inner bailey and main keep, for- bidden to all except those on official business.
+The keep looms atop a sheer-walled mount of stone, reachable only by means of a narrow rocky track. Its gatehouse opens on an outer bailey, which contains stables, barracks, a tavem, a chapel, and similar structures. Through a second gatehouse is the inner bailey and main keep, forbidden to all except those on official business.
 
-The commander will be polite, but formal. He is worried about giants, not evil temples. He has no time, men or equipment to spare for the concerns of a patriarch in another part of the realm. Supplies can be drawn from the quartermaster at twice list price, subject to availability—and it's a shame you didn’t bring some recruits with you. The interview ends as an aide interrupts with some impor- tant papers to be signed. (If the party is rude, the commander will become Jess cooperative.)
+The commander will be polite, but formal. He is worried about giants, not evil temples. He has no time, men or equipment to spare for the concerns of a patriarch in another part of the realm. Supplies can be drawn from the quartermaster at twice list price, subject to availability—and it's a shame you didn’t bring some recruits with you. The interview ends as an aide interrupts with some important papers to be signed. (If the party is rude, the commander will become Jess cooperative.)
 
-The tavern keeper can give the party the location of the cave complex, which has been pretty quiet lately. Since there are no giants there, patrols have been few. These rumors are available from soldiers in the tavern: 1. Tribes of different creatures live in the caves. 2. All of the cave entrances are trapped. (False) 3. If you get lost, beware the eater of men! 4. “Bree-yark” is goblin language for “we surrender!” (False) 5. There is more than one tribe of orcs with- in the caves.
+The tavern keeper can give the party the location of the cave complex, which has been pretty quiet lately. Since there are no giants there, patrols have been few. These rumors are available from soldiers in the tavern: 1. Tribes of different creatures live in the caves. 2. All of the cave entrances are trapped. (False) 3. If you get lost, beware the eater of men! 4. “Bree-yark” is goblin language for “we surrender!” (False) 5. There is more than one tribe of orcs within the caves.
 
 
 
@@ -742,15 +742,15 @@ General Notes: This module, originally titled B2, The Keep on the Borderlands, h
 
 Cave Maps……………………… 138-139
 
-START: The forest you have been passing through has been getting more dense, tan- gled, and gloomier than before. The thick, twisted tree trunks, unnaturally misshapen limbs, writhing roots, clutching and grasping thorns and briars all seem to warn and ward you off, but you have forced and hacked your way through regardless. Now the strange growth has suddenly ended — you have stepped out of the thicket into a ravine-like area. The walls rise rather steeply to either side to a height of about 100’ or so — dark, streaked rock mingled with earth. Clumps of trees grow here and there, both on the floor of the ravine and up the sloping walls of the can- yon. The opening you stand in is about 200’ wide. The ravine runs at least 400’ west (actu- ally 440’) to where the western end rises in a steep slope. Here and there at varying heights on all sides of the ravine, you can see the black mouths of cave-like openings in the rock walls. The sunlight is dim, the air is dank, there is an oppressive feeling here — as if something evil is watching and waiting to pounce upon you. There are bare, dead trees here and there, and upon one a vulture perches and gazes hungrily at you. A flock of ravens rise croaking from the ground, the beat of their wings and their cries magnified by the terrain to sound loud and horrible. Amongst the litter of rubble, boulders, and dead wood scattered about on the ravine floor, you can see bits of gleaming ivory and white — closer inspection reveals that these are bones and skulls of men, animals and other things. . . .
+START: The forest you have been passing through has been getting more dense, tangled, and gloomier than before. The thick, twisted tree trunks, unnaturally misshapen limbs, writhing roots, clutching and grasping thorns and briars all seem to warn and ward you off, but you have forced and hacked your way through regardless. Now the strange growth has suddenly ended — you have stepped out of the thicket into a ravine-like area. The walls rise rather steeply to either side to a height of about 100’ or so — dark, streaked rock mingled with earth. Clumps of trees grow here and there, both on the floor of the ravine and up the sloping walls of the canyon. The opening you stand in is about 200’ wide. The ravine runs at least 400’ west (actually 440’) to where the western end rises in a steep slope. Here and there at varying heights on all sides of the ravine, you can see the black mouths of cave-like openings in the rock walls. The sunlight is dim, the air is dank, there is an oppressive feeling here — as if something evil is watching and waiting to pounce upon you. There are bare, dead trees here and there, and upon one a vulture perches and gazes hungrily at you. A flock of ravens rise croaking from the ground, the beat of their wings and their cries magnified by the terrain to sound loud and horrible. Amongst the litter of rubble, boulders, and dead wood scattered about on the ravine floor, you can see bits of gleaming ivory and white — closer inspection reveals that these are bones and skulls of men, animals and other things. . . .
 
 You know you have certainly discovered the Caves of Chaos.
 
 NOTES FOR THE DM
 
-CAVE AREA MAP: There are woods overlays and rough contour lines shown on the map. These are only for surface movement refer- ence, and once your players are underground you should ignore these markings.
+CAVE AREA MAP: There are woods overlays and rough contour lines shown on the map. These are only for surface movement reference, and once your players are underground you should ignore these markings.
 
-WOODS: The small groves and copses are thick growths, tangled and forbidding. You may, at your option, have characters encoun- ter occasional monsters herein — stirges, humanoids (kobolds, orcs, etc.) from the caves nearby, or the like. Movement through these wooded areas is slow and difficult. Char- acters must move in single file. Even though not shown, there are single trees, shrubs, and bushes elsewhere.
+WOODS: The small groves and copses are thick growths, tangled and forbidding. You may, at your option, have characters encounter occasional monsters herein — stirges, humanoids (kobolds, orcs, etc.) from the caves nearby, or the like. Movement through these wooded areas is slow and difficult. Characters must move in single file. Even though not shown, there are single trees, shrubs, and bushes elsewhere.
 
 UNDERGROUND: The caves, passages, and rooms of the complex are on different levels.
 
@@ -758,190 +758,158 @@ Passages slope upwards and downwards between the contours, even where stairways 
 
 INTERIORS: Except where noted otherwise, all underground areas are natural or hewn from living rock. All surfaces are rough (and easy to climb for a thief) with small ledges, minor cracks, and small openings, etc.
 
-RANSOMING PRISONERS: Organized tribes can optionally be allowed to take player characters prisoner, freeing one to return to the Keep in order to bring ransom back to free the captives. Set the sums low — 10 to 100 gp (or a magic item which the ransoming mon- ster would find useful) per prisoner. If the ran- som is paid, allow the characters to go free. Then, without telling the players, assume that this success brought fame to the capturing monsters, so their numbers will be increased by 2-12 additional members, and the tribe will also be very careful to watch for a return of the the adventurers seeking revenge for their humiliating captivity. The period of extra alertness will last 1-4 weeks; the increase in numbers is permanent.
+RANSOMING PRISONERS: Organized tribes can optionally be allowed to take player characters prisoner, freeing one to return to the Keep in order to bring ransom back to free the captives. Set the sums low — 10 to 100 gp (or a magic item which the ransoming monster would find useful) per prisoner. If the ransom is paid, allow the characters to go free. Then, without telling the players, assume that this success brought fame to the capturing monsters, so their numbers will be increased by 2-12 additional members, and the tribe will also be very careful to watch for a return of the the adventurers seeking revenge for their humiliating captivity. The period of extra alertness will last 1-4 weeks; the increase in numbers is permanent.
 
-TRIBAL ALLIANCES AND WARFARE: You might allow player characters to somehow become aware that there is a constant skir- mishing going on between the goblins and the hobgoblins on one side and the orcs, sometimes with giant allies, on the other — with the kobolds hoping to be forgotten by all, and the bugbears picking off any strag- glers who happen by. With this knowledge, they might be able to set tribes to fighting one another, and then the adventurers can take advantage of the weakened state of the feud- ing humanoids. Be careful to handle this whole thing properly; it is a device you may use to aid players who are few in number but with a high level of playing skill. It will too easy if there are too many players, or if the players do not actually use wits instead of force when the opportunity presents itself.
+TRIBAL ALLIANCES AND WARFARE: You might allow player characters to somehow become aware that there is a constant skirmishing going on between the goblins and the hobgoblins on one side and the orcs, sometimes with giant allies, on the other — with the kobolds hoping to be forgotten by all, and the bugbears picking off any stragglers who happen by. With this knowledge, they might be able to set tribes to fighting one another, and then the adventurers can take advantage of the weakened state of the feuding humanoids. Be careful to handle this whole thing properly; it is a device you may use to aid players who are few in number but with a high level of playing skill. It will too easy if there are too many players, or if the players do not actually use wits instead of force when the opportunity presents itself.
 
-MONSTERS LEARNING FROM EXPERI- ENCE: Allow intelligent monsters (even those with only low intelligence) to learn from expe- rience. If player characters use flaming oil against them, allow the monsters to use oil as soon as they can find some. If adventurers are always sneaking up on them, have the mon- sters set warning devices to alert them of intruders. If characters run from overwhelm- ing numbers have the monsters set up a ruse by causing a few to shout and make noise as if there were many coming, thus hopefully frightening off the intruders. This method of handling monsters is basic to becoming a good DM. Apply the principle wherever and whenever you have reason.
+MONSTERS LEARNING FROM EXPERIENCE: Allow intelligent monsters (even those with only low intelligence) to learn from experience. If player characters use flaming oil against them, allow the monsters to use oil as soon as they can find some. If adventurers are always sneaking up on them, have the monsters set warning devices to alert them of intruders. If characters run from overwhelming numbers have the monsters set up a ruse by causing a few to shout and make noise as if there were many coming, thus hopefully frightening off the intruders. This method of handling monsters is basic to becoming a good DM. Apply the principle wherever and whenever you have reason.
 
-EMPTIED AREAS: When monsters are cleared out of an area, the place will be desert- ed for 1-4 weeks. If no further intrusion is made into the area, however, the surviving former inhabitants will return or else some other monster will move in. For instance, a troll might move into a minotaur’s cave com- plex (1.), bringing with him whatever treasure he has.
+EMPTIED AREAS: When monsters are cleared out of an area, the place will be deserted for 1-4 weeks. If no further intrusion is made into the area, however, the surviving former inhabitants will return or else some other monster will move in. For instance, a troll might move into a minotaur’s cave complex (1.), bringing with him whatever treasure he has.
 
 Encounter Areas:
 
-A. KOBOLD LAIR: There is a 2 in 6 chance that as the group enters the cave-like tun- nel, 8 kobolds will come out from hiding in the trees above and attack first. Kobolds: (AC 7, HD 1/2, hp 3 each, #AT 1, D 1-4, MV 40’, Save NM, ML 6). Each carries d8 sp.
+A. KOBOLD LAIR: There is a 2 in 6 chance that as the group enters the cave-like tunnel, 8 kobolds will come out from hiding in the trees above and attack first. Kobolds: (AC 7, HD 1/2, hp 3 each, #AT 1, D 1-4, MV 40’, Save NM, ML 6). Each carries d8 sp.
 
-Note: 30’ inside the entrance is a pit. There is a 3 in 6 chance that each person in the front rank will fall in unless they are probing ahead. There is a 1 in 6 chance that individ- uals in the second rank will also fall in, but only if they are close to the first rank and the character ahead has already fallen in. The pit is 10’ deep, and those falling in will take 1-6 points damage. The pit lid will close, and those persons within cannot escape without aid from the outside. The noise will attract creatures from areas 1. and 2. Planks for cross- ing the pit are stored at #1., beyond.
+Note: 30’ inside the entrance is a pit. There is a 3 in 6 chance that each person in the front rank will fall in unless they are probing ahead. There is a 1 in 6 chance that individuals in the second rank will also fall in, but only if they are close to the first rank and the character ahead has already fallen in. The pit is 10’ deep, and those falling in will take 1-6 points damage. The pit lid will close, and those persons within cannot escape without aid from the outside. The noise will attract creatures from areas 1. and 2. Planks for crossing the pit are stored at #1., beyond.
 
 1, GUARD ROOM: 6 kobold guards, (AC 7, HD 1/2, hp 3 each, D 1-4). They will throw spears the first round if they have initiative. Each carries d6 sp. One will run to alert areas 4. and 6, The guards will be alerted by loud noises or lights.
 
-2. GIANT RATS (amidst garbage and waste): There are 18 giant rats (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3 plus disease, MV 40’, Save NM, ML 8). Each time a character is bitten there is a 1-in-20 chance of getting a disease unless a save vs. Poison is made. If the saving throw fails, there is a 25% chance the character will die in 1-6 days. Otherwise the the character will be too sick to adventure for one game month. These monsters are the pets of the kobolds, living off the garbage and waste of their hosts. They will rush to the sound of the trap door closing or battle. They have nothing of value in their lair or on their bodies, but their leader (rat #18) who will be at the back of the pack, a huge fellow (AC 5 due to speed and cunning, HD 1-1, hp 4, #AT 2, D 2-4/2-4, i.e. 1-3 + 1, MV 40', Save F1, ML8) wears a thin silver chain set with 5 small gems (jewelry value 400 gp, chain value 50 gp, each gem worth 50 gp). The weight of a few rats will not trig- ger the pit trap.
+2. GIANT RATS (amidst garbage and waste): There are 18 giant rats (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3 plus disease, MV 40’, Save NM, ML 8). Each time a character is bitten there is a 1-in-20 chance of getting a disease unless a save vs. Poison is made. If the saving throw fails, there is a 25% chance the character will die in 1-6 days. Otherwise the the character will be too sick to adventure for one game month. These monsters are the pets of the kobolds, living off the garbage and waste of their hosts. They will rush to the sound of the trap door closing or battle. They have nothing of value in their lair or on their bodies, but their leader (rat #18) who will be at the back of the pack, a huge fellow (AC 5 due to speed and cunning, HD 1-1, hp 4, #AT 2, D 2-4/2-4, i.e. 1-3 + 1, MV 40', Save F1, ML8) wears a thin silver chain set with 5 small gems (jewelry value 400 gp, chain value 50 gp, each gem worth 50 gp). The weight of a few rats will not trigger the pit trap.
 
-FOOD STORAGE ROOM: The door is locked. This place contains various sorts of dried and salted meat, grain, and vegeta- bles in sacks, boxes, barrels, and piles. There are also bits and pieces of past human victims. There is nothing of value here; even the wine in a large cask is thin and vinegary.
+FOOD STORAGE ROOM: The door is locked. This place contains various sorts of dried and salted meat, grain, and vegetables in sacks, boxes, barrels, and piles. There are also bits and pieces of past human victims. There is nothing of value here; even the wine in a large cask is thin and vinegary.
 
-GUARD ROOM: Here are 3 very large ” kobold guards with chain mail and bows to fire down the passage at attackers (AC 5, HD 1+1, hp 5 each, #AT 1, D 1-6 MV 40’, Save Fl, ML 6). The guards will hide behind the corner for cover, so all missiles fired at them will be at ~2 “to hit”. Each carries an axe in his belt and a purse with 2d6 gp.
+GUARD ROOM: Here are 3 very large ” kobold guards with chain mail and bows to fire down the passage at attackers (AC 5, HD 1+1, hp 5 each, #AT 1, D 1-6 MV 40’, Save F1, ML 6). The guards will hide behind the corner for cover, so all missiles fired at them will be at ~2 “to hit”. Each carries an axe in his belt and a purse with 2d6 gp.
 
-KOBOLD CHIEFTAIN’S ROOM: This huge kobold is equal to a 2 hit dice mon- ster, has 8 hit points, chain mail and shield (AC 4), with a large gem on a great golden chain about his neck (value 1,200 gp). He has the key to the storage room (#3). He hits for 2-8 (2d4) points of damage with a large battle axe. (AC 4, HD 2, hp 8, #AT 1, D 1-8, MV 40’, Save F2, ML 8). There are 5 female kobolds in the room also, (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3, MV 40', Save NM, ML 8 due to the chief). There are heaps of cloth and bits of bat- tered furniture in the place. Hidden in an old blanket hanging on the wall are 50 gp (sewn into the hem). Each female has dé gp. A locked chest holds 203 cp, 61 sp, and 22 ep.
+KOBOLD CHIEFTAIN’S ROOM: This huge kobold is equal to a 2 hit dice monster, has 8 hit points, chain mail and shield (AC 4), with a large gem on a great golden chain about his neck (value 1,200 gp). He has the key to the storage room (#3). He hits for 2-8 (2d4) points of damage with a large battle axe. (AC 4, HD 2, hp 8, #AT 1, D 1-8, MV 40’, Save F2, ML 8). There are 5 female kobolds in the room also, (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3, MV 40', Save NM, ML 8 due to the chief). There are heaps of cloth and bits of battered furniture in the place. Hidden in an old blanket hanging on the wall are 50 gp (sewn into the hem). Each female has dé gp. A locked chest holds 203 cp, 61 sp, and 22 ep.
 
 COMMON CHAMBER: The bulk of the kobold tribe dwells here. There are 17 males (AC 7, HD 1/2, hp 3 each, #AT 1, D 1-4, MV 40’, Save NM, ML 6), 23 females (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3, MV 40’, Save NM, ML 6), and 8 young (which do not attack). If their caves are invaded, those able will help in its defense. Males have d6 sp each, females d4 sp each; the young have nothing. Amidst the litter of cloth and bits and scraps of odds-and-ends there is a piece of silk worth 150 gp. (If the party does not search, it will not be located.)
 
 DM NOTE: Kobold losses will not be replaced, though injured kobolds will heal. If the attackers hurl oil at the kobolds, they will retreat if possible, rather than suffer damage. (Should they have the opportunity to find any flasks of oil, the kobolds will use them against attacking characters! )
 
-B. ORCLAIR: Upon entering, the party will see that the wall 30’ to the north is deco- rated with heads and skulls (human, elven, dwarven) in various stages of decay. These cheerful greetings are placed in niches that checker about 100 square feet of the sur- face of the wall. Close inspection will show that one is orcish (see g. below). Sounds of activity can be heard from the west, but all is quiet to the east.
+B. ORCLAIR: Upon entering, the party will see that the wall 30’ to the north is decorated with heads and skulls (human, elven, dwarven) in various stages of decay. These cheerful greetings are placed in niches that checker about 100 square feet of the surface of the wall. Close inspection will show that one is orcish (see g. below). Sounds of activity can be heard from the west, but all is quiet to the east.
 
-Area g: This narrowing area is a guard post, the watcher (Orc: AC 7, HD 1, hp 5, #AT 1, D 1-6, MV 40’, Save F1, ML 8) having a small window-like opening from which he can observe the entrance to the lair. A piece of gray canvas behind gives the impression that the guard’s head is another of the ghastly tro- phies that decorate the wall. If adventurers enter, he will quickly duck down, slipping a goblin head into the place his own was, and alert the orcs at 7.
+Area g: This narrowing area is a guard post, the watcher (Orc: AC 7, HD 1, hp 5, #AT 1, D 1-6, MV 40’, Save F1, ML 8) having a small window-like opening from which he can observe the entrance to the lair. A piece of gray canvas behind gives the impression that the guard’s head is another of the ghastly trophies that decorate the wall. If adventurers enter, he will quickly duck down, slipping a goblin head into the place his own was, and alert the orcs at 7.
 
 7. GUARD ROOM: 4 orcs: (AC 7, HD 1, hp 5 each #AT 1, D 1-6, MV 40’, Save F1, ML 8). These guards are armed with spears. Each carries one for hurling and one to melee with. They have d8 ep each. When alerted they will rush to engage intruders, raising a hue and cry when they see them, There is nothing of value in their chamber, only pallets and shabby clothing hanging on pegs.
 
 8. The watcher (g.) will alert the 4 guards here (exactly as in 7. above) who will rush west and then south to flank or surround the intruders threatening area 7. or 9. or approaching their own quarters.
 
-9. BANQUET AREA: There is a great fire- place on the south wall and many tables and benches in this 30’ x 50’ chamber — the table at the north end having a large chair at its head where the orc leader usu- ally holds court. The place is empty of orcs, although there is a small fire of charcoal burning in the fireplace. 
+9. BANQUET AREA: There is a great fireplace on the south wall and many tables and benches in this 30’ x 50’ chamber — the table at the north end having a large chair at its head where the orc leader usually holds court. The place is empty of orcs, although there is a small fire of charcoal burning in the fireplace. 
 
-10. COMMON ROOM: Here are quartered 12 male orcs (AC 7, hp 4 each, #AT 1, Save Fl, ML 8) and 18 females and 9 young (who do not fight). The males have 2d6 sp each, the others have nothing of worth. The few furnishings in the room are like- wise of no value.
+10. COMMON ROOM: Here are quartered 12 male orcs (AC 7, hp 4 each, #AT 1, Save F1, ML 8) and 18 females and 9 young (who do not fight). The males have 2d6 sp each, the others have nothing of worth. The few furnishings in the room are likewise of no value.
 
-11. STORAGE CHAMBER: The door is locked. Amidst the stacks and heaps of supplies and goods here (see 3., above), there are 3 shields, 17 spears, and 2 axes in excellent condition (by some quirk of fate). A small crate in the far northeast cor- ner contains a long-forgotten light cross- bow and 60 bolts. There is nothing else of value in the place.
+11. STORAGE CHAMBER: The door is locked. Amidst the stacks and heaps of supplies and goods here (see 3., above), there are 3 shields, 17 spears, and 2 axes in excellent condition (by some quirk of fate). A small crate in the far northeast corner contains a long-forgotten light crossbow and 60 bolts. There is nothing else of value in the place.
 
-12. ORC LEADER’S ROOM: This large creature is clad in chain mail, has a magic shield +1, and carries a mace. He fights as a4 hit dice monster, has 15 hit points, and adds +2 to damage he causes when suc- cessfully striking an opponent (thus, 3-8 points of damage) due to his strength and skill. He carries 31 gp, and wears a ring set with a gem (total value 700 gp).
+12. ORC LEADER’S ROOM: This large creature is clad in chain mail, has a magic shield +1, and carries a mace. He fights as a4 hit dice monster, has 15 hit points, and adds +2 to damage he causes when successfully striking an opponent (thus, 3-8 points of damage) due to his strength and skill. He carries 31 gp, and wears a ring set with a gem (total value 700 gp).
 
 The room is carpeted, has tapestries upon the walls (note one of these covers the entrance to the small cave to the west), and battered but still serviceable furniture and a cot. His two mates sleep on cushions at the foot of his resting place. The two females in the place fight as males (HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 8), and each has 2d6 gp on her person. The chests and other furniture have nothing of value.
 
 If hard pressed, the leader will wiggle behind the tapestries on the south wall and attempt to work the catch on the secret door to the south and go to the rival tribe for help, but his very life must be in great peril before he will do so. (Adventurers can only spring this catch by rolling a 1 (on a d6) twice in a row, or having two characters do so simultaneously.)
 
-Areat: This alcove is used by the orc leader to store arms and treasure. There are two complete suits of chain mail here (man- sized and dwarf-sized), 4 swords, and a locked iron chest which holds 205 cp, 386 sp, 81 gp and 13 pp. A small niche in the back wall, with a boulder in front covering it, hides a potion of healing and a scroll with a 6-die fire ball spell on it.
+Areat: This alcove is used by the orc leader to store arms and treasure. There are two complete suits of chain mail here (mansized and dwarf-sized), 4 swords, and a locked iron chest which holds 205 cp, 386 sp, 81 gp and 13 pp. A small niche in the back wall, with a boulder in front covering it, hides a potion of healing and a scroll with a 6-die fire ball spell on it.
 
-(DM Note: Orc losses cannot be replaced, but after an initial attack by adventurers, four of the males at location 10. will move to area 9., arm themselves with light crossbows, and lay an ambush for intruders. If the leader is slain, all surviving orcs from this locale will seek ref- uge with the tribe at C. (see below), taking everything of value with them, and B. will thereafter be deserted).
+(DM Note: Orc losses cannot be replaced, but after an initial attack by adventurers, four of the males at location 10. will move to area 9., arm themselves with light crossbows, and lay an ambush for intruders. If the leader is slain, all surviving orcs from this locale will seek refuge with the tribe at C. (see below), taking everything of value with them, and B. will thereafter be deserted).
 
-C. ORCLAIR: Similar to the orcs at area B., these monsters inhabit cave areas 14-16. These orcs, however, do not rely upon a continual watch being kept; instead, they have a series of nearly invisible strings run- ning across the entry passage, about 11’ from the entrance. When any of these strings is tripped, a heavy, weighted net suspended from the ceiling will drop upon the intruders, and metal pieces tied to it will create an alarm sound. (The trip strings will be spotted only if careful obser- vation is asked for, each observer having a 1 in 6 chance of seeing the devices. The cam- ouflaged net is 10’ wide and 18’ long, made of thick tarred ropes, and will entrap the victim for 1-4 rounds. Meanwhile, orcs from area 14. will be there in 1 round …)
+C. ORCLAIR: Similar to the orcs at area B., these monsters inhabit cave areas 14-16. These orcs, however, do not rely upon a continual watch being kept; instead, they have a series of nearly invisible strings running across the entry passage, about 11’ from the entrance. When any of these strings is tripped, a heavy, weighted net suspended from the ceiling will drop upon the intruders, and metal pieces tied to it will create an alarm sound. (The trip strings will be spotted only if careful observation is asked for, each observer having a 1 in 6 chance of seeing the devices. The camouflaged net is 10’ wide and 18’ long, made of thick tarred ropes, and will entrap the victim for 1-4 rounds. Meanwhile, orcs from area 14. will be there in 1 round …)
 
-13. FORGOTTEN ROOM: Only the two orc leaders (from this area and from B.) know of this place. They secretly meet here on occasion to plan cooperative ventures or discuss tribal problems, for although the separate tribes are not exactly friendly, both leaders are aware of the fact that there is strength in numbers. A small table and two chairs are in the middle of the room. A wooden chest to one side holds a bow, a quiver of 20 arrows, 2 swords, and 2 dag- gets. Two shields are hung on the south wall. There are only odds and ends other- wise, except that in the southeast corner, hidden beneath an old bucket (which is filled with black, stagnant water) are two small pouches, each holding one gem of 50 gp value, 10 gp, and 20 sp. Nesting under these small pouches, are 2 giant centipedes: (AC 9, HD 1/4, hp 2 each, #AT 1, D illness, MV 20' Save NM, ML 7).
+13. FORGOTTEN ROOM: Only the two orc leaders (from this area and from B.) know of this place. They secretly meet here on occasion to plan cooperative ventures or discuss tribal problems, for although the separate tribes are not exactly friendly, both leaders are aware of the fact that there is strength in numbers. A small table and two chairs are in the middle of the room. A wooden chest to one side holds a bow, a quiver of 20 arrows, 2 swords, and 2 daggets. Two shields are hung on the south wall. There are only odds and ends otherwise, except that in the southeast corner, hidden beneath an old bucket (which is filled with black, stagnant water) are two small pouches, each holding one gem of 50 gp value, 10 gp, and 20 sp. Nesting under these small pouches, are 2 giant centipedes: (AC 9, HD 1/4, hp 2 each, #AT 1, D illness, MV 20' Save NM, ML 7).
 
-14. COMMON CHAMBER: Here are quar- tered 9 male orcs with shields and swords (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 8) and 8 females and 3 young who do not fight. The males have d20 sp each, the females d4 cp, the young have nothing. The place is a mess, and there is nothing of value in it. The males will go to the entrance if they hear the net falling, arriving in 1 round.
+14. COMMON CHAMBER: Here are quartered 9 male orcs with shields and swords (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 8) and 8 females and 3 young who do not fight. The males have d20 sp each, the females d4 cp, the young have nothing. The place is a mess, and there is nothing of value in it. The males will go to the entrance if they hear the net falling, arriving in 1 round.
 
-15, COMMON HALL: General meetings are held here, and food is likewise cooked and eaten here. There are 6 males here, 2 with light crossbows (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save Fl, ML8) and 4 females (non-combatant), dwelling in the western forepart. Each has treasure on their person equal to 14. above. The males here will also go to the entrance if they here the noise of the net falling, arriving in 3 rounds.
+15, COMMON HALL: General meetings are held here, and food is likewise cooked and eaten here. There are 6 males here, 2 with light crossbows (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML8) and 4 females (non-combatant), dwelling in the western forepart. Each has treasure on their person equal to 14. above. The males here will also go to the entrance if they here the noise of the net falling, arriving in 3 rounds.
 
-16. LEADER’S ROOM: A guard (g.) is always posted just inside the door, and he cannot be surprised. (Orc: AC 5, HD 1+1, hp 6, #AT 1, D 1-6, Save Fl, ML 8, carries 246 sp and d4 gp.) He immediately shouts an alarm if any intruders attempt to enter. Behind him are stacks of barrels and boxes and sacks — extra supplies for the tribe. (One small wine barrel, 400 coins in weight, contains a good quality wine worth 55 gp.) None of the other items here have value, and the foodstuffs are not up to human standards.
+16. LEADER’S ROOM: A guard (g.) is always posted just inside the door, and he cannot be surprised. (Orc: AC 5, HD 1+1, hp 6, #AT 1, D 1-6, Save F1, ML 8, carries 246 sp and d4 gp.) He immediately shouts an alarm if any intruders attempt to enter. Behind him are stacks of barrels and boxes and sacks — extra supplies for the tribe. (One small wine barrel, 400 coins in weight, contains a good quality wine worth 55 gp.) None of the other items here have value, and the foodstuffs are not up to human standards.
 
-The area to the east houses the leader (AC 2, HD 3, hp 16, #AT 1, D 1-6, Save F3, ML 10). He is a very large orc who wears plate and carries a shield, uses a sword, and attacks as a 3 hit dice monster. At his belt is a magic axe +1 which he can hurl at an opponent, and he can do so and still attack normally in the same round of combat. His belt is of silver, with a gold buckle (total value 160 gp), and his sword has a 100 gp gem set in its pommel. In his purse are 8 gp, 17 ep, and 5 sp. His mate is equal to a male orc in combat (AC 7, HD 1, hp 5 #AT 1, Save Fl, ML 10), and she has a bracelet of ivory which is worth 100 gp. The area is well furnished, and a small chest of drawers contains a sack with 50 pp tied shut with a rope of climbing. There is also a copper bowl, finely wrought and chased with silver, on a small table near the bed. It is filled with garbage and very tarnished, so it looks only as if it were worth 10 sp, rather than the actual 50 gp, unless it is closely inspected.
+The area to the east houses the leader (AC 2, HD 3, hp 16, #AT 1, D 1-6, Save F3, ML 10). He is a very large orc who wears plate and carries a shield, uses a sword, and attacks as a 3 hit dice monster. At his belt is a magic axe +1 which he can hurl at an opponent, and he can do so and still attack normally in the same round of combat. His belt is of silver, with a gold buckle (total value 160 gp), and his sword has a 100 gp gem set in its pommel. In his purse are 8 gp, 17 ep, and 5 sp. His mate is equal to a male orc in combat (AC 7, HD 1, hp 5 #AT 1, Save F1, ML 10), and she has a bracelet of ivory which is worth 100 gp. The area is well furnished, and a small chest of drawers contains a sack with 50 pp tied shut with a rope of climbing. There is also a copper bowl, finely wrought and chased with silver, on a small table near the bed. It is filled with garbage and very tarnished, so it looks only as if it were worth 10 sp, rather than the actual 50 gp, unless it is closely inspected.
 
 (DM Note: Orc losses cannot be replaced. If this tribe is attacked, they will have the males at area 15. watching the entrance, ready for a second try by the adventurers. If the leader is slain, the survivors will seek safety in area B., if possible; otherwise, they will flee the place entirely, carrying their goods away.)
 
-D. GOBLIN LAIR: The natural cave quickly turns into the worked stone tunnels typical of this whole complex. The passageways here are very busy, and for every 10’ dis- tance covered by the party there is a 1 in 6 chance that they will encounter a group of goblins (see below). Check each time the party travels 30’ (a 3 in 6 chance) until wandering goblins are encountered, then check no further. When an encounter occurs, the entire bunch of goblins will attack and cry out an alarm (Bree-Yark!) at the same time. Wandering goblins are in addition to those found in numbered afeas.
+D. GOBLIN LAIR: The natural cave quickly turns into the worked stone tunnels typical of this whole complex. The passageways here are very busy, and for every 10’ distance covered by the party there is a 1 in 6 chance that they will encounter a group of goblins (see below). Check each time the party travels 30’ (a 3 in 6 chance) until wandering goblins are encountered, then check no further. When an encounter occurs, the entire bunch of goblins will attack and cry out an alarm (Bree-Yark!) at the same time. Wandering goblins are in addition to those found in numbered afeas.
 
-Wandering Goblins: 6 males, (AC 6, HD 1- 1, hp 3 each, #AT 1, D 1-6, MV 20’, Save NM, ML 7). Each will have d6 sp. (They are patrol- ling and carrying messages back and forth. The group will also be carrying several bags (d6) of fairly good foodstuffs — not worth much, but quite suitable for human fare.)
+Wandering Goblins: 6 males, (AC 6, HD 11, hp 3 each, #AT 1, D 1-6, MV 20’, Save NM, ML 7). Each will have d6 sp. (They are patrolling and carrying messages back and forth. The group will also be carrying several bags (d6) of fairly good foodstuffs — not worth much, but quite suitable for human fare.)
 
 17. GUARD CHAMBER: 6 goblin guards with several spears each (AC 6, HD 1-1, hp 3 each, #AT 1, D 1-6, Save NM, ML 7) are alertly watching both passages here for intruders of any sort, including hobgoblins from the south. They each have d4 x 10 cp and d4 sp. The chamber has a barrel with 60 small spears, a small table, 2 benches and a keg water.
 
-18. GUARD CHAMBER: This is the same as 17., above, except the goblins watch mainly to the east. If there is a cry of “BREE-YARK” (“‘Hey, Rube!”’), two of these guards will rush to the secret door, toss a sack with 250 gp in it to the ogre (E.,22., below) and ask him to help them. The ogre will accept payment and will enter the goblin’s lair and move to attack intruders immediately, if possible. The sack of gold coins is hidden in a water bar- rel in the corner by the secret door.
+18. GUARD CHAMBER: This is the same as 17., above, except the goblins watch mainly to the east. If there is a cry of “BREE-YARK” (“‘Hey, Rube!”’), two of these guards will rush to the secret door, toss a sack with 250 gp in it to the ogre (E.,22., below) and ask him to help them. The ogre will accept payment and will enter the goblin’s lair and move to attack intruders immediately, if possible. The sack of gold coins is hidden in a water barrel in the corner by the secret door.
 
-19. COMMON ROOM: There are 10 males (AC 6, HD 1-1, hp 3 each, #AT 1, D 1-6, Save NM, ML 7) and 12 females and 6 young (who do not fight) dwelling here. Food is prepared and eaten here, and gen- eral meetings are likewise held here. There are heaps of bedding, tables, stools, benches, etc. all around the whole place, making it very cluttered. Each male has d6 sp, each female has 2d6 cp. If the wander- ing group of goblins has not been encoun- tered when the adventurers enter this area, be certain to have those 6 additional males in this chamber.
+19. COMMON ROOM: There are 10 males (AC 6, HD 1-1, hp 3 each, #AT 1, D 1-6, Save NM, ML 7) and 12 females and 6 young (who do not fight) dwelling here. Food is prepared and eaten here, and general meetings are likewise held here. There are heaps of bedding, tables, stools, benches, etc. all around the whole place, making it very cluttered. Each male has d6 sp, each female has 2d6 cp. If the wandering group of goblins has not been encountered when the adventurers enter this area, be certain to have those 6 additional males in this chamber.
 
-20. CHIEFTAIN’S ROOM: The goblin leader (AC 4 due to chain mail and shield, HD 3, hp 11, #AT 1, D 2-7 due to strength and skill, Save F3, ML 9), 3 guards (AC 5, HD 1+1, hp 7 each, #AT 1, D 1-6, Save F1, ML9 due to presence of chief), and sev- eral females are quartered here. The chief and the guards have bows hung on the wall, and if there is time, they will take them down and use them. If hard pressed, 2 of the female goblins can fight as well as males, and will do so (AC 7, HD 1-1, hp 2 each, #AT 1, D 1-6, Save NM, ML 9 due to the presence of the chief); the other females do not fight. The chief has a purse with 18 gp and 2 pp in it; each of his guards has 8 ep and dé sp. There is a silver cup (value 90 gp) under his bed.
+20. CHIEFTAIN’S ROOM: The goblin leader (AC 4 due to chain mail and shield, HD 3, hp 11, #AT 1, D 2-7 due to strength and skill, Save F3, ML 9), 3 guards (AC 5, HD 1+1, hp 7 each, #AT 1, D 1-6, Save F1, ML9 due to presence of chief), and several females are quartered here. The chief and the guards have bows hung on the wall, and if there is time, they will take them down and use them. If hard pressed, 2 of the female goblins can fight as well as males, and will do so (AC 7, HD 1-1, hp 2 each, #AT 1, D 1-6, Save NM, ML 9 due to the presence of the chief); the other females do not fight. The chief has a purse with 18 gp and 2 pp in it; each of his guards has 8 ep and dé sp. There is a silver cup (value 90 gp) under his bed.
 
 This place has quite a bit of furniture in it — all scaled goblin-size, of course. A low bench near the bed has a secret drawer door under the seat, and inside is stored the treasure of the goblins: a tapestry with silver and gold threads which is worth 900 gp. Nearby is a stand with a pewter bowl which holds 273 sp and 321 cp.
 
-21. STORAGE CHAMBER: Note that at position g there are 4 goblin guards on duty (AC 6, HD 1-1, hp 4 each, #AT 1, D 1-6, Save NM, ML7) armed with ready crossbows and swords. Many bales, boxes, crates, barrels, and sacks are stacked and heaped in the large chamber. They contain cloth, food, beer, and wine — all of no special worth. The hard-working but not- too-bright goblins continually bring sup- plies of stolen and looted goods to this place. They do not realize that their large cousins, the hobgoblins at area F., below, use a secret door known only to them to steal the best foodstuffs and drink. If the adventurers stay in this chamber for more than 1 turn, a party of 4 hobgoblins will come through the secret door:
+21. STORAGE CHAMBER: Note that at position g there are 4 goblin guards on duty (AC 6, HD 1-1, hp 4 each, #AT 1, D 1-6, Save NM, ML7) armed with ready crossbows and swords. Many bales, boxes, crates, barrels, and sacks are stacked and heaped in the large chamber. They contain cloth, food, beer, and wine — all of no special worth. The hard-working but nottoo-bright goblins continually bring supplies of stolen and looted goods to this place. They do not realize that their large cousins, the hobgoblins at area F., below, use a secret door known only to them to steal the best foodstuffs and drink. If the adventurers stay in this chamber for more than 1 turn, a party of 4 hobgoblins will come through the secret door:
 
-4 Hobgoblins: AC 6, HD 1+1, hp 6 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 9). Each carries d4 gold pieces.
+4 Hobgoblins: AC 6, HD 1+1, hp 6 each, #AT 1, D 1-8, MV 30’, Save F1, ML 9). Each carries d4 gold pieces.
 
 (DM Note: Goblin losses cannot be replaced. If they are being soundly defeated by intruders, the goblins will attempt to hide or flee east. Those who do so will go from area 17. to area 23., inform the hobgoblins, and join forces with them, so adjust encounters appropriately.)
 
-E. OGRE CAVE: Persons entering this place will notice a strong, sour odor and then notice what appears to be a huge bear sprawled asleep in the southwest part of the cave. This is nothing more than the skin of a huge bear which the ogre killed and uses as a bed, making it comfortable by heaping leaves underneath. The ogre sits in the eastern portion of his lair, and noises will certainly bring him ready to do battle. This huge ogre has AC 4, due to another thick bearskin he wears for protec- tion. He strikes opponents for 3-12 (1d10 + 2) points of damage (AC 4, HD 4+1, hp 25, D 3-12, MV 30’, Save F4, ML 10). The ogre has grown wealthy by serving as a mercenary — generally on the side of the goblins (and their occasional allies, the hobgoblins), although he has been bought off by the orcs and gnolls from time to time. He will rush to aid the goblins when they toss him a sack of coins (see 18., above). If anyone offers him a greater fee — one which he can actually see and feel — it is 90% likely that he will simply take it (and the goblin’s money too!), and return to his lair.
+E. OGRE CAVE: Persons entering this place will notice a strong, sour odor and then notice what appears to be a huge bear sprawled asleep in the southwest part of the cave. This is nothing more than the skin of a huge bear which the ogre killed and uses as a bed, making it comfortable by heaping leaves underneath. The ogre sits in the eastern portion of his lair, and noises will certainly bring him ready to do battle. This huge ogre has AC 4, due to another thick bearskin he wears for protection. He strikes opponents for 3-12 (1d10 + 2) points of damage (AC 4, HD 4+1, hp 25, D 3-12, MV 30’, Save F4, ML 10). The ogre has grown wealthy by serving as a mercenary — generally on the side of the goblins (and their occasional allies, the hobgoblins), although he has been bought off by the orcs and gnolls from time to time. He will rush to aid the goblins when they toss him a sack of coins (see 18., above). If anyone offers him a greater fee — one which he can actually see and feel — it is 90% likely that he will simply take it (and the goblin’s money too!), and return to his lair.
 
-22. The ogre sits here on top of a great leath- er bag. In this bag are seven large sacks which contain:
+22. The ogre sits here on top of a great leather bag. In this bag are seven large sacks which contain:
 
 #1; 287 sp; #2 a hard cheese; #3: 182 cp and 91 ep; #4: 289 gp; #5 a keg of brandy (value 80 gp); #6: 303 cp; #7: 241 gp (actually lead coins with a wash of gold, so value of each is only 1 copper!).
 
 If intruders offer him a bribe of 20 or more gold piece value, the ogre will be 90% likely to allow them to leave unmolested, but if he catches them again, he will attempt to kill them, whatever the offers. Hidden under a heap of old bones in the southern portion of his cave are 6 magic arrows +1, a potion of invisibility, and a magic scroll with 2 clerical spells — cure light wounds, find traps.
 
-F. HOBGOBLIN LAIR: Seldom are these fierce creatures troubled by marauders, for the entrance to their lair is guarded by a stout, barred door at the back of the entry cave. Skulls are lined along the walls, and several are affixed to the oaken door to highlight a warning written in common runes: “Come in — we'd like to have you for dinner!” (Which could be misinter- preted as a cordial invitation to dine.   ) Careful inspection of the barred door has a 1 in 6 chance per person examining it of detecting a secret mechanism which allows
+F. HOBGOBLIN LAIR: Seldom are these fierce creatures troubled by marauders, for the entrance to their lair is guarded by a stout, barred door at the back of the entry cave. Skulls are lined along the walls, and several are affixed to the oaken door to highlight a warning written in common runes: “Come in — we'd like to have you for dinner!” (Which could be misinterpreted as a cordial invitation to dine...) Careful inspection of the barred door has a 1 in 6 chance per person examining it of detecting a secret mechanism which allows a person outside to slide the bar back so the portal can be entered. If it is forced open, it will require three 1s (on a d6) to break the bar, and the noise will alert the six hobgoblins in area 26. If a knock spell is used to open the door, the noise of the falling bar will be heard, but the guards will not have time to react — the intruders will have two rounds before the guards come.
 
-23.
+23. COMMON ROOM: This place quarters 5 males (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save F1, ML 8) with d4x 10 sp each: 8 females (AC 7, HD 1, hp 4 each, #AT 1, D 1-6, MV 30’, Save F1, ML 7) with 2d6 sp each, and 3 young which do not fight and have no treasure. There are heaps of cloth and skins for beds, some odds and ends of furniture, a small barrel of beer, buckets, etc. in the place, all worthless. The males are watching the east door which communicates with the goblin lair (D., above) and are battle-ready.
 
-24.
+24. TORTURE CHAMBER/PLAYROOM/ FOOD STORAGE: There are 2 very large, ugly hobgoblins here. Each is equal to a 2+1 hit dice monster, one having 10 hit points, the other 8 hit points, and both wear chain mail (AC 5). One also has a whip, as well as a sword, so that he can strike at opponents up to 15’ distant, and if a hit is scored, the whip will jerk the victim off his or her feet for and stun (paralyze) him or her for 1-2 melee rounds. However, once closely engaged the hobgoblin cannot make use of his whip, so he will cast it aside. Each of these monsters has a purse with d6 cp, sp, and ep. The larger also has a silver armlet worth 135 gp. They guard 6 prisoners who are chained to the walls. There are two chairs, a small table, a central fire pit, and various implements of torture in the chamber. The keys to the prisoners’ chains are hanging on the wall in the southwest corner. The prisoners are:
 
-#i:
+#1: A plump, half-dead merchant, scheduled to be eaten tonight in a special banquet. If he is rescued and returned to the Keep, the Guild will pay a 100 gp reward, grant the rescuers honorary Guild status, and exempt them for one year from any fees, dues, taxes, and the like which the Guild would normally collect.
 
-#2:
+#2: An orc (AC 7, HD 1, hp 4, ML 8) who will fight goblins and hobgoblins gladly, if handed a weapon (of course, he will seek to escape from the adventurers at first chance, taking whatever he can with him, and informing his fellows at B. (above) of what happened).
 
-a person outside to slide the bar back so the portal can be entered. If it is forced open, it will require three 1s (on a d6) to break the bar, and the noise will alert the six hobgoblins in area 26. If a knock spell is used to open the door, the noise of the fall- ing bar will be heard, but the guards will not have time to react — the intruders will have two rounds before the guards come.
+#3: A man-at-arms (AC 9, Fl, hp 5, ML 7) who formerly served as a guard for the merchant. He will take service with rescuers for 1 year if an offer is made, for room and board only, if given armor and weapons,
 
-COMMON ROOM: This place quarters 5 males (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save F1, ML 8) with d4x 10 sp each: 8 females (AC 7, HD 1, hp 4 each, #AT 1, D 1-6, MV 30’, Save Fl, ML 7) with 2d6 sp each, and 3 young which do not fight and have no treasure. There are heaps of cloth and skins for beds, some odds and ends of furniture, a small barrel of beer, buckets, etc. in the place, all worthless. The males are watching the east door which communicates with the goblin lair (D., above) and are battle-ready.
+#4: A normal female, the merchant's wife, in fact, who is also slated for the big feast. She will personally reward her rescuers by giving them a magical dagger +1 she has in her room back at the Keep.
 
-TORTURE CHAMBER/PLAYROOM/ FOOD STORAGE: There are 2 very large, ugly hobgoblins here. Each is equal to a 2+1 hit dice monster, one having 10 hit points, the other 8 hit points, and both wear chain mail (AC 5). One also has a whip, as well as a sword, so that he can strike at opponents up to 15’ distant, and if a hit is scored, the whip will jerk the vic- tim off his or her feet for and stun (para- lyze) him or her for 1-2 melee rounds. However, once closely engaged the hob- goblin cannot make use of his whip, so he will cast it aside. Each of these monsters has a purse with d6 cp, sp, and ep. The larger also has a silver armlet worth 135 gp. They guard 6 prisoners who are chained to the walls. There are two chairs, a small table, a central fire pit, and various imple- ments of torture in the chamber. The keys to the prisoners’ chains are hanging on the wall in the southwest corner. The prisoners are:
+#5: A crazy gnoll (AC 9 due to no armor, HD 2, hp 9, #AT 1, D 1-6, Save F2, ML 8) who will snatch up a weapon and attack his rescuers if he is freed. (He will cause only 1-6 points of damage due to his weakened condition.)
 
-A plump, half-dead merchant, sched- uled to be eaten tonight in a special banquet. If he is rescued and returned to the Keep, the Guild will pay a 100 gp reward, grant the rescuers honorary Guild status, and exempt them for one year from any fees, dues, taxes, and the like which the Guild would normally collect.
+#6: Another man-at-arms as #3 above who will behave the same way his companion will.
 
-An orc (AC 7, HD 1, hp 4, ML 8) who will fight goblins and hobgoblins glad- ly, if handed a weapon (of course, he
+25. COMMON CHAMBER: This large place is used for meals, meetings and general revels of the hobgoblin tribe. There are many tables and benches set out now, as the place is being readied for the coming feast. 4 males (AC 6, HD 1+1, hp 5 each, # AT 1, D 1-8, MV 30’, Save F1, ML 8), 5 females (AC 7, HD 1, hp 4 each, #AT 1, D 1-6, Save F1, ML 7), and 9 young (who will not fight) are working here. Males have d4 gp each, females have 2d6 sp. The head table has a set of pewter dishes on it, and their value is 25 gp for the set.
 
-#3:
+26. GUARD ROOM: 6 hobgoblins (AC 6, HD 1+1, hp 6 each, #AT 1, D 1-6, Save F1, ML 8), 3 with crossbows which they'll fire once before dropping and taking their maces for close combat. Each carries d4 each gp, sp, c p. If they hear the door being battered, or the bar falling, all but one will immediately rush to the entry, while the other will alert area 27., and then join his fellows. It takes two rounds for them to reach the entry, and the sixth will join the other guards on round four.
 
-#4:
+27. ARMORY: 3 hobgoblin guards (AC 5 due to chain mail, HD 1+1, hp 6 each, #AT 1, D 1-8, Save F1, ML 8) are on duty here at all times. If warning comes, two will move to the door to wait in ambush, and the others will pass through the secret entrance (to area 31.) to alert the chief. Each guard has 2d4 each of sp and ep. In the chamber are the following:
 
-#5:
-
-#6:
-
-25.
-
-26.
-
-27.
-
-will seek to escape from the adventurers at first chance, taking whatever he can with him, and informing his fellows at B. (above) of what happened).
-
-A man-at-arms (AC 9, Fl, hp 5, ML 7) who formerly served as a guard for the merchant. He will take service with res- cuers for 1 year if an offer is made, for room and board only, if given armor and weapons,
-
-A normal female, the merchant's wife, in fact, who is also slated for the big feast. She will personally reward her res- cuers by giving them a magical dagger +1 she has in her room back at the Keep.
-
-A crazy gnoll (AC 9 due to no armor, HD 2, hp 9, #AT 1, D 1-6, Save F2, ML 8) who will snatch up a weapon and attack his rescuers if he is freed. (He will cause only 1-6 points of damage due to his weakened condition.)
-
-Another man-at-arms as #3 above who will behave the same way his companion will.
-
-COMMON CHAMBER: This large place is used for meals, meetings and gen- eral revels of the hobgoblin tribe. There are many tables and benches set out now, as the place is being readied for the coming feast. 4 males (AC 6, HD 1+1, hp 5 each, # AT 1, D 1-8, MV 30’, Save F1, ML 8), 5 females (AC 7, HD 1, hp 4 each, #AT 1, D 1-6, Save Fl, ML 7), and 9 young (who will not fight) are working here. Males have d4 gp each, females have 2d6 sp. The head table has a set of pewter dishes on it, and their value is 25 gp for the set.
-
-GUARD ROOM: 6 hobgoblins (AC 6, HD 1+1, hp 6 each, #AT 1, D 1-6, Save F1, ML 8), 3 with crossbows which they'll fire once before dropping and taking their maces for close combat. Each carries d4 each gp, sp, c p. If they hear the door being battered, or the bar falling, all but one will immediately rush to the entry, while the other will alert area 27., and then join his fellows. It takes two rounds for them to reach the entry, and the sixth will join the other guards on round four.
-
-ARMORY: 3 hobgoblin guards (AC 5 due to chain mail, HD 1+1, hp 6 each, #AT 1, D 1-8, Save F1, ML 8) are on duty here at all times. If warning comes, two will move to the door to wait in ambush, and the others will pass through the secret entrance (to area 31.) to alert the chief. Each guard has 2d4 each of sp and ep. In the chamber are the following:
-
-suit man-sized plate mail
-suit of dwarf-sized plate mail
-suits man-sized chain mail
-suits elf-sized chain mail
-suits man-sized leather armor
-shields
-daggers
-axe
-maces
-swords
-bows (short)
-longbow
-crossbows
-score arrows (14 arrows have
-silver heads)
-
+1 suit man-sized plate mail
+1 suit of dwarf-sized plate mail
+3 suits man-sized chain mail
+2 suits elf-sized chain mail
+7 suits man-sized leather armor
+11 shields
+6 daggers
+1 axe
+4 maces
+3 swords
+2 bows (short)
+1 longbow
+13 crossbows
+11 score arrows (14 arrows have silver heads)
 9 score bolts
 51 spears
 19 pole arms
 42 helmets of various sizes
 
-ROR NE RE ASEYUNWR
-
-ee
-
 Armor-type items are standing or hung from racks. Weapons are in chests or on pegs or racks.
 
-28. STOREROOM: Goods stolen from the stupid goblins are kept here until needed above. There will be a single guard (AC 6, HD 1+1,hp5, #AT 1, D 1-8, Save Fl, ML 8) on duty here at all times. He has 2d8 ep. (If the hobgoblin looting party does not encounter adventurers in area 21., they will also be here: 4 hobgoblins (AC 6, HD 1+1, hp 6 each, #AT 1, D 1-8, Save Fl, ML 8). Each of the four carries d4 gp.
+28. STOREROOM: Goods stolen from the stupid goblins are kept here until needed above. There will be a single guard (AC 6, HD 1+1, hp 5, #AT 1, D 1-8, Save F1, ML 8) on duty here at all times. He has 2d8 ep. (If the hobgoblin looting party does not encounter adventurers in area 21., they will also be here: 4 hobgoblins (AC 6, HD 1+1, hp 6 each, #AT 1, D 1-8, Save F1, ML 8). Each of the four carries d4 gp.
 
-29. GUARD ROOM: 2 hobgoblin guards with crossbows and swords stand here (AC 6, HD 1 +1, #AT 1, D 1-8, Save Fl, ML8.) With them are 2 females who will fight (AC 7, HD 1, hp 4 each, #AT 1, D 1-6, Save Fl, ML 7). Males have 2d6 each sp and cp, females have no treasure. There are two cots, a bench, a stool, and a large box (filled with soiled clothing) in the room. If attackers are seen, one female will alert area 30., the other area 31.1; then both will fight.
+29. GUARD ROOM: 2 hobgoblin guards with crossbows and swords stand here (AC 6, HD 1 +1, #AT 1, D 1-8, Save F1, ML8.) With them are 2 females who will fight (AC 7, HD 1, hp 4 each, #AT 1, D 1-6, Save F1, ML 7). Males have 2d6 each sp and cp, females have no treasure. There are two cots, a bench, a stool, and a large box (filled with soiled clothing) in the room. If attackers are seen, one female will alert area 30., the other area 31.1; then both will fight.
 
-30. HOBGOBLIN CHIEF’S QUARTERS: This great ugly creature is particularly tough (AC 2 due to plate and shield, HD 5, hp 22, #AT 1, D 3-10 due to strength and skill, MV 30’, Save F5, ML 10). He has 5 pp and 31 gp in his purse. He wears a sil- ver and gem studded belt (value 600 gp).
+30. HOBGOBLIN CHIEF’S QUARTERS: This great ugly creature is particularly tough (AC 2 due to plate and shield, HD 5, hp 22, #AT 1, D 3-10 due to strength and skill, MV 30’, Save F5, ML 10). He has 5 pp and 31 gp in his purse. He wears a silver and gem studded belt (value 600 gp).
 
-With him are 4 large female hobgoblins, each equal toa male (AC 6, HD 1 +1, hp6 each, #AT 1, D 1-8, Save Fl, ML 10 due to the chief), and each has 2d6 gp. The room is crowded with furniture and junk — all of no real worth, except that there is a false bottom in a huge iron box filled with man- gy animal skins. The secret portion of the iron box holds 25 pp, 200 gp, 115 ep, and 400 sp plus a 100 gp gem and a potion of poison. Amidst a heap of kindling wood near the fireplace (southeast corner) there is concealed a wand of paralyzation, with only 17 charges left.
+With him are 4 large female hobgoblins, each equal toa male (AC 6, HD 1 +1, hp6 each, #AT 1, D 1-8, Save F1, ML 10 due to the chief), and each has 2d6 gp. The room is crowded with furniture and junk — all of no real worth, except that there is a false bottom in a huge iron box filled with mangy animal skins. The secret portion of the iron box holds 25 pp, 200 gp, 115 ep, and 400 sp plus a 100 gp gem and a potion of poison. Amidst a heap of kindling wood near the fireplace (southeast corner) there is concealed a wand of paralyzation, with only 17 charges left.
 
-31. GUARD ROOM: 4 hobgoblins (AC 5 due to chain mail, HD 1+1, hp 5 each, #AT 1, D 1-8, Save Fl, ML 8), each with 2d6 ep, sp, and cp. They are alert for dan- ger, and when notified, they will pass the word to areas 29., 30., and/or 27., as required. The room is rather bare, having only two pallets, a stool, and a large water barrel.
+31. GUARD ROOM: 4 hobgoblins (AC 5 due to chain mail, HD 1+1, hp 5 each, #AT 1, D 1-8, Save F1, ML 8), each with 2d6 ep, sp, and cp. They are alert for danger, and when notified, they will pass the word to areas 29., 30., and/or 27., as required. The room is rather bare, having only two pallets, a stool, and a large water barrel.
 
-DM NOTE: As usual, hobgoblin losses can- not be replaced during the course of normal play, which is a period of only several days or weeks of action. The hobgoblins are fairly smart, well-organized, and alert. If their chief is killed, they will typically seek to escape alive, unless their opponents are obviously weak and inferior, Survivors will reinforce the goblins at D., above, unless their attackers are very dangerous and the hobgoblins can see that the whole Caves’ area is in trouble.
+DM NOTE: As usual, hobgoblin losses cannot be replaced during the course of normal play, which is a period of only several days or weeks of action. The hobgoblins are fairly smart, well-organized, and alert. If their chief is killed, they will typically seek to escape alive, unless their opponents are obviously weak and inferior, Survivors will reinforce the goblins at D., above, unless their attackers are very dangerous and the hobgoblins can see that the whole Caves’ area is in trouble.
 
-G. SHUNNED CAVERN: Even the normal inhabitants of this area, including the ogre, stay away from here, for the creatures that dwell herein are exceptionally danger- ous. Any creature foolish enough to ven- ture out at night becomes fair game. A horrible stench is noticed as soon as crea- tures enter the cavern area.
+G. SHUNNED CAVERN: Even the normal inhabitants of this area, including the ogre, stay away from here, for the creatures that dwell herein are exceptionally dangerous. Any creature foolish enough to venture out at night becomes fair game. A horrible stench is noticed as soon as creatures enter the cavern area.
 
 32. EMPTY GALLERY: The odor of these places is awful. Bones and rotting corpses are spread here and there amidst a litter of dead leaves and old branches. If a careful search is made, adventurers will find a coin every round: 1-2 = 1 cp, 3 —41 sp, 5-61 ep. The sound of such searching might bring visitors! Roll on the table below for an encounter:
 
@@ -952,37 +920,37 @@ each, #AT 1, D 1-3 plus disease, MV
 3 Gray ooze from 33., below
 4-6 Nothing is attracted to the noise
 
-33. SHALLOW POOL: This portion of the cavern is very wet, and all the walls and floor have a sheen from the dampness. There is a large pool of shallow water (as shown), and a few white, blind fish are swimming therein. There is a jewel encrusted goblet worth 1,300 gp in the water. There are 3 gray ooze monsters in this place (only 2 if 1 has already been encountered in a 32., area). Each causes 1- 8 hit points damage on the first round, unless attacking from above, because half of their damage will be taken up in destroying the foot and leg protection of the victim. Thereafter, attacks cause 2-16 points damage, as do any attacks from above (AC 8, HD 3*, hp 15 each, #AT 1, D 1-8 first round and destroys armor, then 2-16, MV 3’, Save F2, ML 12). The pair always in the place are located at the south edge of the pool and the on the ceiling in the southwestern portion of the area. There is only a 1 in 20 chance of noticing either unless a pole or other device is used to prod the area before the pool, or unless two or more torches are held aloft so as to fully light the ceiling area. The third gray ooze will be on the ceiling to the left of the entrance, if present. 
+33. SHALLOW POOL: This portion of the cavern is very wet, and all the walls and floor have a sheen from the dampness. There is a large pool of shallow water (as shown), and a few white, blind fish are swimming therein. There is a jewel encrusted goblet worth 1,300 gp in the water. There are 3 gray ooze monsters in this place (only 2 if 1 has already been encountered in a 32., area). Each causes 18 hit points damage on the first round, unless attacking from above, because half of their damage will be taken up in destroying the foot and leg protection of the victim. Thereafter, attacks cause 2-16 points damage, as do any attacks from above (AC 8, HD 3*, hp 15 each, #AT 1, D 1-8 first round and destroys armor, then 2-16, MV 3’, Save F2, ML 12). The pair always in the place are located at the south edge of the pool and the on the ceiling in the southwestern portion of the area. There is only a 1 in 20 chance of noticing either unless a pole or other device is used to prod the area before the pool, or unless two or more torches are held aloft so as to fully light the ceiling area. The third gray ooze will be on the ceiling to the left of the entrance, if present. 
 
 34. OWL BEAR’S DEN: Owl Bear: AC 5, HD 5, hp 30, #AT 3, D 1-8/1-8/1-8, MV 40', Save F3, ML 9). It sleeps in the most southern part of its den, digesting a meal of gnoll it just caught at dawn. If aroused, the beast will roar and rush out, striking with its two great paws, and toothy beak for 1-8 points of damage per hit, with three such attacks per round, i.e. a claw, another clawing attack, and then a snap of its beak. It has no treasure, but amidst the many sticks and bones it sleeps on is a bone tube (1 in 6 chance of noticing it for each person searching the heap, with a check for each once per round) with a protection from undead scroll within it.
 
-H. BUGBEAR LAIR: The group of bug- bears is not numerous, but what it lacks in numbers, it makes up for in strength and cunning. There are signs beside the entrance cave in kobold, orcish, goblin, etc. Each says: “Safety, security and repose for all humanoids who enter — WEL- COME! (Come in and report to the first guard on the left for a hot meal and bed assignment.)”
+H. BUGBEAR LAIR: The group of bugbears is not numerous, but what it lacks in numbers, it makes up for in strength and cunning. There are signs beside the entrance cave in kobold, orcish, goblin, etc. Each says: “Safety, security and repose for all humanoids who enter — WELCOME! (Come in and report to the first guard on the left for a hot meal and bed assignment.)”
 
-GUARD ROOM: 3 bugbears (AC 5, HD 3 +1, hp 11 each, #AT 1, D 2-8, Save F3, ML 9) with 2d10 gp each. These crea- tures lounge on stools near a smoking bra- zier that has skewers of meat roasting over the coals. Each will ignore his great flail when intruders enter, reaching instead for the food. Though they do not speak com- mon, they will grab and eat a chunk, then offer the skewers to the adventurers — and suddenly use them as swords to strike first blow (at +2 bonus to hit due to surprise!) unless the victims are very alert. There are two cots in the place and a large gong. If the battle goes badly, one will smite the gong to warn the others in the complex.
+GUARD ROOM: 3 bugbears (AC 5, HD 3 +1, hp 11 each, #AT 1, D 2-8, Save F3, ML 9) with 2d10 gp each. These creatures lounge on stools near a smoking brazier that has skewers of meat roasting over the coals. Each will ignore his great flail when intruders enter, reaching instead for the food. Though they do not speak common, they will grab and eat a chunk, then offer the skewers to the adventurers — and suddenly use them as swords to strike first blow (at +2 bonus to hit due to surprise!) unless the victims are very alert. There are two cots in the place and a large gong. If the battle goes badly, one will smite the gong to warn the others in the complex.
 
-36. CHIEFTAIN’S ROOM: This tough old bugbear is equal to an ogre (AC 5, HD 4+1, hp 18, #AT 1, D 3-12 (d10 +2), Save F4, ML 9). He has a pouch holding a key, 29 pp, and three 50 gp gems. With him is a female bugbear equal to a male (AC 5, HD 3+1, hp 12, #AT 1, D 2-8, Save Fl, ML 8, Save F3, ML 9). She has gold ear- rings worth 100 gp. The furnishings of the room are battered and crude, but several pieces of silk are mixed up with the bed- ding, in all 6 may be found; the party will be able to sell them for 20 gp each. There is a gray chest stuck up on a ledge near the ceiling which will only be spotted if the room is carefully searched. It contains 1,462 sp, a 30 pound statue of alabaster and ivory (worth 200 gp) and 2 potions of healing (which will break if the chest is roughly handled). It will take three or four strong characters to bring this down safely. There is a hand axe +1 on the wall, and if the chieftain has the chance, he will take it down and hurl it first, then close for full melee. He knows of the secret door — it is his escape route in desperate situations.
+36. CHIEFTAIN’S ROOM: This tough old bugbear is equal to an ogre (AC 5, HD 4+1, hp 18, #AT 1, D 3-12 (d10 +2), Save F4, ML 9). He has a pouch holding a key, 29 pp, and three 50 gp gems. With him is a female bugbear equal to a male (AC 5, HD 3+1, hp 12, #AT 1, D 2-8, Save F1, ML 8, Save F3, ML 9). She has gold earrings worth 100 gp. The furnishings of the room are battered and crude, but several pieces of silk are mixed up with the bedding, in all 6 may be found; the party will be able to sell them for 20 gp each. There is a gray chest stuck up on a ledge near the ceiling which will only be spotted if the room is carefully searched. It contains 1,462 sp, a 30 pound statue of alabaster and ivory (worth 200 gp) and 2 potions of healing (which will break if the chest is roughly handled). It will take three or four strong characters to bring this down safely. There is a hand axe +1 on the wall, and if the chieftain has the chance, he will take it down and hurl it first, then close for full melee. He knows of the secret door — it is his escape route in desperate situations.
 
-37. SPOILS ROOM: The heavy door is locked and the key is in the pouch of the chieftain (36., above). Inside are a magical shield +1 being used as a tray to hold a heap of dried herbs (catnip, something these particular bugbears relish), various boxes and crates of high quality dried or salted foodstuffs, leath- er hides in a stack, 3 barrels of ale, a tun of wine, and a small keg of oil (20 flask capaci- ty). (If all but the shield and oil are sold at the Keep, the value will be 400 gp.) Breaking the lock or smashing the door will bring guards from 35. and the chieftain and his mate from 36.
+37. SPOILS ROOM: The heavy door is locked and the key is in the pouch of the chieftain (36., above). Inside are a magical shield +1 being used as a tray to hold a heap of dried herbs (catnip, something these particular bugbears relish), various boxes and crates of high quality dried or salted foodstuffs, leather hides in a stack, 3 barrels of ale, a tun of wine, and a small keg of oil (20 flask capacity). (If all but the shield and oil are sold at the Keep, the value will be 400 gp.) Breaking the lock or smashing the door will bring guards from 35. and the chieftain and his mate from 36.
 
-38. COMMON ROOM: 3 males (AC 5, HD 3+1, hp 12 each, #AT 1, D 2-8, MV 30’, Save F3, ML 9) with 2d8 each of gp and sp, 7 females (AC 6, HD 2, hp 8 each, #AT 1, D 1-8, Save F2, ML 8), and 3 young bug- bears (AC 7, HD 1, hp 3 each, #AT 1, D 1- 4, Save Fl, ML 7) dwell here. There are piles of bedding and old garments here and there. Blackened by soot, there is a sil- ver urn worth 175 gp near the fireplace, but only close examination will reveal its true value.
+38. COMMON ROOM: 3 males (AC 5, HD 3+1, hp 12 each, #AT 1, D 2-8, MV 30’, Save F3, ML 9) with 2d8 each of gp and sp, 7 females (AC 6, HD 2, hp 8 each, #AT 1, D 1-8, Save F2, ML 8), and 3 young bugbears (AC 7, HD 1, hp 3 each, #AT 1, D 14, Save F1, ML 7) dwell here. There are piles of bedding and old garments here and there. Blackened by soot, there is a silver urn worth 175 gp near the fireplace, but only close examination will reveal its true value.
 
-39. GUARD ROOM: Watching here are 2 males (AC 5, HD 3 +1, hp 10 each, #AT 1, D 2-8, Save F3, ML 9) with 2d8 gp each and 3 females (AC 6, HD 2, hp 7 each, #AT 1, D 1-8, Save F2, ML 8) each with d10 gp. Each has a spear in addition to nor- mal weapons, so they can hurl this missile and then close to fight hand-to-hand. The- se bugbears tend to the slaves as well as help to guard the entrance to their lair. There are bedrolls, a bench, a long table, a water pail, and sacks of meat scattered here and there in the chamber. Keys to the doors to 40. and 41. are on the wall oppo- site the stairs. Both corridors to the slave pens have meal sacks and small boxes and barrels of provisions and watered wine along their length.
+39. GUARD ROOM: Watching here are 2 males (AC 5, HD 3 +1, hp 10 each, #AT 1, D 2-8, Save F3, ML 9) with 2d8 gp each and 3 females (AC 6, HD 2, hp 7 each, #AT 1, D 1-8, Save F2, ML 8) each with d10 gp. Each has a spear in addition to normal weapons, so they can hurl this missile and then close to fight hand-to-hand. These bugbears tend to the slaves as well as help to guard the entrance to their lair. There are bedrolls, a bench, a long table, a water pail, and sacks of meat scattered here and there in the chamber. Keys to the doors to 40. and 41. are on the wall opposite the stairs. Both corridors to the slave pens have meal sacks and small boxes and barrels of provisions and watered wine along their length.
 
-40. SLAVE PEN: The iron door is secured by a bar, achain, and a heavy padlock. Inside is a litter of straw, a bucket, and the follow- ing slaves: 3 kobolds (AC 9, HD 1/2, hp 2 each, MV 40’, Save NM, ML 6), 1 goblin (AC 9, HD 1-1, hp 3, MV 20’, Save NM, ML 7), 4 orcs (AC 9, HD 1, hp 5 each, MV 40', Save F1, ML 7), and 2 human fighters (AC 9, Fi, hp 4 each, MV 40, ML 7) — optionally add 1 dwarf (AC 9, D2, hp 12, MV 40’, ML 8) and 2 elves (AC 9, HD 1+1, hp 7 each, MV 40’, ML 8) in place of 2 of the kobolds and 1 of the orcs. They are chained to the wall with a common chain and a heavy padlock. All will fight against the bugbears if given weapons. (Treat as AC 9 unless protection is provided.) The humans will serve as those noted in F.,24., above. The dwarf and elves, if used by the DM, may agree to help the adventurers as long as they stay in the Caves’ area contin- uously and fight. The other creatures will desert at the first opportunity.
+40. SLAVE PEN: The iron door is secured by a bar, achain, and a heavy padlock. Inside is a litter of straw, a bucket, and the following slaves: 3 kobolds (AC 9, HD 1/2, hp 2 each, MV 40’, Save NM, ML 6), 1 goblin (AC 9, HD 1-1, hp 3, MV 20’, Save NM, ML 7), 4 orcs (AC 9, HD 1, hp 5 each, MV 40', Save F1, ML 7), and 2 human fighters (AC 9, Fi, hp 4 each, MV 40, ML 7) — optionally add 1 dwarf (AC 9, D2, hp 12, MV 40’, ML 8) and 2 elves (AC 9, HD 1+1, hp 7 each, MV 40’, ML 8) in place of 2 of the kobolds and 1 of the orcs. They are chained to the wall with a common chain and a heavy padlock. All will fight against the bugbears if given weapons. (Treat as AC 9 unless protection is provided.) The humans will serve as those noted in F.,24., above. The dwarf and elves, if used by the DM, may agree to help the adventurers as long as they stay in the Caves’ area continuously and fight. The other creatures will desert at the first opportunity.
 
-41. SLAVE PEN: Another barred, chained, and padlocked iron door keeps safe the following slaves: 3 hobgoblins (AC 8, HD 1+1, hp 6 each, MV 30’, Save Fl, ML 8), 2 gnolls (AC 8, HD 2, + 1, hp 9 each, MV 30’, Save F2, ML 8), 1 (rebel) bugbear (AC 7, HD 3 +1, hp 14, MV 30’, Save F3, ML 9) and a huge human — a seeming wildman, with mighty muscles, shaggy hair and beard, and staring eyes. He is a Hero (a 4th level fighter). His 18 Strength and +1 for his level give him a total of +4 “to hit” bonus and +3 damage (AC 9 due to no armor, 4, hp 24, #AT 1 at +4, D 4-9, ML 10). He is prone to fits of berserk fury due to his enslave- ment, and if armed and in combat it is 50% likely per round that he will strike a friend instead of a foe in his lust to slay! If freed, these slaves will attempt to flee, although they will attack bugbears who are in the way of their escape. There are two exceptions: the big bug- bear hates his fellows, and will take arms and fight against them or any other inhabitants of the whole area; he will continue to do so for as long as the party stays there. The hero is chaotic and evil; once he is armed, and after the battle madness leaves him, he will either kill the adventurers who freed him to have all their treasure for himself, or else he will steal what- ever is most valuable and then sneak off — but only if he knows the party is too strong for him.
+41. SLAVE PEN: Another barred, chained, and padlocked iron door keeps safe the following slaves: 3 hobgoblins (AC 8, HD 1+1, hp 6 each, MV 30’, Save F1, ML 8), 2 gnolls (AC 8, HD 2, + 1, hp 9 each, MV 30’, Save F2, ML 8), 1 (rebel) bugbear (AC 7, HD 3 +1, hp 14, MV 30’, Save F3, ML 9) and a huge human — a seeming wildman, with mighty muscles, shaggy hair and beard, and staring eyes. He is a Hero (a 4th level fighter). His 18 Strength and +1 for his level give him a total of +4 “to hit” bonus and +3 damage (AC 9 due to no armor, 4, hp 24, #AT 1 at +4, D 4-9, ML 10). He is prone to fits of berserk fury due to his enslavement, and if armed and in combat it is 50% likely per round that he will strike a friend instead of a foe in his lust to slay! If freed, these slaves will attempt to flee, although they will attack bugbears who are in the way of their escape. There are two exceptions: the big bugbear hates his fellows, and will take arms and fight against them or any other inhabitants of the whole area; he will continue to do so for as long as the party stays there. The hero is chaotic and evil; once he is armed, and after the battle madness leaves him, he will either kill the adventurers who freed him to have all their treasure for himself, or else he will steal whatever is most valuable and then sneak off — but only if he knows the party is too strong for him.
 
-(DM Note: There are 2 bugbears out hunting, and they will return with a human corpse and 83 gp the day after adventurers first enter the bugbear lair. They will be placed on guard duty at 35., if appropriate, and their statistics are the same as the guards there. Bugbears will stay in place until all are dead, save the chief- tain, who will seek help help from the mino- taur I.,45.)
+(DM Note: There are 2 bugbears out hunting, and they will return with a human corpse and 83 gp the day after adventurers first enter the bugbear lair. They will be placed on guard duty at 35., if appropriate, and their statistics are the same as the guards there. Bugbears will stay in place until all are dead, save the chieftain, who will seek help help from the minotaur I.,45.)
 
-I. CAVES OF THE MINOTAUR: This laby- rinth houses a number of nasty things, but the worst is a fiendishly clever minotaur who abides herein. Immediately upon entering the place, adventurers will feel slightly dizzy — the effects of a powerful spell which will cause them to lose all sense of direction.
+I. CAVES OF THE MINOTAUR: This labyrinth houses a number of nasty things, but the worst is a fiendishly clever minotaur who abides herein. Immediately upon entering the place, adventurers will feel slightly dizzy — the effects of a powerful spell which will cause them to lose all sense of direction.
 
-The minotaur will agree to help the bugbears against invaders at the cost of one human slave every three days of service — of course, the slave is eaten in that period. The minotaur keeps only the choicest of treasures, tossing unwanted loot to whom- ever happens to find it at the mouth of the labyrinth.
+The minotaur will agree to help the bugbears against invaders at the cost of one human slave every three days of service — of course, the slave is eaten in that period. The minotaur keeps only the choicest of treasures, tossing unwanted loot to whomever happens to find it at the mouth of the labyrinth.
 
 (DM Notes: You may allow players to find a few low-value coins, normal equipment, weapons, or armor at the entrance. After 30’ past the cave mouth, the spell of direction confusion will begin to function, so start to misdirect them by naming incorrect directions, i.e. southeast instead of northeast, east instead of west, etc.
 
 Don't worry about calling the same passage as a different direction should they travel over the same route twice — that’s the effect of the magic on them. You may wish to allow the mapping character a secret saving throw every couple of turns, a 19 or 20 indicating that effect has been thrown off.)
 
-42. STIRGE CAVE: There are 13 of these flying monsters here: (AC 7, HD 1, hp 3 each, #AT 1 at +2, D 1-3 the first round plus 1-4 per additional round, MV 60’, Save Fl, ML 9). After an opponent is hit, the stirge will automatically suck blood each round thereafter, doing 1-4 hit points of damage until the victim is dead or the stirge is killed. The minotaur loves to catch and eat these creatures, so they avoid him, and they are quite hungry. In fact, this hunger makes it 90% likely that they will be squeaking and hooting to one another, so the party won't be surprised. They have No treasure.
+42. STIRGE CAVE: There are 13 of these flying monsters here: (AC 7, HD 1, hp 3 each, #AT 1 at +2, D 1-3 the first round plus 1-4 per additional round, MV 60’, Save F1, ML 9). After an opponent is hit, the stirge will automatically suck blood each round thereafter, doing 1-4 hit points of damage until the victim is dead or the stirge is killed. The minotaur loves to catch and eat these creatures, so they avoid him, and they are quite hungry. In fact, this hunger makes it 90% likely that they will be squeaking and hooting to one another, so the party won't be surprised. They have No treasure.
 
 43. FIRE BEETLES: Three dwell in this area: (AC 4, HD 1+2, hp 7 each, #AT 1, D 2-8 (2d4), MV 40’, Save F1, ML 7). They, too, are hungry and will hasten to attack any persons entering this area. They have no treasure, but two glands above their eyes and one in their abdomen will glow with a red light, 10’ radius, for 1-6 days after the beetle is killed.
 
@@ -992,25 +960,25 @@ Don't worry about calling the same passage as a different direction should they 
 
 When intruders enter the area, the minotaur immediately moves to attack. He knows this area so well that the only way for victims to escape is to go through the secret door into area 36., or else to run out of the place and climb a large tree.
 
-The cave the minotaur dwells in has skulls and bones arrayed in decorative pat- terns. The secret door is actually a slab of stone which takes not less than 3 humans to move. (It will be noticed by careful checking of the walls, but discovering how it is moved requires a roll of 1 on a six- sided die to find where it can be grasped. All of the minotaur’s treasure is behind this slab of rock. It hides:
+The cave the minotaur dwells in has skulls and bones arrayed in decorative patterns. The secret door is actually a slab of stone which takes not less than 3 humans to move. (It will be noticed by careful checking of the walls, but discovering how it is moved requires a roll of 1 on a sixsided die to find where it can be grasped. All of the minotaur’s treasure is behind this slab of rock. It hides:
 
 locked chest (with poison needle in lock) — contents 930 gp and 310 ep staff of healing
 
 man-sized (optionally elf-sized) magic plate armor +1
 
-locked coffer — contents 3 potion bot- tles (gaseous form, delusionary heal- ing, giant strength)
+locked coffer — contents 3 potion bottles (gaseous form, delusionary healing, giant strength)
 
-locked chest — contents 3 pieces of jew- elry worth 1,600 gp, 900 gp, and 600 BP, respectively
+locked chest — contents 3 pieces of jewelry worth 1,600 gp, 900 gp, and 600 BP, respectively
 
 GNOLL LAIR: The entry into this place is a small cave — and only at the end will worked stone be visible. If the adventurers have a light or make too much noise, the gnoll guards (46.) will certainly be alerted and ready.
 
 46. GUARD ROOM: There are always 4 gnolls (AC 5, HD 2, hp 9 each, #AT 1, D 2-8, MV 30’, Save F2, ML 8) on duty here. Two have bows, will shoot at intruders until melee takes place; they will then run for help while the other two fight. Each gnoll has d8 each ep, sp and cp.
 
-47. GUARD ROOM: 3 males (AC 5, hp 8 each, #AT 1, D 2-8, MV 30’, Save F2, ML 8) and 5 females (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 7) are quartered here. They will be ready to fight immediately. The males have d6 gp each, the females have d4. There is a scat- tering of rude furniture in the place, heaps of bedding on the floor, several hides and pelts on the walls (one is a valuable sable cloak worth 450 gp), and a barrel of water in the southwest corner of the room.
+47. GUARD ROOM: 3 males (AC 5, hp 8 each, #AT 1, D 2-8, MV 30’, Save F2, ML 8) and 5 females (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save F1, ML 7) are quartered here. They will be ready to fight immediately. The males have d6 gp each, the females have d4. There is a scattering of rude furniture in the place, heaps of bedding on the floor, several hides and pelts on the walls (one is a valuable sable cloak worth 450 gp), and a barrel of water in the southwest corner of the room.
 
-48. LOCKED ROOM: This chamber is a store room and armory. Besides the usual provisions, there are 7 shields, a suit of dwarf-sized chain mail, 12 battle axes, 3 longbows, 5 quivers of arrows (20 in each), and a magic sword (—2 cursed). One bar- rel of exceptionally fine ale is leaking and the odor will tempt adventurers to taste it. It is so good, in fact, that there is a 5 in 6 chance per taste that he or she will draw a healthy draught and then spend the next 1-4 turns drinking. (If this occurs, be sure that you have the appropriate characters sing, make noise, and act foolishly. Any of their attacks will be at —2 to hit; this will continue for as many turns as they spend drinking i.e. 1-4).
+48. LOCKED ROOM: This chamber is a store room and armory. Besides the usual provisions, there are 7 shields, a suit of dwarf-sized chain mail, 12 battle axes, 3 longbows, 5 quivers of arrows (20 in each), and a magic sword (—2 cursed). One barrel of exceptionally fine ale is leaking and the odor will tempt adventurers to taste it. It is so good, in fact, that there is a 5 in 6 chance per taste that he or she will draw a healthy draught and then spend the next 1-4 turns drinking. (If this occurs, be sure that you have the appropriate characters sing, make noise, and act foolishly. Any of their attacks will be at —2 to hit; this will continue for as many turns as they spend drinking i.e. 1-4).
 
-49. COMMON ROOM: This place quarters the gnoll tribe — 6 males (AC 5, HD 2, hp 8each, #AT 1, D 2-8, MV 30’, Save F2, ML 8), 11 females (AC 6, HD 1 +1, hp 5 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 7), and 18 young who do not fight. Males have dé each of ep and sp, females d10 sp each. There is the usual clutter of worthless fur- niture in the room.
+49. COMMON ROOM: This place quarters the gnoll tribe — 6 males (AC 5, HD 2, hp 8each, #AT 1, D 2-8, MV 30’, Save F2, ML 8), 11 females (AC 6, HD 1 +1, hp 5 each, #AT 1, D 1-8, MV 30’, Save F1, ML 7), and 18 young who do not fight. Males have dé each of ep and sp, females d10 sp each. There is the usual clutter of worthless furniture in the room.
 
 50. GNOLL CHIEFTAIN’S QUARTERS: The gnoll leader wears pieces of plate mail (AC 3, HD 3, hp 17, #AT 1, D 4-10 (2d4 + 2) due to his strength, Save F3, ML 10). With him are his two sons (AC 4 due to chain mail and shield, HD 2+1, hp 10 each, #AT 1, D 3-9 (2d4 +1), Save F2, ML 10), and 4 females (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save F1, ML 9). The chieftain has a pair of silver armbands worth 50 gp each, and there are 39 gp in his belt pouch. His sons have d10 each gp, ep, and sp. Each female wears as silver neck chain worth 30 gp and has 2d6 ep in addition. The furnishings of the place are crude and battered. A large metal pot beneath a flagstone in the fireplace alcove hides 200 cp, 157 sp, 76 ep, and 139
 
@@ -1022,15 +990,15 @@ K. SHRINE OF EVIL CHAOS: A faint, foul draft issues from the 20’ wide cave mou
 
 The floors are smooth and worn by the tread of countless feet of the worshipers at this grim place. The footsteps of intruders will echo alarmingly in these vaulted halls (+2 chance of being surprised if no precautions are taken), and extreme care must be taken to muffle such sounds if the party has any hopes of remaining undetected until the moment of their choosing. Continual noise will bring a group of zombie guards to investigate:
 
-8 zombies: (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 12). These ghastly monsters are clad in filthy red and black striped uniforms. Each carries a cleaver-like battle axe. (Each wears an amulet of protection from turning, so attempts by a cleric to turn them are made as if they were ghouls rather than zombies.)
+8 zombies: (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, MV 30’, Save F1, ML 12). These ghastly monsters are clad in filthy red and black striped uniforms. Each carries a cleaver-like battle axe. (Each wears an amulet of protection from turning, so attempts by a cleric to turn them are made as if they were ghouls rather than zombies.)
 
 BOULDER FILLED PASSAGE: Large rocks and boulders have been placed here in order to seal off this tunnel. It will take 100 man-turns to open a way large enough for a human to pass through into the area beyond (possibly outside and southwest of the Caves of Chaos).
 
-HALL OF SKELETONS: This unusual audience chamber has a dais and throne-like chair set with 4 large red gems (500 gp each) at the south end. It is otherwise empty except for a dozen skeletons, clad in rags of chain mail and bearing battered shields and rusty scimitars, propped against the walls. These bony guards do not move, and any attempt to tum them immediately upon entering the chamber will have no effect, as they are obviously not animated. However, as soon as intruders touch the dais or throne chair, these monsters will spring into action from their positions on either wall of the chamber. Each has an amulet of protection from turning on it, so they are turned by a cleric as if they were zombies, (AC 7, HD 1, hp 3 each, #AT 1, D 1-6, Save Fl, ML 12). They have no treasure.
+HALL OF SKELETONS: This unusual audience chamber has a dais and throne-like chair set with 4 large red gems (500 gp each) at the south end. It is otherwise empty except for a dozen skeletons, clad in rags of chain mail and bearing battered shields and rusty scimitars, propped against the walls. These bony guards do not move, and any attempt to tum them immediately upon entering the chamber will have no effect, as they are obviously not animated. However, as soon as intruders touch the dais or throne chair, these monsters will spring into action from their positions on either wall of the chamber. Each has an amulet of protection from turning on it, so they are turned by a cleric as if they were zombies, (AC 7, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 12). They have no treasure.
 
 Once the skeletons are disposed of, it is an easy task to pry the 4 garnets (gems) from the back of the chair.
 
-53. GUARD ROOM: There will always be 8 zombies (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, Save Fl, ML 12), turned as if they were ghouls due to amulets of protection from turning hulking silently here, 4 at either end of the hall. Anyone entering will be attacked unless they are robed (see area 54., below) and have an amulet identical to the ones which the undead guards or priests wear. There is no treasure here.
+53. GUARD ROOM: There will always be 8 zombies (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, Save F1, ML 12), turned as if they were ghouls due to amulets of protection from turning hulking silently here, 4 at either end of the hall. Anyone entering will be attacked unless they are robed (see area 54., below) and have an amulet identical to the ones which the undead guards or priests wear. There is no treasure here.
 
 54. ACOLYTES’ CHAMBER: There are 4 acolytes (1st level clerics) here (AC 5, C1, hp 4 each, #AT 1, D 1-6, ML8), all dressed in rusty red robes with black cowls. Under these robes, each wears chain mail and a mace at his belt. Each carries 10 gp in his purse, and the leader wears an amulet of protection from good. This amulet circles the wearer with a magical barrier against attacks by characters or creatures of other alignments by subtracting 1 from the “to hit” rolls of these opponents and adding +1 to the wearer's saving throws. The amulet will also keep out melee attacks from enchanted (magical) monsters (such as gargoyles), but not missile attacks from these creatures. Their room contains four hard pallets, a brazier, a table, four stools, acabinet for clothing, a water pail, a waste bucket, and a flagon of wine and four cups. There is nothing of value amongst these items.
 
@@ -1042,13 +1010,13 @@ Once the skeletons are disposed of, it is an easy task to pry the 4 garnets (gem
 
 20 skeletons: AC 6 (due to chain mail rags & shields), HD 1, hp 3 each, #AT 1, D 1-6, Save Fi, ML12, turned as zombies.
 
-20 zombies: AC 5 (due to chain mail), HD 2, hp 8 each, #AT 1, D 1-8, Save Fl; ML 12, turned as if they were ghouls.
+20 zombies: AC 5 (due to chain mail), HD 2, hp 8 each, #AT 1, D 1-8, Save F1; ML 12, turned as if they were ghouls.
 
 Upon the striking of the great iron bell at 58. below, the skeletons will issue forth from the south door of the place and march into the temple (58.) to line the south wall, while the zombies plod out the north exit to line the north wall of the temple. If intruders enter toom 57., are in the passage to the temple, or are within the temple itself. these undead warriors will attack. Proper garments and amulets warn by the characters will prevent attack unless the cleric commands the undead to do so. They have no treasure.
 
 58. TEMPLE OF EVIL CHAOS: This huge area has an arched ceiling some 30’ or more in height. The floor is of polished black stone which has swirling patterns of red veins through it. The walls behind the draperies, and the ceiling as well, are of dull black rock, while the west wall is of translucent red stone which is seemingly one piece, polished to mirror-like smoothness. A great bell of black iron stands near the entrance point, with a pair of mallets beside its supports. To the south are several long benches or pews. There are three stone altars to the west: the northwest of pure black, the middle one of streaked red and black, the last of red with black flecks. At the western end of the temple area is a dais of black stone, with four lesser chairs on its lower tier and a great throne above. The chairs are of bone; the ivoty throne is set with gold and adored with gems of red and black (10 black stones each worth 100 gp, 10 red stones each worth 500 gp, and one large red stone worth 1,000 gp). The signs and sigils upon these seats are of pure chaos and evil. The other walls are covered by draperies of deep purple with embroidered symbols and evil sayings, done in scarlet and gold and black thread. As soon as the party enters the place, black candles in eight great candelabras on either side of the place will come alight magically, shooting forth a disgusting red radiance. Shapeless forms of purple, yellow and green will dance and sway on the western wall, and if anyone looks at them for more than a moment, they must save vs. Spells or be mesmerized into chanting a hymn to chaotic evil. Should three or more voices be so raised, the iron bell will sound automatically by magic, but even one such chant will alert the guards of the head cleric (see below). Zombie guards will enter here in 3 rounds after the party, even if the party is quiet.
 
-59. THE CHAMBERS OF THE EVIL PRIEST: Location 59.g is the anteroom where special visitors are entertained by the chief cleric. There are lavish furnishings here, although none are of particular value except for a golden flagon and cups (flagon worth 500 gp, each of the nine cups has 100 gp value). Three zombies are on guard here (AC 2 due to plate mail and shield, HD 2, hp 13 each, #AT 1, D 1-8, Save Fl, ML 12). They stand unmoving unless they are summoned by a chant from the temple area, someone enters their area, or they are commanded by the evil priest.
+59. THE CHAMBERS OF THE EVIL PRIEST: Location 59.g is the anteroom where special visitors are entertained by the chief cleric. There are lavish furnishings here, although none are of particular value except for a golden flagon and cups (flagon worth 500 gp, each of the nine cups has 100 gp value). Three zombies are on guard here (AC 2 due to plate mail and shield, HD 2, hp 13 each, #AT 1, D 1-8, Save F1, ML 12). They stand unmoving unless they are summoned by a chant from the temple area, someone enters their area, or they are commanded by the evil priest.
 
 Location 59. is the private chamber of the evil priest. He is 3d level, wears magical armor +1, has a shield +1, and wears an amulet of protection from good which adds a further +1 to his armor class when attacked by good creatures (AC 0 or —1, C3, hp 14, #AT 1, D 2-7 (staff) or 1-6 (mace), ML 10). He attacks with a snake staff, which is +1 to hit. On command, the staff will turn into a snake and coil around a person hit. The victim is held helpless for 1d4 turns, or until the cleric recalls the the staff. The staff then crawls back to the cleric on command. He also has a normal mace hanging from his belt. He has a gold ring with a black gem (value 1,400 gp) and a purse with 51 pp in it. He wears a black cape and cowl, with red robes beneath. His spells are: cause light wounds (inflicts 2-7 points of damage) and cause fear. The priest must touch the intended victim, and successfully roll to hit, for the spells to take effect. He also has a scroll with three cleric spells on it: detect magic, hold person, silence, 15’ radius. He has a potion of gaseous form which he will use to escape through the boulder-filled corridor, 51., when all else fails.
 
@@ -1218,7 +1186,7 @@ The lever in the south wall can be moved up or down. Its current position is dow
 
 You open the door to reveal a 20 by 20 foot room with a large wooden lever in the southern wall. In the center of the room are a pair of skeletons. Long iron chains dangle from their wrists, and they carry curved swords.
 
-The two skeletons (AC 7; HD 1; hp 5 each; MV 20’; #AT 1; D 1-6; Save Fl; ML 12; ALC) are undead, and cannot be affected by sleep or charm magics, though they can be curned.
+The two skeletons (AC 7; HD 1; hp 5 each; MV 20’; #AT 1; D 1-6; Save F1; ML 12; ALC) are undead, and cannot be affected by sleep or charm magics, though they can be curned.
 
 The lever on the southern wall is similar to that in room 2, except that the “up” position is marked by a ““B” instead of an “A”. If the levers in this room and room 2 are both moved to the “up” position, the gates to the south will raise.
 
@@ -1274,19 +1242,19 @@ After a short, bloody fight both men were killed, but not before they killed thr
 
 Wind whistles softly through this dark damp cave carrying with it a musky smell. Straw is scattered about the floor, along with jagged bones. Chained to one wall isa large ape with pale white fur. As soon as it sees you it begins to rattle its chain and roar.
 
-The white ape (AC 6; HD 4; hp 18; MV 40’; #AT 2; D1-4/1-4; Save F2; ML 7; ALN) used to guard the entrance to the caverns. It was fed regularly and became something of a pet. It would not attack anyone wearing a guard uni- form. Unfortunately, the white ape has not been fed for many days. If the party gives the ape food, the white ape will not attack. The ape’s chain is long enough that there is not enough room to pass without being attacked.
+The white ape (AC 6; HD 4; hp 18; MV 40’; #AT 2; D1-4/1-4; Save F2; ML 7; ALN) used to guard the entrance to the caverns. It was fed regularly and became something of a pet. It would not attack anyone wearing a guard uniform. Unfortunately, the white ape has not been fed for many days. If the party gives the ape food, the white ape will not attack. The ape’s chain is long enough that there is not enough room to pass without being attacked.
 
 12. OAKEN CABINET
 
 An oaken cabinet sits against the west wall of this hexagonal room. The cabinet is carved with scenes of springtime in Haven. The floor of the room is white marble, veined with black and gold.
 
-The cabinet is filled with pale green towels and pink bars of soap carved into dolphins. Hidden under the towels is a spitting cobra (AC 7; HD 1; hp 3; MV 30’; #AT 1; D 1-3 + poison; Save Fl; ML 7; AL N). The cobra is asleep. It will attack if it is disturbed, other- wise it will remain quiet.
+The cabinet is filled with pale green towels and pink bars of soap carved into dolphins. Hidden under the towels is a spitting cobra (AC 7; HD 1; hp 3; MV 30’; #AT 1; D 1-3 + poison; Save F1; ML 7; AL N). The cobra is asleep. It will attack if it is disturbed, otherwise it will remain quiet.
 
-A spitting cobra is a 3’ long, grayish-white snake that can spit a stream of venom up to 6’. It aims for its victim's eyes. If the spit hits, the victim must save vs. Poison or be blinded. If the DM wishes, he or she can have the cobra bite, instead of spit poison. The damage caused (1-3 points) refers only to when the cobra bites. If the cobra bites instead of spit- ting, the victim must save vs. Poison or die in 1-10 turns (instead of being blinded). Next to the spitting cobra is a large golden key worth 150 gp.
+A spitting cobra is a 3’ long, grayish-white snake that can spit a stream of venom up to 6’. It aims for its victim's eyes. If the spit hits, the victim must save vs. Poison or be blinded. If the DM wishes, he or she can have the cobra bite, instead of spit poison. The damage caused (1-3 points) refers only to when the cobra bites. If the cobra bites instead of spitting, the victim must save vs. Poison or die in 1-10 turns (instead of being blinded). Next to the spitting cobra is a large golden key worth 150 gp.
 
 13. SUNKEN BATH
 
-This hexagonal room contains a large sunk- en bath filled with water. The sunken bath is made of white marble veined with black and gold. The walls of this room are lav- ishly decorated with murals of water nymphs, ponds with long reeds, and hunters stalking water birds. In one corner of the room are seven flasks and a large peacock feather fan. Flying above the bath you see five birdlike creatures. The crea- tures resemble small feathered anteaters, with long noses.
+This hexagonal room contains a large sunken bath filled with water. The sunken bath is made of white marble veined with black and gold. The walls of this room are lavishly decorated with murals of water nymphs, ponds with long reeds, and hunters stalking water birds. In one corner of the room are seven flasks and a large peacock feather fan. Flying above the bath you see five birdlike creatures. The creatures resemble small feathered anteaters, with long noses.
 
 The 5 birdlike creatures are stirges (AC 7; HD 1; hp 5 each; MV 60’; #AT 1; D 1-3; Save F2; ML9; ALN). When a stirge attacks a creature, it thrusts its beak into the victim's body to suck out blood for 1-3 points of damage. A successful hit means that it has attached itself to the victim and will automatically suck blood for 1-3 points of damage per round until either it or its victim is dead. If its victim dies, it will leave. A flying stirge gains a bonus of +2 to hit on its first attack against any one opponent, due to its speed.
 
@@ -1294,15 +1262,15 @@ If the party investigates the seven flasks, they will find that six of the flask
 
 14. PINK PEDESTAL
 
-Upon entering this room, the first thing you notice is a small, pink marble pedestal five feet tall. Light gleams from a small object atop the pedestal. The object is sil- ver in color. Other than the pedestal the room seems to be empty.
+Upon entering this room, the first thing you notice is a small, pink marble pedestal five feet tall. Light gleams from a small object atop the pedestal. The object is silver in color. Other than the pedestal the room seems to be empty.
 
-When a character gets within one foot of the pedestal, a green glow will surround the ped- estal. In the midst of the glow you see the transparent face of the Protector. The Protec- tor warns the party to “Beware!” then disap- pears along with the green glow.
+When a character gets within one foot of the pedestal, a green glow will surround the pedestal. In the midst of the glow you see the transparent face of the Protector. The Protector warns the party to “Beware!” then disappears along with the green glow.
 
-On top of the pedestal is a small silver pen- dant on a silver chain. If a character reaches out to touch the pendant he or she will hear hysterical laughter which seems to come from the pendant. Any character who actually touches the pendant must make a save vs. Spells or be driven insane. The insanity will mainly consist of suicidal bravery, always charging into deadly battles, accompanied by hysterical laughter. There is no known cure for the madness (unless the DM chooses to make one up).
+On top of the pedestal is a small silver pendant on a silver chain. If a character reaches out to touch the pendant he or she will hear hysterical laughter which seems to come from the pendant. Any character who actually touches the pendant must make a save vs. Spells or be driven insane. The insanity will mainly consist of suicidal bravery, always charging into deadly battles, accompanied by hysterical laughter. There is no known cure for the madness (unless the DM chooses to make one up).
 
 The silver pendant once belonged to Silverheart, the alchemist. When used by Silverheart, the pendant was magical because it contained part of his spirit. The power of the Eye of Arik warped the magic of the silver pendant. Through Arik’s evil influence, it drove Silverheart insane.
 
-Ac the time that Silverheart went insane, he was in the midst of an important alchemical experiment. Because of his insanity, the exper- iment produced disastrous results. The entire section of the palace (on level 2) where he was working exploded. Silverheart and those peo- ple in that section of the palace at the time were killed. All that remains of the section of the palace where Silverheart worked is rubble. The only thing to survive the explosion was the pendant which was teleported to the ped- estal by the power of the Eye of Arik. The pen- dant lies and waits for more victims.
+Ac the time that Silverheart went insane, he was in the midst of an important alchemical experiment. Because of his insanity, the experiment produced disastrous results. The entire section of the palace (on level 2) where he was working exploded. Silverheart and those people in that section of the palace at the time were killed. All that remains of the section of the palace where Silverheart worked is rubble. The only thing to survive the explosion was the pendant which was teleported to the pedestal by the power of the Eye of Arik. The pendant lies and waits for more victims.
 
 15. MOSAIC ROOM
 
@@ -1312,7 +1280,7 @@ Once the party has entered the room, if they examine the mosaic, the keyhole in 
 
 If the gold key is placed in the keyhole, another keyhole will appear on the east wall. The second keyhole is also opened by the gold key. Once the key is placed in this second lock and turned, the mosaic, keyhole, and key will vanish. A long silvery sword, floating in the air, will appear in their place. The sword glows with a bright blue white light. If a character reaches out to touch the sword, the man in black plate mail will suddenly appear beside the sword and attack the character attempting to take the sword. The man will attack like a 10 hit dice monster.
 
-The man is an illusion and will disappear after 4 rounds or when it is touched by a char- acter. Touch does not mean hitting it in com- bat, it means touching the illusion with a bare hand. Characters hit by the illusion will believe that they have actually taken damage and will feel “hurt,” though no damage will actually be taken. The illusion cannot be hit in combat.
+The man is an illusion and will disappear after 4 rounds or when it is touched by a character. Touch does not mean hitting it in combat, it means touching the illusion with a bare hand. Characters hit by the illusion will believe that they have actually taken damage and will feel “hurt,” though no damage will actually be taken. The illusion cannot be hit in combat.
 
 Once the illusion disappears, the sword will drop to the floor. It still glows. All characters will immediately discover that they took no damage, and characters who may have been “killed” will discover that they are actually alive and were only asleep. If the characters decide to touch the sword again, nothing will happen to them and the sword will “feel good” in their hands. The sword will always glow when not sheathed. There is no sheath for it in this room, nor will it fit into a sheath not specifically made for it. The magically glowing sword is a +1 weapon. It casts enough light to see for 30’. The weapon belonged to Ellis. He still wears the sheath (he is trapped inside the Eye of Arik).
 
@@ -1326,13 +1294,13 @@ The mist is actually steam and is safe to walk through. This is a steam room. Th
 
 The cavern opens into a large cave. The cave floor and walls have been polished smooth. Several statues once rested on a raised platform along the west wall. The statues seem to have been of three people kneeling in front of the Protector. They are bestowing gifts on the Protector. Now, however, the statues have been smashed. In their place is the crude clay statue of a large eye. The eye has been painted blood red.
 
-Hidden under the rubble of the broken statues is a giant centipede (AC 9; HD 1/2; hp 2; MV 20’; #AT 1; D poison; Save NM; ML 7; ALN). If a character tries to move the rubble by hand, the giant centipede will be disturbed and attack. If the rubble is moved from a dis- tance (with a spear, pole or similar item), the centipede will scurry out of the room without attacking.
+Hidden under the rubble of the broken statues is a giant centipede (AC 9; HD 1/2; hp 2; MV 20’; #AT 1; D poison; Save NM; ML 7; ALN). If a character tries to move the rubble by hand, the giant centipede will be disturbed and attack. If the rubble is moved from a distance (with a spear, pole or similar item), the centipede will scurry out of the room without attacking.
 
 18. UNDERGROUND POOL
 
-Most of this cave is filled with a pool of water. A small ledge circles the pool, run- ning along the east wall of the cave. The ledge is only wide enough for one person to walk along it without falling into the water. In the middle of the pool you see a disturbance in the water. There are several 3' long creatures swimming toward you. The creatures look like weasels.
+Most of this cave is filled with a pool of water. A small ledge circles the pool, running along the east wall of the cave. The ledge is only wide enough for one person to walk along it without falling into the water. In the middle of the pool you see a disturbance in the water. There are several 3' long creatures swimming toward you. The creatures look like weasels.
 
-The disturbance is caused by 3 giant ferrets (AC 5; HD 1+1; hp 6 each; MV 50’; #AT 1; D 1-8; Save Fl; ML 8; AL N). Giant ferrets usually hunt giant rats underground. Unfor- tunately, they are highly unpredictable, and they may attack the party if their reaction to the party is low enough.
+The disturbance is caused by 3 giant ferrets (AC 5; HD 1+1; hp 6 each; MV 50’; #AT 1; D 1-8; Save F1; ML 8; AL N). Giant ferrets usually hunt giant rats underground. Unfortunately, they are highly unpredictable, and they may attack the party if their reaction to the party is low enough.
 
 The water in the cave is fresh. The pool is fed by a stream which enters from the south. The ledge ends where the stream enters the pool. The party can go no further along the stream, for it has the same red glow as the land outside.
 
@@ -1340,39 +1308,39 @@ The water in the cave is fresh. The pool is fed by a stream which enters from th
 
 The walls of this room are covered with green, oozing slime. Except for the slime, the room appears to be empty.
 
-The oozing slime is green slime (AC can always be hit; HD 2*; hp 9; MV 1’; #AT 1; D special; Save Fl; ML 12; AL N). Green slime can be only harmed by fire or cold; it cannot be hurt by any other attacks. It dissolves wood and metal (in 6 rounds), but cannot dissolve stone. Once in contact with flesh, green slime will stick and turn the flesh into green slime. It cannot be scraped off, but must be burnt off. If it is not burned off, the victim will turn completely into green slime 1-4 rounds after the green slime first came into contact with the flesh. Burning green slime while it is on the victim causes 1/2 damage to the slime and 1/2 damage to the victim.
+The oozing slime is green slime (AC can always be hit; HD 2*; hp 9; MV 1’; #AT 1; D special; Save F1; ML 12; AL N). Green slime can be only harmed by fire or cold; it cannot be hurt by any other attacks. It dissolves wood and metal (in 6 rounds), but cannot dissolve stone. Once in contact with flesh, green slime will stick and turn the flesh into green slime. It cannot be scraped off, but must be burnt off. If it is not burned off, the victim will turn completely into green slime 1-4 rounds after the green slime first came into contact with the flesh. Burning green slime while it is on the victim causes 1/2 damage to the slime and 1/2 damage to the victim.
 
 20. SULFUR POOL
 
-This small cave is largely filled with a bub- bling gray pool of liquid. The cave smells foul. The pool is surrounded by coarse red sand, The sandy ledge surrounding the pool on the south and west sides, is only wide enough for one person to stand on without touching the liquid.
+This small cave is largely filled with a bubbling gray pool of liquid. The cave smells foul. The pool is surrounded by coarse red sand, The sandy ledge surrounding the pool on the south and west sides, is only wide enough for one person to stand on without touching the liquid.
 
-The liquid is water, but the water has a very high content of sulfur. Because of the sulfur bubbles, the air here is not safe to breathe for long periods of time. Anyone staying in the room for one full turn will begin to feel dizzy. If they do not leave in the next round they will take 1 point of damage for each round they remain in the room without getting fresh air. If the party searches the room they will find that some unfortunate individual once fell into the pool. The victim is now nothing but bones. The victim clutches a leather bag. The bag is filled with 133 gp and a silver wolf- headed ring with two small sapphires for eyes (worth 300 gp).
+The liquid is water, but the water has a very high content of sulfur. Because of the sulfur bubbles, the air here is not safe to breathe for long periods of time. Anyone staying in the room for one full turn will begin to feel dizzy. If they do not leave in the next round they will take 1 point of damage for each round they remain in the room without getting fresh air. If the party searches the room they will find that some unfortunate individual once fell into the pool. The victim is now nothing but bones. The victim clutches a leather bag. The bag is filled with 133 gp and a silver wolfheaded ring with two small sapphires for eyes (worth 300 gp).
 
 21, STOREROOM
 
 This room contains shelves along the south and west walls. The shelves are filled with wooden crates. Otherwise, the room appears to be empty.
 
-The crates are filled with iron rations. Each week's worth of iron rations is packed in a sep- arate tin. The iron rations were used by the palace guards when they went on long patrols through the countryside. Except for the iron rations, the room is empty.
+The crates are filled with iron rations. Each week's worth of iron rations is packed in a separate tin. The iron rations were used by the palace guards when they went on long patrols through the countryside. Except for the iron rations, the room is empty.
 
 22. BLOCKED EXIT
 
 This area seems to have been in some kind of explosion or earthquake. Stairs once led up out of this area. Rubble covers the floor and blocks the stairs. Through cracks in the rubble, you catch a faint glimpse of a red glow outside the palace.
 
-This is part of the area devastated by the alche- mist Silverheart when he went insane and his experiment proved a disaster (see room 14). Though this area is actually below the experi- mental rooms, it was still caught in the explo- sion. Even if the characters clear the rubble, they would still have to face the red glow which surrounds the palace if they tried to use this exit.
+This is part of the area devastated by the alchemist Silverheart when he went insane and his experiment proved a disaster (see room 14). Though this area is actually below the experimental rooms, it was still caught in the explosion. Even if the characters clear the rubble, they would still have to face the red glow which surrounds the palace if they tried to use this exit.
 
 23. SECRET ROOM
 
-Four statues dominate the room, one in each corner. Each statue is of a young girl in a different pose. No two statues look alike. Between the two statues on the east wall is a plush chair. Four smaller chairs surround the central chair. A leather- covered book rests on the central chair. Between the statues on the north wall you see a 4’ long beetle with a striped shell resembling a tiger's skin.
+Four statues dominate the room, one in each corner. Each statue is of a young girl in a different pose. No two statues look alike. Between the two statues on the east wall is a plush chair. Four smaller chairs surround the central chair. A leathercovered book rests on the central chair. Between the statues on the north wall you see a 4’ long beetle with a striped shell resembling a tiger's skin.
 
 The monster is a giant tiger beetle (AC 3; HD 3+1; hp 15; MV 50’; #AT 1; D 2-12; Save F1; ML 9; AL N). Tiger beetles are carnivorous (meat-eaters) and have been known to attack humans when starving. They attack with a pair of powerful mandibles. The book on the chair is the diary of Princess Argenta. It stops on the day before disaster struck Haven. The final entry reads:
 
-“Today my love arrived riding his noble dragon like the great hero he is. He swept me into his arms and proposed marriage. Natu- rally I acted reluctant. It wouldn't do to seem too enthusiastic. But when I saw the forlorn look on his face I immediately relented. We kissed, then set the wedding date. We will be married in two weeks, when Ellis’ service with the Knights of the White Drakes ends. We will invite the entire valley.”
+“Today my love arrived riding his noble dragon like the great hero he is. He swept me into his arms and proposed marriage. Naturally I acted reluctant. It wouldn't do to seem too enthusiastic. But when I saw the forlorn look on his face I immediately relented. We kissed, then set the wedding date. We will be married in two weeks, when Ellis’ service with the Knights of the White Drakes ends. We will invite the entire valley.”
 
 This was one of the rooms where Argenta often went to escape the duties of court life. When the disaster struck Argenta, along with Ellis, were magically shrunken and trapped inside the ruby. Both of them are still alive and will return to normal if the ruby is destroyed. The four statues in the room are Argenta’s ladies in waiting who were turned to stone when the disaster struck.
 
 24. FOUNTAIN ROOM
 
-There is a small fountain of water in one corner of this room. Tapestries hang along both the north and south walls; one shows a scene of a young maiden with golden hair sitting on a silver throne. Upon her head rests a crown of silver and rubies. In one hand she holds a silver scepter and in the other she holds a large ruby. The other tap- estry shows a warrior in black plate mail resting casually in a wooden chair deco- rated with carvings. His feet are propped upon a stool.
+There is a small fountain of water in one corner of this room. Tapestries hang along both the north and south walls; one shows a scene of a young maiden with golden hair sitting on a silver throne. Upon her head rests a crown of silver and rubies. In one hand she holds a silver scepter and in the other she holds a large ruby. The other tapestry shows a warrior in black plate mail resting casually in a wooden chair decorated with carvings. His feet are propped upon a stool.
 
 The two tapestries show Princess Argenta and the warrior Ellis the Strong. Except for the fountain, the rest of the room is empty. The fountain contains only water.
 
@@ -1380,13 +1348,13 @@ The two tapestries show Princess Argenta and the warrior Ellis the Strong. Excep
 
 In this room is a 10’ wide semi-circular alcove. On either side of the alcove stands the statue of a warrior.
 
-The two statues are actually living crystal statues (AC 4; HD 3; hp 14; MV 30’; #AT 2; D 1-6/1-6; Save F3; ML 11; ALL). Living crys- tal statues are life forms made of crystals, instead of flesh. While they look just like nor- mal statues, they are actually living beings. Whenever this room is entered the DM should roll a monster reaction (2d6). On a roll of 5 or less, the statues will attack.
+The two statues are actually living crystal statues (AC 4; HD 3; hp 14; MV 30’; #AT 2; D 1-6/1-6; Save F3; ML 11; ALL). Living crystal statues are life forms made of crystals, instead of flesh. While they look just like normal statues, they are actually living beings. Whenever this room is entered the DM should roll a monster reaction (2d6). On a roll of 5 or less, the statues will attack.
 
 26. SCHOOLROOM
 
 The room contains several wooden desks and chairs. Against one wall is a blackboard.
 
-This room was a schoolroom for the children in the palace. It is empty of monsters or trea- sure.
+This room was a schoolroom for the children in the palace. It is empty of monsters or treasure.
 
 27. TRAPPED PASSAGE
 
@@ -1396,17 +1364,17 @@ The pit trap in the floor of this storage passage will be activated by the first
 
 If the first person who walks across the trap door reaches the other side before the second one tries, only the second person will fall in, otherwise both will fall in.
 
-After one round, small openings will appear in the pit walls, and oil will pour into the pit. The oil will continue to pour forth until it fills the floor of the pit 1’ deep. Another wall open- ing will now appear and a torch (unlit) will fall into the oil. (When the palace was occupied, the torch would have been lit.)
+After one round, small openings will appear in the pit walls, and oil will pour into the pit. The oil will continue to pour forth until it fills the floor of the pit 1’ deep. Another wall opening will now appear and a torch (unlit) will fall into the oil. (When the palace was occupied, the torch would have been lit.)
 
-The pit cannot be opened from inside. It can be opened from the outside using release mecha- nisms hidden inside secret compartments on the inside of either doorway. Check to see if any par- ty member discovers the secret doors of the com- partments. The release mechanism is a simple button that needs to be pressed. The stone cover will then slide back. If the party decides to try to smash the stone cover, it will take 10 turns to do so; roll for wandering monsters five times before the pit is opened.
+The pit cannot be opened from inside. It can be opened from the outside using release mechanisms hidden inside secret compartments on the inside of either doorway. Check to see if any party member discovers the secret doors of the compartments. The release mechanism is a simple button that needs to be pressed. The stone cover will then slide back. If the party decides to try to smash the stone cover, it will take 10 turns to do so; roll for wandering monsters five times before the pit is opened.
 
 28. LIBRARY
 
-You see shelves covering most of the walls. The shelves are filled with books and scrolls. There are also a number of wooden tables and chairs in the room. You notice that the room has more candles to light it than is usual. The candles are not lit at present. Against the south wall is a fire- place which is also unlit.
+You see shelves covering most of the walls. The shelves are filled with books and scrolls. There are also a number of wooden tables and chairs in the room. You notice that the room has more candles to light it than is usual. The candles are not lit at present. Against the south wall is a fireplace which is also unlit.
 
-This room is the palace library. Since the stu- dents sometimes used the library both day and night, there are extra candles in the room.
+This room is the palace library. Since the students sometimes used the library both day and night, there are extra candles in the room.
 
-Clinging to the ceiling is a giant crab spider (AC 7; HD 2*; hp 9; MV 40’; #AT 1; D 1-8 + poison; Save Fl; ML 7; ALN). Giant crab spi- ders have chameleon-like powers and can change their color to blend into their sur- roundings. They will surprise the party on a roll of 1-4 on 1d6. After the first attack, a crab spider can be seen and attacked normally. Crab spiders are carnivorous (meat-eaters). Any victim bitten by a crab spider must save vs. Poison or die in 1-4 turns. However, their poison is weak, and the victim may add +2 to the saving throw roll.
+Clinging to the ceiling is a giant crab spider (AC 7; HD 2*; hp 9; MV 40’; #AT 1; D 1-8 + poison; Save F1; ML 7; ALN). Giant crab spiders have chameleon-like powers and can change their color to blend into their surroundings. They will surprise the party on a roll of 1-4 on 1d6. After the first attack, a crab spider can be seen and attacked normally. Crab spiders are carnivorous (meat-eaters). Any victim bitten by a crab spider must save vs. Poison or die in 1-4 turns. However, their poison is weak, and the victim may add +2 to the saving throw roll.
 
 If the party searches the books and scrolls carefully (which will take a full 3 turns), they will find that one scroll is a magic-user/elf spell scroll. The scroll contains the second level spell: web.
 
@@ -1414,47 +1382,47 @@ If the party searches the books and scrolls carefully (which will take a full 3 
 
 In the center of this room is a folding screen with three panels. The screen is five feet high and six feet wide. From behind the screen you hear a forlorn wailing sound. Behind the screen you see two vaguely human shadows. The shadows are about four and one half feet tall and have no heads or arms. Their legs are indistinct. The cerie shadows dance wildly about.
 
-The shadows are caused by a lit lamp behind the screen, shining on two dressmakers’ dum- mies. Each dummy has a sleeveless dress on it ready for alteration. The dummies themselves are merely carved wooden torsos mounted on platforms of metal rods so that they stand roughly the height of a woman. Since the dummies have no heads or arms they do not cast shadows of heads or arms. The shadowy legs are indistinct because of the dress hang- ing down. The shadows are dancing because a breeze is blowing through the open door mak- ing a forlorn wailing sound.
+The shadows are caused by a lit lamp behind the screen, shining on two dressmakers’ dummies. Each dummy has a sleeveless dress on it ready for alteration. The dummies themselves are merely carved wooden torsos mounted on platforms of metal rods so that they stand roughly the height of a woman. Since the dummies have no heads or arms they do not cast shadows of heads or arms. The shadowy legs are indistinct because of the dress hanging down. The shadows are dancing because a breeze is blowing through the open door making a forlorn wailing sound.
 
 The screen is a dressing screen. Members of this palace family and their retainers dressed behind it during fittings. The rest of the room contains bolts of cloth, ribbons, pin cushions, needles, etc.
 
 30. BUTCHER’S ROOM
 
-The floor of this room is covered with blood- stained sand. A rack on the north wall holds a number of large knives and meat cleavers. In the center of the room is a large wooden block about 2’ high, 3’ long, and 2’ wide. The wooden block is also bloodstained.
+The floor of this room is covered with bloodstained sand. A rack on the north wall holds a number of large knives and meat cleavers. In the center of the room is a large wooden block about 2’ high, 3’ long, and 2’ wide. The wooden block is also bloodstained.
 
-This room is a butchering room. Meat is butchered here, then stored in the ice cavern (room 31). Underneath the sand is a pit trap door in the floor. The trap door stands in front of the butcher's block. Anyone who walks on the door has a chance of accidently causing it to open. Roll 1d6 for each character walking over the trap door. It will open if a 1 or 2 is rolled. The trap door is used to get rid of refuse. The door opens to a chute which leads below to an underground river. Anyone open- ing the door will fall down the chute to the river below. The river is only 2' deep, but any- one falling down the chute will take 1d6 dam- age from the fall.
+This room is a butchering room. Meat is butchered here, then stored in the ice cavern (room 31). Underneath the sand is a pit trap door in the floor. The trap door stands in front of the butcher's block. Anyone who walks on the door has a chance of accidently causing it to open. Roll 1d6 for each character walking over the trap door. It will open if a 1 or 2 is rolled. The trap door is used to get rid of refuse. The door opens to a chute which leads below to an underground river. Anyone opening the door will fall down the chute to the river below. The river is only 2' deep, but anyone falling down the chute will take 1d6 damage from the fall.
 
-The underground river channel is blocked by a heavy iron grill. Anyone falling into the river will be swept against the grill by the pow- erful current. Fortunately the grill is too small for characters to be swept through.
+The underground river channel is blocked by a heavy iron grill. Anyone falling into the river will be swept against the grill by the powerful current. Fortunately the grill is too small for characters to be swept through.
 
-Three giant rats (AC 7; HD 1/2; hp 3 each; MV 20’; #AT 1; D 1-3; Save NM; ML 8; ALN) are also trapped in the underground passage. They are desperate and in a state of panic. They will immediately attack. There is a 1 in 20 chance that any one of the giant rats carries a disease. If an individual is bitten by a dis- eased rat the victim must make a save vs. Poi- son. If the save fails, the victim will either die in 1-6 days or be sick in bed (unable to adven- ture) for one month. Roll 1d4; the disease is only deadly on a result of 1.
+Three giant rats (AC 7; HD 1/2; hp 3 each; MV 20’; #AT 1; D 1-3; Save NM; ML 8; ALN) are also trapped in the underground passage. They are desperate and in a state of panic. They will immediately attack. There is a 1 in 20 chance that any one of the giant rats carries a disease. If an individual is bitten by a diseased rat the victim must make a save vs. Poison. If the save fails, the victim will either die in 1-6 days or be sick in bed (unable to adventure) for one month. Roll 1d4; the disease is only deadly on a result of 1.
 
-If the underground passage is searched, the characters will find the dead body of an unfor- tunate victim. The body will be only a skele- ton. The individual was carrying a sack of mixed coins (10 gp, 8 sp; and 9 cp) plus a jade ring with dragons carved into it worth 250 gp.
+If the underground passage is searched, the characters will find the dead body of an unfortunate victim. The body will be only a skeleton. The individual was carrying a sack of mixed coins (10 gp, 8 sp; and 9 cp) plus a jade ring with dragons carved into it worth 250 gp.
 
 31. ICE CAVE
 
-As you walk down the stairs you notice a rapid drop in temperature. The tempera- ture is nearly freezing at the bottom of the stairs. You notice that the walls of the large cave at the foot of the stairs are covered with a thin layer of ice. Hanging from hooks in the ceiling are slabs of meat.
+As you walk down the stairs you notice a rapid drop in temperature. The temperature is nearly freezing at the bottom of the stairs. You notice that the walls of the large cave at the foot of the stairs are covered with a thin layer of ice. Hanging from hooks in the ceiling are slabs of meat.
 
-This room is an ice cavern, a natural under- ground cave which stays cold all year round. Except for meats and other foods stored here, the room is empty.
+This room is an ice cavern, a natural underground cave which stays cold all year round. Except for meats and other foods stored here, the room is empty.
 
 32. ROWENA’S ROOM
 
-Upon entering this rectangular room, the first thing you notice is a tapestry hanging on the wall; they show scenes from the life a female minstrel. In front of each tapestry is a couch. Pillows of various sizes are scat- tered on the couches. Empty wine goblets and wine bottles are piled into one corner of the room. Decorative candle holders filled with candle stubs sit on small tables near each couch. In the center of the room is a decorative wheel painted on the floor. The wheel is 5’ in diameter. In the middle of the wheel is a small lap harp made of crystal with strings of spun silver.
+Upon entering this rectangular room, the first thing you notice is a tapestry hanging on the wall; they show scenes from the life a female minstrel. In front of each tapestry is a couch. Pillows of various sizes are scattered on the couches. Empty wine goblets and wine bottles are piled into one corner of the room. Decorative candle holders filled with candle stubs sit on small tables near each couch. In the center of the room is a decorative wheel painted on the floor. The wheel is 5’ in diameter. In the middle of the wheel is a small lap harp made of crystal with strings of spun silver.
 
 The crystal harp is known as the Ice Harp. It belongs to the minstreal Rowena, Rowena is one of the legends of Haven. Her music was so melodic that she was invited to live with the Protector. Time does not flow the same there as in the rest of the world. Though Rowena has lived there for many years, she is still a young woman.
 
 If the party plays two notes on the Ice Harp, Rowena will appear. She will know about the Eye of Arik and will be able to tell the characters what happened to cause the disaster to Haven. She also knows the proper sequence of notes to play on the Ice Harp to shatter the ruby. She will show the party which notes to play.
 
-Rowena cannot remain here for long or her real age will catch up with her and she will wither away to dust. She will explain what needs to be done, then she will return to the Protector’s realm. If the party attacks her for some reason, she will return there immedi- ately. The proper sequence of notes which destroys the ruby is too complicated for the party to accidently discover. For the short time she is in this world, Rowena is protected against all attacks. Thus it makes no differ- ence what her characteristics or statistics are. She will not attack, nor can she be harmed. If the party attacks her she will leave because she deems the party unworthy of her help.
+Rowena cannot remain here for long or her real age will catch up with her and she will wither away to dust. She will explain what needs to be done, then she will return to the Protector’s realm. If the party attacks her for some reason, she will return there immediately. The proper sequence of notes which destroys the ruby is too complicated for the party to accidently discover. For the short time she is in this world, Rowena is protected against all attacks. Thus it makes no difference what her characteristics or statistics are. She will not attack, nor can she be harmed. If the party attacks her she will leave because she deems the party unworthy of her help.
 
-The Ice Harp is magical. If the phrase “For the memory of Rowena” is chanted, the Ice Harp will play some of her most famous tunes. Princess Argenta often held parties in this room. The guests sat and drank wine while lis- tening to the Ice Harp.
+The Ice Harp is magical. If the phrase “For the memory of Rowena” is chanted, the Ice Harp will play some of her most famous tunes. Princess Argenta often held parties in this room. The guests sat and drank wine while listening to the Ice Harp.
 
 33. ZOMBIE CHAMBER
 
-This room has been partly cut from the sur- rounding rock. The stone work is cruder than is usual for the rest of the palace. Ona table in the corner of the room is the small silver statue of a dragon readying for flight. In front of the statue, acting as guards, are five humans. Each human guard has a gaping wound. The wounds look serious enough to kill any person who suffered them.
+This room has been partly cut from the surrounding rock. The stone work is cruder than is usual for the rest of the palace. Ona table in the corner of the room is the small silver statue of a dragon readying for flight. In front of the statue, acting as guards, are five humans. Each human guard has a gaping wound. The wounds look serious enough to kill any person who suffered them.
 
-The five guards are zombies (AC 8; HD 2; hp 9; MV 30’; #AT 1; D 1-8; Save Fl; ML 12; AL C). Zombies are undead monsters and may be “turned” by a cleric. They are not affected by sleep ot charm spells or any form of mind reading. Zombies are slow fighters and always strike last in a round (no initiative roll is need- ed). The zombies are guarding the silver dragon statuette and will attack on sight and fight to the death if not rurned (no morale roll necessary).
+The five guards are zombies (AC 8; HD 2; hp 9; MV 30’; #AT 1; D 1-8; Save F1; ML 12; AL C). Zombies are undead monsters and may be “turned” by a cleric. They are not affected by sleep ot charm spells or any form of mind reading. Zombies are slow fighters and always strike last in a round (no initiative roll is needed). The zombies are guarding the silver dragon statuette and will attack on sight and fight to the death if not rurned (no morale roll necessary).
 
-The silver dragon statuette is one of three identical statuettes. On the base of the statu- ette is the phrase “Ariksbane, Destroyer of Evil.” If any two statuettes are brought within 30' of the Eye of Arik, the dragon Ariksbane will be released from his imprisonment and appear. The dragon's frost breath can destroy the ruby Eye of Arik without harming anyone near the ruby (or trapped inside the ruby).
+The silver dragon statuette is one of three identical statuettes. On the base of the statuette is the phrase “Ariksbane, Destroyer of Evil.” If any two statuettes are brought within 30' of the Eye of Arik, the dragon Ariksbane will be released from his imprisonment and appear. The dragon's frost breath can destroy the ruby Eye of Arik without harming anyone near the ruby (or trapped inside the ruby).
 
 The silver statuettes are worth 500 gp each. If two of them are used to free Ariksbane, the statuettes will disappear. Ellis the Strong and Ariksbane will give the party 1,000 gp to pay for the statuettes that disappear.
 
@@ -1462,7 +1430,7 @@ The silver statuettes are worth 500 gp each. If two of them are used to free Ari
 
 This room contains a bed, a small oak table, a wooden chair, a wooden footlocker and a pile of papers. The table has been toppled over, the chair has been smashed into pieces, the footlocker has been broken open, the papers are scattered over the floor, and the bed covers are smeared with blood stains.
 
-This room used to be the quarters for the cap- tain of the guard. Just before the disaster struck, the captain was murdered by one of his own men. The murderer, Travis, had been driven mad when he saw the Eye of Arik. He now serves Arik, leading some of Arik’s orcs. The papers scattered on the floor are weekly reports which the guard captain had to fill out.
+This room used to be the quarters for the captain of the guard. Just before the disaster struck, the captain was murdered by one of his own men. The murderer, Travis, had been driven mad when he saw the Eye of Arik. He now serves Arik, leading some of Arik’s orcs. The papers scattered on the floor are weekly reports which the guard captain had to fill out.
 
 35. BARRACKS
 
@@ -1472,23 +1440,23 @@ The message has been scratched onto the wall with the point of a dagger. It read
 
 The footlockers show signs of having been searched.
 
-One round after the party enters the room, the crazed guard Travis will enter. Travis has been driven insane by the sight of the Eye of Arik. Travis (AC 3; F 3; hp 16; MV 20’; #AT 1; D 1-4 (+2) or 1-8 (+2); Save F3; ML 12; AL C; $17, 113, W9, D12, C15, Ch8) will attack the party on sight. First he will throw his mag- ical throwing dagger +2. The dagger is, of course, +2 to hit. On the second round of combat, Travis will draw his sword and attack. He still wears his guard's uniform over plate mail (hence his armor class of 3).
+One round after the party enters the room, the crazed guard Travis will enter. Travis has been driven insane by the sight of the Eye of Arik. Travis (AC 3; F 3; hp 16; MV 20’; #AT 1; D 1-4 (+2) or 1-8 (+2); Save F3; ML 12; AL C; $17, 113, W9, D12, C15, Ch8) will attack the party on sight. First he will throw his magical throwing dagger +2. The dagger is, of course, +2 to hit. On the second round of combat, Travis will draw his sword and attack. He still wears his guard's uniform over plate mail (hence his armor class of 3).
 
-While Travis fights, he will scream at the characters, “You'll never get my treasure! Thieves! Everywhere I look, thieves are trying to steal my treasure. You all must die! I'll nev- er let you steal my treasure!”
+While Travis fights, he will scream at the characters, “You'll never get my treasure! Thieves! Everywhere I look, thieves are trying to steal my treasure. You all must die! I'll never let you steal my treasure!”
 
-Travis will fight to the death. The only trea- sure that can be found on him or in the room is the magical throwing dagger. The throwing dagger +2is +2 only when thrown. If used in melee it is +1.
+Travis will fight to the death. The only treasure that can be found on him or in the room is the magical throwing dagger. The throwing dagger +2is +2 only when thrown. If used in melee it is +1.
 
 36. SPY ROOM
 
-You see a small room here. The only furni- ture in the room is a wooden stool. There is a small spy hole in the secret door that lets someone inside the room see the corridor outside. A rope bell pull hangs from a hole in the ceiling. 
+You see a small room here. The only furniture in the room is a wooden stool. There is a small spy hole in the secret door that lets someone inside the room see the corridor outside. A rope bell pull hangs from a hole in the ceiling. 
 
-This is the room where Travis was hiding. The room is normally used as a watching post in times of invasion. The bell rope runs up through the rock to a bell in room 78. When a guard pulls the rope, the bell will ring, alert- ing the court of danger. The room is now emp- ty. If the party should open the secret door before going into room 35, Travis will still be in this room and will attack. (for details of the encounter see room 35).
+This is the room where Travis was hiding. The room is normally used as a watching post in times of invasion. The bell rope runs up through the rock to a bell in room 78. When a guard pulls the rope, the bell will ring, alerting the court of danger. The room is now empty. If the party should open the secret door before going into room 35, Travis will still be in this room and will attack. (for details of the encounter see room 35).
 
 37. ARMORY
 
 Inside this room you see ten statues of guardsmen standing at attention. On the floor is the corpse of a guard captain. Along the walls of the room are empty racks which look like they might have once held weapons.
 
-This room was the armory. The ten statues are guardsmen who were turned into stone by the Eye of Arik. The dead guard captain was mur- dered by Travis (see room 34). The room holds no treasure nor monsters.
+This room was the armory. The ten statues are guardsmen who were turned into stone by the Eye of Arik. The dead guard captain was murdered by Travis (see room 34). The room holds no treasure nor monsters.
 
 38. TRAVIS’ ROOM
 
@@ -1496,23 +1464,23 @@ This room was the armory. The ten statues are guardsmen who were turned into sto
 
 42. CAVE OF THE STATUES
 
-As soon as you open the door, the character who opened the door is attacked by a wild- eyed wolf.
+As soon as you open the door, the character who opened the door is attacked by a wildeyed wolf.
 
-The wolf (AC 7; HD 2+2; hp 11; MV 60’; #AT 1; D 1-6; Save Fl; ML 12; AL C) used to be Travis’s pet dog. When Travis was driven insane by the Eye of Arik, his dog was turned into a wolf. Since the dog was magically trans- formed into a wolf who serves Arik, the ani- mal has a Chaotic alignment instead of the usual Neutral alignment for wolves. The wolf is as insane as Travis. Travis is the only one who is safe with the wolf. The wolf will attack the party on sight and fight to the death. It has heard the party outside the door and was wait- ing to attack as soon as the door was open. This is a special case where the DM need not roll for surprise, and even listening at doors will not be successful, since the surprise ele- ment has been determined in advance. It is still a good idea for the DM to pretend that he or she has checked for surprise and/or listen- ing at doors by rolling a few dice. If the party kills the wolf and looks into the room read them the following room description:
+The wolf (AC 7; HD 2+2; hp 11; MV 60’; #AT 1; D 1-6; Save F1; ML 12; AL C) used to be Travis’s pet dog. When Travis was driven insane by the Eye of Arik, his dog was turned into a wolf. Since the dog was magically transformed into a wolf who serves Arik, the animal has a Chaotic alignment instead of the usual Neutral alignment for wolves. The wolf is as insane as Travis. Travis is the only one who is safe with the wolf. The wolf will attack the party on sight and fight to the death. It has heard the party outside the door and was waiting to attack as soon as the door was open. This is a special case where the DM need not roll for surprise, and even listening at doors will not be successful, since the surprise element has been determined in advance. It is still a good idea for the DM to pretend that he or she has checked for surprise and/or listening at doors by rolling a few dice. If the party kills the wolf and looks into the room read them the following room description:
 
-A small bed of fresh straw lies in the north- western corner of this room. A wooden plate, a pair of eating knives, and a bronze wine goblet rest on a table in the center of the room. Under the table is a wooden bowl filled with meat. Several old tapes- tries have been hung on the walls, and bits of fur and other types of floor coverings form a makeshift carpet. A lit lantern hangs over the table.
+A small bed of fresh straw lies in the northwestern corner of this room. A wooden plate, a pair of eating knives, and a bronze wine goblet rest on a table in the center of the room. Under the table is a wooden bowl filled with meat. Several old tapestries have been hung on the walls, and bits of fur and other types of floor coverings form a makeshift carpet. A lit lantern hangs over the table.
 
-This is the room where Travis and his wolf live. Most of the furniture in the room has been brought here by Travis. The wooden bowl is filled with food for his wolf. On the east wall, behind one of the tapestries is a peephole Tra- vis uses to spy out into the hallway. If the party has not yet encountered Travis (see room 35), he will be following them. Travis will attack the rear of the party on round 2 of the combat with the wolf. For details of an encounter with Travis see room 35.
+This is the room where Travis and his wolf live. Most of the furniture in the room has been brought here by Travis. The wooden bowl is filled with food for his wolf. On the east wall, behind one of the tapestries is a peephole Travis uses to spy out into the hallway. If the party has not yet encountered Travis (see room 35), he will be following them. Travis will attack the rear of the party on round 2 of the combat with the wolf. For details of an encounter with Travis see room 35.
 
-Travis’ treasure is concealed in this room. His treasure is hidden beneath the bed, under a loose stone in the floor. The treasure is kept in a small wooden case. The treasure consists of two sapphires each worth 300 gp, one large emerald worth 2,000 gp, and a gold ring with the initials “DB” carved on the inside. The treasure once belonged to his fellow guards- men.
+Travis’ treasure is concealed in this room. His treasure is hidden beneath the bed, under a loose stone in the floor. The treasure is kept in a small wooden case. The treasure consists of two sapphires each worth 300 gp, one large emerald worth 2,000 gp, and a gold ring with the initials “DB” carved on the inside. The treasure once belonged to his fellow guardsmen.
 
-Directly across the room from the door in the north wall is a huge wooden table. Behind it is set an ornately carved wooden chair. On the table is a candlestick, a feath- ered quill pen, and several pieces of parch- ment.
+Directly across the room from the door in the north wall is a huge wooden table. Behind it is set an ornately carved wooden chair. On the table is a candlestick, a feathered quill pen, and several pieces of parchment.
 
-Travis used to hold court in this room. He would review his orc troops here. Since Travis had seen his captain fill out reports, he too has filled out reports on the condition of his troops. But Travis does not know how to write his reports, and they are a meaningless jumble of scribbles which no one can read (except Tra- vis). The room is empty of monsters and trea- sure.
+Travis used to hold court in this room. He would review his orc troops here. Since Travis had seen his captain fill out reports, he too has filled out reports on the condition of his troops. But Travis does not know how to write his reports, and they are a meaningless jumble of scribbles which no one can read (except Travis). The room is empty of monsters and treasure.
 
 40. ORC BARRACKS
 
-This room holds four double bunkbeds. Seated on the beds are eight human-like creatures who look like a combination of animals and men. Despite their weird looks, the creatures are all wearing the uni- forms of palace guards. The uniforms do not fit properly.
+This room holds four double bunkbeds. Seated on the beds are eight human-like creatures who look like a combination of animals and men. Despite their weird looks, the creatures are all wearing the uniforms of palace guards. The uniforms do not fit properly.
 
 The human-like creatures are orcs (AC 6; HD 1; hp 4 each; MV 30’; #AT 1; D 1-6; Save F1; ML 8; ALC). The orcs were led by Travis who had them dress up in the uniforms of guards.
 
@@ -1528,7 +1496,7 @@ Three of the cells contain statues of men dressed in everyday clothing. The rest
 
 A number of life-sized stone statues of humans and dwarves have been piled in this cave. No attempt has been made to store the statues in any order. Some statues lean against the walls, others have fallen down, and some have been stacked on top of other statues.
 
-The statues piled in this cave are humans who were turned to stone when the disaster struck. The orcs, goblins, and hobgoblins have been clearing out the rooms and carrying the statues to this cave. If the party takes the time to search the cave (5 turns) they will find a chest contain- ing weapons, beneath a pile of statues. The chest holds 4 swords, 2 maces, and a battle axe. One of the swords is a sword + 1. It is indistinguishable from the rest of the swords unless a detect magic is cast on it. If the party decides to use the swords, number the swords 1-4 and let the magic sword be number 3. Make sure each character who is using a sword (or any other weapon from the chest) tells the DM which weapon he or she is using. For example, sword #2 or mace #1. Any character using sword #3 will discover it is magi- cal the first time the sword is used in combat.
+The statues piled in this cave are humans who were turned to stone when the disaster struck. The orcs, goblins, and hobgoblins have been clearing out the rooms and carrying the statues to this cave. If the party takes the time to search the cave (5 turns) they will find a chest containing weapons, beneath a pile of statues. The chest holds 4 swords, 2 maces, and a battle axe. One of the swords is a sword + 1. It is indistinguishable from the rest of the swords unless a detect magic is cast on it. If the party decides to use the swords, number the swords 1-4 and let the magic sword be number 3. Make sure each character who is using a sword (or any other weapon from the chest) tells the DM which weapon he or she is using. For example, sword #2 or mace #1. Any character using sword #3 will discover it is magical the first time the sword is used in combat.
 
 43. FUNGUS CAVE
 
@@ -1538,15 +1506,15 @@ The yellow fungus is yellow mold (AC can always be hit; HD 2; hp 9; MV 0’; #AT
 
 44, CAVE OF THE LOCUSTS
 
-This huge cave is filled with stalactites and stalagmites that glow blue. The stalactites and stalagmites in many places have grown together to form a single column, growing together so closely, that in some places, they almost form a wall from floor to ceil- ing. It looks difficult, but not impossible, to move through the cave.
+This huge cave is filled with stalactites and stalagmites that glow blue. The stalactites and stalagmites in many places have grown together to form a single column, growing together so closely, that in some places, they almost form a wall from floor to ceiling. It looks difficult, but not impossible, to move through the cave.
 
-This cave is the home of 8 giant locusts (AC 4; HD 2; hp 9 each; MV 60’; #AT 1; D special; Save F2; ML 5; AL N). Giant locusts are 3’ long, giant gray grasshoppers that live under- ground. They are herbivorous (plant-eaters) and often eat fungus such as yellow mold or shriekers. They cannot be harmed by most poisons. Giant locusts are stone gray and may not be noticed until they move or until the party approaches within 20’. They are very nervous and will flee most of the time rather than fight. They flee by jumping up to 60’. Unfortunately, when they panic their only thought is to escape. There is a 50% chance that they will try to flee by jumping right through the party. If they try to jump through the party, choose a character at random and roll to see if that character has been hit. If so, the character takes 1-4 points of damage from being battered. The locust then flies away.
+This cave is the home of 8 giant locusts (AC 4; HD 2; hp 9 each; MV 60’; #AT 1; D special; Save F2; ML 5; AL N). Giant locusts are 3’ long, giant gray grasshoppers that live underground. They are herbivorous (plant-eaters) and often eat fungus such as yellow mold or shriekers. They cannot be harmed by most poisons. Giant locusts are stone gray and may not be noticed until they move or until the party approaches within 20’. They are very nervous and will flee most of the time rather than fight. They flee by jumping up to 60’. Unfortunately, when they panic their only thought is to escape. There is a 50% chance that they will try to flee by jumping right through the party. If they try to jump through the party, choose a character at random and roll to see if that character has been hit. If so, the character takes 1-4 points of damage from being battered. The locust then flies away.
 
 Giant locusts can also attack and bite for 1-2 points (but not when they are fleeing). When frightened or attacked, giant locusts make a loud shrieking noise to warn their fellows. This shriek has a 20% chance per round of attracting wandering monsters to investigate.
 
-If cornered, a giant locust will spit a brown gooey substance up to 10’ at its attackers. To hit a character, the locust need only make an attack against armor class 9, no matter what type of armor the individual is wearing. A character hit by giant locust spittle must save vs. Poison or be unable to do anything for 1 turn due to the awful smell. After this time he or she will be used to the smell, but any char- acter approaching within 5’ of the victim must also save or be violently ill. This effect will last until the spittle is washed off.
+If cornered, a giant locust will spit a brown gooey substance up to 10’ at its attackers. To hit a character, the locust need only make an attack against armor class 9, no matter what type of armor the individual is wearing. A character hit by giant locust spittle must save vs. Poison or be unable to do anything for 1 turn due to the awful smell. After this time he or she will be used to the smell, but any character approaching within 5’ of the victim must also save or be violently ill. This effect will last until the spittle is washed off.
 
-The blue glow of the stalactites and stalag- mites is caused by a type of moss. The moss is harmless. It can be used as a weak light source, casting light up to 10’. If the players search the cave they will find a small silver statuette of a dragon readying for flight. The statuette is in a niche along the north wall. The statuette looks the same as the one found in room 33 (for more details see room 33).
+The blue glow of the stalactites and stalagmites is caused by a type of moss. The moss is harmless. It can be used as a weak light source, casting light up to 10’. If the players search the cave they will find a small silver statuette of a dragon readying for flight. The statuette is in a niche along the north wall. The statuette looks the same as the one found in room 33 (for more details see room 33).
 
 45. CAVE POOL
 
@@ -1554,38 +1522,38 @@ A large pool of pitch black water fills the toom. You see the glint of gold comi
 
 Once the characters have entered the cave they will be able to see the crowned head of a large statue of a man. The statue seems to be made of bronze. The eyes of the statue are small tubies (value 50 gp each). The glint of gold comes from a crown on top of the statue’s head. The crown appears to be made of gold. The statue really is bronze, but the crown is only gold paint.
 
-The liquid in the pool is a kind of ink. The water of the pool is heated by hot springs. The hot water absorbs color from a particular kind of mineral lining the pool. The result is a deep pur- ple ink. Anything that comes in contact with the ink will be stained purple. Since the ink is per- manent it will have to wear off naturally (1-6 days). It will not stain non-porous surfaces which do not absorb water very well (such as steel). The ink will not harm characters.
+The liquid in the pool is a kind of ink. The water of the pool is heated by hot springs. The hot water absorbs color from a particular kind of mineral lining the pool. The result is a deep purple ink. Anything that comes in contact with the ink will be stained purple. Since the ink is permanent it will have to wear off naturally (1-6 days). It will not stain non-porous surfaces which do not absorb water very well (such as steel). The ink will not harm characters.
 
-Once the characters reach the statue they will find that the rubies can be pried out easi- ly. If the party carefully examines the statue, there is a 50% chance they will discover that the head of the statue can be unscrewed. Hid- den inside the head, packed in a protective oilskin bag, is a ring of protection + 1.
+Once the characters reach the statue they will find that the rubies can be pried out easily. If the party carefully examines the statue, there is a 50% chance they will discover that the head of the statue can be unscrewed. Hidden inside the head, packed in a protective oilskin bag, is a ring of protection + 1.
 
 46. BLADE TRAP
 
-At the corner of the corridor is a trap. When a character walks over a pressure plate in the floor the trap might be sprung. Roll 1d6. The trap will be sprung on a roll of 1. Roll sepa- rately for each character that walks around the corner. If the trap is sprung, a weighted blade (like a guillotine blade) will fall from the ceil- ing causing 1-10 points of damage to the per- son who sprung the trap. The blade is hidden in the ceiling.
+At the corner of the corridor is a trap. When a character walks over a pressure plate in the floor the trap might be sprung. Roll 1d6. The trap will be sprung on a roll of 1. Roll separately for each character that walks around the corner. If the trap is sprung, a weighted blade (like a guillotine blade) will fall from the ceiling causing 1-10 points of damage to the person who sprung the trap. The blade is hidden in the ceiling.
 
 47. TROGLODYTE ROOM
 
 In the center of the room you see three human-like reptiles with short tails, long legs, and a spiny “comb” on their heads and arms. They block the way out.
 
-The human-like reptiles are troglodytes (AC 5; HD 2*; hp 9 each; MV 40’; #AT 3; D 1-4 each; Save F2; ML 9; AL C). Troglodytes are intelligent. They hate most other creatures and will try to kill anyone they meet. Hence they will attack on sight. Troglodytes have a chameleon-like power to blend into their sur- roundings (normally they surprise on 1-4 on 1d6), but they are not using the ability at the moment. Troglodytes secrete an oil when fighting which smells so bad that characters will be nauseated unless they save vs. Poison. Nauseated characters have a penalty of —2 on their “to hit” rolls while in melee combat with the troglodytes.
+The human-like reptiles are troglodytes (AC 5; HD 2*; hp 9 each; MV 40’; #AT 3; D 1-4 each; Save F2; ML 9; AL C). Troglodytes are intelligent. They hate most other creatures and will try to kill anyone they meet. Hence they will attack on sight. Troglodytes have a chameleon-like power to blend into their surroundings (normally they surprise on 1-4 on 1d6), but they are not using the ability at the moment. Troglodytes secrete an oil when fighting which smells so bad that characters will be nauseated unless they save vs. Poison. Nauseated characters have a penalty of —2 on their “to hit” rolls while in melee combat with the troglodytes.
 
 48. WATCH ROOM
 
-This room is higher than the surrounding countryside so that guards could look out on the surrounding land when standing watch. There are windows in the west and south walls. You notice that the red glow still surrounds the palace. In the center of the room is an iron ladder. The ladder leads to a trap door in the ceiling. By the south wall you see a statue that looks like a cleric. He looks frightened and had appar- ently just finished scratching a message into the wall. The inscription reads:
+This room is higher than the surrounding countryside so that guards could look out on the surrounding land when standing watch. There are windows in the west and south walls. You notice that the red glow still surrounds the palace. In the center of the room is an iron ladder. The ladder leads to a trap door in the ceiling. By the south wall you see a statue that looks like a cleric. He looks frightened and had apparently just finished scratching a message into the wall. The inscription reads:
 
 Evil red eye, malefaction!
 Sweet music from strings;
 Priceless Blade of Destruction,
 Salvation rides on dragon's wings!
 
-The chief palace cleric had divined the evil intent of Arik when disaster struck. He hur- tiedly left the inscription — clues as to how to destroy the ruby — in the faint hope that it might help rescuers.
+The chief palace cleric had divined the evil intent of Arik when disaster struck. He hurtiedly left the inscription — clues as to how to destroy the ruby — in the faint hope that it might help rescuers.
 
-This trap door is the only way the party can reach the second level of the dungeon. It is important that the party reach the second level and finish their mission, but it is also important that they encounter a number of monsters and traps before reaching the second level. If they reached the second level too easi- ly the adventure would not be a challenge. On the other hand, since they must reach the sec- ond level, the DM might consider sending the vision of a Protector to the party if they cannot find the way to this trap door leading to the second level.
+This trap door is the only way the party can reach the second level of the dungeon. It is important that the party reach the second level and finish their mission, but it is also important that they encounter a number of monsters and traps before reaching the second level. If they reached the second level too easily the adventure would not be a challenge. On the other hand, since they must reach the second level, the DM might consider sending the vision of a Protector to the party if they cannot find the way to this trap door leading to the second level.
 
 SECOND DUNGEON LEVEL
 
 Wandering Monsters
 
-The second dungeon level has its own wander- ing monster table. Check for wandering mon- sters every other turn. Roll 1d6: the party will encounter a wandering monster if a 1 is rolled. The wandering monster will be first seen 20- 120 feet (2d6x10') away from the party when encountered, in any direction and doing any- thing the DM chooses. To determine exactly which monster is encountered, use the Wan- dering Monster Table: Level 2.
+The second dungeon level has its own wandering monster table. Check for wandering monsters every other turn. Roll 1d6: the party will encounter a wandering monster if a 1 is rolled. The wandering monster will be first seen 20120 feet (2d6x10') away from the party when encountered, in any direction and doing anything the DM chooses. To determine exactly which monster is encountered, use the Wandering Monster Table: Level 2.
 
 ‘Wandering Monster Table: Level 2 (Roll 1d6)
 
@@ -1597,13 +1565,13 @@ Die Roll Wandering Monster NO AC HD #AT Damage Move Save ML AL
 5 Medusa L ent eee 1-6 + special 30’ BM rs CG
 6 Zombie 2-8 8 2 1 1-8 40' Fl Iz iG
 
-It is suggested that the monsters Harpy and Medusa be encountered no more than once as wandering monsters. If the DM rolls a wan- dering monster encounter with a second Har- py or Medusa, a wandering monster from the Level One table should be chosen instead. Both monsters are very difficult challenges, might upset the play balance if encountered too many times.
+It is suggested that the monsters Harpy and Medusa be encountered no more than once as wandering monsters. If the DM rolls a wandering monster encounter with a second Harpy or Medusa, a wandering monster from the Level One table should be chosen instead. Both monsters are very difficult challenges, might upset the play balance if encountered too many times.
 
-All the monsters on the second level wan- dering monster table appear in the D&D® Basic rules. Only those with unusual powers are described below.
+All the monsters on the second level wandering monster table appear in the D&D® Basic rules. Only those with unusual powers are described below.
 
-Ghoul: A successful attack by a ghoul will par- alyze any creature of ogre-size or smaller, except elves, unless the victim saves vs. Paraly- sis. Elves are immune to the paralysis, but still take normal damage from a ghoul’s attacks. Paralysis lasts for 2-8 turns.
+Ghoul: A successful attack by a ghoul will paralyze any creature of ogre-size or smaller, except elves, unless the victim saves vs. Paralysis. Elves are immune to the paralysis, but still take normal damage from a ghoul’s attacks. Paralysis lasts for 2-8 turns.
 
-Harpy: Any character hearing the harpy’s song must save vs. Spells or be charmed. Charmed individuals will move toward the harpy, resist- ing any attempt to stop them, but not other- wise attacking. If a character successfully saves the character will not be affected by the harpy song for that encounter. Harpies are resistant to magic and have a +2 on all their saves. Medusa: Looking at a medusa will turn a char- acter to stone unless the victim saves vs. Turn to Stone. A medusa can also attack with her snaky hair. The bites of the snakes are poison- ous (save vs. Poison or die in one turn) and when the snakes hit they cause 1-6 points of damage. Anyone who tries to attack a medusa without looking at it must subtract 4 from their “to hit” roll. A medusa is resistant to magic and gains +2 on saves vs. Spells only, other saving throws are normal.
+Harpy: Any character hearing the harpy’s song must save vs. Spells or be charmed. Charmed individuals will move toward the harpy, resisting any attempt to stop them, but not otherwise attacking. If a character successfully saves the character will not be affected by the harpy song for that encounter. Harpies are resistant to magic and have a +2 on all their saves. Medusa: Looking at a medusa will turn a character to stone unless the victim saves vs. Turn to Stone. A medusa can also attack with her snaky hair. The bites of the snakes are poisonous (save vs. Poison or die in one turn) and when the snakes hit they cause 1-6 points of damage. Anyone who tries to attack a medusa without looking at it must subtract 4 from their “to hit” roll. A medusa is resistant to magic and gains +2 on saves vs. Spells only, other saving throws are normal.
 
 Key to Dungeon Level Two
 
@@ -1719,7 +1687,7 @@ This area is the palace garden. The garden is roofless and is lit from above by 
 
 Where Arik rules, normal plants do not grow. The normal flowers in the garden have all died. In their place now grow weeds and two monstrous types of plants.
 
-The garden introduces two new monsters: archer bushes and vampire roses. The bushes with the sickly green trunks and thorny brown branches are archer bushes (AC 7; HD 2; hp 9 each; MV 1’; #AT 1; D 1-4; Save Fl; ML 12; AL C). Archer bushes are carnivorous and can move slowly to reach dead prey. Hidden in the trunk, beneath the leaves, is a large mouth. The mouth holds extra hard thorns which the archer bush uses like teeth to devour prey once the prey is killed. Archer bushes attack by shooting a spray of thorns at their victims. The thorn spray is composed of several small thorns which become embedded in the victim’s flesh on a successful “to hit’’ roll. The thorn spray causes 1-4 points of damage, and can only be directed at one target at a time. Archer bushes can shoot their thorn spray up to 20 feet away. Each bush can only fire three such sprays in a day.
+The garden introduces two new monsters: archer bushes and vampire roses. The bushes with the sickly green trunks and thorny brown branches are archer bushes (AC 7; HD 2; hp 9 each; MV 1’; #AT 1; D 1-4; Save F1; ML 12; AL C). Archer bushes are carnivorous and can move slowly to reach dead prey. Hidden in the trunk, beneath the leaves, is a large mouth. The mouth holds extra hard thorns which the archer bush uses like teeth to devour prey once the prey is killed. Archer bushes attack by shooting a spray of thorns at their victims. The thorn spray is composed of several small thorns which become embedded in the victim’s flesh on a successful “to hit’’ roll. The thorn spray causes 1-4 points of damage, and can only be directed at one target at a time. Archer bushes can shoot their thorn spray up to 20 feet away. Each bush can only fire three such sprays in a day.
 
 The white rose bush at the center of the garden is a vampire rose bush. Vampire roses (AC 7; HD 4; hp 18; MV 10’; #AT 1+ blood drain; D 1-8; Save F2; ML 12; AL C) look like normal white rose bushes. Like the archer bushes, however, they can uproot themselves to move about slowly. Each 4 hit dice worth of vampire roses represents a single rose bush. There is only one vampire rose bush in this garden. The 10’ long thorny stalks of a vampire rose can whip around a victim, inflicting 1-8 points of damage on a successful hit. Once the thorn stalk has struck and wrapped around a victim, the vampire rose will inflict 1-8 points of damage (blood-drain) each round automatically. The vampire rose also injects a hypnotic anesthetic into the victim's bloodstream. The victim must save vs. Spells or lose all willpower, allowing the vampire rose to continue sucking blood until the victim dies. If the victim saves successfully, any character with normal strength can break free and try to run away. After a vampire rose has completely drained a victim, the roses will be colored blood red instead of white for 1 day.
 
@@ -1773,7 +1741,7 @@ The wooden chest is a treasure chest. It is trapped with a poison dart trap. A c
 
 This room contains a bed, a large wooden chest, a stool, and a wooden wardrobe.
 
-The bedclothes are crumpled, as if a number of people had been sitting on the bed. The chest is filled with old nightshirts packed in mothballs. The wardrobe is empty. Normally this room is a guest bedroom. Recently, the room has been occupied by the bodyguard of Catharandamus, the cleric in room 68. The bodyguard is 7 large orcs (AC 6; HD 1; hp 6 each; MV 40’; #AT 1; D 1-6; Save Fl; ML 8; ALC). The orcs all carry shields with a red eye painted on them. The leader of the orcs is Alha, a werewolf (lycanthrope), When first encountered, she will be in human form, but she will change into a werewolf to attack if she can. Alha (AC 5 (9 in human form); HD 4*; hp 18; MV 60’; #AT 1; D 2-8; Save F4; ML 8; AL C) will also be wearing a red robe and has an eye painted on her forehead.
+The bedclothes are crumpled, as if a number of people had been sitting on the bed. The chest is filled with old nightshirts packed in mothballs. The wardrobe is empty. Normally this room is a guest bedroom. Recently, the room has been occupied by the bodyguard of Catharandamus, the cleric in room 68. The bodyguard is 7 large orcs (AC 6; HD 1; hp 6 each; MV 40’; #AT 1; D 1-6; Save F1; ML 8; ALC). The orcs all carry shields with a red eye painted on them. The leader of the orcs is Alha, a werewolf (lycanthrope), When first encountered, she will be in human form, but she will change into a werewolf to attack if she can. Alha (AC 5 (9 in human form); HD 4*; hp 18; MV 60’; #AT 1; D 2-8; Save F4; ML 8; AL C) will also be wearing a red robe and has an eye painted on her forehead.
 
 If Catharandamus yells for help (from room 68), Alha and the orcs will yell back that they are on their way and rush to his aid. Alha will turn into a werewolf and attack. Any human character who is severely hurt by her (losing more than half of his or her hit points) will become a lycanthrope of the same type in 2-24 days. The victim will begin to show signs of the disease (such as an appetite for raw meat) after only half that time. The disease will kill non-humans instead of turning them into were-creatures. However, if the Eye of Arik is destroyed as a result of the party’s actions, any character with the disease of lycanthropy will automatically be cured.
 
@@ -1920,9 +1888,9 @@ WANDERING MONSTERS IN THE RUINED MONASTERY
 Die Roll Creature Encountered
 1 Rock Baboons (1-4): AC6; HD 2; hp 10, 9,7,7; MV 120’ (40’); #AT 1 club/1 bite; D 1-6/1-3; Save F2; ML 8; ALN.
 2 Ogre (1): AC 5; HD 4+1; hp 5 each; MV 90' (30'); #AT 1; D 1-10; Save F4; ML 10; ALC.
-3 Hobgoblins (1-6): AC 6; HD 1+1; hp 5 each; MV 90’ (30'); #AT 1; D 1-6; Save Fl; ML 8; AL C; each carries spear and shortsword.
+3 Hobgoblins (1-6): AC 6; HD 1+1; hp 5 each; MV 90’ (30'); #AT 1; D 1-6; Save F1; ML 8; AL C; each carries spear and shortsword.
 4 Dire Wolf (1): AC 6; HD 4+1; hp 20; MV 150’ (50'); #AT 1; D 2-8; Save F2; ML 8; ALN.
-5 Zombies (1-6): AC 8; HD 2; hp 12,10,9,8, 7,7; MV 120’ (40’); #AT 1; D 1-8; Save Fl; ML 12; ALC.
+5 Zombies (1-6): AC 8; HD 2; hp 12,10,9,8, 7,7; MV 120’ (40’); #AT 1; D 1-8; Save F1; ML 12; ALC.
 6 Giant Centipedes (1-8): AC 9; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1; MV 60’ (20'); #AT 1; D poison; Save NM; ML 7; ALN.
 
 Key to Areas in the Ruined Monastery
@@ -1957,7 +1925,7 @@ This carving depicts an old pagan deity, a fat, squatting, vaguely humanoid figu
 
 As soon as any character touches the statue or opens one of the doors on the perimeter of the room, 12 guardians of the tomb burst from the doors and attack. The guardians are 12 skeletons, and one comes from each door.
 
-Skeletons (12): AC 7; HD 1; hp 8,7,6,6,5,5,4,4,3,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save Fl; ML 12; ALC.
+Skeletons (12): AC 7; HD 1; hp 8,7,6,6,5,5,4,4,3,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save F1; ML 12; ALC.
 
 Each of the skeletons is armed with a shortsword and carries a shield.
 
@@ -1997,7 +1965,7 @@ A shattered oven and much broken pottery lies about the room. In the southeast c
 
 In two rounds, eight more rats charge into the room through a small hole in the kitchen wall that leads to the forest outside the monastery.
 
-Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3, 2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 + disease; Save Fl; ML 8; ALN.
+Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3, 2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 + disease; Save F1; ML 8; ALN.
 
 The rats have been using the kitchen as a lair, storing their pile of apparent garbage here. Most of the pile consists of tattered pieces of leather, old bones, and many shiny pebbles, but characters willing to dig through the filth can find a few valuable items: three gems (60 gp, 40 gp, and 30 gp), 7 gp, 12 sp, 2 pp, and an arrow +2.
 
@@ -2323,7 +2291,7 @@ A group of goblins and hobgoblins are seated around two tables and three wooden 
 
 The room is a place for a complement of goblin and hobgoblin guards to wait while they are “‘on call.” The guards are fully armed and armored, and respond quickly to any threat to their stronghold.
 
-Hobgoblins (4): AC 6; HD 1+1; hp 9,7,6,5; MV 90' (30'); #AT 1; D 1-8; Save Fl; ML 8; ALC.
+Hobgoblins (4): AC 6; HD 1+1; hp 9,7,6,5; MV 90' (30'); #AT 1; D 1-8; Save F1; ML 8; ALC.
 
 Goblins (4): AC 6; HD 1-1; hp 6,5,5,3; MV 60' (20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
 
@@ -2399,7 +2367,7 @@ If the party smashed in the door to this room before they have investigated the 
 
 This chamber is identical to room #64, except that 14 hobgoblins are sleeping on the bunks around the room. The hobgoblins are armed and ready for combat one round after awakening, but the PCs automatically gain initiative on that round.
 
-Hobgoblins (14): AC 6; HD 1 +1; hp 9, 8, 8, 7, 7, 6, 6, 5, 5,4, 4, 3, 3, 2; MV 90’ (30'); #AT 1; D 1-8; Save Fl; ML 8; ALC.
+Hobgoblins (14): AC 6; HD 1 +1; hp 9, 8, 8, 7, 7, 6, 6, 5, 5,4, 4, 3, 3, 2; MV 90’ (30'); #AT 1; D 1-8; Save F1; ML 8; ALC.
 
 Each hobgoblin is armed with a sword and protected by a shield.
 
@@ -2473,11 +2441,11 @@ WANDERING MONSTERS IN DUNGEON LEVEL II
 
 Die Roll Creature Encountered
 1 Piranha Birds (4-8): AC 6; HD 1/2; bp 4), 45S yiFi 25 2h dy 16 ev 180'(60') flying; #AT 1; D 1-4; Save NM; ML 8; ALN.
-2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save Fl; ML8; ALN.
+2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save F1; ML8; ALN.
 3 Thoul (1): AC 6; HD 3**; hp 14; MV 120’ (40'); #AT 2 claws; D 1-3/ 1-3 + paralysis; Save F3; ML 10; AL Cc
 4 Bugbears (1-4); AC 5; HD 3 +1; hp 14, 12, 11, 9; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; ALC.
 5 Ogres (1-2): AC 5; HD 4+1; hp 19, 16; MV 90'(30'); #AT 1; D 1-10; Save F4; ML 10; ALC. 
-6 Berserkers (1-4): AC 7; HD 1+1*; hp 9, 7, 6, 4; MV 120’ (40); #AT 1 at +2; D 1-8; Save Fl; ML 12; AL N. 
+6 Berserkers (1-4): AC 7; HD 1+1*; hp 9, 7, 6, 4; MV 120’ (40); #AT 1 at +2; D 1-8; Save F1; ML 12; AL N. 
 
 70. OCTAGONAL ROOM
 
@@ -2709,7 +2677,7 @@ find five in this chamber.
 
 Berserkers (5): AC 7 (5); HD 1+1*; hp 9, 7,
 7, 6, 5; MV 12'(40'); #AT 1 at +2; D 1-8;
-Save Fl; ML 12; ALN.
+Save F1; ML 12; ALN.
 
 The nine hit point berserker carries a shield
 
@@ -2979,11 +2947,11 @@ ML 6; ALC.
 
 4 Giant Bats (1-4): AC 6; HD 2; hp
 13,10, 8,6; MV 180'(60'); #AT 1; D
-1-4; Save Fl; ML 8; ALN.
+1-4; Save F1; ML 8; ALN.
 
 5 Crab Spider (1): AC 7; HD 2*; hp
 9; MV 120'(40'); #AT 1; D 1-8 +
-poison; Save Fl; ML7; ALN.
+poison; Save F1; ML7; ALN.
 
 6 Piranha Birds (2-12): AC 6; HD 1/
 2; hp 4, 4, 4, 3, 3, 3, 2,.2,2,1,1,1;
@@ -8677,7 +8645,7 @@ toward you.
 
 The attacking birdlike creatures are stirges
 (AC 7; HD 1*; hp 4 each; MV 60’; #AT 1 at
-+2; D 1-3; Save Fl; ML 9; AL N). A flying
++2; D 1-3; Save F1; ML 9; AL N). A flying
 stirge gains a bonus of +2 to hit due to its
 speed.
 
@@ -8848,7 +8816,7 @@ The locked cage holds the treasure of the
 Brotherhood of Gorm (rooms 11 and 12). The
 treasure is guarded by 5 giant bees (AC 7; HD
 1/2*; hp 2 each; MV 50’; #AT 1; D 1-3 + spe-
-cial; Save Fl; ML 9; AL N) flying around the
+cial; Save F1; ML 9; AL N) flying around the
 room. The giant bees have learned that per-
 sons wearing a mask of Gorm are friendly.
 They will not attack anyone wearing the mask
@@ -8894,7 +8862,7 @@ room appears to be empty.
  
 
 The green oozing slime (AC n/a; HD 2*; hp
-9; MV 1'; #AT 1; D special; Save Fl; ML 12;
+9; MV 1'; #AT 1; D special; Save F1; ML 12;
 ALN). Green slime can only be hurt by fire or
 
 
@@ -9475,7 +9443,7 @@ opened.
  
 
 The wolf (AC 7; HD 2+2; hp 11; MV 60’;
-#AT 1; D 1-6; Save Fl; ML 6; AL N) was cap-
+#AT 1; D 1-6; Save F1; ML 6; AL N) was cap-
 tured as a cub and has been trained to act as a
 watch dog. It is guarding the personal funds
 of Auriga Sirkinos: 2500 sp and 200 gp kept in
@@ -9573,7 +9541,7 @@ long, are breaking into them.
  
 
 The beetles are oil beetles (AC 4; HD 2*; hp
-9; MV 40’; #AT 1+ oil; D 1-6; Save Fl; ML 8;
+9; MV 40’; #AT 1+ oil; D 1-6; Save F1; ML 8;
 ALN). Oil beetles can squirt an oily fluid at
 one victim up to 5’ away. If the oil hits, it
 raises painful blisters, causing the victim to
@@ -9753,7 +9721,7 @@ whose statue is atop the pyramid.
 
 The women are all Warrior Maidens of Mada-
 tua. Seven are 1st level fighters (AC 5; F1; hp
-5 each; MV 20’; #AT 1; D 1-8; Save Fl; ML8;
+5 each; MV 20’; #AT 1; D 1-8; Save F1; ML8;
 ALN). Two are 2nd level (AC 5 hp; hp 9; MV
 20'; #AT 1; D 1-8; Save F2). The leader of the
 Warrior Maidens is Pandora, Madarua’s
@@ -10052,7 +10020,7 @@ been gnawed in the sides of the coffin.
 
 The holes in the coffin and the door have been
 gnawed by 3 giant shrews (AC 4; HD 1*; hp 4
-each; MV 50’; #AT 2; D 1-6/1-6; Save Fl; ML
+each; MV 50’; #AT 2; D 1-6/1-6; Save F1; ML
 10; AL N). The giant shrews have made the
 coffin their lair. The coffin is empty except for
 the giant shrews. The body and any treasure
@@ -10234,7 +10202,7 @@ tains from the reign of King Alexander. It is
 not an undead monster and its armor and
 weapons are normal. The skeletons are
 undead monsters (AC 7; HD 1; hp 4 each; MV
-20'; #AT 1; D 1-6; Save Fl; ML 12; AL C).
+20'; #AT 1; D 1-6; Save F1; ML 12; AL C).
 They will attack the party as soon as the char-
 acters enter and will fight until destroyed.
 There is no treasure here.
@@ -10436,7 +10404,7 @@ bad enough to kill a normal person.
  
 
 The six humans are zombies (AC 8; HD 2; hp
-9 each; MV 30’; #AT 1; D 1-8; Save Fl; ML
+9 each; MV 30’; #AT 1; D 1-8; Save F1; ML
 12; AL C). Zombies are undead. They will
 attack the party on sight and fight until
 destroyed, always striking last. Zombies are
@@ -11439,7 +11407,7 @@ Darius has the following spells:
 **Reverse if using the D&D Expert rules.
 
 6 hobgoblins: AC 6; HD 1+1; hp 5 each; MV
-30'; #AT 1; D 1-8; Save Fl; ML 8; AL C.
+30'; #AT 1; D 1-8; Save F1; ML 8; AL C.
 The DM may change the number of hob-
 goblins as desired.
 
@@ -12280,7 +12248,7 @@ characters. The hobgoblins shout foul curses
 at the characters and charge.
 
 Hobgoblins (3): AC 6; HD 1+1; hp 7 each;
-MV 30’; #AT 1; D 1-8; Save Fl; ML 8; AL
+MV 30’; #AT 1; D 1-8; Save F1; ML 8; AL
 C; carry 5 sp each
 
 If the characters defeat the hobgoblins, the
@@ -12503,7 +12471,7 @@ three zombies burst up from the rubble-
 covered floor.
 
 Zombies (3): AC 8; MV 30’; HD 2; hp 5 each;
-#AT 1; D 1-8; Save Fl; ML 12; ALC
+#AT 1; D 1-8; Save F1; ML 12; ALC
 
 7. Turano’s Cellar
 
@@ -13370,7 +13338,7 @@ ML 6; ALN
 
 Veiled Society Men (15) (1st level fighters):
 AC 4; MV 40’; F1; hp 5; #AT 1; D 1-4 or 1-
-8; Save Fl; ML 9; ALC
+8; Save F1; ML 9; ALC
 
 If the characters capture any of the men, they
 
