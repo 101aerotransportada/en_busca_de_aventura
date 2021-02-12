@@ -1834,84 +1834,20 @@ This is the key room in the party’s quest. Their mission is to smash the ruby,
 As soon as the ruby Eye of Arik is destroyed, the disaster that has befallen Haven will not only end, it will begin to reverse. Sick cattle will recover, withered crops will grow green again. The orcs, goblins, hobgoblins and other evil creatures that invaded Haven at the call of the ruby will flee. The forces besieging the Protector will be scattered. Those people turned to stone will become flesh. Only those individuals unfortunate enough to die as a result of the disaster will not be restored to life. Otherwise, Haven will return to normal.
 
 
+
 THE HOBGOBLIN KING
 
- 
+The characters can stay in Haven until they are completely rested. The Princess Argenta and Ellis will be wed, and the characters will be honored guests. At the conclusion of the celebration, Thendara appears. Everyone is suitably impressed—there were a growing number of people in Haven who were beginning to doubt her existence. The princess will ask Thendara if the characters can stay. The Immortal will smile, shake her head no, and say that the characters have more adventures ahead of them.
 
- 
+When the characters are ready, Thendara will transport them to the bank of a river, With a wave of her hand, she creates a boat enough to hold all of them, and fully provisioned for a journey of some days. Thendara tells them that the way back to civilization lies downstream. She also gives them a sealed scroll, and instructs them to open it only when Karameikos has become too small for them.
 
-The characters can stay in Haven until they are
-completely rested. The Princess Argenta and
-Ellis will be wed, and the characters will be
-honored guests. At the conclusion of the cele-
-bration, Thendara appears. Everyone is suit-
-ably impressed—there were a growing
-number of people in Haven who were begin-
-ning to doubt her existence. The princess will
-ask Thendara if the characters can stay. The
-Immortal will smile, shake her head no, and
-say that the characters have more adventures
-ahead of them.
+The scroll is the title to a ship that will be waiting for them in Specularum (to be used for adventure X1, the Isle of Dread). If the scroll should be lost, stolen or destroyed before it is used, it will reappear within 24 hours. If it is given away or sold, it will disappear forever.
 
-When the characters are ready, Thendara will
-transport them to the bank of a river, With a
-wave of her hand, she creates a boat
-enough to hold all of them, and fully provi-
-sioned for a journey of some days. Thendara tells
-them that the way back to civilization lies down-
-stream. She also gives them a sealed scroll, and
-instructs them to open it only when Karameikos
-has become too small for them.
+Since the characters don’t know where they are, sailing downstream is their only option. Shortly after they set out, it begins to rain. The rain continues for several days, and the nights are cold and wild. Worse, the food stafts to spoil. Just as everyone is starting to feel pretty miserable, a small settlement and fort comes into view on the east side of the river. On the west bank is a towering, fogshrouded hill of rock that rises over 400 feet into the air.
 
-The scroll is the title to a ship that will be
-waiting for them in Specularum (to be used
-for adventure X1, the Isle of Dread). If the
-scroll should be lost, stolen or destroyed
-before it is used, it will reappear within 24
-hours. If it is given away or sold, it will disap-
-pear forever.
+If the party tries to land at the settlement, they will run aground and damage their boat. It will require at least a week to repair. In the meantime, they can go to the Lion’s Den Inn, the only inn in town. There, they will begin the adventure of the Hobgoblin King.
 
-Since the characters don’t know where they
-are, sailing downstream is their only option.
-Shortly after they set out, it begins to rain.
-The rain continues for several days, and the
-nights are cold and wild. Worse, the food
-stafts to spoil. Just as everyone is starting to
-feel pretty miserable, a small settlement and
-fort comes into view on the east side of the riv-
-er. On the west bank is a towering, fog-
-shrouded hill of rock that rises over 400 feet
-into the air.
-
-If the party tries to land at the settlement,
-they will run aground and damage their boat.
-It will require at least a week to repair. In the
-meantime, they can go to the Lion’s Den Inn,
-the only inn in town. There, they will begin
-the adventure of the Hobgoblin King.
-
-If the party decides to continue on their way
-to Specularum, the food will go bad (and
-must be purified daily), the weather will stay
-bad, and all must make a successful Constitu-
-tion check or become ill (lose half of total hit
-points, —1 on all rolls for a week). The hit
-points must be recovered by bed rest, which
-will be possible once the characters reach the
-Barony of Kelvin. While they are recuperat-
-ing, word comes that a small settlement some
-distance upriver named Guido's Fort has been
-overrun by hobgoblins and destroyed. (It will
-be a campaign year before the site is reset-
-tled.) The rest of the journey to Specularum is
-uneventful.
-
- 
-
-ete eee eeteeated
-ee er
-
-a smreyi)
+If the party decides to continue on their way to Specularum, the food will go bad (and must be purified daily), the weather will stay bad, and all must make a successful Constitution check or become ill (lose half of total hit points, —1 on all rolls for a week). The hit points must be recovered by bed rest, which will be possible once the characters reach the Barony of Kelvin. While they are recuperating, word comes that a small settlement some distance upriver named Guido's Fort has been overrun by hobgoblins and destroyed. (It will be a campaign year before the site is resettled.) The rest of the journey to Specularum is uneventful.
 
 Design: Douglas Niles
 Editing: Laurie Mann
@@ -1919,2347 +1855,664 @@ Graphic Design: Ruth Hoyer
 Cover Art: Jim Roslof
 Interior Art: Jim Holloway
 
-General Notes: This adventure was originally
-published as BS, Horror on the Hill. Its action
-is fairly continuous once the players descend
-past the first level, which can be dangerous for
-very low level characters. The adventure in the
-Hill itself is presented here; nineteen minor
-encounter areas on the slopes of the Hill have
-been excluded.
+General Notes: This adventure was originally published as BS, Horror on the Hill. Its action is fairly continuous once the players descend past the first level, which can be dangerous for very low level characters. The adventure in the Hill itself is presented here; nineteen minor encounter areas on the slopes of the Hill have been excluded.
 
-PASTS) ces, Shera ere ntare ays, ciovetats Stet wtetstateha 142-145
-
-
+Maps …………………… 142-145
 
 Beginning the Adventure
 
-Characters begin their adventure at Guido's
-Fort, at the Lion’s Den Inn. The inn has a
-large common room filled with many benches
-and tables, a bar, and a large fireplace. The
-common room is a smoky, dimly-lit place, and
-tends to be rather quiet. The inn also has
-sleeping quarters for rent. One sp per person
-buys a night’s lodging on a straw pallet in the
-back room. The quarters are so dirty that char-
-acters who sleep here have a 75% chance of
-becoming flea-infested during the night!
-(Fleas won't affect a character's play; they're
-just a temporary nuisance.)
+Characters begin their adventure at Guido's Fort, at the Lion’s Den Inn. The inn has a large common room filled with many benches and tables, a bar, and a large fireplace. The common room is a smoky, dimly-lit place, and tends to be rather quiet. The inn also has sleeping quarters for rent. One sp per person buys a night’s lodging on a straw pallet in the back room. The quarters are so dirty that characters who sleep here have a 75% chance of becoming flea-infested during the night! (Fleas won't affect a character's play; they're just a temporary nuisance.)
 
-At any given time of day or night, 2-12
-(2d6) persons can be found in the Lion’s Den.
-Player characters can learn two of the rumors
-on the table below from any of these patrons
-or the innkeeper. For your own information
-only, the table shows whether the rumors are
-true or false. To see which two rumors the
-characters learn, roll 2d8, repeating if neces-
-sary until the second roll is different from the
-first. Note that the players must state that
-they can begin to hear the rumors.
+At any given time of day or night, 2-12 (2d6) persons can be found in the Lion’s Den. Player characters can learn two of the rumors on the table below from any of these patrons or the innkeeper. For your own information only, the table shows whether the rumors are true or false. To see which two rumors the characters learn, roll 2d8, repeating if necessary until the second roll is different from the first. Note that the players must state that they can begin to hear the rumors.
 
-If the characters express an interest in learn-
-ing more about The Hill, they are referred to
-the “Old Timer.” For each cold beer the party
-buys him, he will divulge another rumor,
-until they have heard all eight. Note that the
-Old Timer goes through the rumors randomly
-(roll a 1d8), and although he will not repeat a
-single rumor twice, he will probably repeat
-the two rumors that the party has heard else-
-where.
+If the characters express an interest in learning more about The Hill, they are referred to the “Old Timer.” For each cold beer the party buys him, he will divulge another rumor, until they have heard all eight. Note that the Old Timer goes through the rumors randomly (roll a 1d8), and although he will not repeat a single rumor twice, he will probably repeat the two rumors that the party has heard elsewhere.
 
 TABLE 1
 RUMORS AT GUIDO’S FORT
 
-Die True or
-Roll Rumor False
-
-1 Many centuries ago, an
-
-old monastery was located
-
-on top of The Hill. True
-2 A fire-breathing dragon
-
-lives in the caves below
-
-The Hill. True
-3 A band of slave-trading
-
-ogtes is using The Hill as a
-
-base for forays into the
-
-civilized lands. False
-4 Man-eating ghouls prowl
-
-The Hill for food. True
-5 There is a haunted grave-
-
-yard on The Hill. True
-
-6 — Anevil witch lives on The
-Hill. Her house appears to
-
-
- 
-
-bea small hut, but in real-
-ity is an extravagant pal-
-ace where she keeps the
-tortured souls of all who
-have trespassed on the
-slopes.
-
-7 A huge orc army is
-entrenched on The Hill,
-waiting for orders to begin
-a massive assault on
-Guido’s Fort.
-
-8 A bubbling lake of lava
-lies below The Hill. The
-lake is the source of the
-steam columns that often
-rise into the air from many
-vents on the slopes’ sum-
-mit. False
-
-False
-
-False
+Die Roll Rumor True or False
+1 Many centuries ago, an old monastery was located on top of The Hill. True
+2 A fire-breathing dragon lives in the caves below The Hill. True
+3 A band of slave-trading ogtes is using The Hill as a base for forays into the civilized lands. False
+4 Man-eating ghouls prowl The Hill for food. True
+5 There is a haunted graveyard on The Hill. True
+6 Anevil witch lives on The Hill. Her house appears to bea small hut, but in reality is an extravagant palace where she keeps the tortured souls of all who have trespassed on the slopes. False
+7 A huge orc army is entrenched on The Hill, waiting for orders to begin a massive assault on Guido’s Fort. False
+8 A bubbling lake of lava lies below The Hill. The lake is the source of the steam columns that often rise into the air from many vents on the slopes’ summit. False
 
 Purchasing Equipment
 
-‘The trading post in Guido's Fort is well-stocked,
-and the characters may want to purchase some
-supplies there before embarking. Because the
-outpost is isolated, however, prices are a little
-higher than usual; and there is no guarantee the
-players can find what they need.
-
-To determine the availability of any item on
-the Equipment List in the Basic rule book, roll
-1d4. Any result other than a one means that a
-character can find the item. Then roll a 1d6 if
-a character wishes to purchase that item. A
-result of one or two means that the price is the
-same as that listed in the Basic rule book; a
-three or four means that the price is 150% of
-the listed amount; and a five or six means that
-it costs twice as much. Note you follow this
-procedure for each item purchased: even
-though one player found a shortsword, for
-example, there is no assurance the next player
-can find one also.
+‘The trading post in Guido's Fort is well-stocked, and the characters may want to purchase some supplies there before embarking. Because the outpost is isolated, however, prices are a little higher than usual; and there is no guarantee the players can find what they need. 
+To determine the availability of any item on the Equipment List in the Basic rule book, roll 1d4. Any result other than a one means that a character can find the item. Then roll a 1d6 if a character wishes to purchase that item. A result of one or two means that the price is the same as that listed in the Basic rule book; a three or four means that the price is 150% of the listed amount; and a five or six means that it costs twice as much. Note you follow this procedure for each item purchased: even though one player found a shortsword, for example, there is no assurance the next player can find one also.
 
 Getting to the Hill and Back
 
-Characters can cross the River Shrill to begin
-their adventure on The Hill by seeking out
-one of the fishermen in Guido’s Fort. Since
-times are hard for the fishermen, any of them
-are willing to ferry the party across the river.
-Since The Hill is so dangerous, though, the
-cost of the ferry is high: 20 gp.
+Characters can cross the River Shrill to begin their adventure on The Hill by seeking out one of the fishermen in Guido’s Fort. Since times are hard for the fishermen, any of them are willing to ferry the party across the river. Since The Hill is so dangerous, though, the cost of the ferry is high: 20 gp.
 
-The party might also try to rent a boat from
-a fisherman, but without success. A fisherman
-might agree to sell the party a boat, but no
-fishermen is willing to rent one. Everyone in
-Guido’s Fort is convinced the party is
-doomed—and renting a boat to people you'll
-never see again doesn’t make any sense! If the
-party decides to buy a boat, the cost is 50-80
-gp (1d4+4 x10).
+The party might also try to rent a boat from a fisherman, but without success. A fisherman might agree to sell the party a boat, but no fishermen is willing to rent one. Everyone in Guido’s Fort is convinced the party is doomed—and renting a boat to people you'll never see again doesn’t make any sense! If the party decides to buy a boat, the cost is 50-80 gp (1d4+4 x10).
 
-As long as the party is adventuring on the
-surface of The Hill, the party may return to
-Guido’s Fort as often as they want or can. If
-they haven't bought their own boat, though,
-they must make arrangements for returning to
-Guido’s Fort before they leave. Even if they
-choose to stay on and under The Hill through-
-out the adventure, they need return passage
-when the adventure is ended. So in any case,
-without their own boat, the party must plan
-ahead for at least one return passage.
+As long as the party is adventuring on the surface of The Hill, the party may return to Guido’s Fort as often as they want or can. If they haven't bought their own boat, though, they must make arrangements for returning to Guido’s Fort before they leave. Even if they choose to stay on and under The Hill throughout the adventure, they need return passage when the adventure is ended. So in any case, without their own boat, the party must plan ahead for at least one return passage.
 
-Perhaps they want to arrange for a fisher-
-man to pick them up at a specified time and
-place. Any of the fisherman are willing to do
-so—for another 20 gp—but the party must be
-on time or the fisherman leaves.
+Perhaps they want to arrange for a fisherman to pick them up at a specified time and place. Any of the fisherman are willing to do so—for another 20 gp—but the party must be on time or the fisherman leaves.
 
-The party might also arrange for a fisher-
-man to pick them up when he sees a smoke
-signal the party sends. Once the party builds
-its smoke signal fire, there is only a 20%
-chance per turn someone in Guido’s Fort sees
-the signal. The fisherman begins crossing the
-river 1-4 (1d4) turns after someone notices the
-smoke signal.
+The party might also arrange for a fisherman to pick them up when he sees a smoke signal the party sends. Once the party builds its smoke signal fire, there is only a 20% chance per turn someone in Guido’s Fort sees the signal. The fisherman begins crossing the river 1-4 (1d4) turns after someone notices the smoke signal.
 
-If the party has talked to the Old Timer at
-the inn, they find him waiting for them at the
-waterfront as they are getting ready to leave.
-Impressed by the party’s courage and determi-
-nation, he offers them a bottle of clear liquid
-as a parting gift. He tells them a drink of the
-liquid helps to heal wounds, and he cautions
-them to use it sparingly. The bottle contains
-three doses of potion of healing.
+If the party has talked to the Old Timer at the inn, they find him waiting for them at the waterfront as they are getting ready to leave. Impressed by the party’s courage and determination, he offers them a bottle of clear liquid as a parting gift. He tells them a drink of the liquid helps to heal wounds, and he cautions them to use it sparingly. The bottle contains three doses of potion of healing.
 
 About Monsters
 
-Many goblins and hobgoblins are on and
-under The Hill, organized into a loose army
-under the leadership of a hobgoblin king.
-This king lives in the dungeon under The Hill
-but is not extremely powerful or effective. His
-troops are numerous but cowardly; and if
-combat with goblins or hobgoblins goes badly
-for the monsters, they try to escape. If the par-
-ty prevents such an escape, the monsters sur-
-render to save their own lives.
+Many goblins and hobgoblins are on and under The Hill, organized into a loose army under the leadership of a hobgoblin king. This king lives in the dungeon under The Hill but is not extremely powerful or effective. His troops are numerous but cowardly; and if combat with goblins or hobgoblins goes badly for the monsters, they try to escape. If the party prevents such an escape, the monsters surrender to save their own lives.
 
-Note that if the characters return to town
-between sorties on The Hill, certain monsters
-are not idle in their absence. In particular,
-ogres, hobgoblins, and goblins replenish their
-garrisons three days after the party cleans
-them out. In fact, there is a 33% chance the
-number of ogres, hobgoblins, or goblins is
-actually 50% larger than the number first
-encountered! Wandering monsters do not
-replenish themselves, however.
+Note that if the characters return to town between sorties on The Hill, certain monsters are not idle in their absence. In particular, ogres, hobgoblins, and goblins replenish their garrisons three days after the party cleans them out. In fact, there is a 33% chance the number of ogres, hobgoblins, or goblins is actually 50% larger than the number first encountered! Wandering monsters do not replenish themselves, however.
 
 Important!
 
-Encounters with wandering monsters are
-
-
-
-designed to keep the PCs on their toes. They
-are not designed to be the ultimate challenge
-or climax of the adventure. If the dice call for
-an encounter that you feel would seriously
-deplete the party strength, you should ignore
-that encounter.
+Encounters with wandering monsters are designed to keep the PCs on their toes. They are not designed to be the ultimate challenge or climax of the adventure. If the dice call for an encounter that you feel would seriously deplete the party strength, you should ignore that encounter.
 
 The Mage
 
-At the end of the adventure the characters will
-encounter a red dragon that they might subdue.
-Because of this, and because the latter parts of
-the adventure are dangerous, you might set up
-an encounter with a wandering mage who offers
-aid (or, alternately, the following items: potion
-of invisibility, two potions of healing, and a scroll
-with the spells web, detect magic, and magic
-missile) in exchange for first choice of the booty.
-If attacked, he disappears in a puff of smoke.
-The mage should not aid them more than once.
+At the end of the adventure the characters will encounter a red dragon that they might subdue. Because of this, and because the latter parts of the adventure are dangerous, you might set up an encounter with a wandering mage who offers aid (or, alternately, the following items: potion of invisibility, two potions of healing, and a scroll with the spells web, detect magic, and magic missile) in exchange for first choice of the booty. If attacked, he disappears in a puff of smoke. The mage should not aid them more than once.
 
 TABLE 3
 
-WANDERING MONSTERS IN
-THE RUINED MONASTERY
+WANDERING MONSTERS IN THE RUINED MONASTERY
 
 Die Roll Creature Encountered
+1 Rock Baboons (1-4): AC6; HD 2; hp 10, 9,7,7; MV 120’ (40’); #AT 1 club/1 bite; D 1-6/1-3; Save F2; ML 8; ALN.
+2 Ogre (1): AC 5; HD 4+1; hp 5 each; MV 90' (30'); #AT 1; D 1-10; Save F4; ML 10; ALC.
+3 Hobgoblins (1-6): AC 6; HD 1+1; hp 5 each; MV 90’ (30'); #AT 1; D 1-6; Save Fl; ML 8; AL C; each carries spear and shortsword.
+4 Dire Wolf (1): AC 6; HD 4+1; hp 20; MV 150’ (50'); #AT 1; D 2-8; Save F2; ML 8; ALN.
+5 Zombies (1-6): AC 8; HD 2; hp 12,10,9,8, 7,7; MV 120’ (40’); #AT 1; D 1-8; Save Fl; ML 12; ALC.
+6 Giant Centipedes (1-8): AC 9; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1; MV 60’ (20'); #AT 1; D poison; Save NM; ML 7; ALN.
 
-1 Rock Baboons (1-4): AC6; HD 2; hp
-10, 9,7,7; MV 120’ (40’); #AT 1
-club/1 bite; D 1-6/1-3; Save F2; ML
-8; ALN.
-
-2 Ogre (1): AC 5; HD 4+1; hp 5
-each; MV 90' (30'); #AT 1; D 1-10;
-Save F4; ML 10; ALC.
-
-3 Hobgoblins (1-6): AC 6; HD 1+1;
-hp 5 each; MV 90’ (30'); #AT 1; D
-1-6; Save Fl; ML 8; AL C; each car-
-ries spear and shortsword.
-
-4 Dire Wolf (1): AC 6; HD 4+1; hp
-20; MV 150’ (50'); #AT 1; D 2-8;
-Save F2; ML 8; ALN.
-
-5 Zombies (1-6): AC 8; HD 2; hp
-12,10,9,8, 7,7; MV 120’ (40’); #AT
-1; D 1-8; Save Fl; ML 12; ALC.
-
-6 Giant Centipedes (1-8): AC 9; HD
-1/2; hp 4, 4, 3, 3, 2, 2, 1; MV 60’
-(20'); #AT 1; D poison; Save NM;
-ML 7; ALN.
-
-Key to Areas in the Ruined
-Monastery
+Key to Areas in the Ruined Monastery
 
 20. GARRISON QUARTERS
 
-In ages past, this building quartered a small
-garrison of fighters who protected the monks
-of the monastery. The building has withstood
-the ravages of time fairly well, though its
-insides have been looted repeatedly. In the
-large room, which was the dining room for the
+In ages past, this building quartered a small garrison of fighters who protected the monks of the monastery. The building has withstood the ravages of time fairly well, though its insides have been looted repeatedly. In the large room, which was the dining room for the overturned, and shattered pottery lies over much of the floor. The small room off the dining room was a kitchen; a few cracked pots and an oven are all that remain.
 
-overturned, and shattered pottery lies over
-much of the floor. The small room off the din-
-ing room was a kitchen; a few cracked pots and
-an oven are all that remain.
-
-Each of the four small rooms off the hallway
-on the eastern wing of the garrison quarters
-has a pair of well-rotted wooden beds, and
-other pieces of rot that might have been tables
-and chairs in some forgotten age.
+Each of the four small rooms off the hallway on the eastern wing of the garrison quarters has a pair of well-rotted wooden beds, and other pieces of rot that might have been tables and chairs in some forgotten age.
 
 21. HUGE POOL
 
- 
+This large, dark green expanse of water is rimmed by moldy, well-worn stone, which reveals still the pool’s artificial origin.
 
-This large, dark green expanse of water is
-rimmed by moldy, well-worn stone, which
+The water is uncomfortably warm to the touch. The pool is fed by the same geothermal forces that yield the blasts of steam in and around The Hill. The water's depth varies from about two feet around the rim to six feet in the middle.
 
- 
+Along the east end of the pool is a crumbled mass of stone that was at one time a luxurious bathhouse. No ceiling stands over these four rooms, and the walls have crumbled to only three or four feet of height. Large cracks can be seen, and many of the stone slabs that had been used as the ceiling are supported by debris. Lurking in these cracks and crevices are eight giant centipedes, which rush forward to attack any creatures passing the east rim of the pool.
 
-reveals still the pool’s artificial origin.
-
- 
-
- 
-
-The water is uncomfortably warm to the
-touch. The pool is fed by the same geothermal
-forces that yield the blasts of steam in and
-around The Hill. The water's depth varies
-from about two feet around the rim to six feet
-in the middle.
-
-Along the east end of the pool is a crumbled
-mass of stone that was at one time a luxurious
-bathhouse. No ceiling stands over these four
-rooms, and the walls have crumbled to only
-three or four feet of height. Large cracks can
-be seen, and many of the stone slabs that had
-been used as the ceiling are supported by
-debris. Lurking in these cracks and crevices are
-eight giant centipedes, which rush forward to
-attack any creatures passing the east rim of the
-
-pool.
-Giant Centipedes (8): AC 9; HD 1/2; hp 4,4,
-
-3,3,2,2,1,1; MV 60’ (20’); #AT 1; D poi-
-son; Save NM; ML 7; ALN.
+Giant Centipedes (8): AC 9; HD 1/2; hp 4,4, 3,3,2,2,1,1; MV 60’ (20’); #AT 1; D poison; Save NM; ML 7; ALN.
 
 22. STEAM VENT
 
- 
+This wide crevasse is apparently bottomless. Greenish mold and fungi grow thickly along the lip of the opening.
 
-This wide crevasse is apparently bottom-
-less. Greenish mold and fungi grow thickly
-along the lip of the opening.
-
- 
-
- 
-
- 
-
-As is true of the other vents of The Hill, there
-isa 5% chance per turn that the vent erupts in
-a column of steam. As usual, one round
-before it erupts, any character standing on the
-rim of the vent can hear a gurgling sound. The
-sound gets louder throughout the round and
-culminates in a column of boiling steam
-shooting into the sky. Any character standing
-on the rim when the geyser erupts takes 1-6
-(1d6) points of damage for each round he is
-engulfed in steam. The blast lasts 2-12 (2d6)
-rounds.
+As is true of the other vents of The Hill, there isa 5% chance per turn that the vent erupts in a column of steam. As usual, one round before it erupts, any character standing on the rim of the vent can hear a gurgling sound. The sound gets louder throughout the round and culminates in a column of boiling steam shooting into the sky. Any character standing on the rim when the geyser erupts takes 1-6 (1d6) points of damage for each round he is engulfed in steam. The blast lasts 2-12 (2d6) rounds.
 
 23. OLD TOMB
 
- 
+The double doors of this building are elaborately carved with a leering face and grotesque torso. The creature's mouth is gaping open to display row upon row of hideously pointed fangs. Two long, clawtipped arms are carved in relief: they seem almost to be reaching out to gather in anyone standing before the doors.
 
-The double doors of this building are elab-
-orately carved with a leering face and gro-
-tesque torso. The creature's mouth is
-gaping open to display row upon row of
-hideously pointed fangs. Two long, claw-
-tipped arms are carved in relief: they seem
-almost to be reaching out to gather in any-
-one standing before the doors.
+This carving depicts an old pagan deity, a fat, squatting, vaguely humanoid figure whose face is twisted into a hideous leer. The door it guards are locked. Once inside, the group sees a large room lined with many doors. Occupying a position opposite the door is a large granite statue of the same creature pictured on the doors. This statue is carved in much more detail, and two gems still glitter from its eyesockets. The statue is about 12 feet tall, but its protruding belly prevents any character wearing metal armor from climbing up the statue and removing the gems, each worth 100 gp.
 
- 
+As soon as any character touches the statue or opens one of the doors on the perimeter of the room, 12 guardians of the tomb burst from the doors and attack. The guardians are 12 skeletons, and one comes from each door.
 
- 
+Skeletons (12): AC 7; HD 1; hp 8,7,6,6,5,5,4,4,3,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save Fl; ML 12; ALC.
 
- 
+Each of the skeletons is armed with a shortsword and carries a shield.
 
-This carving depicts an old pagan deity, a fat,
-squatting, vaguely humanoid figure whose
-face is twisted into a hideous leer. The door it
-guards are locked. Once inside, the group sees
-a large room lined with many doors. Occupy-
-ing a position opposite the door is a large
-granite statue of the same creature pictured on
-the doors. This statue is carved in much more
-detail, and two gems still glitter from its
-eyesockets. The statue is about 12 feet tall,
-but its protruding belly prevents any character
-wearing metal armor from climbing up the
-statue and removing the gems, each worth
-100 gp.
-
-As soon as any character touches the statue
-or opens one of the doors on the perimeter of
-the room, 12 guardians of the tomb burst
-from the doors and attack. The guardians are
-12 skeletons, and one comes from each door.
-
-Skeletons (12): AC 7; HD 1; hp
-8,7,6,6,5,5,4,4,3,3,2,1; MV 60’ (20');
-#AT 1; D 1-6; Save Fl; ML 12; ALC.
-
-Each of the skeletons is armed with a
-
-shortsword and carries a shield.
-
-The doors from which the skeletons emerge
-lead to 12 individual tombs, each a broad slab
-of stone set in the middle of an otherwise bar-
-ren room. Behind the slab in room 23C is a
-dagger +2, visible only if a character enters
-the room and circles the slab.
+The doors from which the skeletons emerge lead to 12 individual tombs, each a broad slab of stone set in the middle of an otherwise barren room. Behind the slab in room 23C is a dagger +2, visible only if a character enters the room and circles the slab.
 
 24. TANGLED GARDEN
 
- 
+This garden is a tangled and thorny mass of brambles—virtually impenetrable by humans. Many types of plants have overrun each other here.
 
-This garden is a tangled and thorny mass of
-brambles—virtually impenetrable by
-humans. Many types of plants have over-
-run each other here.
+This garden once grew the many potent ingredients the monks used for brewing foul potions, or for ingesting as part of ghastly rituals. Since the monastery has been abandoned, the garden has grown wild.
 
- 
+The three spots marked with Xs on the map are entrances to tunnels that goblins have carved into the tangle. The tunnel entrances have been carefully masked with bushes, but they may be detected by rolling for a secret door. Behind each pile of brush lurk three goblins, waiting to ambush the party as they approach the temple door to room #31. The ambush is sprung only if the party is obviously moving toward the door, or if they begin to inspect the garden too closely.
 
- 
+Goblins (9): AC 6; HD 1-1; hp 7,6,6,5,4,4,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
 
- 
-
-This garden once grew the many potent ingre-
-dients the monks used for brewing foul
-potions, or for ingesting as part of ghastly rit-
-uals. Since the monastery has been aban-
-doned, the garden has grown wild.
-
-The three spots marked with Xs on the map
-are entrances to tunnels that goblins have
-carved into the tangle. The tunnel entrances
-
-
-
-THE HOBGOBLIN KING
-
-have been carefully masked with bushes, but
-they may be detected by rolling for a secret
-door. Behind each pile of brush lurk three
-goblins, waiting to ambush the party as they
-approach the temple door to room #31. The
-ambush is sprung only if the party is obviously
-moving toward the door, or if they begin to
-inspect the garden too closely.
-
-Goblins (9): AC 6; HD 1-1; hp
-7,6,6,5,4,4,3,2,1; MV 60’ (20'); #AT 1; D
-1-6; Save NM; ML 7; ALC.
-
-The goblins are armed with shortswords and
-
-shields. The seven hit point goblin carries a
-
-shield +1 (ACS).
+The goblins are armed with shortswords and shields. The seven hit point goblin carries a shield +1 (ACS).
 
 25. INITIATES’ BARRACKS
 
-This long room contains the rotted remains of
-many wooden bunks. The room once housed
-60 of the monks striving to become worthy of
-the monastic order.
+This long room contains the rotted remains of many wooden bunks. The room once housed 60 of the monks striving to become worthy of the monastic order.
 
 26. DINING HALL
 
- 
-
-This room holds rows of long tables and
-benches, covered by a sickening greenish-
-yellow mold.
-
- 
-
- 
-
- 
+This room holds rows of long tables and benches, covered by a sickening greenishyellow mold.
 
 The mold is harmless.
 
-27. SECOND INITIATES’
-BARRACKS
+27. SECOND INITIATES’ BARRACKS
 
-This room is in the same condition as room
-#25. The only difference is that it contains the
-remains of only 20 bunks.
+This room is in the same condition as room #25. The only difference is that it contains the remains of only 20 bunks.
 
-ADVENTURE IN THE
-RUINED MONASTERY
+ADVENTURE IN THE RUINED MONASTERY
 
 28. MONASTERY KITCHEN
 
- 
+A shattered oven and much broken pottery lies about the room. In the southeast corner of the room is a large pile of what appears to be garbage. Atop this pile are two giant rats, squeaking loudly upon hearing the door to the room open.
 
- 
+In two rounds, eight more rats charge into the room through a small hole in the kitchen wall that leads to the forest outside the monastery.
 
-A shattered oven and much broken pottery
-lies about the room. In the southeast cor-
-ner of the room is a large pile of what
-appears to be garbage. Atop this pile are
-two giant rats, squeaking loudly upon
-hearing the door to the room open.
+Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3, 2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 + disease; Save Fl; ML 8; ALN.
 
- 
-
- 
-
- 
-
-In two rounds, eight more rats charge into the
-room through a small hole in the kitchen wall
-that leads to the forest outside the monastery.
-
-Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3,
-2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 +
-disease; Save Fl; ML 8; ALN.
-
-
- 
-
-The rats have been using the kitchen as a lair,
-storing their pile of apparent garbage here.
-Most of the pile consists of tattered pieces of
-leather, old bones, and many shiny pebbles,
-but characters willing to dig through the filth
-can find a few valuable items: three gems (60
-gp, 40 gp, and 30 gp), 7 gp, 12 sp, 2 pp, and
-an arrow +2.
+The rats have been using the kitchen as a lair, storing their pile of apparent garbage here. Most of the pile consists of tattered pieces of leather, old bones, and many shiny pebbles, but characters willing to dig through the filth can find a few valuable items: three gems (60 gp, 40 gp, and 30 gp), 7 gp, 12 sp, 2 pp, and an arrow +2.
 
 29. MONASTIC LIBRARY
 
- 
+The walls of this chamber are lined with debris-laden shelves. In the center of the floor is a large pile of garbage.
 
-The walls of this chamber are lined with
-debris-laden shelves. In the center of the
-floor is a large pile of garbage.
+The library was a storehouse of books and papers—information gathered by the monks over many centuries. Now the paper and leather has crumbled; even the tables and chairs have rotted and decayed. The garbage pile was once more than 100 books of ancient lore. Apparently, the rats have been using it as a bed. No rats are currently in the room, and nothing of value is hidden in the pile.
 
- 
+On a shelf at the end of the room (opposite side from the door), however, hidden beneath tattered works of literature, is an ivory tube, worth 50 gp. The tube can only be discovered through close examination of the shelves. A screwed-in cap may be removed easily from the tube to reveal a well-preserved piece of parchment. Upon removal, any cleric recognizes the parchment as a clerical scroll. It contains the following spells:
 
- 
-
- 
-
-The library was a storehouse of books and
-papers—information gathered by the monks
-over many centuries. Now the paper and
-leather has crumbled; even the tables and
-chairs have rotted and decayed. The garbage
-pile was once more than 100 books of ancient
-lore. Apparently, the rats have been using it as
-a bed. No rats are currently in the room, and
-nothing of value is hidden in the pile.
-
-On a shelf at the end of the room (opposite
-side from the door), however, hidden beneath
-tattered works of literature, is an ivory tube,
-worth 50 gp. The tube can only be discovered
-through close examination of the shelves. A
-screwed-in cap may be removed easily from
-the tube to reveal a well-preserved piece of
-parchment. Upon removal, any cleric recog-
-nizes the parchment as a clerical scroll. It con-
-tains the following spells:
-
-First Level: cure light wounds (x2); detect
-
-magic
+First Level: cure light wounds (x2); detect magic
 Second Level: bless
 
 30. GARDEN OF THE FOUNTAIN
 
- 
+No roof blocks the sun's rays from this part of the monastery, where the atmosphere is peaceful and quiet. Around the perimeter of this restful spot, placed in an orderly fashion, are nine large birch trees. The ground is covered by a thick cushion of grass and flowers. In the center is a pool at whose south end a fountain splashes into a shallow bowl. From a spout in the bowl, the water flows back to the long pool. The water is cool and crystal-clear. The stones lining the sides and bottom of the pool are glistening white, and reflections of the birch leaves dance in the shimmering surface.
 
-No roof blocks the sun's rays from this part of
-the monastery, where the atmosphere is peace-
-ful and quiet. Around the perimeter of this
-restful spot, placed in an orderly fashion, are
-nine large birch trees. The ground is covered
-by a thick cushion of grass and flowers. In the
-center is a pool at whose south end a fountain
-splashes into a shallow bowl. From a spout in
-the bowl, the water flows back to the long
-pool. The water is cool and crystal-clear. The
-stones lining the sides and bottom of the pool
-are glistening white, and reflections of the
-birch leaves dance in the shimmering surface.
+This garden was a place of great sacredness to the monastery’s original inhabitants. As part of his rite of initiation, each monk would be allowed to take a drink from the fountain. He would then be judged according to the effects the water had upon him. The magical properties of the fountain still exist, and characters wishing to drink from it may benefit or suffer from its effects. A detect magic spell can identify a strong aura of enchantment from the water in the shallow bowl. The water in the pool, however, is quite mundane; even though it flows from the fountain, somehow its enchantment vanishes before the water drops into the pool.
 
- 
+If a character takes a drink from the fountain, calculate the effects by rolling 1d8 and comparing the result to Table 4 (see below). Each character may gain only one effect from the water; any further drinks are simply thirstquenching.
 
- 
+All effects take place immediately; they are permanent (except #3). Note that if a character's constitution or dexterity is changed, adjustments may need to be made to hit points or armor class.
 
- 
-
-This garden was a place of great sacredness to
-the monastery’s original inhabitants. As part
-of his rite of initiation, each monk would be
-allowed to take a drink from the fountain. He
-
-would then be judged according to the effects
-the water had upon him. The magical proper-
-ties of the fountain still exist, and characters
-wishing to drink from it may benefit or suffer
-from its effects. A detect magic spell can iden-
-tify a strong aura of enchantment from the
-water in the shallow bowl. The water in the
-pool, however, is quite mundane; even
-though it flows from the fountain, somehow
-its enchantment vanishes before the water
-drops into the pool.
-
-If a character takes a drink from the foun-
-tain, calculate the effects by rolling 1d8 and
-comparing the result to Table 4 (see below).
-Each character may gain only one effect from
-the water; any further drinks are simply thirst-
-quenching.
-
-All effects take place immediately; they are
-permanent (except #3). Note that if a charac-
-ter's constitution or dexterity is changed,
-adjustments may need to be made to hit
-points or armor class.
-
-If the characters wish to rest in the garden,
-or even spend the night here, they encounter
-no wandering monsters.
+If the characters wish to rest in the garden, or even spend the night here, they encounter no wandering monsters.
 
 TABLE 4
 THE MAGIC FOUNTAIN
 
 Die Roll Effect of Drink
-
- 
-
- 
-
-1 Character subtracts one from all
-ability scores.
-
-2 Character loses one hit point. Sub-
-tract this hit point from the charac-
-ter’s total: the loss is not a wound!
-
-3 Character is paralyzed for 2-20
-(2d10) hours.
-
+1 Character subtracts one from all ability scores.
+2 Character loses one hit point. Subtract this hit point from the character’s total: the loss is not a wound!
+3 Character is paralyzed for 2-20 (2d10) hours.
 4 Character gains two hit points.
-
-5 Character adds one to prime requi-
-site score.
-
+5 Character adds one to prime requisite score.
 6 Character adds two to dexterity
 score.
-
-7 Character adds two each to strength
-and dexterity scores.
-
-8 Character adds one to each ability
-score.
+7 Character adds two each to strength and dexterity scores.
+8 Character adds one to each ability score.
 
 31. ANCIENT SANCTUARY
 
-The door to this huge chamber bears the same
-leering visage that was found on the door of
-the tomb.
+The door to this huge chamber bears the same leering visage that was found on the door of the tomb. 
 
- 
+In this room, five giant statues of a longforgotten pagan god support the 20-foot high ceiling with their heads. The floor is smooth stone and very clean.
 
-In this room, five giant statues of a long-
-forgotten pagan god support the 20-foot
-high ceiling with their heads. The floor is
-smooth stone and very clean.
-
- 
-
- 
-
- 
-
-
-
-The two secret doors leading out of this cham-
-ber may be discovered with the normal rolls.
-Each of them can be opened by a simple push.
+The two secret doors leading out of this chamber may be discovered with the normal rolls. Each of them can be opened by a simple push.
 
 32. EMPTY ROOM
 
-The door to this chamber is stuck and must be
-smashed open. Smashing the door open yields
-a 20% chance that ogres in room #33 hear the
-disturbance and come to investigate.
+The door to this chamber is stuck and must be smashed open. Smashing the door open yields a 20% chance that ogres in room #33 hear the disturbance and come to investigate.
 
- 
-
-Wooden and leather debris litters this
-chamber; a thick layer of dust covers the
-floor and all the room’s contents.
-
- 
-
- 
-
- 
+Wooden and leather debris litters this chamber; a thick layer of dust covers the floor and all the room’s contents.
 
 33. OGRE GUARDROOM
 
-This room is inhabited by a pair of the ugliest
-and meanest ogres to ever walk The Hill. They
-spend most of their time drinking and gam-
-bling, so there is a 50% chance that characters
-who stop to listen can hear their raucous bel-
-lows and heated arguments. The door to their
-room is locked, and the key hangs on the belt
-of the largest ogre.
+This room is inhabited by a pair of the ugliest and meanest ogres to ever walk The Hill. They spend most of their time drinking and gambling, so there is a 50% chance that characters who stop to listen can hear their raucous bellows and heated arguments. The door to their room is locked, and the key hangs on the belt of the largest ogre.
 
-Ogres (2): AC 5; HD 4 +1; hp 21,19; MV 90’
-(30'); #AT 1 club; D 1-10; Save F4; ML 10;
-ALC.
+Ogres (2): AC 5; HD 4 +1; hp 21,19; MV 90’ (30'); #AT 1 club; D 1-10; Save F4; ML 10; ALC.
 
-When discovered, the ogres are seated at a
-large table in the middle of the room. (It may
-be, of course, that they heard the party enter
-room #32 and went to investigate.) Because
-they are concentrating on rolling knuckle-
-bones (crude, bone dice) on the table before
-them, add one to their chance of being sur-
-prised (i.¢., they are surprised if you roll one,
-two, or three on 1d6).
+When discovered, the ogres are seated at a large table in the middle of the room. (It may be, of course, that they heard the party enter room #32 and went to investigate.) Because they are concentrating on rolling knucklebones (crude, bone dice) on the table before them, add one to their chance of being surprised (i.¢., they are surprised if you roll one, two, or three on 1d6).
 
-The ogres fight savagely, but if they fail a
-morale check, the surviving ogres surrender.
+The ogres fight savagely, but if they fail a morale check, the surviving ogres surrender.
 
-Three sturdy wooden beds are placed along
-the north wall of the room; a jumble of old
-bones—some of which look disturbingly
-human—are piled against the south wall, and
-a solid bar holds a door on the west wall firmly
-shut. The large table, three chairs, and an old
-trunk are the only other objects in the room.
+Three sturdy wooden beds are placed along the north wall of the room; a jumble of old bones—some of which look disturbingly human—are piled against the south wall, and a solid bar holds a door on the west wall firmly shut. The large table, three chairs, and an old trunk are the only other objects in the room.
 
-Scattered about the top of the table, among
-the knucklebones and spilled wineglasses, are
-35 gp, 81 ep, and 124 sp. The trunk is locked;
-the key is on a ring on the largest ogre’s belt.
-The keys to rooms #33 and #34 are also on this
-ring. Inside the trunk are five huge jugs of
-wine, a sack holding 400 gp and 1,000 sp, and
-a dirty leather sack that is actually a bag of
-holding.
+Scattered about the top of the table, among the knucklebones and spilled wineglasses, are 35 gp, 81 ep, and 124 sp. The trunk is locked; the key is on a ring on the largest ogre’s belt. The keys to rooms #33 and #34 are also on this ring. Inside the trunk are five huge jugs of wine, a sack holding 400 gp and 1,000 sp, and a dirty leather sack that is actually a bag of holding.
 
+34. PRISON OF THE NEANDERTHALS
 
- 
+The door to this room is barred on the outside and locked. If it is opened, four male Neanderthals within are crouching belligerently, as if prepared to fight with their bare hands. They are quite surprised if any creatures other than ogres open the door, and wait to see what develops before attacking.
 
-34. PRISON OF THE
-NEANDERTHALS
+Neanderthals (4): AC 8; HD 2; hp 9 each; MV 120' (40'); #AT 1; D 2-8; Save F2; ML 7; ALL.
 
-The door to this room is barred on the outside
-and locked. If it is opened, four male Nean-
-derthals within are crouching belligerently, as
-if prepared to fight with their bare hands.
-They are quite surprised if any creatures other
-than ogres open the door, and wait to see what
-develops before attacking.
+These cavemen have been captured by ogres in one of the frequent skirmishes between these bands of mortal enemies. The peaceful Neanderthals have been trying to settle on The Hill for several years, but the ogres’ depredations during this time have made this difficult.
 
-Neanderthals (4): AC 8; HD 2; hp 9 each; MV
-120' (40'); #AT 1; D 2-8; Save F2; ML 7;
-ALL.
-
-These cavemen have been captured by ogres in
-one of the frequent skirmishes between these
-bands of mortal enemies. The peaceful Nean-
-derthals have been trying to settle on The Hill
-for several years, but the ogres’ depredations
-during this time have made this difficult.
-
-Since these four Neanderthals were cap-
-tured but a week ago, and since they doubtless
-would not have survived long in the hands of
-ogres, they are grateful to anyone who frees
-them. Although they will not understand the
-PCs’ language, they try to communicate that
-they consider the party to be valuable friends
-(assuming the party doesn’t attack them, that
-is!). If the party successfully rescues these pris-
-oners, all of the Neanderthals on The Hill are
-grateful, offering aid to the party whenever an
-opportunity presents itself.
+Since these four Neanderthals were captured but a week ago, and since they doubtless would not have survived long in the hands of ogres, they are grateful to anyone who frees them. Although they will not understand the PCs’ language, they try to communicate that they consider the party to be valuable friends (assuming the party doesn’t attack them, that is!). If the party successfully rescues these prisoners, all of the Neanderthals on The Hill are grateful, offering aid to the party whenever an opportunity presents itself.
 
 35. HOBGOBLIN SUPPLY ROOM
 
-The door to this room is locked; the hobgob-
-lin leader in room #38 carries the key. The lock
-may be picked or the door smashed if the char-
-acters wish to gain access.
+The door to this room is locked; the hobgoblin leader in room #38 carries the key. The lock may be picked or the door smashed if the characters wish to gain access.
 
- 
+This room contains a collection of supplies that look sufficient for a small army. Six bins, a dozen barrels, two crates, and three racks are crammed into the large chamber.
 
-This room contains a collection of supplies
-that look sufficient for a small army. Six
-bins, a dozen barrels, two crates, and three
-racks are crammed into the large chamber.
+The bins contain many bushels of dried beans, grain, and fruit. The barrels hold the same cheap wine that the ogres in room #33 were drinking. The racks hold an array of weapons, including 20 shortswords, 25 swords, 30 spears, 10 crossbows, and 200 quarrels. Each of the crates holds two dozen suits of leather armor, and 40 shields hang on the walls of the room. All of the weapons and armor are of a size that humans could use; there is nothing to suggest that it is hobgoblins who are collecting and preparing to use these supplies.
 
- 
+In truth, this room is a major collection point for the supplies the hobgoblins are gathering for a planned assault on Guido's Fort. Since the destruction of this trove would be a considerable setback to the attack plans, consider awarding the PCs 200 experience points if they successfully destroy the contents of the room. They can do so by burning the supplies, but in this case the hallway outside fills with smoke two turns after the fire is lit, and cannot be occupied for the next 12 turns. Smoke spreads through the entire corridor, right up to the doors to rooms #32 and #33, but it does not penetrate into any rooms whose doors are closed.
 
- 
-
- 
-
-The bins contain many bushels of dried
-beans, grain, and fruit. The barrels hold the
-same cheap wine that the ogres in room #33
-were drinking. The racks hold an array of
-weapons, including 20 shortswords, 25
-swords, 30 spears, 10 crossbows, and 200
-quarrels. Each of the crates holds two dozen
-suits of leather armor, and 40 shields hang on
-the walls of the room. All of the weapons and
-armor are of a size that humans could use;
-there is nothing to suggest that it is hobgob-
-lins who are collecting and preparing to use
-these supplies.
-
-In truth, this room is a major collection
-
-point for the supplies the hobgoblins are
-gathering for a planned assault on Guido's
-Fort. Since the destruction of this trove would
-be a considerable setback to the attack plans,
-consider awarding the PCs 200 experience
-points if they successfully destroy the contents
-of the room. They can do so by burning the
-supplies, but in this case the hallway outside
-fills with smoke two turns after the fire is lit,
-and cannot be occupied for the next 12 turns.
-Smoke spreads through the entire corridor,
-right up to the doors to rooms #32 and #33,
-but it does not penetrate into any rooms
-whose doors are closed.
-
-Note that the experience point bonus is
-appropriate only if the characters take the initia-
-tive to destroy the supplies. It’s important you
-not give the party any suggestion to do so. Evena
-question such as: “What are you going to do
-with this stuff?” might be too suggestive.
+Note that the experience point bonus is appropriate only if the characters take the initiative to destroy the supplies. It’s important you not give the party any suggestion to do so. Evena question such as: “What are you going to do with this stuff?” might be too suggestive.
 
 36. ABANDONED CHAMBER
 
- 
-
-Except for a thick layer of dust on the floor,
-this chamber appears totally empty.
-
- 
-
- 
-
- 
+Except for a thick layer of dust on the floor, this chamber appears totally empty.
 
 This chamber is empty.
 
 37. ANCIENT PAGAN ALTAR
 
- 
+This room is dominated by the image of the leering pagan god, carved from a block of granite. The gems that occupied its eyesockets have already been plundered. Before this statue is a shallow stone pit, about 6 feet long, 3 feet wide, and 1 foot deep.
 
-This room is dominated by the image of
-the leering pagan god, carved from a block
-of granite. The gems that occupied its
-eyesockets have already been plundered.
-Before this statue is a shallow stone pit,
-about 6 feet long, 3 feet wide, and 1 foot
-deep.
-
- 
-
- 
-
- 
-
-The bloody cult of monks who once inhabited
-the monastery used the pit for human sacrifice.
+The bloody cult of monks who once inhabited the monastery used the pit for human sacrifice.
 
 38. HOBGOBLIN GARRISON
 
- 
+Three hobgoblins and two goblins are greedily feasting on a shank of meat at a dirty table. Their weapons are close at hand and they leap quickly to defend the room.
 
-Three hobgoblins and two goblins are
-greedily feasting on a shank of meat at a
-dirty table. Their weapons are close at
-hand and they leap quickly to defend the
-room.
+This chamber serves as a guardroom and line of defense to prevent unwelcome intruders from discovering the entrance to the dungeon below the monastery. Six hobgoblins and six goblins are on duty here, protecting the approach to their lair and hideout. Four of the hobgoblins and four of the goblins are sleeping when the party discovers this room; the sleeping monsters require two rounds to arm and prepare for battle.
 
- 
+Hobgoblins (6): AC 6; HD 1+1; hp 9,8,6,6,5, 4; MV 90’ (30'); #AT 1; D 1-8; Save F1; ML 9(8); ALC
 
- 
+Goblins (6): AC 6; HD 1-1; hp 7,6,5,4,3,2; MV 60' (20')’ #AT 1; D 1-6; Save NM; ML 9(6); ALC
 
- 
+The nine point hobgoblin carries a shield +1 (AC 5); his morale is 9 (instead of 8), and as long as he is alive to spur the others on, all of the hobgoblins and goblins also have morale 9.
 
-This chamber serves as a guardroom and line
-of defense to prevent unwelcome intruders
-from discovering the entrance to the dungeon
-below the monastery. Six hobgoblins and six
-goblins are on duty here, protecting the
-approach to their lair and hideout. Four of the
-hobgoblins and four of the goblins are sleep-
-ing when the party discovers this room; the
-sleeping monsters require two rounds to arm
-
-
-
-and prepare for battle.
-
-Hobgoblins (6): AC 6; HD 1+1; hp
-9,8,6,6,5, 4; MV 90’ (30'); #AT 1; D 1-8;
-Save F1; ML 9(8); ALC
-
-Goblins (6): AC 6; HD 1-1; hp 7,6,5,4,3,2;
-MV 60' (20')’ #AT 1; D 1-6; Save NM; ML
-9(6); ALC
-
-The nine point hobgoblin carries a shield +1
-(AC 5); his morale is 9 (instead of 8), and as long
-as he is alive to spur the others on, all of the hob-
-goblins and goblins also have morale 9.
-
-The room has plain wooden bunks along each
-wall; in the center are a table and two benches.
-Each of the hobgoblins has a belt pouch contain-
-ing 1d10 gp and 2d12 sp. The goblins also have
-belt pouches, but they hold only 2d6 sp apiece.
-The nine point hobgoblin carries the key to the
-supply room (room #35) and the access room
-(room #39) on a ring on his belt.
+The room has plain wooden bunks along each wall; in the center are a table and two benches. Each of the hobgoblins has a belt pouch containing 1d10 gp and 2d12 sp. The goblins also have belt pouches, but they hold only 2d6 sp apiece. The nine point hobgoblin carries the key to the supply room (room #35) and the access room (room #39) on a ring on his belt.
 
 39. DUNGEON ACCESS ROOM
 
-This small room contains only a stone stairway
-leading downward into darkness. Characters
-who have infravision may stand at the top of the
-stairs and look down, but all they see is that the
-stairway continues for more than 60 feet. The
-stairs lead to the dungeon below the monastery.
+This small room contains only a stone stairway leading downward into darkness. Characters who have infravision may stand at the top of the stairs and look down, but all they see is that the stairway continues for more than 60 feet. The stairs lead to the dungeon below the monastery.
 
-ADVENTURE IN
-DUNGEON LEVEL I
+ADVENTURE IN DUNGEON LEVEL I
 
-This level of the dungeon is the stronghold of
-the goblins and hobgoblins preparing an
-army. Although the troops have not been
-assembled yet, there are enough goblins, hob-
-goblins, and their large cousins the bugbears
-here to keep the characters on their toes!
+This level of the dungeon is the stronghold of the goblins and hobgoblins preparing an army. Although the troops have not been assembled yet, there are enough goblins, hobgoblins, and their large cousins the bugbears here to keep the characters on their toes!
 
-Since these humanoids dominate this level of
-the dungeon, few other monsters are found.
-Check for wandering monsters in the normal
-way; if an encounter is indicated, roll a 1d6 and
-compare the result to the table below.
+Since these humanoids dominate this level of the dungeon, few other monsters are found. Check for wandering monsters in the normal way; if an encounter is indicated, roll a 1d6 and compare the result to the table below.
 
-Any monster encountered automatically
-attacks the party, fighting until either the PCs
-are defeated, all the monsters are dead, or the
-monsters fail a morale check. In the latter
-case, any surviving creatures flee toward room
-#66 to alert the hobgoblin king.
-
-
- 
+Any monster encountered automatically attacks the party, fighting until either the PCs are defeated, all the monsters are dead, or the monsters fail a morale check. In the latter case, any surviving creatures flee toward room #66 to alert the hobgoblin king.
 
 TABLE 5
 
-WANDERING MONSTERS
-IN DUNGEON LEVEL I
+WANDERING MONSTERS IN DUNGEON LEVEL I
 
 Die Roll Creature Encountered
-
-1-2 Bugbears (1-3): AC 5; HD 3 +1; hp
-16,14, 13; MV 90’ (30'); #AT 1; D
-2-8; Save F3; ML 9; ALC.
-
-3-4 Goblins (2-8): AC 6; HD 1-1; hp
-7,6,5, 5,4,3,2,1; MV 60'(20'); #AT
-1; D 1-6; Save NM; ML 7; ALC.
-
-5-6 Hobgoblins (1-4): AC 6; HD 1+1;
-hp 8,6,6, 6,6,5; MV 90'(30'); #AT
-1; D 1-8; Save F1; ML 8; AL C.
+1-2 Bugbears (1-3): AC 5; HD 3 +1; hp 16,14, 13; MV 90’ (30'); #AT 1; D 2 8; Save F3; ML 9; ALC.
+3-4 Goblins (2-8): AC 6; HD 1-1; hp 7,6,5, 5,4,3,2,1; MV 60'(20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
+5-6 Hobgoblins (1-4): AC 6; HD 1+1; hp 8,6,6, 6,6,5; MV 90'(30'); #AT 1; D 1-8; Save F1; ML 8; AL C.
 
 Key to areas in dungeon level I
+
 40. BUGBEARS’ SITTING ROOM
 
- 
+In this dirty, vile-smelling chamber, a smoky fire is dying in a large fireplace, and a kettle holding some greenish-black stew simmers over the coals. Three large wooden benches, two chairs, and a table fill the room. On the table is a large jug and three wine-stained goblets, two of which are tipped over next to asticky pool of wine. The goblets are crusted with dried wine and dirt.
 
-In this dirty, vile-smelling chamber, a smoky
-fire is dying in a large fireplace, and a kettle
-holding some greenish-black stew simmers
-over the coals. Three large wooden benches,
-two chairs, and a table fill the room. On the
-table is a large jug and three wine-stained
-goblets, two of which are tipped over next to
-asticky pool of wine. The goblets are crusted
-with dried wine and dirt.
-
- 
-
- 
-
- 
-
-The wine goblets are made of silver, discern-
-ible only if a character wipes the surface clean.
-Each goblet is worth 30 gp.
+The wine goblets are made of silver, discernible only if a character wipes the surface clean. Each goblet is worth 30 gp.
 
 41. EMPTY CELL
 
- 
+This room is empty except for a pair of wooden bunks.
 
-This room is empty except for a pair of
-wooden bunks.
-
- 
-
- 
-
- 
-
-At one time, this cell held a pair of dwarves
-that bugbears were fattening for a sinister pur-
-
-. The secret door on the side of the room
-is simply a block of stone the dwarves removed
-to tunnel to freedom some years ago. The
-bugbears don’t know how the dwarves got
-out. If the bugbears take any of the characters
-prisoner, the bugbears place at least two of the
-characters in this cell.
+At one time, this cell held a pair of dwarves that bugbears were fattening for a sinister purpose. The secret door on the side of the room is simply a block of stone the dwarves removed to tunnel to freedom some years ago. The bugbears don’t know how the dwarves got out. If the bugbears take any of the characters prisoner, the bugbears place at least two of the characters in this cell.
 
 42. BUGBEARS’ QUARTERS
 
-The door to this chamber is locked; three bug-
-bears reside within. They have just finished a
-tiring shift of bullying goblins, so all three are
-sound asleep.
+The door to this chamber is locked; three bugbears reside within. They have just finished a tiring shift of bullying goblins, so all three are sound asleep.
 
-If the characters can pick the lock, or smash
-the door on the first try, they automatically
-gain initiative. If they hit the door once with-
+If the characters can pick the lock, or smash the door on the first try, they automatically gain initiative. If they hit the door once without breaking it open, however, the bugbears are armed and waiting for them on the next round.
 
-out breaking it open, however, the bugbears
-are armed and waiting for them on the next
-round.
+Bugbears (3): AC 5; HD 3 +1; hp 15,13,10; MV 90'(30'); #AT 1; D 1-8 +1 of 1-8 +2; Save F3; ML 9; ALC.
 
-Bugbears (3): AC 5; HD 3 +1; hp 15,13,10;
-MV 90'(30'); #AT 1; D 1-8 +1 of 1-8 +2;
-Save F3; ML 9; ALC.
+One of the bugbears carries a battle axe +1; the other two carry swords.
 
-One of the bugbears carries a battle axe +1;
-the other two carry swords.
+The room contains six large beds, a table on which lie three empty bowls, and an old but sturdy chest. On three of the beds lie three large, apparently sleeping creatures.
 
- 
-
-The room contains six large beds, a table
-on which lie three empty bowls, and an old
-but sturdy chest. On three of the beds lie
-three large, apparently sleeping creatures.
-
- 
-
- 
-
- 
-
-The key to the chest and the key to this room
-are on a thong around the neck of the 15 hit
-point bugbear. Inside the chest is a suit of
-leather armor; a shortsword; a bow, quiver,
-and 16 arrows; a sack containing 120 sp, 30
-ep, and 50 gp; and a backpack containing a
-coil of rope, two flasks of oil, and a set of
-thieves’ lock-picking tools.
+The key to the chest and the key to this room are on a thong around the neck of the 15 hit point bugbear. Inside the chest is a suit of leather armor; a shortsword; a bow, quiver, and 16 arrows; a sack containing 120 sp, 30 ep, and 50 gp; and a backpack containing a coil of rope, two flasks of oil, and a set of thieves’ lock-picking tools.
 
 43. PRISON CELL
 
-In this dingy chamber is found one hapless
-thief, captured by the bugbears on the out-
-skirts of Guido’s Fort three weeks earlier. He
-used to own most of the equipment found in
-the bugbears’ chest (room #43).
+In this dingy chamber is found one hapless thief, captured by the bugbears on the outskirts of Guido’s Fort three weeks earlier. He used to own most of the equipment found in the bugbears’ chest (room #43).
 
-Cullen DeFilch: AC 7; T2; hp 7; #AT 1; D by
-weapon; Save T2; ML9; ALN; $ 10;18; W
-13; D 16; C 9; CH 10.
+Cullen DeFilch: AC 7; T2; hp 7; #AT 1; D by weapon; Save T2; ML9; ALN; $ 10;18; W 13; D 16; C 9; CH 10.
 
-If the characters release Cullen from his prison,
-he is most grateful, happy to join the party for
-the duration of the adventure. He does not ask
-for a share of the loot, claiming that his freedom
-is reward enough. If, however, he should be left
-alone with a bag of jewels for example, there is
-no guarantee that the bag remains as full as it
-was to begin with . . .
+If the characters release Cullen from his prison, he is most grateful, happy to join the party for the duration of the adventure. He does not ask for a share of the loot, claiming that his freedom is reward enough. If, however, he should be left alone with a bag of jewels for example, there is no guarantee that the bag remains as full as it was to begin with . . .
 
-If the characters are not interested in the
-services of another thief. Cullen doesn’t try to
-change their minds. He asks if the party has
-seen any sign of his equipment, and if they
-have he asks to have it returned. He does not
-become hostile, however, feeling his position
-to be too precarious to risk antagonizing his
-rescuers. He simply leaves and tries to make
-his way back to Guido's Fort if he is not
-invited to join the party.
+If the characters are not interested in the services of another thief. Cullen doesn’t try to change their minds. He asks if the party has seen any sign of his equipment, and if they have he asks to have it returned. He does not become hostile, however, feeling his position to be too precarious to risk antagonizing his rescuers. He simply leaves and tries to make his way back to Guido's Fort if he is not invited to join the party.
 
 44. SUBTERRANEAN STREAM
 
-This natural cavern is blocked by a solid wood-
-en door—watertight but unlocked.
+This natural cavern is blocked by a solid wooden door—watertight but unlocked.
 
- 
+A shallow stream runs through this room, falling from a spout in the ceiling, running through a trench in the cavern floor, and rushing out through an opening in the floor. The stream is about eight feet wide and one foot deep.
 
-A shallow stream runs through this room,
-falling from a spout in the ceiling, running
-through a trench in the cavern floor, and
-rushing out through an opening in the
-floor. The stream is about eight feet wide
-and one foot deep.
+Lurking in the shadows where the stream disappears through the floor are three giant centipedes. As soon as they catch sight of intruders in the room, they rush forward to attack.
 
- 
+Giant Centipedes (3): AC 9; HD 1/2; hp 3,2, 2; MV 60'(20'); #AT 1; D poison; Save NM; ML7: ALN.
 
- 
+Although the level of the stream is low now, stains on the walls indicate that it often fills the room to a depth of three or four feet. The spout in the ceiling is only one foot in diameter, and the stream disappears through a fourfoot diameter hole in the floor. The hole in the floor drops through 60 feet of a winding, narrow shaft, before entering a large cavern totally filled with water.
 
- 
-
-Lurking in the shadows where the stream dis-
-appears through the floor are three giant cen-
-tipedes. As soon as they catch sight of
-intruders in the room, they rush forward to
-attack.
-
-Giant Centipedes (3): AC 9; HD 1/2; hp 3,2,
-2; MV 60'(20'); #AT 1; D poison; Save
-NM; ML7: ALN.
-
-Although the level of the stream is low now,
-stains on the walls indicate that it often fills
-the room to a depth of three or four feet. The
-spout in the ceiling is only one foot in diame-
-ter, and the stream disappears through a four-
-foot diameter hole in the floor. The hole in
-the floor drops through 60 feet of a winding,
-narrow shaft, before entering a large cavern
-totally filled with water.
-
-If any characters are foolish enough to drop
-into this shaft, roll 346 to see how much dam-
-age they take before they enter the flooded
-chamber. If they are still alive, they certainly
-drown there.
+If any characters are foolish enough to drop into this shaft, roll 346 to see how much damage they take before they enter the flooded chamber. If they are still alive, they certainly drown there.
 
 45. TORTURE CHAMBER
 
- 
+A torture rack, an iron maiden, and a huge pot of bubbling oil all give good indication of this room’s purpose. Feeding the fire beneath the oil are two goblins.
 
-A torture rack, an iron maiden, and a huge
-pot of bubbling oil all give good indication
-of this room’s purpose. Feeding the fire
-beneath the oil are two goblins.
+Goblins (2): AC 6; HD 1-1; hp 4,3; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML7; ALC.
 
- 
-
- 
-
- 
-
-Goblins (2): AC 6; HD 1-1; hp 4,3; MV 60’
-(20'); #AT 1; D 1-6; Save NM; ML7; ALC.
-
-Along the southern wall of the room are four
-cells, each with a metal door. Each door has a
-barred window, persumably to let prisoners
-watch the “entertainment.” Mercifully, all of
-the cells are empty of living creatures,
-although a moldering skeleton lies on the bed
-in the far east cell. A ring bearing a large iron
-key hangs on the wall of the chamber. An
-examination shows that the key opens all four
-cell doors.
+Along the southern wall of the room are four cells, each with a metal door. Each door has a barred window, persumably to let prisoners watch the “entertainment.” Mercifully, all of the cells are empty of living creatures, although a moldering skeleton lies on the bed in the far east cell. A ring bearing a large iron key hangs on the wall of the chamber. An examination shows that the key opens all four cell doors.
 
 46. CLERIC’S OFFICE
+
 The door to this chamber is locked.
 
+In this room a polished circular table, a fur-lined bench, a desk, and a chair give the room a civilized look. An elaborate candelabra, made out of silver and worth 50 gp, rests on the table. On the desk is a miniature statue of the same god whose likeness is found throughout the ruined monastery. This statue has been carved from pumice (hardened lava).
 
- 
+The desk has two drawers in it. The top drawer opens easily, and contains an inkwell, several quill pens, and a dozen blank sheets of parchment. The second drawer is locked and trapped with a poisoned needle. Any character picking the lock without removing the trap is pricked by the needle and must save vs. poison or die, The small amount of poison on the needle allows the character a +3 to his or her saving throw, however.
 
- 
-
-In this room a polished circular table, a
-fur-lined bench, a desk, and a chair give
-the room a civilized look. An elaborate
-candelabra, made out of silver and worth
-50 gp, rests on the table. On the desk is a
-miniature statue of the same god whose
-likeness is found throughout the ruined
-monastery. This statue has been carved
-
- 
-
- 
-
-from pumice (hardened lava).
-
- 
-
-The desk has two drawers in it. The top drawer
-opens easily, and contains an inkwell, several
-quill pens, and a dozen blank sheets of parch-
-ment. The second drawer is locked and
-trapped with a poisoned needle. Any charac-
-ter picking the lock without removing the trap
-is pricked by the needle and must save vs. poi-
-son or die, The small amount of poison on the
-needle allows the character a +3 to his or her
-saving throw, however.
-
-In the locked drawer is a small pouch con-
-taining seven gems worth 200 gp each and a
-rolled up parchment. If examined by a cleric,
-the parchment is recognized as a clerical scroll
-on which is written a cure light wounds spell.
+In the locked drawer is a small pouch containing seven gems worth 200 gp each and a rolled up parchment. If examined by a cleric, the parchment is recognized as a clerical scroll on which is written a cure light wounds spell.
 
 47. CLERIC’S SITTING ROOM
 
-The hall door leading to this room is locked,
-although the secret door on the west wall of
-the room pushes open easily.
+The hall door leading to this room is locked, although the secret door on the west wall of the room pushes open easily.
 
- 
+The floor of this room is padded by several huge bearskins, and four soft chairs surround a low table. On the walls are niches for two dozen candles, and a shelf holding four crystal goblets and two bottles of wine.
 
-The floor of this room is padded by several
-huge bearskins, and four soft chairs sur-
-round a low table. On the walls are niches
-for two dozen candles, and a shelf holding
-four crystal goblets and two bottles of
-wine.
-
- 
-
- 
-
- 
-
-The goblets are worth 50 gp each, and the
-wine, 80 gp per bottle. Both the goblets and
-the wine bottles are fragile, however, and
-there is a 20% chance they break each time
-any character carrying them is involved in a
-violent situation (combat or fall, for exam-
-ple).
+The goblets are worth 50 gp each, and the wine, 80 gp per bottle. Both the goblets and the wine bottles are fragile, however, and there is a 20% chance they break each time any character carrying them is involved in a violent situation (combat or fall, for example).
 
 48. CLERIC’S CHAMBER
 
-The door to this room is not locked. (Its
-inhabitant—the foul cleric Moray Vaco—feels
-quite secure behind his many secret doors.)
+The door to this room is not locked. (Its inhabitant—the foul cleric Moray Vaco—feels quite secure behind his many secret doors.)
 
- 
+A table, bed, and several chairs are visible in this room. Seated at the table, a hunched and scrawny figure is apparently writing on a sheet of parchment.
 
-A table, bed, and several chairs are visible
-in this room. Seated at the table, a
-hunched and scrawny figure is apparently
-writing on a sheet of parchment.
+Moray Vaco: AC 2; C3; hp 12; #AT 1; D 2-7; Save C3; ALC; § 12; 110; W 16; D 12; C 9; CH 6; +2 to saving throws (wisdom adjustment).
 
- 
+Spells: First Level: protection from evil, detect magic.
 
- 
+Moray uses a mace + 1 in combat. His mace is always at his side, and he is always wearing his plate mail armor. If discovered in his room, Moray fights to the death.
 
- 
+This human cleric is a degenerate and filthy individual of thoroughly chaotic alignment. He has stayed so long with the goblins he has even begun to resemble them: his skin has taken on a gray hue, and he has filed his teeth to points.
 
-Moray Vaco: AC 2; C3; hp 12; #AT 1; D 2-7;
+Moray Vaco is one of the last survivors of the black-hearted cult that founded the monastery centuries ago. Lacking human followers, he has gathered a congregation of evil monsters. He provides the monsters “spiritual guidance” and “moral leadership,” and they provide him protection, food, and an occasional prisoner to be sacrificed to Moray’s iniquitous deity.
 
-Save C3; ALC; § 12; 110; W 16; D 12; C
-9; CH 6; +2 to saving throws (wisdom
-adjustment).
-
-Spells: First Level: protection from evil, detect
-magic.
-
-Moray uses a mace + 1 in combat. His mace is
-always at his side, and he is always wearing his
-plate mail armor. If discovered in his room,
-Moray fights to the death.
-
-This human cleric is a degenerate and filthy
-individual of thoroughly chaotic alignment.
-He has stayed so long with the goblins he has
-even begun to resemble them: his skin has
-taken on a gray hue, and he has filed his teeth
-to points.
-
-Moray Vaco is one of the last survivors of the
-black-hearted cult that founded the monas-
-tery centuries ago. Lacking human followers,
-he has gathered a congregation of evil mon-
-sters. He provides the monsters “spiritual
-guidance” and “moral leadership,” and they
-provide him protection, food, and an occa-
-sional prisoner to be sacrificed to Moray’s iniq-
-uitous deity.
-
-The parchment on Moray's desk is covered
-with foul chants in an ancient tongue. Hidden
-beneath his bed is a long, locked box contain-
-ing 120 sp, 40 ep, 30 gp, an elven cloak, anda
-bottle filled with a potion of invisibility. The
-key to this box, the keys to rooms #46 and
-#47, and the key to the locked desk drawer in
-room #46 are on a ring on Moray’s belt.
+The parchment on Moray's desk is covered with foul chants in an ancient tongue. Hidden beneath his bed is a long, locked box containing 120 sp, 40 ep, 30 gp, an elven cloak, anda bottle filled with a potion of invisibility. The key to this box, the keys to rooms #46 and #47, and the key to the locked desk drawer in room #46 are on a ring on Moray’s belt.
 
 49. METAL FORGING SHOP
 
- 
+Four huge furnace fires burn along the west wall of this large room. The air is sooty and smoky. The fires are heating various pieces of metal, which are being forged into swordblades and spearheads. Working in this forge are eight hobgoblins, one bugbear, and a very dirty dwarf, imprisoned by a ball and a chain attached to his ankle.
 
-Four huge furnace fires burn along the
-west wall of this large room. The air is sooty
-and smoky. The fires are heating various
-pieces of metal, which are being forged
-into swordblades and spearheads. Working
-in this forge are eight hobgoblins, one
-bugbear, and a very dirty dwarf, impris-
-oned by a ball and a chain attached to his
-ankle.
+The bugbear oversees the operation of the foundry, cursing and bellowing at the hobgoblins and dwarf. The hobgoblins are tending the fires (one per fire) and carrying ingots of iron from the pile next to the east wall. Two are next to the pile of ingots, and two are next to the northernmost fire. The dwarf is hammering at a swordblade at the southernmost fire. The positions of all these creatures are marked on the dungeon map as follows: D = dwarf; B = bugbear; and H = hobgoblin.
 
- 
+When the characters enter this room, the bugbear and hobgoblins immediately drop what they are doing and attack. The dwarf does the same, as soon as he catches sight of the party, but he directs his attacks toward the monsters. He throws his hammer at the bugbear (for 1-6 (1d6) points of damage) and snatches up a second hammer with which to beat the nearest hobgoblin (for 2-7 (1d6 +1) points of damage—strength bonus).
 
- 
+The foundry is being used to manufacture weapons for the army now being recruited. The dwarf has been a prisoner for nearly a year, his skill as a smith has kept the hobgoblins from killing him. Given the chance, he fights savagely for his freedom, and offers to join the party on the rest of the adventure if they so desire. Assuming that the PCs are victorious in this battle and that they free the dwarf, he takes a shield from one of the dead hobgoblins (becoming AC 6), but his hammer remains his weapon of preference.
 
-The bugbear oversees the operation of the
-foundry, cursing and bellowing at the hob-
-goblins and dwarf. The hobgoblins are tend-
-ing the fires (one per fire) and carrying ingots
-of iron from the pile next to the east wall. Two
-are next to the pile of ingots, and two are next
-to the northernmost fire. The dwarf is ham-
-mering at a swordblade at the southernmost
-fire. The positions of all these creatures are
-marked on the dungeon map as follows: D =
-dwarf; B = bugbear; and H = hobgoblin.
-
-When the characters enter this room, the
-bugbear and hobgoblins immediately drop
-what they are doing and attack. The dwarf
-does the same, as soon as he catches sight of
-the party, but he directs his attacks toward the
-monsters. He throws his hammer at the bug-
-bear (for 1-6 (1d6) points of damage) and
-snatches up a second hammer with which to
-beat the nearest hobgoblin (for 2-7 (1d6 +1)
-points of damage—strength bonus).
-
-The foundry is being used to manufacture
-weapons for the army now being recruited.
-The dwarf has been a prisoner for nearly a
-year, his skill as a smith has kept the hobgob-
-lins from killing him. Given the chance, he
-fights savagely for his freedom, and offers to
-join the party on the rest of the adventure if
-they so desire. Assuming that the PCs are vic-
-torious in this battle and that they free the
-dwarf, he takes a shield from one of the dead
-hobgoblins (becoming AC 6), but his ham-
-mer remains his weapon of preference.
-
-In addition to the fireplaces, the forge room
-contains two large piles of iron bars, a pile of
-firewood, a smaller pile of coal, and a rack of
-metalworking tools (tongs, hammers, anvils,
-prybars).
+In addition to the fireplaces, the forge room contains two large piles of iron bars, a pile of firewood, a smaller pile of coal, and a rack of metalworking tools (tongs, hammers, anvils, prybars).
 
 50. DWARF’S CELL
 
-This cell, at the far south side of the forge
-room is where the dwarf has been kept. It con-
-tains a simple bed, table, and a chair.
+This cell, at the far south side of the forge room is where the dwarf has been kept. It contains a simple bed, table, and a chair.
 
 51. GOBLIN ARENA
 
- 
+Bugbear (1): AC 5; HD 3+1; hp 16; MV 90’ (30'); #AT 1; D 2-8; Save F3; ML9; ALC.
 
-Bugbear (1): AC 5; HD 3+1; hp 16; MV 90’
-(30'); #AT 1; D 2-8; Save F3; ML9; ALC.
+Hobgoblins (8): AC 6; HD 1+1; hp 9,8,7,6,5, 4,3,2; MV 90’ (30'); #AT 1; D 1-6; Save F1; ML 8; AL C.
 
-Hobgoblins (8): AC 6; HD 1+1; hp
-9,8,7,6,5, 4,3,2; MV 90’ (30'); #AT 1; D
-1-6; Save F1; ML 8; AL C.
+Gareth Ironhand: AC 7; D 2; hp 13; #AT 1;D 2-7; Save D2; ALL; $ 13,110, W9,D 12, C 16, CH8.
 
-Gareth Ironhand: AC 7; D 2; hp 13; #AT 1;D
-2-7; Save D2; ALL; $ 13,110, W9,D 12,
-C 16, CH8.
+The bugbear carries a large club, the hobgoblins wear shortswords, and the dwarf wears a leather apron and carries a larger hammer.
 
-The bugbear carries a large club, the hobgob-
+Torches placed on the walls at frequent intervals light this chamber. Two massive stone columns rise from the arena floor to support the roof. The arena floor is 10 feet below the level of the hallway. Lying in a circle in the center of the arena, and hardly recognizable from the upper deck, are four bodies.
 
-lins wear shortswords, and the dwarf wears a
+If the characters approach for a closer look, they see that all of the bodies have been pierced by many arrows, but they have not been dead for long. As the characters approach, two shadowy forms advance from behind one of the columns to stand by the bodies and growl menacingly at the PCs. They are two wolves trained as war dogs.
 
-leather apron and carries a larger hammer.
+Wolves (2): AC 7; HD 2+2; hp 12,11; MV 180' (60'); #AT 1; D 1-6; Save F1; ML 8; ALN.
 
+The dogs were trained by the party of adventurers now lying dead upon the arena floor. The canines are very loyal creatures, remaining here to guard their masters. The dogs look scrawny and underfed.
 
+Certainly, the PCs can attack the dogs if they want, but the dogs do not attack the characters unless one of them actually touches one of the dead bodies. If the party advances to the corpses, the dogs growl and bristle, but slowly back away as long as the characters remain calm and do not disturb the bodies. If a character speaks to the dogs in a calm voice and offers them food, they both eat hungrily. From that moment on, they regard the person who fed them as their master or mistress, even to the point of letting that individual examine the bodies of their former masters.
 
-Torches placed on the walls at frequent
-intervals light this chamber. Two massive
-stone columns rise from the arena floor to
-support the roof. The arena floor is 10 feet
-below the level of the hallway. Lying in a
-circle in the center of the arena, and hardly
-recognizable from the upper deck, are four
-bodies.
+From weapons, armor, and clothing, examination reveals the four bodies to have been two fighters, a thief, and a magic-user. Each fighter wore plate mail armor and carried swords, longbows, and 2d10 arrows. The thief wore leather armor and was armed with a shortsword +1 and a dagger. The magic-user was unarmed, though a ring of protection + 1 encircles his little finger. None of them carried any monetary treasure.
 
- 
-
- 
-
- 
-
-If the characters approach for a closer look,
-they see that all of the bodies have been
-pierced by many arrows, but they have not
-
-
-been dead for long. As the characters
-approach, two shadowy forms advance from
-behind one of the columns to stand by the
-bodies and growl menacingly at the PCs. They
-are two wolves trained as war dogs.
-
-Wolves (2): AC 7; HD 2+2; hp 12,11; MV
-180' (60'); #AT 1; D 1-6; Save F1; ML 8;
-ALN.
-
-The dogs were trained by the party of adven-
-turers now lying dead upon the arena floor.
-The canines are very loyal creatures, remain-
-ing here to guard their masters. The dogs look
-scrawny and underfed.
-
-Certainly, the PCs can attack the dogs if
-they want, but the dogs do not attack the
-characters unless one of them actually touches
-one of the dead bodies. If the party advances
-to the corpses, the dogs growl and bristle, but
-slowly back away as long as the characters
-remain calm and do not disturb the bodies. If
-a character speaks to the dogs in a calm voice
-and offers them food, they both eat hungrily.
-From that moment on, they regard the person
-who fed them as their master or mistress, even
-to the point of letting that individual examine
-the bodies of their former masters.
-
-From weapons, armor, and clothing, exam-
-ination reveals the four bodies to have been
-two fighters, a thief, and a magic-user. Each
-fighter wore plate mail armor and carried
-swords, longbows, and 2d10 arrows. The thief
-wore leather armor and was armed with a
-shortsword +1 and a dagger. The magic-user
-was unarmed, though a ring of protection + 1
-encircles his little finger. None of them carried
-any monetary treasure.
-
-The dogs have been trained to obey the fol-
-lowing commands: “kill,” which causes them
-to attack ferociously, gaining +1 to all dam-
-age rolls: ‘stay,’ which causes them to remain
-in place for at 1d4x6 turns if not counter-
-manded; “‘fetch,’ which causes them to
-advance and pick up an object, without harm-
-ing it; “guard,” which causes them to eye a
-creature suspiciously, without harming it
-unless it moves (if it moves, the dogs respond
-in the same was as if told to “kill”); and
-“stop,” which negates the “kill” and ‘‘fetch”
-commands. The dogs also act on their own ini-
-tiative to warn of impending danger.
+The dogs have been trained to obey the following commands: “kill,” which causes them to attack ferociously, gaining +1 to all damage rolls: ‘stay,’ which causes them to remain in place for at 1d4x6 turns if not countermanded; “‘fetch,’ which causes them to advance and pick up an object, without harming it; “guard,” which causes them to eye a creature suspiciously, without harming it unless it moves (if it moves, the dogs respond in the same was as if told to “kill”); and “stop,” which negates the “kill” and ‘‘fetch” commands. The dogs also act on their own initiative to warn of impending danger.
 
 52. SUPPLY ROOM
 
-The door to this room is locked; the hobgob-
-lin king in room #66 keeps the key. If charac-
-ters succeed in picking the lock or smashing
-the door, they find provisions within to sup-
-port a good-sized army for several months.
+The door to this room is locked; the hobgoblin king in room #66 keeps the key. If characters succeed in picking the lock or smashing the door, they find provisions within to support a good-sized army for several months.
 
- 
+Bales and boxes line the entire perimeter of this room, except for the space in front of the door.
 
-Bales and boxes line the entire perimeter
-of this room, except for the space in front
-of the door.
-
- 
-
- 
-
- 
-
-Moving clockwise around the room, the boxes
-and bales contain: cured leather, four by four
-foot pieces; grain from corn, wheat, and oats;
-salt; dried beans; nails; thousands of arrow-
-heads; thousands of fresh torches; 20 coils of
-rope, 100 feet to each coil; 200 woolen cloaks;
-800 iron spikes; 200 backpacks; 50 wooden
-poles, each 10 feet long; and 100 small sacks.
-This trove is obviously valuable to the hob-
-goblins, so it is recommended that the charac-
-ters receive bonus experience points if they
-manage to destroy it. Consider awarding 400
-points if the destruction is total; scale the
-number down for less effective sabotage.
+Moving clockwise around the room, the boxes and bales contain: cured leather, four by four foot pieces; grain from corn, wheat, and oats; salt; dried beans; nails; thousands of arrowheads; thousands of fresh torches; 20 coils of rope, 100 feet to each coil; 200 woolen cloaks; 800 iron spikes; 200 backpacks; 50 wooden poles, each 10 feet long; and 100 small sacks. This trove is obviously valuable to the hobgoblins, so it is recommended that the characters receive bonus experience points if they manage to destroy it. Consider awarding 400 points if the destruction is total; scale the number down for less effective sabotage.
 
 53. DINING HALL
+
 The doors to room #53 are locked.
 
- 
+In this large room, four long tables, each bracketed by a pair of benches, easily identify the room's purpose. Two of the tables are covered with dirty bowls and spilled wine, as if a meal had been eaten recently.
 
-In this large room, four long tables, each
-bracketed by a pair of benches, easily iden-
-tify the room's purpose. Two of the tables
-are covered with dirty bowls and spilled
-wine, as if a meal had been eaten recently.
+If the characters enter this room before they enter the kitchen (room #54), then one round after the characters enter this room, the door to room #54 swings open; two very small goblins carrying large, empty trays stroll in. They squeak with fright at the sight of the intruders and rush back from whence they came to alert two other goblins in room #54; all four then rush into the hall to alert the guards in room #57, The guards appear in three rounds. If the characters have already been to room #54, the goblins will already have alerted the guards.
 
- 
-
- 
-
- 
-
-If the characters enter this room before they
-enter the kitchen (room #54), then one round
-after the characters enter this room, the door
-to room #54 swings open; two very small gob-
-lins carrying large, empty trays stroll in. They
-squeak with fright at the sight of the intruders
-and rush back from whence they came to alert
-two other goblins in room #54; all four then
-rush into the hall to alert the guards in room
-#57, The guards appear in three rounds. If the
-characters have already been to room #54, the
-goblins will already have alerted the guards.
-
-Goblins (4): AC 6; HD 1-1; hp 2,2,1,1; MV
-60' (20’); No attacks or damage; Save NM;
-ML 7; ALC.
+Goblins (4): AC 6; HD 1-1; hp 2,2,1,1; MV 60' (20’); No attacks or damage; Save NM; ML 7; ALC.
 
 54. KITCHEN
 
 The door to the kitchen is locked.
 
- 
+This room contains a large oven, two cookstoves, and a pantry filled with dried beans, grain, some stale bread, and 50 cheap ceramic bowls.
 
-This room contains a large oven, two cook-
-stoves, and a pantry filled with dried
-beans, grain, some stale bread, and 50
-cheap ceramic bowls.
-
- 
-
- 
-
- 
-
-If the characters come into this room before
-they enter the dining hall (room #53), four
-goblins run out of the kitchen, through the
-
-dining hall, and into the hallway. From here,
-the goblins will rush to alert the guards. The
-guards will appear in eight rounds.
+If the characters come into this room before they enter the dining hall (room #53), four goblins run out of the kitchen, through the dining hall, and into the hallway. From here, the goblins will rush to alert the guards. The guards will appear in eight rounds.
 
 55. PAGAN TEMPLE
 
-The double doors to this chamber are
-unlocked and swing open easily. Any lawful
-cleric entering this room feels chills ran down
-his or her spine. This effect may be unsettling,
-but it is harmless.
+The double doors to this chamber are unlocked and swing open easily. Any lawful cleric entering this room feels chills ran down his or her spine. This effect may be unsettling, but it is harmless.
 
- 
+In this room, seven sets of bare wooden benches face a raised dais, upon which sits the likeness of the same hideous god encountered several other times. This statue is carved from pumice, rather than the granite.
 
-In this room, seven sets of bare wooden
-benches face a raised dais, upon which sits
-the likeness of the same hideous god
-encountered several other times. This
-statue is carved from pumice, rather than
-the granite.
+Two glittering gems adorn the eyesockets of this statue. Each is a fist-sized stone worth 300 gp, but they are set very firmly. Any character not wearing metal armor can scramble up the statue to pry the gems loose, but it takes 2d6 +2 rounds to remove each one. Only one character at a time may try to loosen the gems.
 
- 
+Each gem is hooked to an elaborate trap, which is sprung unless removed by a thief. Note that each gem’s trap must be removed individually. If a trap is sprung, the statue's mouth drops open and four robber flies buzz angrily into the room. They attack the characters randomly, although one is certain to go after the character stealing the gems.
 
- 
-
- 
-
-Two glittering gems adorn the eyesockets of
-this statue. Each is a fist-sized stone worth 300
-gp, but they are set very firmly. Any character
-not wearing metal armor can scramble up the
-statue to pry the gems loose, but it takes
-2d6 +2 rounds to remove each one. Only one
-character at a time may try to loosen the gems.
-
-Each gem is hooked to an elaborate trap,
-which is sprung unless removed by a thief.
-Note that each gem’s trap must be removed
-individually. If a trap is sprung, the statue's
-mouth drops open and four robber flies buzz
-angrily into the room. They attack the charac-
-ters randomly, although one is certain to go
-after the character stealing the gems.
-
-Robber Flies (4): AC 6; HD 2; hp 10,8,8,6;
-
-MV 180 (60'); #AT 1; D 1-8; Save F1; ML
-8; ALN.
+Robber Flies (4): AC 6; HD 2; hp 10,8,8,6; MV 180 (60'); #AT 1; D 1-8; Save F1; ML 8; ALN.
 
 56. SMALL SECRET CHAMBER
 
- 
+This small chamber contains only a ladder disappearing through a hole in the floor.
 
-This small chamber contains only a ladder
-disappearing through a hole in the floor.
-
- 
-
- 
-
- 
-
-If the characters climb down the ladder, they
-see a small tunnel (three feet wide and five
-feet high) leading due north for 30 feet. A
-strong smell of carrion hangs in the air. At the
-end of the corridor is the cage in which the
-robber flies were kept. A simple calculation
-shows it is directly under the statue in room
-#55. If the statue’s traps have been sprung,
-the cage is empty except for a rotting piece of
-unidentifiable meat.
+If the characters climb down the ladder, they see a small tunnel (three feet wide and five feet high) leading due north for 30 feet. A strong smell of carrion hangs in the air. At the end of the corridor is the cage in which the robber flies were kept. A simple calculation shows it is directly under the statue in room #55. If the statue’s traps have been sprung, the cage is empty except for a rotting piece of unidentifiable meat.
 
 57. READY ROOM
 
 The doors to this room are unlocked.
 
+A group of goblins and hobgoblins are seated around two tables and three wooden benches. A few coins are scattered about the tabletops.
 
-A group of goblins and hobgoblins are
-seated around two tables and three wood-
-en benches. A few coins are scattered
-about the tabletops.
+The room is a place for a complement of goblin and hobgoblin guards to wait while they are “‘on call.” The guards are fully armed and armored, and respond quickly to any threat to their stronghold.
 
- 
+Hobgoblins (4): AC 6; HD 1+1; hp 9,7,6,5; MV 90' (30'); #AT 1; D 1-8; Save Fl; ML 8; ALC.
 
- 
+Goblins (4): AC 6; HD 1-1; hp 6,5,5,3; MV 60' (20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
 
- 
+If the party attacks, one of the hobgoblins tries to slip out the back door to alert the hobgoblins in room #65. The other guards fight a delaying action until reinforcements arrive. It takes five rounds for the hobgoblins to arm themselves and run to the fight.
 
-The room is a place for a complement of gob-
-lin and hobgoblin guards to wait while they
-are “‘on call.” The guards are fully armed and
-armored, and respond quickly to any threat to
-their stronghold.
-
-Hobgoblins (4): AC 6; HD 1+1; hp 9,7,6,5;
-MV 90' (30'); #AT 1; D 1-8; Save Fl; ML 8;
-ALC.
-
-Goblins (4): AC 6; HD 1-1; hp 6,5,5,3; MV
-60' (20'); #AT 1; D 1-6; Save NM; ML 7;
-ALC.
-
-If the party attacks, one of the hobgoblins
-tries to slip out the back door to alert the hob-
-goblins in room #65. The other guards fight a
-delaying action until reinforcements arrive. It
-takes five rounds for the hobgoblins to arm
-themselves and run to the fight.
-
-The coins on the tables include 13 gp and
-25 sp on one table and 24 gp and 51 sp on the
-other.
+The coins on the tables include 13 gp and 25 sp on one table and 24 gp and 51 sp on the other.
 
 58. AVIARY
 
- 
+This room is actually a giant birdcage. Having heard the door open, a flock of brightly colored birds have taken to the air from a number of perches. They utter piercing shrieks as they zoom toward you.
 
-This room is actually a giant birdcage.
-Having heard the door open, a flock of
-brightly colored birds have taken to the air
-from a number of perches. They utter
-piercing shrieks as they zoom toward you.
+The hobgoblin king has captured a flock of deadly piranha birds, and keeps them here, feeding them only rarely. They are halfstarved and ravenously attack any creature so unfortunate as to have opened the door to the foom.
 
- 
+Piranha Birds (8): AC 6; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1, 1,; MV 180’ (60’) flying; #AT 1; D 1-4; Save NM; ML 8; ALN.
 
- 
+For a complete description of piranha birds, see New Monsters.
 
- 
-
-The hobgoblin king has captured a flock of
-deadly piranha birds, and keeps them here,
-feeding them only rarely. They are half-
-starved and ravenously attack any creature so
-unfortunate as to have opened the door to the
-foom.
-
-Piranha Birds (8): AC 6; HD 1/2; hp 4, 4, 3,
-3, 2, 2, 1, 1,; MV 180’ (60’) flying; #AT 1;
-D 1-4; Save NM; ML 8; ALN.
-
-For a complete description of piranha birds,
-see New Monsters.
-
-On the south wall of the room is a series of
-closely-spaced bars that blocks the opening to
-a secret door. It is from here the piranha birds
-are fed. A small gate in the bars may be
-opened to allow access to the cage, but it is too
-small for a character—even a halfling—to pass
-through.
+On the south wall of the room is a series of closely-spaced bars that blocks the opening to a secret door. It is from here the piranha birds are fed. A small gate in the bars may be opened to allow access to the cage, but it is too small for a character—even a halfling—to pass through.
 
 59. BATTLEROOM
 
- 
+This room is void of furniture. The bodies of two humans who obviously died violently are sprawled across the floor. One is wearing plate mail and carries a shield and a sword whose blade is broken; the tip of the sword lies across the room from the body. Strapped to his back is a quiver holding a dozen arrows and a longbow. The other dead human is wearing deeply gashed, leather armor. A shortsword lies on the floor near his body.
 
-This room is void of furniture. The bodies
-of two humans who obviously died vio-
-lently are sprawled across the floor. One is
-wearing plate mail and carries a shield and
-a sword whose blade is broken; the tip of
-the sword lies across the room from the
-body. Strapped to his back is a quiver hold-
-ing a dozen arrows and a longbow. The
-other dead human is wearing deeply
-gashed, leather armor. A shortsword lies
-on the floor near his body.
+The longbow is actually a longbow +1. Both corpses show signs of mutilation, having been partially devoured by a thoul in room #60. In fact, for every turn the party spends in room #59, there is one chance in four the thoul comes into the room from the secret door connecting rooms #59 and #60. If the thoul charges in, both the PCs and the thoul should check for surprise. Chances are one in two that if the thoul comes through the secret door, he trips over a third corpse: the invisible body of a dead magic-user lying directly in front of the secret door.
 
- 
-
- 
-
- 
-
-The longbow is actually a longbow +1. Both
-corpses show signs of mutilation, having been
-partially devoured by a thoul in room #60. In
-fact, for every turn the party spends in room
-#59, there is one chance in four the thoul
-comes into the room from the secret door con-
-necting rooms #59 and #60. If the thoul
-charges in, both the PCs and the thoul should
-check for surprise. Chances are one in two that
-if the thoul comes through the secret door, he
-trips over a third corpse: the invisible body of
-a dead magic-user lying directly in front of the
-secret door.
-
-The dead magic-user is invisible because of
-a ring of invisibilily he wears. The body can
-only be discovered by using a detect magic
-spell or by stumbling into it. If the party
-searches the room, chances are one in five per
-character that someone stumbles into the
-body. If a character states he or she is searching
-the room’s east wall for secret doors, the char-
-acter is sure to stumble over the corpse. The
-magic-user’s body has no value save the magi-
-cal ring.
+The dead magic-user is invisible because of a ring of invisibilily he wears. The body can only be discovered by using a detect magic spell or by stumbling into it. If the party searches the room, chances are one in five per character that someone stumbles into the body. If a character states he or she is searching the room’s east wall for secret doors, the character is sure to stumble over the corpse. The magic-user’s body has no value save the magical ring.
 
 60. LAIR OF THE THOUL
 
- 
-
-A lone hobgoblin appears to be the only
-occupant of this otherwise empty room.
-He is squatting in a corner gnawing on an
-old bone.
-
- 
-
- 
-
- 
+A lone hobgoblin appears to be the only occupant of this otherwise empty room. He is squatting in a corner gnawing on an old bone.
 
 The hobgoblin is actually a thoul.
 
-Thoul (1): AC 6; HD 3**; hp 13; MV 120’
-(40'); #AT 2 claws; D 1-3/1-3 + paralysis;
-Save F3; ML 10; AL C; regenerates 1 hp/
-round.
+Thoul (1): AC 6; HD 3**; hp 13; MV 120’ (40'); #AT 2 claws; D 1-3/1-3 + paralysis; Save F3; ML 10; AL C; regenerates 1 hp/ round.
 
-The thoul attacks intruders with savage inten-
-sity, attempting to paralyze as many characters
-as possible by attacking a different individual
-cach turn. The thoul has nothing of value in
-its room.
+The thoul attacks intruders with savage intensity, attempting to paralyze as many characters as possible by attacking a different individual cach turn. The thoul has nothing of value in its room.
 
 THE HOBGOBLIN KING
 
 61. PARTIAL STATUE
+
 The door to this chamber is not locked.
 
- 
-
-The only item in this room is a huge block
-of pumice. The top half of the block is
-carved into the likeness of the pagan god
-encountered elsewhere. The bottom half is
-still shapeless.
-
- 
-
- 
-
- 
+The only item in this room is a huge block of pumice. The top half of the block is carved into the likeness of the pagan god encountered elsewhere. The bottom half is still shapeless.
 
 62. TRAPDOORS
 
-These 40-foot long trapdoors are activated from
-the throne room of the hobgoblin king (room
-#66). The doors do not open as long as someone
-is seated on the throne, as is the case the first
-time the characters come down this hall.
+These 40-foot long trapdoors are activated from the throne room of the hobgoblin king (room #66). The doors do not open as long as someone is seated on the throne, as is the case the first time the characters come down this hall.
 
-When the seat is vacant, the weight of four
-characters causes the doors to swing open,
-plummeting those four characters down a
-300-foot chute below the trap and depositing
-them in room #70 (dungeon level II) through
-a hole in the room’s ceiling. There is a 75%
-chance any characters walking immediately
-behind the four also fall into the chute. Any
-characters who do not fall into the chute are
-isolated in this dead-end section of the
-dungeon, though they can still shout to their
-fallen compatriots below.
+When the seat is vacant, the weight of four characters causes the doors to swing open, plummeting those four characters down a 300-foot chute below the trap and depositing them in room #70 (dungeon level II) through a hole in the room’s ceiling. There is a 75% chance any characters walking immediately behind the four also fall into the chute. Any characters who do not fall into the chute are isolated in this dead-end section of the dungeon, though they can still shout to their fallen compatriots below.
 
-Characters falling through the trap acci-
-dently take 1-3 points of damage each from
-the jostling and bouncing on the way down
-the long, curving chute. Characters falling on
-purpose can slide all the way down without
-incurring any damage. Characters who fall on
-purpose can communicate the safety of the
-slide to characters still above.
+Characters falling through the trap accidently take 1-3 points of damage each from the jostling and bouncing on the way down the long, curving chute. Characters falling on purpose can slide all the way down without incurring any damage. Characters who fall on purpose can communicate the safety of the slide to characters still above.
 
-The chute is very smooth-sided; it is impos-
-sible to climb back up—even by a thief who
-successfully rolls to climb sheer surfaces. A
-levitation or fly spell could get one character
-up, but getting the whole party up this way
-would be a slow and awkward process—even if
-the party has enough spells to make it possi-
-ble. If some characters remain above, a long
-coil of rope could be used to pull the fallen
-characters back up, but it is much more likely
-all the characters will slide down the chute to
-continue the adventure.
+The chute is very smooth-sided; it is impossible to climb back up—even by a thief who successfully rolls to climb sheer surfaces. A levitation or fly spell could get one character up, but getting the whole party up this way would be a slow and awkward process—even if the party has enough spells to make it possible. If some characters remain above, a long coil of rope could be used to pull the fallen characters back up, but it is much more likely all the characters will slide down the chute to continue the adventure.
 
 63. HOBGOBLIN HALL
 
- 
+This room is obviously a drinking and meeting hall for a degenerate band of monsters or humanoids. It is empty of creatures now, but many signs of use are in evidence. Chairs have been pulled carelessly back from the long tables, and spilled tankards of wine lie on both the tables and the floor. A sooty fireplace at the north end of the room holds but ashes. There is nothing of value in this room except for three shields hanging on pegs on the wall.
 
-This room is obviously a drinking and
-meeting hall for a degenerate band of
-monsters or humanoids. It is empty of
-creatures now, but many signs of use are in
-evidence. Chairs have been pulled careless-
-ly back from the long tables, and spilled
+This room is the meeting hall for the hobgoblin king and his band. The ashes in the fireplace are warm to the touch.
 
- 
+64. HOBGOBLIN SLEEPING QUARTERS (EMPTY)
 
- 
-
- 
-
-
- 
-
- 
-
-tankards of wine lie on both the tables and
-the floor. A sooty fireplace at the north end
-of the room holds but ashes. There is noth-
-ing of value in this room except for three
-shields hanging on pegs on the wall.
-
- 
-
- 
-
- 
-
-This room is the meeting hall for the hobgob-
-lin king and his band. The ashes in the fire-
-place are warm to the touch.
-
-64. HOBGOBLIN SLEEPING
-QUARTERS (EMPTY)
 This chamber waits behind a locked door.
 
- 
+In this room, 14 filthy bunks show signs of recent habitation. Each of the beds has a mattress of moldy straw, and a blanket on top.
 
-In this room, 14 filthy bunks show signs of
-recent habitation. Each of the beds has a
-mattress of moldy straw, and a blanket on
+Any character prodding the blankets, or picking them up and moving them, has a 50% chance of hosting a band of fleas. Characters so infested need 1d6+1 rounds to brush the fleas off. If attacked, flea-infested characters may fight normally, but nothing other than combat allows them to stop brushing off the fleas.
 
- 
+If the party smashed in the door to this room before they have investigated the room across the hall (room #65), the chances are three in four they wake up 14 hobgoblins sleeping there. The hobgoblins dress and arm themselves, bursting out of room #65 and into room #64 in two rounds.
 
-top.
+65. HOBGOBLIN SLEEPING QUARTERS (OCCUPIED)
 
- 
+This chamber is identical to room #64, except that 14 hobgoblins are sleeping on the bunks around the room. The hobgoblins are armed and ready for combat one round after awakening, but the PCs automatically gain initiative on that round.
 
- 
+Hobgoblins (14): AC 6; HD 1 +1; hp 9, 8, 8, 7, 7, 6, 6, 5, 5,4, 4, 3, 3, 2; MV 90’ (30'); #AT 1; D 1-8; Save Fl; ML 8; ALC.
 
-Any character prodding the blankets, or pick-
-ing them up and moving them, has a 50%
-chance of hosting a band of fleas. Characters
-so infested need 1d6+1 rounds to brush the
-fleas off. If attacked, flea-infested characters
-may fight normally, but nothing other than
-combat allows them to stop brushing off the
-fleas.
+Each hobgoblin is armed with a sword and protected by a shield.
 
-If the party smashed in the door to this
-room before they have investigated the room
-across the hall (room #65), the chances are
-three in four they wake up 14 hobgoblins
-sleeping there. The hobgoblins dress and arm
-themselves, bursting out of room #65 and
-into room #64 in two rounds.
+Since they are mistrustful even of each other, each hobgoblin’s valuables are kept in a small pouch around his waist. The pouch contains 2d6 gp, 2d6 ep, and 2d6 sp.
 
-65. HOBGOBLIN SLEEPING
-QUARTERS (OCCUPIED)
+66. HALL OF THE HOBGOBLIN KING
 
-This chamber is identical to room #64, except
-that 14 hobgoblins are sleeping on the bunks
-around the room. The hobgoblins are armed
-and ready for combat one round after awaken-
-ing, but the PCs automatically gain initiative
-on that round.
+The huge double doors to this room are not locked. This chamber is where the hobgoblin king holds sway over his minions on and in The Hill.
 
-Hobgoblins (14): AC 6; HD 1 +1; hp 9, 8, 8,
-7, 7, 6, 6, 5, 5,4, 4, 3, 3, 2; MV 90’ (30');
-#AT 1; D 1-8; Save Fl; ML 8; ALC.
+A huge hobgoblin is seated on the throne at the south end of the chamber. One hobgoblin bodyguard is standing to each side of the throne. Four other hobgoblins are seated around a huge fire burning in the center of the room; two more hobgoblins are drawing liquid from a keg in the southwest corner of the room. Apparently, some kind of party is going on because the atmosphere in the room is festive.
 
-Each hobgoblin is armed with a sword and
+Hobgoblin King (1): AC 6; HD 5; hp 22; MV 90' (30'); #AT 1; D 1-8+2; Save F5; ML 12: ALG.
 
-protected by a shield.
+Hobgoblin Bodyguards (2): AC: 6; HD 4; hp 17,14; MV 90' (30); #AT 1; D 1-6/1-6 +1; Save F4; ML 10 (8); ALC.
 
-Since they are mistrustful even of each other,
-each hobgoblin’s valuables are kept in a small
-pouch around his waist. The pouch contains
-2d6 gp, 2d6 ep, and 2d6 sp.
+Hobgoblins (6): AC 6; HD 1+1; hp 9, 7, 6, 5, 3, 2; MV 90'(30’); #AT 1; D 1-8; Save Fi; ML 10 (8); ALC.
 
-66. HALL OF THE HOBGOBLIN
-KING
+The king’s personal bodyguards are armed with spears, one of which is a spear +1. The king is wearing a ring of fire resistance, so he is invulnerable to normal fires and gains a bonus when saving against magical fires.
 
-The huge double doors to this room are not
-locked. This chamber is where the hobgoblin
+When the doors to the room are open, the hobgoblin king shouts a warning and orders his soldiers to attack. As long as the king is alive, the hobgoblins fight with a morale of 10; if the king is killed, they fight with a morale of eight.
 
-king holds sway over his minions on and in
-The Hill.
+The fire in the center of the room is heating a large kettle of boiling liquid, which vaguely resembles soup. In fact, it is soup, but the characters find it rancid and foul-tasting, though not poisonous. The smoke from the fire is vented through a large hole in the ceiling.
 
- 
-
-A huge hobgoblin is seated on the throne
-at the south end of the chamber. One hob-
-goblin bodyguard is standing to each side
-of the throne. Four other hobgoblins are
-seated around a huge fire burning in the
-center of the room; two more hobgoblins
-are drawing liquid from a keg in the south-
-west corner of the room. Apparently, some
-kind of party is going on because the atmo-
-sphere in the room is festive.
-
- 
-
- 
-
- 
-
-Hobgoblin King (1): AC 6; HD 5; hp 22; MV
-90' (30'); #AT 1; D 1-8+2; Save F5; ML
-12: ALG.
-
-Hobgoblin Bodyguards (2): AC: 6; HD 4; hp
-17,14; MV 90' (30); #AT 1; D 1-6/1-6 +1;
-Save F4; ML 10 (8); ALC.
-
-Hobgoblins (6): AC 6; HD 1+1; hp 9, 7, 6,
-5, 3, 2; MV 90'(30’); #AT 1; D 1-8; Save
-Fi; ML 10 (8); ALC.
-
-The king’s personal bodyguards are armed
-with spears, one of which is a spear +1. The
-king is wearing a ring of fire resistance, so he is
-invulnerable to normal fires and gains a bonus
-when saving against magical fires.
-
-When the doors to the room are open, the
-hobgoblin king shouts a warning and orders
-his soldiers to attack. As long as the king is
-alive, the hobgoblins fight with a morale of
-10; if the king is killed, they fight with a
-morale of eight.
-
-The fire in the center of the room is heating
-a large kettle of boiling liquid, which vaguely
-resembles soup. In fact, it is soup, but the
-characters find it rancid and foul-tasting,
-though not poisonous. The smoke from the
-fire is vented through a large hole in the ceil-
-ing.
-
-Each of the eight hobgoblins has a belt
-pouch containing a few coins: 2d6 gp,
-1d10ep, and 3d6 sp for each pouch. On his
-belt, the king carries a ring of keys, including
-those to the doors of rooms #68 and #69, and
-to the chests in room #69. The hobgoblin
-bodyguard who carries a magical spear carries
-on his belt the key to the chest in room #67.
+Each of the eight hobgoblins has a belt pouch containing a few coins: 2d6 gp, 1d10ep, and 3d6 sp for each pouch. On his belt, the king carries a ring of keys, including those to the doors of rooms #68 and #69, and to the chests in room #69. The hobgoblin bodyguard who carries a magical spear carries on his belt the key to the chest in room #67.
 
 67. BODYGUARD CHAMBER
 
-Room #67 is the chamber of the two hobgob-
-lin bodyguards.
+Room #67 is the chamber of the two hobgoblin bodyguards.
 
+‘Two soft beds, a table, two chairs, and a chest are the only items of furniture in this room. The table holds a bottle of wine and two glasses.
 
-
- 
-
-‘Two soft beds, a table, two chairs, and a chest
-are the only items of furniture in this room.
-The table holds a bottle of wine and two
-glasses.
-
- 
-
- 
-
- 
-
-The chest is locked; the bodyguard who carries
-the magical spear has the key on his belt. In
-the chest are two woolen cloaks; a large sack
-containing 120 gp, 60 ep, and 200 sp; two
-swords; and a jeweled necklace worth 800 gp.
-The wine on the table is high quality.
+The chest is locked; the bodyguard who carries the magical spear has the key on his belt. In the chest are two woolen cloaks; a large sack containing 120 gp, 60 ep, and 200 sp; two swords; and a jeweled necklace worth 800 gp. The wine on the table is high quality.
 
 68. BEDROOM OF THE KING
 
- 
+A large, plush bed, a table, a wooden chair, and two soft armchairs constitute the furniture in this room. Three woolen tapestries hang on the walls.
 
-A large, plush bed, a table, a wooden
-chair, and two soft armchairs constitute the
-furniture in this room. Three woolen tap-
-estries hang on the walls.
-
- 
-
- 
-
- 
-
-Although of rather shoddy craftsmanship, the
-tapestries are colorful and worth 50 gp apiece.
-They depict battle scenes in which hobgoblin
-exploits are prominently featured.
+Although of rather shoddy craftsmanship, the tapestries are colorful and worth 50 gp apiece. They depict battle scenes in which hobgoblin exploits are prominently featured.
 
 69. TREASURE ROOM
 
-A secret door to room #69 may be discovered
-by the normal roll. Turning a loose stone in
-the wall reveals a key socket. If the key is used,
-or if a thief can pick the lock, the door swings
-open easily.
+A secret door to room #69 may be discovered by the normal roll. Turning a loose stone in the wall reveals a key socket. If the key is used, or if a thief can pick the lock, the door swings open easily.
 
- 
+This tiny room is empty except for two large chests.
 
-This tiny room is empty except for two
-large chests.
+The keys to these chests are on the belt of the hobgoblin king. Each chest is trapped with a poison needle, activated if a thief picks the lock without removing the trap. If the trap is activated, the thief must save vs. poison or die. Using the proper key opens the chests without activating the trap.
 
- 
+The first chest contains coins of many different types, including 58 pp, 230 gp, 170 ep, 480 sp, and 1,290 cp. The coins are mixed together; trying to sort them takes three turns. The second chest contains four bottles of murky liquid—three bottles of potion of healing and one bottle potion of invisibility—and a pearl necklace worth 1,000 gp.
 
- 
+ADVENTURE IN DUNGEON LEVEL II
 
- 
+As explained in the description of area #62, characters gain entrance to this dungeon level by falling through the trapdoors in the corridor outside the chamber of the hobgoblin king (room #66).
 
-The keys to these chests are on the belt of the
-hobgoblin king. Each chest is trapped with a
-poison needle, activated if a thief picks the
-lock without removing the trap. If the trap is
-activated, the thief must save vs. poison or
-die. Using the proper key opens the chests
-without activating the trap.
+It takes a steady hand to map this level of the dungeon—a mass of twisting and turning tunnels, Each has rough, rocky walls, a 10foot high ceiling, and are clean of debris (a gelatinous cube regularly sweeps all areas of this level). Many tunnels slope gradually up or down, crossing over or under other tunnels the party is not aware of. Whenever two corridors intersect on the map, one is shown by dotted lines; the other is marked by the usual solid lines. The corridors marked by dotted lines pass under the corridors marked by solid lines.
 
-The first chest contains coins of many dif-
-ferent types, including 58 pp, 230 gp, 170 ep,
-480 sp, and 1,290 cp. The coins are mixed
-together; trying to sort them takes three turns.
-The second chest contains four bottles of
-murky liquid—three bottles of potion of heal-
-ing and one bottle potion of invisibility—and
-a pearl necklace worth 1,000 gp.
+If a dwarf wants to check for sloping passages, examine the party’s location on the map. If the group is within 60 feet of intersecting solid and dotted lines, and if the dwarf is successful on his roll, consult the map again. If the passage the PCs are on is underneath another tunnel, the slope is down; if the passage is on top of another tunnel, the slope is up. Of course, if the dwarf asks for a check at time when the party is not within 60 feet of an intersection, you roll for him anyway, but the result is always “no slope.”
 
-ADVENTURE IN
-DUNGEON LEVEL II
+When giving the characters descriptions of the twists and turns of these tunnels for mapping purposes, don’t be too specific. Directions such as: “The corridor is gradually bending to the “left,” or “You come around a sharp curve to the right” is adequate, unless the characters ask for more specific terms. If they do, explain to the characters that demanding such precision is slowing them down. Try to estimate the angle of a curve (90 degrees, 45 degrees, etc.) as closely as possible, but remember that the party isn’t going to measure the exact angle anyway, so slight inaccuracies are inevitable.
 
-As explained in the description of area #62,
-characters gain entrance to this dungeon level
-by falling through the trapdoors in the corri-
-dor outside the chamber of the hobgoblin
+This level is never traveled by the hobgoblins; in fact, they have no knowledge of the creatures living here or the makeup of the dungeon. The creatures on this level are a crazed and half-starved lot, living a desperate and hungry existence: they are quick to assault any potential meal.
 
+Many packs of rats scuttle about, living in tiny holes in the walls of the tunnels. The rats are the staple food of the residents of this area. The rats are used to running for their lives, so they never attack a character. You might mention occasionally that the party hears the rats squeaking or scratching, but the party never actually sees them.
 
- 
+Desperate for food, certain creatures roam the corridors. The chance of encountering a group of these wandering monsters is calculated as usual at the end of every two turns. If an encounter is indicated, roll 1d6 and compare the result to Table 6.
 
-king (room #66).
-
-It takes a steady hand to map this level of
-the dungeon—a mass of twisting and turning
-tunnels, Each has rough, rocky walls, a 10-
-foot high ceiling, and are clean of debris (a
-gelatinous cube regularly sweeps all areas of
-this level). Many tunnels slope gradually up or
-down, crossing over or under other tunnels
-the party is not aware of. Whenever two corri-
-dors intersect on the map, one is shown by
-dotted lines; the other is marked by the usual
-solid lines. The corridors marked by dotted
-lines pass under the corridors marked by solid
-lines.
-
-If a dwarf wants to check for sloping pas-
-sages, examine the party’s location on the
-map. If the group is within 60 feet of inter-
-secting solid and dotted lines, and if the dwarf
-is successful on his roll, consult the map again.
-If the passage the PCs are on is underneath
-another tunnel, the slope is down; if the pas-
-sage is on top of another tunnel, the slope is
-up. Of course, if the dwarf asks for a check at
-time when the party is not within 60 feet of an
-intersection, you roll for him anyway, but the
-result is always “no slope.”
-
-When giving the characters descriptions of
-the twists and turns of these tunnels for map-
-ping purposes, don’t be too specific. Direc-
-tions such as: “The corridor is gradually
-bending to the “left,” or “You come around a
-sharp curve to the right” is adequate, unless
-the characters ask for more specific terms. If
-they do, explain to the characters that
-demanding such precision is slowing them
-down. Try to estimate the angle of a curve (90
-degrees, 45 degrees, etc.) as closely as possi-
-ble, but remember that the party isn’t going
-to measure the exact angle anyway, so slight
-inaccuracies are inevitable.
-
-This level is never traveled by the hobgob-
-lins; in fact, they have no knowledge of the
-creatures living here or the makeup of the
-dungeon. The creatures on this level are a
-crazed and half-starved lot, living a desperate
-and hungry existence: they are quick to
-assault any potential meal.
-
-Many packs of rats scuttle about, living in
-tiny holes in the walls of the tunnels. The rats
-are the staple food of the residents of this area.
-The rats are used to running for their lives, so
-they never attack a character. You might men-
-tion occasionally that the party hears the rats
-squeaking or scratching, but the party never
-actually sees them.
-
-Desperate for food, certain creatures roam
-the corridors. The chance of encountering a
-group of these wandering monsters is calcu-
-lated as usual at the end of every two turns. If
-an encounter is indicated, roll 1d6 and com-
-
-pare the result to Table 6.
 Key to Areas in Dungeon Level II
 
 TABLE 6
 
-WANDERING MONSTERS
-IN DUNGEON LEVEL II
+WANDERING MONSTERS IN DUNGEON LEVEL II
 
 Die Roll Creature Encountered
-
-1 Piranha Birds (4-8): AC 6; HD 1/2;
-bp 4), 45S yiFi 25 2h dy 16 ev
-180'(60') flying; #AT 1; D 1-4; Save
-NM; ML 8; ALN.
-
-2 Robber Flies (1-4): AC 6; HD 2; hp
-12, 10, 9, 7; MV 180’ (60’) flying;
-#AT 1; D 108; Save Fl; ML8; ALN.
-
-3 Thoul (1): AC 6; HD 3**; hp 14;
-MV 120’ (40'); #AT 2 claws; D 1-3/
-1-3 + paralysis; Save F3; ML 10; AL
-Cc
-
-4 Bugbears (1-4); AC 5; HD 3 +1; hp
-14, 12, 11, 9; MV 90'(30'); #AT 1;
-D 2-8; Save F3; ML 9; ALC.
-
-5 Ogres (1-2): AC 5; HD 4+1; hp 19,
-16; MV 90'(30'); #AT 1; D 1-10;
-Save F4; ML 10; ALC.
-
-6 Berserkers (1-4): AC 7; HD 1+1*;
-hp 9, 7, 6, 4; MV 120’ (40); #AT 1
-at +2; D 1-8; Save Fl; ML 12; AL
-N.
-
-71. BUGBEARS’ CAVE
-
-A rank smell emanates from this cave. If the
-PCs come within 30 feet of the cave, the odds
-are one in three they become aware of both
-the smell and the cave.
-
- 
-
-In this dirty chamber, three large and furry
-humanoids are squatting listlessly. As they
-see you, they yell a challenge and spring to
-their feet.
-
- 
-
- 
-
- 
-
-The trio of bugbears accidentally fell down
-the trap chute several months earlier; they
-claimed the cave and attack humans and
-demi-humans on sight.
-
-Bugbears (3): AC 5; HD 3+1; hp 16,13,13;
-MV 90'(30'); #AT 1; D 2-8; Save F3; ML9;
-ALC.
-
-The bugbears fight with huge, knotty pieces
-
-of wood they use as clubs. They have no cloth-
-
-ing, armor, or anything else of value.
-
-72. LARGE CAVERN
-
- 
-
-The ceiling to this large chamber is 20 feet
-high. The floor is clean of debris.
-
- 
-
- 
-
- 
-
-73. CHAMBER OF THE
-MAN-EATERS
-
- 
+1 Piranha Birds (4-8): AC 6; HD 1/2; bp 4), 45S yiFi 25 2h dy 16 ev 180'(60') flying; #AT 1; D 1-4; Save NM; ML 8; ALN.
+2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save Fl; ML8; ALN.
+3 Thoul (1): AC 6; HD 3**; hp 14; MV 120’ (40'); #AT 2 claws; D 1-3/ 1-3 + paralysis; Save F3; ML 10; AL Cc
+4 Bugbears (1-4); AC 5; HD 3 +1; hp 14, 12, 11, 9; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; ALC.
+5 Ogres (1-2): AC 5; HD 4+1; hp 19, 16; MV 90'(30'); #AT 1; D 1-10; Save F4; ML 10; ALC. 
+6 Berserkers (1-4): AC 7; HD 1+1*; hp 9, 7, 6, 4; MV 120’ (40); #AT 1 at +2; D 1-8; Save Fl; ML 12; AL N. 
 
 70. OCTAGONAL ROOM
 
- 
+After bumping and sliding down the chute, you land on the floor of an eightsided room, a wooden door on each side.
 
-After bumping and sliding down the
-chute, you land on the floor of an eight-
-sided room, a wooden door on each side.
+One of the doors (roll 1d8 to determine which one) opens 1d6 rounds after the characters land in the room; two men, filthy and unshaven, run wildly into the room, a maniacal expression in their eyes. In fact, they are berserkers and attack the party on sight.
 
- 
+Berserkers (2): AC 7; HD 1+1*; hp 7,5: MV 120'(40'); #AT 1 at +2; D 1-8; Save F1; ML 12; ALN.
 
- 
+One of the berserkers is wearing leather armor +1(AC 6).
 
- 
+These two are part of a group of humans who have been wandering through the labyrinth of this level for many years. They have forgotten any human language they ever knew, communicating in a series of grunts, hoots, and shouts.
 
-One of the doors (roll 1d8 to determine which
-one) opens 1d6 rounds after the characters
-land in the room; two men, filthy and unshav-
-en, run wildly into the room, a maniacal
-expression in their eyes. In fact, they are ber-
-serkers and attack the party on sight.
+71. BUGBEARS’ CAVE
 
-Berserkers (2): AC 7; HD 1+1*; hp 7,5: MV
-120'(40'); #AT 1 at +2; D 1-8; Save F1;
-ML 12; ALN.
+A rank smell emanates from this cave. If the PCs come within 30 feet of the cave, the odds are one in three they become aware of both the smell and the cave.
 
-One of the berserkers is wearing leather armor
+In this dirty chamber, three large and furry humanoids are squatting listlessly. As they see you, they yell a challenge and spring to their feet.
 
-+1(AC 6).
+The trio of bugbears accidentally fell down the trap chute several months earlier; they claimed the cave and attack humans and demi-humans on sight.
 
-These two are part of a group of humans who
-have been wandering through the labyrinth of
-this level for many years. They have forgotten
-any human language they ever knew, commu-
-nicating in a series of grunts, hoots, and
-shouts.
+Bugbears (3): AC 5; HD 3+1; hp 16,13,13; MV 90'(30'); #AT 1; D 2-8; Save F3; ML9; ALC.
 
+The bugbears fight with huge, knotty pieces of wood they use as clubs. They have no clothing, armor, or anything else of value.
+
+72. LARGE CAVERN
+
+The ceiling to this large chamber is 20 feet high. The floor is clean of debris.
+
+--------------------------------------------
 
 
 This large cavern appears to be empty. The
 ceiling is high, and the far end curves out
 of sight.
-
- 
-
- 
-
- 
 
 This chamber is the lair of a band of ghouls
 who happily eat humans or any other vaguely
