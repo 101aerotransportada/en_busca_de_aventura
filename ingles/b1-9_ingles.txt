@@ -36,23 +36,9 @@ This morning, the human commander of the outpost and a visitor, a female officer
 
 If you are ever to see your home again, you must act soon. Soon, it will be time for your noon meal...
 
- 
-
- 
-
- 
-
 Give the players up to 10 minutes of real time to create a plan. If they decide on a plan in less than 10 minutes, the jailer arrives as soon as the plan is set. If the players have not finished their planning when their time is up, the jailer attives anyway. When the jailer is about to enter the room, read the following:
 
- 
-
 You hear heavy footsteps approach, and the sound of a key turning in the door. It is your jailer, coming with your noon meal.  He enters alone, grumbling about something under his breath. He appears distracted.
-
- 
-
- 
-
- 
 
 The jailer is a gnoll armed with a dagger and a mace. It carries a key ring with six keys on it.  Only two are used in this adventure: one unlocks all the leg irons, and the other opens the prison door.
 
@@ -68,21 +54,13 @@ Any further escape attempt are at the discretion of the DM (remember that magic 
 
 If the party escapes the room, read the following aloud:
 
- 
-
 As you carefully peer out the door of your cell, you see a corridor stretching to the left and right. You hear the sounds of conversation and laughter coming from the left. In both directions you see branching corridors and several doors.
-
- 
 
 2. KITCHEN AND COMMON DINING ROOM
 
 NOTE: There are two openings (no doors) leading into the dining room, and one door (closed) leading into the kitchen. If the party peers through either door into the dining room, read the following:
 
- 
-
 You see a large room with many tables and benches. About 20 people are sitting at the tables; they are laughing, talking, and eating. Both women and men are present; all are dressed in leather armor and seem to be soldiers. There is an open kitchen in one section of the room; a door leads out of the kitchen.
-
- 
 
 If the party opens the door into the kitchen, read the following:
 
@@ -243,27 +221,13 @@ The sacks contain flour, potatoes, beans, and other food. The barrels hold pickl
 
 At the far end of this room is a window, and three more windows line the long wall to the left. All are barred. The floor is covered with straw, bales of hay, and padded posts.
 
- 
-
- 
-
- 
-
 This room is used for combat practice. The party cannot escape through the windows.  Two battered, but serviceable, shields have been tossed into the northeast corner of the room.
 
 13. ARMORY
 
 Both doors to this room are locked. The commander and all the warriors (2nd level fighters) have keys.
 
- 
-
 This room is full of racks on which hang a large assortment of armor and weapons.
-
- 
-
- 
-
- 
 
 This room contains leather and chain mail armor in all human sizes, and a large number of short bows and arrows, short swords, spears, and shields. The party's equipment is here.
 
@@ -271,38 +235,20 @@ All the party's equipment, including magic items, are stored here.
 
 14. TORTURE CHAMBER
 
- 
-
 The straw on the floor of this room is discolored. A number of strange devices line the west wall. In the middle of the wall is a shallow pit.
-
- 
-
- 
-
- 
 
 This is an interrogation and torture chamber.  The stains on the floor are blood. The pit is a fire pit, with branding irons resting in the ashes of an earlier fire. The room contains a rack and two wicked-looking whips (D 1-2).
 
 15. JAILER’S QUARTERS
 
- 
-
 This messy bedroom contains a bed, a table, a chair, and a lot of ragged clothing.
 
- 
 
 The gnoll jailer lives in this room. He has a large chest hidden under the floorboards beneath his bed. It is trapped with a poison needed. Anyone who opens the chest without first finding and removing the poison needle must make a saving throw vs. Poison or die.  The chest contains 300 gp.
-
 
 16. WINE STORAGE ROOM
 
 This room contains barrels and kegs of various sizes. Several racks around the room are filled with bottles lying on their sides.
-
- 
-
- 
-
- 
 
 This room is used to store liquor. The barrels are filled with ale, and the kegs and bottles are filled with wine. A wine rack in the southwest corner doubles as a secret door to the treasury (room 42). To operate the door, one must pull on the second wine bottle from the left on the bottom shelf.
 
@@ -310,15 +256,7 @@ This room is used to store liquor. The barrels are filled with ale, and the kegs
 
 NOTE: The following description assumes the party enters this room from the west along the north wall. If they enter from another direction, adjust the description accordingly.
 
- 
-
 This is an enormous room with many tables and comfortable chairs. The wall to your left and the far wall each have four windows. There is a door in the middle of the far wall that seems to lead outside. Two men dressed in leather are seated at a table in the far left corner, rolling dice.
-
- 
-
- 
-
- 
 
 The two men are veterans (1st level fighters) armed with daggers. They are completely absorbed in their game, and are surprised on a roll of 1-5 on a 1d6. The gambling stakes on the table consist of 24 gp and 52 sp.
 
@@ -326,28 +264,13 @@ If the fighters are attacked but not killed or silenced immediately, they yell f
 
 18. COMMANDER’S DINING ROOM
 
- 
-
 This appears to be a dining room. There is a large oval table in the middle of the room surrounded by straight chairs. The floor is carpeted. A closed cabinet is in the near left corner. Two large windows are on the far wall, and there is a door in the right wall, near the entrance.
-
- 
-
- 
-
- 
 
 This room is used by the commander when entertaining visitors. Inside the cabinet is a set of silverware (worth 600 gp) and fine china (worth 200 gp). There is nobody here now.
 
-
- 
-
 19. COMMANDER’S LIVING ROOM
 
- 
-
 This seems to be a living room. There are some tables and a number of comfortable chairs around the room. The floor is carpeted. There is a window along the left wall and a door in the far wall directly opposite the entrance. There are three people seated in chairs around a table across from the door through which you entered.  You recognize two of them as the commander and the visiting officer. They are wearing leather armor. The third person is a woman dressed in ordinary clothes. Each holds a glass of wine.
-
- 
 
 The three people are the commander, his wife, and the visiting officer. Both the commander and the visiting officer are armed with daggers. Their AC and damage reflect bonuses from dexterity and strength. The commander's wife does not fight.
 
@@ -357,21 +280,11 @@ The commander is wearing a gold bracelet set with diamonds, worth 750 gp. He als
 
 20. COMMANDER’S BEDROOM
 
- 
-
 This is obviously a bedroom. There are two large beds, two wardrobes, a desk, a table, and several chairs. There are ornate rugs on the floor. There is a large window in the outside wall, a door directly across from the door by which you entered, and an open doorway in the wall opposite the window.
-
- 
-
- 
-
- 
 
 If the commander was not alerted, a short sword +1, plate mail armor, and a shield +1 are hanging on the wall.
 
 If the party goes through the open doorway into room 20a, read the following:
-
- 
 
 This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
 
@@ -380,73 +293,33 @@ A drawer in the dressing table has a false bottom that conceals 94 pp, 17 gp, an
 
 21. VISITOR’S QUARTERS
 
- 
-
 This is obviously a bedroom, with a large bed, a wardrobe, a desk, a table, and several chairs. There are a few small rugs on the floor. There is a large window in the left wall, and an open doorway to your right. Otherwise, the room appears to be empty.
-
- 
 
 The room is empty. If the party goes through the open doorway into room 21a, read the following:
 
- 
-
 This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
-
- 
-
- 
-
- 
 
 This room is empty.
 
 22. VISITOR’S QUARTERS
 
- 
-
 This is obviously a bedroom, with a large bed, a wardrobe, a desk, a table, and several chairs. There are a few small rugs on the floor. There is a large window in the left wall, and an open doorway to your right. Otherwise the room appears to be empty.
-
- 
 
 The room is empty. If the party goes through the open doorway into room 22a, read the following:
 
- 
-
 This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
-
- 
-
- 
-
- 
 
 This room is empty.
 
 23. VISITOR’S QUARTERS
 
- 
-
 This is obviously a bedroom, with a large bed, a wardrobe, a desk, a table, and several chairs. There are a few small rugs on the floor. There is a large window in the left wall, another across the room from the door, and an open doorway to your right. Otherwise, the room appears to be empty.
-
- 
-
- 
-
- 
 
 The visiting officer is quartered here. Her things are in the wardrobe. In addition to clothing, there is plate mail armor, a shield, and a long sword. There is also a bag of holding that contains 2,000 gp and 6,000 sp.
 
 If the party goes through the open doorway into room 23a, read the following:
 
- 
-
 This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
-
- 
-
- 
-
- 
 
 This room is empty.
 
@@ -455,7 +328,6 @@ This room is empty.
 All the officers at this oupost have private quarters. The rooms in this section are all identical. They contain a single bed, a wardrobe, a table with a chair pulled up to it, alow table near the bed, and chair near the low table.
 
 24. FEMALE VETERAN’S QUARTERS
-
  
 There is a sword on the low table and chain mail armor draped over the chair. A woman in leather armor is asleep on the bed.
 
@@ -470,8 +342,6 @@ The woman who lives in this room is currently in the lunchroom. There is chain m
 The woman who lives in this room is currently in the lunchroom. There is chain mail armor in the wardrobe.
 
 27. FEMALE WARRIOR’S QUARTERS
-
- 
 
 This room is slightly different from the others. Set apart from the rest of the room in the near left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword hangs on the wall beside it. Seated at the desk is a woman dressed in leather, writing a letter.
 
@@ -570,7 +440,6 @@ This room is different from the other bedrooms. Set apart from the rest of the r
 The man who lives in this room is currently in the lunchroom. The sword is a short sword; and the shield is of normal make. There is a set of chain mail +1 in the wardrobe. A small purse hiden in a chair contains 7 gp and 12 sp.
 
 40. MALE WARRIOR’S QUARTERS
-
 
 This room is different from the other bedrooms. Set apart from the rest of the room in the left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword and a shield hang on the wall beside it.
 
@@ -677,877 +546,222 @@ The open panel reveals an obvious keyhole. When the proper key is inserted into 
 
 2. DAIS
 
-To your left you see an open area about 30 feet north-south by about 20 feet east-west. The area seems to be empty except
-for a raised area occupying the middle of
-the west wall. The raised area is about half
-a foot above the floor and looks like pol-
-ished stone. There is a pedestal in the mid-
-dle of the raised area. It is about three feet
-high and two feet square, and appears to
-be made of wood. On top of the pedestal is
-a black bell.
+To your left you see an open area about 30 feet north-south by about 20 feet east-west. The area seems to be empty except for a raised area occupying the middle of the west wall. The raised area is about half a foot above the floor and looks like pol ished stone. There is a pedestal in the mid dle of the raised area. It is about three feet high and two feet square, and appears to be made of wood. On top of the pedestal is a black bell.
 
- 
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahoga ny; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of wrought iron, and is worth about 1 gp.
 
- 
-
- 
-
-The altar is made of marble, too heavy to be
-moved. The pedestal is a solid block of mahoga-
-ny; it can be moved, although it is extremely
-heavy. At least four party members are needed to
-move it. It would be worth 500 gp on the open
-market. The bell is a normal bell made of
-wrought iron, and is worth about 1 gp.
-
-The secret door between rooms 2 and 3
-leads to a stairway that is more fully described
-under room 5. It is better if the party does not
-discover it at this time.
+The secret door between rooms 2 and 3 leads to a stairway that is more fully described under room 5. It is better if the party does not discover it at this time.
 
 3. ALTAR
 
-If the party has been quiet as they proceed north
-through the corridor, read the following:
+If the party has been quiet as they proceed north through the corridor, read the following:
 
- 
-
-You hear a low murmur of voices coming
-from the north.
-
- 
+You hear a low murmur of voices coming from the north.
 
 As the party enters the room:
 
- 
+To your left you see an open area about 30 feet east-west by about 20 feet north south, The entire length of the west wall is occupied by an altar. The room is dimly lit by a few candles on the altar. Kneeling at the altar are six human figures wearing plate mail armor; they are making a low, chanting sound.
 
-To your left you see an open area about 30
-feet east-west by about 20 feet north-
-south, The entire length of the west wall is
-occupied by an altar. The room is dimly lit
-by a few candles on the altar. Kneeling at
-the altar are six human figures wearing
-plate mail armor; they are making a low,
-chanting sound.
+These are six acolytes (1st level clerics) armed with maces. They are followers of Elwyn. If the door trap was triggered or the party was noisy coming down the corridor, the acolytes are aware of their coming; otherwise the party can surprise the acolytes. If the party tries to sneak past this room without alerting the aco lytes there is a 25% chance they can do so. If the acolytes notice the party, they attack.
 
- 
-
- 
-
- 
-
-These are six acolytes (1st level clerics) armed
-with maces. They are followers of Elwyn. If
-the door trap was triggered or the party was
-noisy coming down the corridor, the acolytes
-are aware of their coming; otherwise the party
-can surprise the acolytes. If the party tries to
-sneak past this room without alerting the aco-
-lytes there is a 25% chance they can do so. If
-the acolytes notice the party, they attack.
-
-There is nothing of value in this room and
-the acolytes are not carrying any wealth.
+There is nothing of value in this room and the acolytes are not carrying any wealth.
 
 4. DAIS
 
- 
+To your left you see an open area about 30 fee east-west you about 20 feet north-south. The area seems to be empty except for an altar similar to the one your saw ear lier. There is a pedestal in the middle of the altar. On top of the pedestal is a bell that appears to be made of a reddish metal.
 
-To your left you see an open area about 30
-fee east-west you about 20 feet north-
-
- 
-
- 
-
- 
-
-
-
-south. The area seems to be empty except
-for an altar similar to the one your saw ear-
-lier. There is a pedestal in the middle of
-the altar. On top of the pedestal is a bell
-that appears to be made of a reddish
-metal.
-
- 
-
- 
-
- 
-
-The altar is made of marble, too heavy to be
-moved. The pedestal is a solid block of
-mahogany; it can be moved, although it is
-extremely heavy. At least four party members
-are needed to move it. It would be worth 500
-gp on the open market. The bell is a normal
-bell made of copper, and is worth about 5 gp.
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of copper, and is worth about 5 gp.
 
 5. TREASURE OF THE TROGLODYTES
 
- 
+To your left you see an open area about 30 feet east-west by about 20 feet north-south. The area seems to be empty.
 
-To your left you see an open area about 30
-feet east-west by about 20 feet north-
-south. The area seems to be empty.
+This is the room indicated on the treasure map found in the lair of the troglodytes. The room is empty except for the secret treasure located at the spot on the map marked with an “X.” The floor in the room is hinged along the south wall. When the entire party has entered this room, Elwyn, who is observing from her corridor, triggers a mechanism that causes the floor to open up under the party. . .
 
- 
-
- 
-
- 
-
-This is the room indicated on the treasure map
-found in the lair of the troglodytes. The room
-is empty except for the secret treasure located
-at the spot on the map marked with an “X.”
-The floor in the room is hinged along the
-south wall. When the entire party has entered
-this room, Elwyn, who is observing from her
-corridor, triggers a mechanism that causes the
-floor to open up under the party. . .
-
- 
-
-Suddenly, you feel the floor begin to move
-beneath your feet. As the floor swings
-down from a hinge near the south wall,
-you fall into the darkness, landing on the
-floor below. The floor swings back into
-position above you, creating a strong gust
-of air that extinguishes all torches and lan-
-terns.
-
- 
-
- 
-
- 
+Suddenly, you feel the floor begin to move beneath your feet. As the floor swings down from a hinge near the south wall, you fall into the darkness, landing on the floor below. The floor swings back into position above you, creating a strong gust of air that extinguishes all torches and lan terns.
 
 5a. TRAP ROOM
 
-No one in the party takes any damage from
-the slide. Party members with infravision can
-see. When light is restored, the remaining
-party members also see the following:
+No one in the party takes any damage from the slide. Party members with infravision can see. When light is restored, the remaining party members also see the following:
 
- 
+You are in a room about 30 feet square. It appears to be empty. A corridor leads off in one direction.
 
-You are in a room about 30 feet square. It
-appears to be empty. A corridor leads off in
-one direction.
-
- 
-
- 
-
- 
-
-The room is empty. The party is now on the
-lower level of the fortress. The corridor leads
-to room 5b, and then to a series of steps that
-will return the party to the upper level, as
-shown on the map of the lower level.
-
+The room is empty. The party is now on the lower level of the fortress. The corridor leads to room 5b, and then to a series of steps that will return the party to the upper level, as shown on the map of the lower level.
 
 5b. ORC LAIR
 
- 
+You see a large room, perhaps 50 feet long and 30 feet wide. There are a number of pallets about the room. Standing among the pallets are six small, ugly humanoids that look like a combination of animal and man. They are armed with short swords.
 
-You see a large room, perhaps 50 feet long
-and 30 feet wide. There are a number of
-pallets about the room. Standing among
-the pallets are six small, ugly humanoids
-that look like a combination of animal and
-man. They are armed with short swords.
+These are five orcs armed with short swords, and an orc leader armed with a short sword +1. The orcs attack the party as soon as they spot them.
 
- 
+If the party is using light, the orcs cannot be surprised. If there is no light, the orcs can be sur prised, but all humans without infravision receive a —4 penalty to hit rolls, and opponents who can see them receive a +4 bonus to hit rolls.
 
- 
+The room contains six small sacks. One con tains 200 gp, the others contain 200 sp each. The ore leader carries a small pouch containing 7 gems (worth 200 gp, 100gp (x5), and 50 gp, respectively). The floor is littered with an assort ment of bones, mostly human and humanoid. These are the remains of previous adventurers.
 
-(1d6 +6) turns. If the user is a spell caster, he
-cannot use his own spells while polymorphed.
+The corridor leads to a stairway. The stair way ends in a door that opens easily. This is the secret door between rooms 2 and 3. Do not tell the party where they are; let them discover it. As the party passes through rooms 3 and 4, read the descriptions of the rooms, modified by whatever has happened in the meantime. For example, if the party killed the acolytes in room 3, they find corpses. If they did not, the acolytes are still there, praying.
+
+When the party returns to room 5, they find that there is a visible border around the collaps ing floor that is about three feet wide. If they wish, they can easily and safely move in single file to the spot marked with an “X” on the map.
+
+At the spot marked “X,” there is a loose stone about three feet from the floor, When the stone is removed, a cavity behind the stone is found, containing the following: a clerical scroll with three cure light wound spells, a potion of poly morph self (labeled), a potion of growth (also labeled), a war hammer +1, and another trea sure map (this one leading to the treasure in room 9, Treasure Map #2).
+
+The potion of polymorph self is from the D&D® Expert Set. It allows the user to change shape into that of any living creature with hit dice or level equal to or less than his or her own. The transformation does not change the user's ht points, hit rolls, or saving throws. The user gains the physical abilities of the new shape, but none of the special abilities (spell use, breath weapon, paralyzation attacks, etc.) The effect of the potion lasts for 7-12 (1d6 +6) turns. If the user is a spell caster, he cannot use his own spells while polymorphed.
 
 6. EMPTY ROOM
 
- 
-
-To your left you see an open area about 30
-feet north-south by about 20 feet east-
-west. The area seems to be empty.
-
- 
-
- 
-
- 
-
-These are five orcs armed with short swords,
-and an orc leader armed with a short sword
-+1. The orcs attack the party as soon as they
-spot them.
-
-If the party is using light, the orcs cannot be
-surprised. If there is no light, the orcs can be sur-
-prised, but all humans without infravision
-receive a —4 penalty to hit rolls, and opponents
-who can see them receive a +4 bonus to hit rolls.
-
-The room contains six small sacks. One con-
-tains 200 gp, the others contain 200 sp each. The
-ore leader carries a small pouch containing 7
-gems (worth 200 gp, 100gp (x5), and 50 gp,
-respectively). The floor is littered with an assort-
-ment of bones, mostly human and humanoid.
-These are the remains of previous adventurers.
-
-The corridor leads to a stairway. The stair-
-way ends in a door that opens easily. This is the
-secret door between rooms 2 and 3. Do not tell
-the party where they are; let them discover it.
-As the party passes through rooms 3 and 4,
-read the descriptions of the rooms, modified
-by whatever has happened in the meantime.
-For example, if the party killed the acolytes in
-room 3, they find corpses. If they did not, the
-acolytes are still there, praying.
-
-When the party returns to room 5, they find
-that there is a visible border around the collaps-
-ing floor that is about three feet wide. If they
-wish, they can easily and safely move in single
-file to the spot marked with an “X” on the map.
-
-At the spot marked “X,” there is a loose stone
-about three feet from the floor, When the stone
-is removed, a cavity behind the stone is found,
-containing the following: a clerical scroll with
-three cure light wound spells, a potion of poly-
-morph self (labeled), a potion of growth (also
-labeled), a war hammer +1, and another trea-
-sure map (this one leading to the treasure in
-room 9, Treasure Map #2).
-
-The potion of polymorph self is from the
-D&D® Expert Set. It allows the user to change
-shape into that of any living creature with hit
-dice or level equal to or less than his or her
-own. The transformation does not change the
-user's ht points, hit rolls, or saving throws.
-The user gains the physical abilities of the new
-shape, but none of the special abilities (spell
-use, breath weapon, paralyzation attacks,
-etc.) The effect of the potion lasts for 7-12
+To your left you see an open area about 30 feet north-south by about 20 feet east west. The area seems to be empty.
 
 This room is empty.
 
 7. DAIS
 
- 
+To your left you see an open area about 30 feet north-south by about 20 feet east west. The area seems to be empty except for an altar similar to the one you saw earli er. There is a pedestal in the middle of the raised area. On top of the pedestal is a bell that appears to be made of a shiny metal.
 
-To your left you see an open area about 30
-feet north-south by about 20 feet east-
-west. The area seems to be empty except
-for an altar similar to the one you saw earli-
-er. There is a pedestal in the middle of the
-raised area. On top of the pedestal is a bell
-that appears to be made of a shiny metal.
-
- 
-
- 
-
- 
-
-The altar is made of marble, too heavy to be
-moved. The pedestal is a solid block of
-mahogany; it can be moved, although it is
-extremely heavy. At least four party members
-are needed to move it. It would be worth 500
-gp on the open market. The bell is a normal
-bell made of brass, and is worth about 10 gp.
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of brass, and is worth about 10 gp.
 
 8. GOLEM CHAMBER
 
- 
+You see an area to your left about 30 feet north-south by about 20 feet east-west. The room contains a strange humanoid creature about three feet tall and apparently made of wood. It is moving stiffly toward you.
 
-You see an area to your left about 30 feet
-north-south by about 20 feet east-west. The
-room contains a strange humanoid creature
-about three feet tall and apparently made of
-wood. It is moving stiffly toward you.
-
- 
-
- 
-
- 
-
-The creature is a wood golem. A golem is a mon-
-ster created by a high-level magic-user or cleric.
-Golems can be hit only by magical weapons.
-Magical attacks will work, but the golem is
-immune to sleep, charm, and hold spells, and to
-all gasses. Because it is clumsy, it has a penalty of
-— 1 on its initiative roll, and because it is made
-of wood, it has a penalty of —2 on its saving
-throw vs. fire-based attacks. If it is hit by fire, it
-also takes an extra point of damage per die.
-The room is otherwise empty.
+The creature is a wood golem. A golem is a mon ster created by a high-level magic-user or cleric. Golems can be hit only by magical weapons. Magical attacks will work, but the golem is immune to sleep, charm, and hold spells, and to all gasses. Because it is clumsy, it has a penalty of — 1 on its initiative roll, and because it is made of wood, it has a penalty of —2 on its saving throw vs. fire-based attacks. If it is hit by fire, it also takes an extra point of damage per die. The room is otherwise empty.
 
 9. TREASURE ROOM
 
- 
+To your left you see an open area about 30 feet east-west by about 20 feet north-south. The area seems to be empty.
 
-To your left you see an open area about 30
-feet east-west by about 20 feet north-
-south. The area seems to be empty.
+The room is empty, except for the secret trea sure marked with an ‘‘X" on the map. The treasure map (Treasure Map #2) found in room 5 will reveal its location to the party. As in room 5, the treasure is hidden behind a block of loose stone at waist height. Behind the stone is the following treasure:
 
- 
-
- 
-
- 
-
-The room is empty, except for the secret trea-
-sure marked with an ‘‘X" on the map. The
-treasure map (Treasure Map #2) found in
-
-
-
-room 5 will reveal its location to the party. As
-in room 5, the treasure is hidden behind a
-block of loose stone at waist height. Behind
-the stone is the following treasure:
-
-A smooth stick about 18 inches long. This is
-actually a wand of paralyzation (3 charges)—
-any elf or magic-user recognizes it for what it
-is, and only an elf or magic-user can wield it.
-The command word is written on the wand.
+A smooth stick about 18 inches long. This is actually a wand of paralyzation (3 charges)— any elf or magic-user recognizes it for what it is, and only an elf or magic-user can wield it. The command word is written on the wand.
 
 A sword. This is actually a sword +1.
 
-A piece of rolled-up parchment. This is
-actually a clerical scroll containing a cure light
-wounds spell and a silence 15’ radius spell.
-The silence 15’ radius spell is described in the
-D&D® Expert Set. It will make an area 30 feet
-in diameter totally silent for 12 turns. Conver-
-sation and spell use in the area of the silence
-spell are prevented. If cast on a person, the
-victim must make a saving throw vs. Spells, or
-the spell effect will move with the victim. If
-the saving throw is successful, the spell still
-works, but it stays in one place. The victim can
-then leave the area and speak normally.
+A piece of rolled-up parchment. This is actually a clerical scroll containing a cure light wounds spell and a silence 15’ radius spell. The silence 15’ radius spell is described in the D&D® Expert Set. It will make an area 30 feet in diameter totally silent for 12 turns. Conver sation and spell use in the area of the silence spell are prevented. If cast on a person, the victim must make a saving throw vs. Spells, or the spell effect will move with the victim. If the saving throw is successful, the spell still works, but it stays in one place. The victim can then leave the area and speak normally.
 
-A ring. This is actually a ring of spell stor-
-ing. Its operation is fully described in the
-D&D® Expert Set. Once the ring is put on, the
-wearer knows what spells are in the ring and
-how to cast them from it. After a spell is used,
-the ring may be recharged by a spell caster,
-who must cast the replacement spell directly
-at the ring. The ring will not absorb spells cast
-at the wearer. The spells in the ring have the
-duration, range, and effect equal to the lowest
-level of magic use needed in order to cast
-them. This ring has two magic missile spells, a
-web spell, and a lightning bolt spell. The
-lightning bolt spell creates a 5 foot wide, 60
-foot long bolt of lightning anywhere within its
-range (180 feet). Any creature in the area of
-effect takes 5d6 points of damage. If the vic-
-tim makes a saving throw vs. Spells, damage is
-halved. If the lightning bolt strikes a solid sur-
-face before reaching its 60 foot length, it
-rebounds back toward its caster until it reaches
-full length. If it hits its caster, the caster takes
-full damage (or half damage if the caster
-makes a saving throw vs. Spells).
+A ring. This is actually a ring of spell stor ing. Its operation is fully described in the D&D® Expert Set. Once the ring is put on, the wearer knows what spells are in the ring and how to cast them from it. After a spell is used, the ring may be recharged by a spell caster, who must cast the replacement spell directly at the ring. The ring will not absorb spells cast at the wearer. The spells in the ring have the duration, range, and effect equal to the lowest level of magic use needed in order to cast them. This ring has two magic missile spells, a web spell, and a lightning bolt spell. The lightning bolt spell creates a 5 foot wide, 60 foot long bolt of lightning anywhere within its range (180 feet). Any creature in the area of effect takes 5d6 points of damage. If the vic tim makes a saving throw vs. Spells, damage is halved. If the lightning bolt strikes a solid sur face before reaching its 60 foot length, it rebounds back toward its caster until it reaches full length. If it hits its caster, the caster takes full damage (or half damage if the caster makes a saving throw vs. Spells).
 
 10. DAIS
 
- 
+To your left you see an open area about 30 feet east-west by about 20 feet north south. The area seems to be empty except for an altar similar to the ones you have seen throughout this strange sanctuary. There is a pedestal in the middle of the altar. On top of the pedestal is a bell that appears to be made of a silvery metal.
 
-To your left you see an open area about 30
-feet east-west by about 20 feet north-
-south. The area seems to be empty except
-for an altar similar to the ones you have
-seen throughout this strange sanctuary.
-There is a pedestal in the middle of the
-altar. On top of the pedestal is a bell that
-appears to be made of a silvery metal.
-
- 
-
- 
-
- 
-
-moved. The pedestal is a solid block of
-mahogany; it can be moved, although it is
-extremely heavy. At least four party members
-are needed to move it. It would be worth 500
-gp on the open market. The bell is a normal
-bell made of silver, and is worth about 50 gp.
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of silver, and is worth about 50 gp.
 
 11. STATUE
 
- 
+To your right you see an open area about 10 feet east-west by about 20 feet north south. The area seems to be empty except for a large stone statue in the northeast cor ner. The statue is an image of Chardastes.
 
-To your right you see an open area about 10
-feet east-west by about 20 feet north-
-south. The area seems to be empty except
-for a large stone statue in the northeast cor-
-ner. The statue is an image of Chardastes.
-
- 
-
- 
-
- 
-
-The statue is a living rock statue. It attacks by
-squirting magma from its fingertips as soon as
-any party member enters the space. A wom-
-an’s diabolical laughter (Elwyn, again) is
-heard as the creature attacks. There is no trea-
-sure here.
+The statue is a living rock statue. It attacks by squirting magma from its fingertips as soon as any party member enters the space. A wom an’s diabolical laughter (Elwyn, again) is heard as the creature attacks. There is no trea sure here.
 
 12. EMPTY ROOM
 
- 
+To your right you see an open area about 10 feet east-west by about 20 feet north south. The area appears to be empty.
 
-To your right you see an open area about 10
-feet east-west by about 20 feet north-
-south. The area appears to be empty.
-
- 
-
- 
-
- 
-
-When the first character enters the room, a pit
-trap covering the entire 10x20 area opens up.
-The pit is 10 feet deep, and the victim takes
-1-6 points of damage from the fall. The room
-is otherwise empty.
+When the first character enters the room, a pit trap covering the entire 10x20 area opens up. The pit is 10 feet deep, and the victim takes 1-6 points of damage from the fall. The room is otherwise empty.
 
 13. STATUE
 
- 
+The corridor widens here to form a room about 30 feet north-south by about 20 feet east-west. The corridor continues off to the east. The room appears to be empty except for a statue of a small horse in the southeast corner, The statue is made of a yellowish metal.
 
-The corridor widens here to form a room
-about 30 feet north-south by about 20 feet
-east-west. The corridor continues off to the
-east. The room appears to be empty except
-for a statue of a small horse in the southeast
-corner, The statue is made of a yellowish
-metal.
-
- 
-
- 
-
- 
-
-The statue is made of solid bronze, and can-
-not be moved. It is immune to any damage. If
-it is struck by a hand-held metal weapon, the
-wielder of the weapon suffers 2-5 points of
-damage from electrical shock (no saving
-throw). There is nothing else in the room.
+The statue is made of solid bronze, and can not be moved. It is immune to any damage. If it is struck by a hand-held metal weapon, the wielder of the weapon suffers 2-5 points of damage from electrical shock (no saving throw). There is nothing else in the room.
 
 14. DAIS
 
- 
+The corridor widens here to form a room about 30 feet north-south by about 20 feet east-west. The corridor continues off to the cast. This area contains an altar identical to the ones you have seen before. The bell on the altar is made of a golden metal.
 
-The corridor widens here to form a room
-about 30 feet north-south by about 20 feet
-east-west. The corridor continues off to the
-
- 
-
- 
-
- 
-
- 
-
-cast. This area contains an altar identical to
-the ones you have seen before. The bell on
-the altar is made of a golden metal.
-
- 
-
- 
-
- 
-
-The altar is made of marble, too heavy to be
-moved. The pedestal is a solid block of
-mahogany; it can be moved, although it is
-extremely heavy. At least four party members
-are needed to move it. It would be worth 500
-gp on the open market. The bell is a normal
-bell made of gold, and is worth about 500 gp.
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of gold, and is worth about 500 gp.
 
 15. CELL
 
- 
+To your right you see an open area about 10 feet east-west by about 20 feet north south. The area appears to be empty.
 
-To your right you see an open area about 10
-feet east-west by about 20 feet north-
-south. The area appears to be empty.
+The area is empty. If the entire party enters the room, an iron grate suddenly descends (trig gered by Elwyn, who is watching, as usual), trapping the party in the room. Elwyn laughs diabolically. A panel opens up in the east wall of the corridor, across from the cell. Behind the panel is a keyhole with a key stuck in it. “Just turn the key, and freedom is yours,” she says mockingly. The key, when turned, causes the portcullis to raise.
 
- 
+There are several solutions available to the party. A knock spell cast on the keyhole causes the key to turn magically. If the party has the polymorph self potion, one member can drink it, change into a creature small enough to slip through the bars, exit the cell, wait for the potion to wear off (or change to to a larger or normal form), then turn the key. A character can attempt to lasso the key and turn it in the lock by twisting the rope. This requires a suc cessful hit roll with a —3 penalty, but unlim ited attempts are allowed. Characters with a combined strength of 36 or more can bend the bars of the cell enough to allow passage; how ever, each character helping to bend the bars must make a saving throw vs. Paralysis or strain a muscle. The effect of a strained muscle is to give a character a —2 penalty to hit rolls for the rest of the adventure.
 
- 
-
- 
-
-The area is empty. If the entire party enters the
-room, an iron grate suddenly descends (trig-
-gered by Elwyn, who is watching, as usual),
-trapping the party in the room. Elwyn laughs
-diabolically. A panel opens up in the east wall
-of the corridor, across from the cell. Behind
-the panel is a keyhole with a key stuck in it.
-“Just turn the key, and freedom is yours,” she
-says mockingly. The key, when turned, causes
-the portcullis to raise.
-
-There are several solutions available to the
-party. A knock spell cast on the keyhole causes
-the key to turn magically. If the party has the
-polymorph self potion, one member can drink
-it, change into a creature small enough to slip
-through the bars, exit the cell, wait for the
-potion to wear off (or change to to a larger or
-normal form), then turn the key. A character
-can attempt to lasso the key and turn it in the
-lock by twisting the rope. This requires a suc-
-cessful hit roll with a —3 penalty, but unlim-
-ited attempts are allowed. Characters with a
-combined strength of 36 or more can bend the
-bars of the cell enough to allow passage; how-
-ever, each character helping to bend the bars
-must make a saving throw vs. Paralysis or
-strain a muscle. The effect of a strained muscle
-is to give a character a —2 penalty to hit rolls
-for the rest of the adventure.
-
-Creative players may come up with other
-unusual methods to escape this trap. Reward
-clever and creative thinking by allowing any
-reasonably good suggestion to succeed. Give a
-special award of 100 experience points to the
-player who comes up with a workable and cre-
-ative solution to the trap.
-
-
+Creative players may come up with other unusual methods to escape this trap. Reward clever and creative thinking by allowing any reasonably good suggestion to succeed. Give a special award of 100 experience points to the player who comes up with a workable and cre ative solution to the trap.
 
 ELWYN’S SANCTUARY
 
 16. BLACK DRAGON
 
- 
+The corridor widens here to form a room about 20 feet square. The corridor con tinues off to the west. A huge, black lizard-like creature with wings is asleep and snoring in the corner. It has an iron collar around its neck and it is chained to the wall. There are several large sacks in the northwest corner.
 
-The corridor widens here to form a room
-about 20 feet square. The corridor con-
-tinues off to the west. A huge, black
-lizard-like creature with wings is asleep
-and snoring in the corner. It has an iron
-collar around its neck and it is chained to
-the wall. There are several large sacks in the
-northwest corner.
+The creature is a young black dragon, asleep. The party gets one round of free attacks, with a +2 bonus on all hit rolls. The chain on the dragon allows it to move up to 30 feet in any direction. If the party tries to sneak past the dragon, it automatically wakes up.
 
- 
-
- 
-
- 
-
-The creature is a young black dragon, asleep.
-The party gets one round of free attacks, with
-a +2 bonus on all hit rolls. The chain on the
-dragon allows it to move up to 30 feet in any
-direction. If the party tries to sneak past the
-dragon, it automatically wakes up.
-
-The area on the map marked 16a is a secret
-door leading to the corridor from which Elwyn
-has been spying on the party. It is better if the
-party does not find the door at this time. If
-they do, proceed to the final encounter with
-Elwyn. Otherwise, the party will meet Elwyn
-here after they have been to area 21. The final
-encounter with Elwyn takes place here when
-the party tries to leave.
+The area on the map marked 16a is a secret door leading to the corridor from which Elwyn has been spying on the party. It is better if the party does not find the door at this time. If they do, proceed to the final encounter with Elwyn. Otherwise, the party will meet Elwyn here after they have been to area 21. The final encounter with Elwyn takes place here when the party tries to leave.
 
 17-21. THE INNERMOST SANCTUARY
 
-Read the following to the players as they enter
-the corridor that leads to area 21.
+Read the following to the players as they enter the corridor that leads to area 21.
 
- 
+You see a large open area, about 20 feet wide and more than 100 feet long. It is dimly lit by a few candles in sconces along the walls. There are four niches that extend out from the center aisle: two about 30 feet from this end of the hall and two more almost at the end. The far end seems to fade away into darkness. The walls that you can see are painted with abstract designs in soft colors.
 
-You see a large open area, about 20 feet
-wide and more than 100 feet long. It is
-dimly lit by a few candles in sconces along
-the walls. There are four niches that extend
-out from the center aisle: two about 30 feet
-from this end of the hall and two more
-almost at the end. The far end seems to
-fade away into darkness. The walls that
-you can see are painted with abstract
-designs in soft colors.
-
- 
-
- 
-
- 
-
-This is the innermost sanctuary of Elwyn’s for-
-tress. The party will presumably explore the
-area as they approach area 21. Note that the
-woman portrayed in the murals located
-behind the curtains is the same in each mural.
-If the party does not realize this, tell them
-after they have seen the third mural.
+This is the innermost sanctuary of Elwyn’s for tress. The party will presumably explore the area as they approach area 21. Note that the woman portrayed in the murals located behind the curtains is the same in each mural. If the party does not realize this, tell them after they have seen the third mural.
 
 17. ALCOVE
 
- 
-
-The west wall of this area is covered by a
-black curtain.
-
- 
-
- 
-
- 
+The west wall of this area is covered by a black curtain.
 
 If the party looks behind the curtain, they see:
 
-
- 
-
-You see a mural depicting a woman in a
-bright yellow robe with a drawn sword in
-her hand. She is surrounded by human vic-
-tims.
-
- 
+You see a mural depicting a woman in a bright yellow robe with a drawn sword in her hand. She is surrounded by human vic tims.
 
 18. ALCOVE
 
- 
-
-The east wall of this area is covered by a
-black curtain.
-
- 
+The east wall of this area is covered by a black curtain.
 
 If the party looks behind the curtain, they see:
 
- 
-
-You see a mural depicting a woman in a
-lavender robe kneeling at an altar. She is
-flanked by six men wearing black robes
-and armed with maces. They are standing
-at attention. The glint of metal armor can
-be seen under their robes.
-
- 
+You see a mural depicting a woman in a lavender robe kneeling at an altar. She is flanked by six men wearing black robes and armed with maces. They are standing at attention. The glint of metal armor can be seen under their robes.
 
 19. ALCOVE
 
- 
-
-The west wall of this area is covered by a
-black curtain.
-
- 
+The west wall of this area is covered by a black curtain.
 
 If the party looks behind the curtain, they see:
 
- 
+You see a mural depicting a woman in a white robe. She is about to shoot an arrow from a longbow at a being who is begin ning to disappear into the sky. You recog nize the being as Chardastes.
 
-You see a mural depicting a woman in a
-white robe. She is about to shoot an arrow
-from a longbow at a being who is begin-
-ning to disappear into the sky. You recog-
-nize the being as Chardastes.
+20. ALCOVE
 
- 
-
- 
-
- 
-
-20, ALCOVE
-
- 
-
-The east wall of this area is covered by a
-black curtain.
-
- 
+The east wall of this area is covered by a black curtain.
 
 If the party looks behind the curtain, they see:
 
- 
+There is a pedestal in the middle of the raised area. It is about three feet high, five feet deep, and ten feet wide, and appears to be made of wood. On top of the pedes tal is a bell that appears to be made of a sil ver metal.
 
-There is a pedestal in the middle of the
-raised area. It is about three feet high, five
-feet deep, and ten feet wide, and appears
-to be made of wood. On top of the pedes-
-tal is a bell that appears to be made of a sil-
-ver metal.
+You see a mural depicting a woman in a black robe about to descend into a great chasm. Leading her into the chasm is a n enormous male humanoid figure covered with short, dark fur. Only his hands and feet are uncovered. He wears no clothing.
 
- 
+The party member with the highest intelli gence recognizes this being as Leptar, a chaotic Immortal who was long ago defeated by Char dastes.
 
- 
+21. ALTAR
 
- 
+Until the party has examined all four murals, this area is shrouded in darkness, caused by the clerical spell darkness, cast by Elwyn. (Darkness is the reverse of light, and creates a 30 foot circle of darkness.) As soon as the party has examined the last of the four murals, the following occurs:
 
-You see a mural depicting a woman in a
-black robe about to descend into a great
-chasm. Leading her into the chasm is a n
-enormous male humanoid figure covered
-with short, dark fur. Only his hands and
+As you turn away from the mural, the darkness in the area to the north dissolves, revealing an area about 20 feet square. The entire area is raised about half a foot above the floor and looks like polished stone.
 
- 
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is, of course, the sacred platinum bell for which the party has been seeking. If someone picks it up, the following occurs:
 
- 
+As you pick up the sacred bell, it begins to ring. At almost the same time, four crea tures appear and swoop down upon you, as if called by the sound of the bell. Two of the creatures are ugly things with horns and long fangs. The other two are dark and hard to make out. Their outlines seem to shimmer and you can almost see through them.
 
-feet are uncovered. He wears no clothing.
+The horned creatures are flying gargoyles; the other two creatures are shadows. They have emerged through the one-way secret doors in areas 19 and 20, and immediately attack the party.
 
- 
-
-The party member with the highest intelli-
-gence recognizes this being as Leptar, a chaotic
-Immortal who was long ago defeated by Char-
-dastes.
-
-21, ALTAR
-
-Until the party has examined all four murals,
-this area is shrouded in darkness, caused by
-the clerical spell darkness, cast by Elwyn.
-(Darkness is the reverse of light, and creates a
-30 foot circle of darkness.) As soon as the party
-has examined the last of the four murals, the
-following occurs:
-
- 
-
-As you turn away from the mural, the
-darkness in the area to the north dissolves,
-revealing an area about 20 feet square. The
-entire area is raised about half a foot above
-
- 
-
- 
-
-the floor and looks like polished stone.
-
- 
-
-The altar is made of marble, too heavy to be
-moved. The pedestal is a solid block of
-mahogany; it can be moved, although it is
-extremely heavy. At least four party members
-are needed to move it. It would be worth 500
-gp on the open market. The bell is, of course,
-the sacred platinum bell for which the party
-has been seeking. If someone picks it up, the
-following occurs:
-
- 
-
-As you pick up the sacred bell, it begins to
-ring. At almost the same time, four crea-
-tures appear and swoop down upon you, as
-if called by the sound of the bell. Two of
-the creatures are ugly things with horns
-and long fangs. The other two are dark and
-hard to make out. Their outlines seem to
-shimmer and you can almost see through
-them.
-
- 
-
- 
-
- 
-
-The horned creatures are flying gargoyles; the
-other two creatures are shadows. They have
-emerged through the one-way secret doors in
-areas 19 and 20, and immediately attack the
-
-party. ‘
-
-Gargoyles can only be hit with magic or
-magical weapons. They are not affected by
-sleep and charm spells. Shadows can only be
+Gargoyles can only be hit with magic or magical weapons. They are not affected by sleep and charm spells. Shadows can only be special hit by magical weapons. When a shadow
+scores a hit on an opponent, it drains one point of Strength from its victim in addition to causing normal damage. The loss of Strength lasts for eight turns, but any creature
+whose Strength is reduced to zero becomes a shadow. Shadows, like gargoyles, are unaffected by sleep and charm spells.
 
 ELWYN’S SANCTUARY: Monsters
-
- 
-
-Room Monster No. Hit AC HD hp MV #AT D Save ML AL SA/SD XP
-Roll _
-
-— _ Trolodyte 4 18 5 2 12,14,10,10 120'(40') 3 1-4/1-4/1-4 F2 9 C Yes 30
-
-3 Acolyte (C1) 6 19 2 1 6 each 120'(40') 1 1-6 cl Fish, No 10
-
-5b Orc Leader 1 18 5 2 9 120'(40') 1 ee < Fl bi GES ND 420
-
-5b Ores 5 19 5 1 Geach 120'(40') 1 1-6 Fl g. | Nor adi-10
-
+Room Monster No. Hit Roll AC HD hp MV #AT D Save ML AL SA/SD XP
+— _ Trolodyte 	4 18 5 2 12,14,10,10 120'(40') 3 1-4/1-4/1-4 F2 9 C Yes 30
+3 Acolyte (C1) 	6 19 2 1 6 each 120'(40') 1 1-6 + 1 sword F1 9 C No 10
+5b Orc Leader 	1 18 5 2 9 120'(40') 1 ee < Fl bi GES ND No 20
+5b Orcs 5 19 5 1 Geach 120'(40') 1 1-6 Fl g. | Nor adi-10
 8 Wooden Golem 1 17 7 eZ 14 120'(40') 1 1-8 Fl 2 hiN Yes 35
-
-11__ Rock Living 1 16 4 5 23 60'(20') 2° -2-12/2-12 Fs 183 S > Tew
-
-Statue
-
+11 Rock Living Statue 1 16 4 5 23 60'(20') 2° -2-12/2-12 F5 11 C Yes 300
 16 Black Dragon 1 16 2 7 28 90'(30') or 3 2-§/2-5/2-20 F7 8 Cc Yes 1250
 240'(80') fly
-
 21 Gargoyle 2 16 5 4 18,15 90'(30') or 4° 1-3/1-3/1-6/ FB A1-— Ce Wes: e825:
 150'(50’) fly 1-4
-
-21 Shadow 2 17 7 242 9,12 90'(30') 1 1-4 +special F2 12 C Yes 35
-
+21 Shadow 2 17 7 242 9,12 90'(30') 1 1-4 + special F2 12 C Yes 35
 16 Elwyn (C6) 1 17 a 6 24 120'(40') 1 1-6 + Gilt 12S) siaNessts) 500
-
-special
-
-
- 
-
-hit by magical weapons. When a shadow
-scores a hit on an opponent, it drains one
-point of Strength from its victim in addition
-to causing normal damage. The loss of
-Strength lasts for eight turns, but any creature
-whose Strength is reduced to zero becomes a
-shadow. Shadows, like gargoyles, are unaf-
-fected by sleep and charm spells.
 
 16a. EDWYN THE ARDANT
 
@@ -1556,8 +770,6 @@ the sacred bell, they can then leave the for-
 tress. However, as they leave, Elwyn the
 Ardent leaves her secret corridor and is wait-
 ing for the party in area 16a.
-
- 
 
 You see a woman standing in the corridor
 to the east. She is wearing a striped robe of
@@ -1580,11 +792,6 @@ to find, and they like working for Elwyn the
 Ardent. The new ones will enjoy feasting on
 YOUR bones when I get through with you!”
 
- 
-
- 
-
- 
 
 Elwyn is wearing plate mail armor and carries
 a shield +1. The key ring on her belt opens
@@ -1614,7 +821,6 @@ will make any one creature flee for two turns.
 This reversed spell has a range of 120 feet.
 
 Darkness is the reverse of light. It creates a
-
 circle of darkness 30 feet in diameter. Elwyn
 has already used this spell on the altar.
 
@@ -1681,8 +887,6 @@ and exit through the front door, or they can
 follow Elwyn's secret corridor to the door that
 leads to the outside.
 
-
-
 Following the adventure at Elwyn’s Sanctuary,
 the adventurers return to Threshold with the
 bell. Word rapidly spreads about the party’s
@@ -1701,7 +905,6 @@ latter could lead to a new adventure). At this
 time the players may either be called in by the
 Church or receive an unusual dream visit. The
 first leads to the Caves of Chaos, the second is
-
 with an evil temple hidden in some caves near
 Castellan Keep. The area is filled with human-
 oids, but the temple must be found and
@@ -1739,27 +942,17 @@ location of the cave complex, which has been
 pretty quiet lately. Since there are no giants
 there, patrols have been few. These rumors
 are available from soldiers in the tavern:
-‘Tribes of different creatures live in the caves.
-All of the cave entrances are trapped. (False)
-If you get lost, beware the eater of men!
-“Bree-yark” is goblin language for “we
+1. Tribes of different creatures live in the caves.
+2. All of the cave entrances are trapped. (False)
+3. If you get lost, beware the eater of men!
+4. “Bree-yark” is goblin language for “we
 surrender!” (False)
-
-There is more than one tribe of orcs with-
+5. There is more than one tribe of orcs with-
 in the caves.
 
-SNe
-
-Pe
 
 
- 
-
-RT RE
-roe
-pean a Roe ee ten)
-
- 
+THE CAVES OF CHAOS
 
 Design: Gary Gygax
 
@@ -1844,8 +1037,6 @@ bushes elsewhere.
 
 UNDERGROUND: The caves, passages, and
 rooms of the complex are on different levels.
-
-
 
 Passages slope upwards and downwards
 between the contours, even where stairways
