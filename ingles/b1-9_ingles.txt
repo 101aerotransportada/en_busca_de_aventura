@@ -2,134 +2,39 @@ THE GREAT ESCAPE
 
 Background
 
-Investigating rumors of goblin raids in the
-vicinity of Luln, the party's camp is surprised
-one night by a horde of goblins (arranged by
-Anton if he is there). Tell the players as DM
-that their characters will probably die if they
-resist, and kill characters whose players force
-the issue. (This is something of an intelligence
-test, unintelligent play will cost a character at
-this point. Obviously, characters who surren-
-der should not be killed). If Anton is there, he
-will gloat about having caught agents of the
-Duke. The characters will be force marched
-several days to an outpost of the Barony.
+Investigating rumors of goblin raids in the vicinity of Luln, the party's camp is surprised one night by a horde of goblins (arranged by Anton if he is there). Tell the players as DM that their characters will probably die if they resist, and kill characters whose players force the issue. (This is something of an intelligence test, unintelligent play will cost a character at this point. Obviously, characters who surrender should not be killed). If Anton is there, he will gloat about having caught agents of the Duke. The characters will be force marched several days to an outpost of the Barony.
 
-If the players complain that their capture
-was unfair, gently remind them that if adven-
-turing was easy, anyone could do it—they
-can’t always expect things to go their way—
-and that there were clues. They will have
-ample opportunity to escape and recover their
-equipment, if they play well.
+If the players complain that their capture was unfair, gently remind them that if adventuring was easy, anyone could do it—they can’t always expect things to go their way— and that there were clues. They will have ample opportunity to escape and recover their equipment, if they play well.
 
 Notes for the Dungeon Master
 
-The party members start this adventure with
-no armor or weapons. The spell books of any
-magic users have been taken away. However,
-all spell casters in the party have memorized
-spells, and can cast them normally. All obvi-
-ous magic items have been removed from all
-characters. There is a 20% chance that small,
-inobvious magic items (such as rings) may
-have been missed when the enemy soldiers
-searched their prisoners.
+The party members start this adventure with no armor or weapons. The spell books of any magic users have been taken away. However, all spell casters in the party have memorized spells, and can cast them normally. All obvious magic items have been removed from all characters. There is a 20% chance that small, inobvious magic items (such as rings) may have been missed when the enemy soldiers searched their prisoners.
 
-Once the characters have escaped their cell,
-they can search for their equipment (stored in
-room 13) or attempt an immediate escape. If
-they escape without recovering their equip-
-ment, and make it back to Luln, the townmis-
-tress Sascia will equip the party with
-non-magical weapons and armor (and possi-
-bly a few scroll spells for magic users) so they
-can go back and clear out the enemy outpost.
-They can then recover their equipment. If this
-occurs, replace all the men and monsters that
-the party killed during their escape. The
-entire outpost will be on alert when the party
-returns, and surprise will be impossible. This
-has no great campaign effect; border skirmish-
-es are common.
+Once the characters have escaped their cell, they can search for their equipment (stored in room 13) or attempt an immediate escape. If they escape without recovering their equipment, and make it back to Luln, the townmistress Sascia will equip the party with non-magical weapons and armor (and possibly a few scroll spells for magic users) so they can go back and clear out the enemy outpost.  They can then recover their equipment. If this occurs, replace all the men and monsters that the party killed during their escape. The entire outpost will be on alert when the party returns, and surprise will be impossible. This has no great campaign effect; border skirmishes are common.
 
-Rooms that are empty or in which someone
-is sleeping are considered dark unless the
-room has windows or the text specifically
-states the room is lit. Rooms that are occupied
-by people who are awake always have light,
-either through a window or by a candle or lan-
-tern. Doors are not locked unless the text spe-
-cifically says otherwise, and open easily.
+Rooms that are empty or in which someone is sleeping are considered dark unless the room has windows or the text specifically states the room is lit. Rooms that are occupied by people who are awake always have light, either through a window or by a candle or lantern. Doors are not locked unless the text specifically says otherwise, and open easily.
 
-The occupants of the outpost are intelligent
+The occupants of the outpost are intelligent soldiers. They work together, and once the alarm is raised or the escaping prisoners are sighted, they pursue the party in the most efficient way possible.
 
-soldiers. They work together, and once the
-alarm is raised or the escaping prisoners are
-sighted, they pursue the party in the most
-efficient way possible.
+Remember, the players cannot map the outpost until (or unless) their characters find mapping implements and supplies.
 
-Remember, the players cannot map the
-outpost until (or unless) their characters find
-mapping implements and supplies.
+The corridors and hallways of the outpost will be empty for exactly 10 turns after the party escapes from room 1. After that, the men and women currently eating a meal in room 2 leave the dining room by ones and twos, with one group leaving every other turn.  There is a 1 in 6 chance each turn that the party will have an encounter with 1 or 2 veterans (F1, AC 9, hp 7 each, dagger D 1-4, ML 8).  The veterans will attempt to sound the alarm if they get initiative and are not surprised. If the alarm is raised, the chance for an encounter increases to 3 in 6 each turn. If the party is already engaged in combat, there is a 1 in 6 chance each melee round that 1 additional veteran arrives to join the fight. Monster statistics are given on page 28.
 
-The corridors and hallways of the outpost
-will be empty for exactly 10 turns after the
-party escapes from room 1. After that, the
-men and women currently eating a meal in
-room 2 leave the dining room by ones and
-twos, with one group leaving every other turn.
-There is a 1 in 6 chance each turn that the par-
-ty will have an encounter with 1 or 2 veterans
-(F1, AC 9, hp 7 each, dagger D 1-4, ML 8).
-The veterans will attempt to sound the alarm
-if they get initiative and are not surprised. If
-the alarm is raised, the chance for an encount-
-er increases to 3 in 6 each turn. If the party is
-already engaged in combat, there is a 1 in 6
-chance each melee round that 1 additional
-veteran arrives to join the fight. Monster sta-
-tistics are given on page 28.
-
-1, PRISON CELL
+1. PRISON CELL
 
  
 
-The flickering torchlight barely illumi-
-nates the prison cell that you have occu-
-pied for the past two days. Talking quietly
-amongst yourselves, you have pooled a pit-
-ifully scant amount of information about
-your plight. You were captured by goblins
-and brought to this outpost, somewhere
-just beyond the Black Eagle border. You
-were blindfolded, herded through corri-
-dors and finally shackled in leg irons in this
-narrow cell.
+The flickering torchlight barely illuminates the prison cell that you have occupied for the past two days. Talking quietly amongst yourselves, you have pooled a pitifully scant amount of information about your plight. You were captured by goblins and brought to this outpost, somewhere just beyond the Black Eagle border. You were blindfolded, herded through corridors and finally shackled in leg irons in this narrow cell.
 
-It is important that you escape, and
-quickly. You have learned that a large raid-
-ing force of goblins, backed by the Black
-Eagle Barony, will soon descend on Luln.
-The town must be warned.
+It is important that you escape, and quickly. You have learned that a large raiding force of goblins, backed by the Black Eagle Barony, will soon descend on Luln.  The town must be warned.
 
-Once you were securely shackled, your
-blindfolds were removed, and you could
-see your surroundings. Your prison cell is
-about 20 feet wide and 80 feet long. Iron
-double doors, securely locked, are along
-one of the long walls. The leg irons are
-attached to each other with a sturdy chain,
-about five feet long. The chain passes
-through a ring that is securely embedded
-in the floor of the cell, The torches that
-light the room are in brackets high on the
-wall—too high for you to reach.
+Once you were securely shackled, your blindfolds were removed, and you could see your surroundings. Your prison cell is about 20 feet wide and 80 feet long. Iron double doors, securely locked, are along one of the long walls. The leg irons are attached to each other with a sturdy chain, about five feet long. The chain passes through a ring that is securely embedded in the floor of the cell, The torches that light the room are in brackets high on the wall—too high for you to reach.
 
-You have heard human voices from time
-to time, but until this morning, the only
-creature you have seen is a large humanoid
+You have heard human voices from time to time, but until this morning, the only creature you have seen is a large humanoid who bears a strong resemblence to a hyena.  He has brought you food and water three times each day. He is armed with a dagger and a mace, and carries a large key ring with several keys on it. He has muttered and complained in the common tongue because the commander has not let him torture you.
+
+This morning, the human commander of the outpost and a visitor, a female officer from another Black Eagle unit, came into your cell and bragged about the trusted Black Eagle agent, Anton Turino, having captured you. He told the visitor that instead of being slain as spies, you are about to be taken to the slave markets of Fort Doom, There, you will have no hope of escape.
+
+If you are ever to see your home again, you must act soon. Soon, it will be time for your noon meal...
 
  
 
@@ -137,33 +42,11 @@ creature you have seen is a large humanoid
 
  
 
-
+Give the players up to 10 minutes of real time to create a plan. If they decide on a plan in less than 10 minutes, the jailer arrives as soon as the plan is set. If the players have not finished their planning when their time is up, the jailer attives anyway. When the jailer is about to enter the room, read the following:
 
  
 
-who bears a strong resemblence to a hyena.
-He has brought you food and water three
-times each day. He is armed with a dagger
-and a mace, and carries a large key ring
-with several keys on it. He has muttered
-and complained in the common tongue
-because the commander has not let him
-torture you.
-
-This morning, the human commander
-of the outpost and a visitor, a female offi-
-cer from another Black Eagle unit, came
-into your cell and bragged about the trust-
-ed Black Eagle agent, Anton Turino, hav-
-ing captured you. He told the visitor that
-instead of being slain as spies, you are
-about to be taken to the slave markets of
-Fort Doom, There, you will have no hope
-of escape.
-
-If you are ever to see your home again,
-you must act soon. Soon, it will be time for
-your noon meal...
+You hear heavy footsteps approach, and the sound of a key turning in the door. It is your jailer, coming with your noon meal.  He enters alone, grumbling about something under his breath. He appears distracted.
 
  
 
@@ -171,123 +54,41 @@ your noon meal...
 
  
 
-Give the players up to 10 minutes of real time
-to create a plan. If they decide on a plan in less
-than 10 minutes, the jailer arrives as soon as
-the plan is set. If the players have not finished
-their planning when their time is up, the jailer
-attives anyway. When the jailer is about to
-enter the room, read the following:
+The jailer is a gnoll armed with a dagger and a mace. It carries a key ring with six keys on it.  Only two are used in this adventure: one unlocks all the leg irons, and the other opens the prison door.
+
+The gnoll is not particularly bright, and will go along with any reasonably subtle trick, such as feigned illness on the part of a party member. If captured and threatened, it will cooperate with the party, but will look for the first opportunity to doublecross them. It knows the party’s equipment is in room 13, but does not have a key to that room.
+
+In order to give the party a fighting chance, the first magic spell that any party member casts in this adventure automatically succeeds, even if the victim is entitled to a saving throw.  This benefit only happens once for the entire party.
+
+If the party’s plan does not succeed, the jailer leaves, taking the noon meal with him. He does not report the escape attempt because he doesn't want to look bad. He returns with the evening meal, this time very alert.
+
+If the party does not escape within two days (six meals), a party of armed human guards escorts them out of their cell, and they are taken (in leg irons) to the Fort Doom.
+
+Any further escape attempt are at the discretion of the DM (remember that magic users cannot re-learn spells without a spell book).  One possible rescue is given at the end of this adventure in Interlude C.
+
+If the party escapes the room, read the following aloud:
 
  
 
-You hear heavy footsteps approach, and
-the sound of a key turning in the door. It is
-your jailer, coming with your noon meal.
-He enters alone, grumbling about some-
-thing under his breath. He appears dis-
-tracted.
+As you carefully peer out the door of your cell, you see a corridor stretching to the left and right. You hear the sounds of conversation and laughter coming from the left. In both directions you see branching corridors and several doors.
 
  
 
- 
+2. KITCHEN AND COMMON DINING ROOM
+
+NOTE: There are two openings (no doors) leading into the dining room, and one door (closed) leading into the kitchen. If the party peers through either door into the dining room, read the following:
 
  
 
-The jailer is a gnoll armed with a dagger and a
-mace. It carries a key ring with six keys on it.
-Only two are used in this adventure: one
-unlocks all the leg irons, and the other opens
-the prison door.
-
-The gnoll is not particularly bright, and will
-go along with any reasonably subtle trick,
-such as feigned illness on the part of a party
-member. If captured and threatened, it will
-cooperate with the party, but will look for the
-first opportunity to doublecross them. It
-knows the party’s equipment is in room 13,
-but does not have a key to that room.
-
-In order to give the party a fighting chance,
-the first magic spell that any party member
-casts in this adventure automatically succeeds,
-even if the victim is entitled to a saving throw.
-This benefit only happens once for the entire
-party.
-
-If the party’s plan does not succeed, the jail-
-er leaves, taking the noon meal with him. He
-
+You see a large room with many tables and benches. About 20 people are sitting at the tables; they are laughing, talking, and eating. Both women and men are present; all are dressed in leather armor and seem to be soldiers. There is an open kitchen in one section of the room; a door leads out of the kitchen.
 
  
 
-does not report the escape attempt because he
-doesn't want to look bad. He returns with the
-evening meal, this time very alert.
-
-If the party does not escape within two days
-(six meals), a party of armed human guards
-escorts them out of their cell, and they are tak-
-en (in leg irons) to the Fort Doom.
-
-Any further escape attempt are at the dis-
-cretion of the DM (remember that magic users
-cannot re-learn spells without a spell book).
-One possible rescue is given at the end of this
-adventure in Interlude C.
-
-If the party escapes the room, read the fol-
-lowing aloud:
+If the party opens the door into the kitchen, read the following:
 
  
 
-As you carefully peer out the door of your
-cell, you see a corridor stretching to the left
-and right. You hear the sounds of conversa-
-tion and laughter coming from the left. In
-both directions you see branching corridors
-
- 
-
- 
-
-and several doors.
-
- 
-
-2. KITCHEN AND COMMON
-DINING ROOM
-
-NOTE: There are two openings (no doors)
-leading into the dining room, and one door
-(closed) leading into the kitchen. If the party
-peers through either door into the dining
-room, read the following:
-
- 
-
-You see a large room with many tables and
-benches. About 20 people are sitting at the
-tables; they are laughing, talking, and eat-
-ing. Both women and men are present; all
-are dressed in leather armor and seem to be
-soldiers. There is an open kitchen in one
-section of the room; a door leads out of the
-kitchen.
-
- 
-
-If the party opens the door into the kitchen,
-read the following:
-
- 
-
-An open kitchen reveals a dining room
-beyond, filled with people. Two women
-are preparing and serving a meal. A deli-
-cious aroma of cooking meat comes from
-the kitchen.
+An open kitchen reveals a dining room beyond, filled with people. Two women are preparing and serving a meal. A delicious aroma of cooking meat comes from the kitchen.
 
  
 
@@ -295,26 +96,15 @@ the kitchen.
 
  
 
-The two women in the kitchen and ten of the
-people seated at the table are non-combatant
-servants. The rest are fighters wearing leather
-armor and armed with daggers.
+The two women in the kitchen and ten of the people seated at the table are non-combatant servants. The rest are fighters wearing leather armor and armed with daggers.
 
-There are 6 male servants, 6 female ser-
-vants, 8 veteran fighters (1st level fighters),
-and 2 warriors (2nd level fighters). Two of the
-veterans are women. Each of the warriors has a
-key to the armory (room 13).
+There are 6 male servants, 6 female servants, 8 veteran fighters (1st level fighters), and 2 warriors (2nd level fighters). Two of the veterans are women. Each of the warriors has a key to the armory (room 13).
 
 3. MEN’S COMMON QUARTERS
 
  
 
-This room contains a number of beds and
-wardrobes, a few chairs, and a couple of
-tables. It otherwise appears to be empty.
-There is an open doorway on the far side of
-the room.
+This room contains a number of beds and wardrobes, a few chairs, and a couple of tables. It otherwise appears to be empty.  There is an open doorway on the far side of the room.
 
  
 
@@ -322,23 +112,13 @@ the room.
 
  
 
-This room provides quarters for the male ser-
-vants. There is no one here at the moment.
-Under one mattress can be found 12 sp and 14
-cp. Under a second matress can be found 6 sp
-and 15 cp. A third mattress conceals 8 sp and 6
-cp. A fourth holds 3 sp and 19 cp.
+This room provides quarters for the male servants. There is no one here at the moment.  Under one mattress can be found 12 sp and 14 cp. Under a second matress can be found 6 sp and 15 cp. A third mattress conceals 8 sp and 6 cp. A fourth holds 3 sp and 19 cp.
 
-4, MEN’S BATH
+4. MEN’S BATH
 
  
 
-This long, narrow room has an open door-
-way at the far end. There are several wood-
-en tubs on the floor, and what looks like a
-stove in the middle of the room. The floor
-is wet, and there is a soap smell. The room
-appears to be empty.
+This long, narrow room has an open doorway at the far end. There are several wooden tubs on the floor, and what looks like a stove in the middle of the room. The floor is wet, and there is a soap smell. The room appears to be empty.
 
  
 
@@ -346,65 +126,28 @@ appears to be empty.
 
  
 
-This room is a bath. The stove is used to heat
-water for the tubs. The room is currently emp-
-ty. The floor is very slippery; any character
-searching here must roll his Dexterity or less,
-using 3d6, or slip on the floor and turn an
-ankle. A turned ankle cuts a character's move-
-ment rate by half for 1d6 turns.
+This room is a bath. The stove is used to heat water for the tubs. The room is currently empty. The floor is very slippery; any character searching here must roll his Dexterity or less, using 3d6, or slip on the floor and turn an ankle. A turned ankle cuts a character's movement rate by half for 1d6 turns.
 
 5. MEN’S DRESSING ROOM
 
-NOTE; The following description assumes the
-party enters this room from the east. If they
-enter from room 6, you must make the appro-
-priate adjustments. The small entranceway to
-the east of this room is currently empty. Both
-doors are swinging doors, and can easily be
-pushed open.
+NOTE; The following description assumes the party enters this room from the east. If they enter from room 6, you must make the appropriate adjustments. The small entranceway to the east of this room is currently empty. Both doors are swinging doors, and can easily be pushed open.
 
  
 
-The left wall of this long, narrow room
-seems to be a curtain. The right wall is
-lined with pegs. One of the pegs has some
-clothing on it. There is a basket near the far
-end of the room that has some cloth things
-on it. Otherwise, the room appears to be
+The left wall of this long, narrow room seems to be a curtain. The right wall is lined with pegs. One of the pegs has some clothing on it. There is a basket near the far end of the room that has some cloth things on it. Otherwise, the room appears to be empty.
 
  
 
- 
-
-empty.
-
- 
-
-This area is used by the men to change clothes
-before using the bath or the exercise room
-(room 6). The curtain has several gaps
-through which one can enter room 6. The
-clothing belongs to the man in room 6, and
-includes leather armor and a belt with a dag-
-ger. The basket is filled with wet towels.
-
+This area is used by the men to change clothes before using the bath or the exercise room (room 6). The curtain has several gaps through which one can enter room 6. The clothing belongs to the man in room 6, and includes leather armor and a belt with a dagger. The basket is filled with wet towels.
 
 
 6. MEN’S EXERCISE ROOM
 
-NOTE: The following description assumes the
-party enters this room from the south. If they
-come from room 5, make the appropriate
-adjustments.
+NOTE: The following description assumes the party enters this room from the south. If they come from room 5, make the appropriate adjustments.
 
  
 
-This looks like a work-out room. There are
-mats on the floor, weights, and other
-equipment. A man dressed only in short
-pants is doing push-ups near a rack in the
-near left corner of the room.
+This looks like a work-out room. There are mats on the floor, weights, and other equipment. A man dressed only in short pants is doing push-ups near a rack in the near left corner of the room.
 
  
 
@@ -412,29 +155,15 @@ near left corner of the room.
 
  
 
-This man is a veteran (1st level fighter). He is
-AC 8 because of good dexterity. When he sees
-the party, he grabs a weight from the rack and
-uses it like a mace (D 2-7, due to strength). He
-is too far from the dining room to call to the
-others, but he fights as best he can. He runs to
-alert the others if he can.
+This man is a veteran (1st level fighter). He is AC 8 because of good dexterity. When he sees the party, he grabs a weight from the rack and uses it like a mace (D 2-7, due to strength). He is too far from the dining room to call to the others, but he fights as best he can. He runs to alert the others if he can.
 
-There is nothing of value in this room. If
-party members choose, they can use the
-weights as maces, but they are — 1 to hit rolls
-and to damage when using them.
+There is nothing of value in this room. If party members choose, they can use the weights as maces, but they are — 1 to hit rolls and to damage when using them.
 
-7. WOMEN’S COMMON
-QUARTERS
+7. WOMEN’S COMMON QUARTERS
 
  
 
-This room contains a number of beds and
-wardrobes, a few chairs, and a couple of
-tables. It otherwise appears to be empty.
-There is an open doorway on the far side of
-the room.
+This room contains a number of beds and wardrobes, a few chairs, and a couple of tables. It otherwise appears to be empty.  There is an open doorway on the far side of the room.
 
  
 
@@ -442,22 +171,13 @@ the room.
 
  
 
-This room provides quarters for the female
-servants. There is no one here at the moment.
-Under one mattress can be found 7 sp and 5
-cp. Under a second mattress can be found 8 sp
-and 20 cp.
+This room provides quarters for the female servants. There is no one here at the moment.  Under one mattress can be found 7 sp and 5 cp. Under a second mattress can be found 8 sp and 20 cp.
 
 8. WOMEN’S BATH
 
  
 
-This long, narrow room has an open door-
-way at the far end. There are several wood-
-en tubs on the floor, and what looks like a
-stove in the middle of the room. The floor
-is wet, and there is a soap smell. The room
-appears to be empty.
+This long, narrow room has an open doorway at the far end. There are several wooden tubs on the floor, and what looks like a stove in the middle of the room. The floor is wet, and there is a soap smell. The room appears to be empty.
 
  
 
@@ -465,35 +185,18 @@ appears to be empty.
 
  
 
-This room is a bath. The stove is used to heat
-water for the tubs. The room is currently emp-
-ty. The floor is very slippery; any character
-searching here must roll his Dexterity or less,
-using 3d6, or slip on the floor and turn an
-ankle. A turned ankle cuts a character's move-
-ment rate by half for 1d6 turns.
+This room is a bath. The stove is used to heat water for the tubs. The room is currently empty. The floor is very slippery; any character searching here must roll his Dexterity or less, using 3d6, or slip on the floor and turn an ankle. A turned ankle cuts a character's movement rate by half for 1d6 turns.
 
 
  
 
 9. WOMEN’S DRESSING ROOM
 
-NOTE: The following description assumes the
-party enters this room from the east. If they
-enter from room 10, you must make the
-appropriate adjustments. The small entrance-
-way to the east of this room is currently empty.
-Both doors are swinging doors, and can easily
-be pushed open.
+NOTE: The following description assumes the party enters this room from the east. If they enter from room 10, you must make the appropriate adjustments. The small entranceway to the east of this room is currently empty.  Both doors are swinging doors, and can easily be pushed open.
 
  
 
-The left wall of this long, narrow room
-seems to be a curtain. The right wall is
-lined with pegs. There is a basket near the
-far end of the room that has some cloth
-things on it. Otherwise, the room appears
-to be empty.
+The left wall of this long, narrow room seems to be a curtain. The right wall is lined with pegs. There is a basket near the far end of the room that has some cloth things on it. Otherwise, the room appears to be empty.
 
  
 
@@ -501,25 +204,15 @@ to be empty.
 
  
 
-This area is used by the women to change
-clothes before using the bath or the exercise
-room (room 10). The curtain has several gaps
-through which one can enter room 10. The
-basket is filled with wet towels.
+This area is used by the women to change clothes before using the bath or the exercise room (room 10). The curtain has several gaps through which one can enter room 10. The basket is filled with wet towels.
 
 10. WOMEN’S EXERCISE ROOM
 
-NOTE: The following description assumes the
-party enters this room from the north. If they
-come from room 5, make the appropriate
-adjustments.
+NOTE: The following description assumes the party enters this room from the north. If they come from room 5, make the appropriate adjustments.
 
  
 
-This looks like a work-out room. There are
-mats on the floor, weights, and other
-equipment. The room otherwise seems to
-be empty.
+This looks like a work-out room. There are mats on the floor, weights, and other equipment. The room otherwise seems to be empty.
 
  
 
@@ -527,19 +220,13 @@ be empty.
 
  
 
-There is nothing of value in this room. If party
-members choose, they can use the weights as
-maces, but receive a — 1 to both hit and dam-
-age rolls when using them.
+There is nothing of value in this room. If party members choose, they can use the weights as maces, but receive a — 1 to both hit and damage rolls when using them.
 
 11. PANTRY
 
  
 
-This room is lined with shelves, and two
-additional rows of shelves are in the mid-
-dle of the room. Sacks and barrels are
-stacked along the left wall.
+This room is lined with shelves, and two additional rows of shelves are in the middle of the room. Sacks and barrels are stacked along the left wall.
 
  
 
@@ -547,29 +234,14 @@ stacked along the left wall.
 
  
 
-The sacks contain flour, potatoes, beans, and
-other food. The barrels hold pickles, dried
-fish, dried meat, and other preserved food.
-The shelves are not very well stocked, but
-there are wooden boxes filled with vegetables
-and bottles. On one shelf, together with bot-
-tles of vinegar, oil, and other common liquids,
-are five vials. Three contain potions of
-healing, one contains a potion of invisibility,
-and one contains a potion of poison.
+The sacks contain flour, potatoes, beans, and other food. The barrels hold pickles, dried fish, dried meat, and other preserved food.  The shelves are not very well stocked, but there are wooden boxes filled with vegetables and bottles. On one shelf, together with bottles of vinegar, oil, and other common liquids, are five vials. Three contain potions of healing, one contains a potion of invisibility, and one contains a potion of poison.
 
 12. TRAINING ROOM
 
-16. WINE STORAGE ROOM
 
  
 
-At the far end of this room is a window,
-and three more windows line the long wall
-to the left. All are barred. The floor is cov-
-ered with straw, bales of hay, and padded
-
-posts.
+At the far end of this room is a window, and three more windows line the long wall to the left. All are barred. The floor is covered with straw, bales of hay, and padded posts.
 
  
 
@@ -577,22 +249,15 @@ posts.
 
  
 
-This room is used for combat practice. The
-party cannot escape through the windows.
-Two battered, but serviceable, shields have
-been tossed into the northeast corner of the
-room.
+This room is used for combat practice. The party cannot escape through the windows.  Two battered, but serviceable, shields have been tossed into the northeast corner of the room.
 
 13. ARMORY
 
-Both doors to this room are locked. The com-
-mander and all the warriors (2nd level fight-
-ers) have keys.
+Both doors to this room are locked. The commander and all the warriors (2nd level fighters) have keys.
 
  
 
-This room is full of racks on which hang a
-large assortment of armor and weapons.
+This room is full of racks on which hang a large assortment of armor and weapons.
 
  
 
@@ -600,22 +265,15 @@ large assortment of armor and weapons.
 
  
 
-This room contains leather and chain mail
-armor in all human sizes, and a large number
-of short bows and arrows, short swords, spears,
-and shields. The party's equipment is here.
+This room contains leather and chain mail armor in all human sizes, and a large number of short bows and arrows, short swords, spears, and shields. The party's equipment is here.
 
-All the party's equipment, including magic
-items, are stored here.
+All the party's equipment, including magic items, are stored here.
 
 14. TORTURE CHAMBER
 
  
 
-The straw on the floor of this room is dis-
-colored. A number of strange devices line
-the west wall. In the middle of the wall is a
-shallow pit.
+The straw on the floor of this room is discolored. A number of strange devices line the west wall. In the middle of the wall is a shallow pit.
 
  
 
@@ -623,39 +281,22 @@ shallow pit.
 
  
 
-This is an interrogation and torture chamber.
-The stains on the floor are blood. The pit is a
-fire pit, with branding irons resting in the
-ashes of an earlier fire. The room contains a
-rack and two wicked-looking whips (D 1-2).
+This is an interrogation and torture chamber.  The stains on the floor are blood. The pit is a fire pit, with branding irons resting in the ashes of an earlier fire. The room contains a rack and two wicked-looking whips (D 1-2).
 
 15. JAILER’S QUARTERS
 
  
 
-This messy bedroom contains a bed, a
+This messy bedroom contains a bed, a table, a chair, and a lot of ragged clothing.
 
  
 
- 
-
-table, a chair, and a lot of ragged clothing.
-
- 
-
-The gnoll jailer lives in this room. He has a
-large chest hidden under the floorboards
-beneath his bed. It is trapped with a poison
-needed. Anyone who opens the chest without
-first finding and removing the poison needle
-must make a saving throw vs. Poison or die.
-The chest contains 300 gp.
+The gnoll jailer lives in this room. He has a large chest hidden under the floorboards beneath his bed. It is trapped with a poison needed. Anyone who opens the chest without first finding and removing the poison needle must make a saving throw vs. Poison or die.  The chest contains 300 gp.
 
 
+16. WINE STORAGE ROOM
 
-This room contains barrels and kegs of var-
-ious sizes. Several racks around the room
-are filled with bottles lying on their sides.
+This room contains barrels and kegs of various sizes. Several racks around the room are filled with bottles lying on their sides.
 
  
 
@@ -663,30 +304,15 @@ are filled with bottles lying on their sides.
 
  
 
-This room is used to store liquor. The barrels
-are filled with ale, and the kegs and bottles are
-filled with wine. A wine rack in the southwest
-corner doubles as a secret door to the treasury
-(room 42). To operate the door, one must pull
-on the second wine bottle from the left on the
-bottom shelf.
+This room is used to store liquor. The barrels are filled with ale, and the kegs and bottles are filled with wine. A wine rack in the southwest corner doubles as a secret door to the treasury (room 42). To operate the door, one must pull on the second wine bottle from the left on the bottom shelf.
 
 17. COMMON LIVING ROOM
 
-NOTE: The following description assumes the
-party enters this room from the west along the
-north wall. If they enter from another direc-
-tion, adjust the description accordingly.
+NOTE: The following description assumes the party enters this room from the west along the north wall. If they enter from another direction, adjust the description accordingly.
 
  
 
-This is an enormous room with many
-tables and comfortable chairs. The wall to
-your left and the far wall each have four
-windows. There is a door in the middle of
-the far wall that seems to lead outside. Two
-men dressed in leather are seated at a table
-in the far left corner, rolling dice.
+This is an enormous room with many tables and comfortable chairs. The wall to your left and the far wall each have four windows. There is a door in the middle of the far wall that seems to lead outside. Two men dressed in leather are seated at a table in the far left corner, rolling dice.
 
  
 
@@ -694,30 +320,15 @@ in the far left corner, rolling dice.
 
  
 
-The two men are veterans (Ist level fighters)
-armed with daggers. They are completely
-absorbed in their game, and are surprised on a
-roll of 1-5 on a 1d6. The gambling stakes on
-the table consist of 24 gp and 52 sp.
+The two men are veterans (1st level fighters) armed with daggers. They are completely absorbed in their game, and are surprised on a roll of 1-5 on a 1d6. The gambling stakes on the table consist of 24 gp and 52 sp.
 
-If the fighters are attacked but not killed or
-silenced immediately, they yell for help. Make
-an immediate check to see if any of the wan-
-dering fighters come to help. Wandering
-fighters arrive in 1-3 rounds.
+If the fighters are attacked but not killed or silenced immediately, they yell for help. Make an immediate check to see if any of the wandering fighters come to help. Wandering fighters arrive in 1-3 rounds.
 
-18. COMMANDER’S DINING
-ROOM
+18. COMMANDER’S DINING ROOM
 
  
 
-This appears to be a dining room. There is
-a large oval table in the middle of the room
-surrounded by straight chairs. The floor is
-carpeted. A closed cabinet is in the near
-left corner. Two large windows are on the
-far wall, and there is a door in the right
-wall, near the entrance.
+This appears to be a dining room. There is a large oval table in the middle of the room surrounded by straight chairs. The floor is carpeted. A closed cabinet is in the near left corner. Two large windows are on the far wall, and there is a door in the right wall, near the entrance.
 
  
 
@@ -725,71 +336,30 @@ wall, near the entrance.
 
  
 
-This room is used by the commander when
-entertaining visitors. Inside the cabinet is a set
-of silverware (worth 600 gp) and fine china
-(worth 200 gp). There is nobody here now.
+This room is used by the commander when entertaining visitors. Inside the cabinet is a set of silverware (worth 600 gp) and fine china (worth 200 gp). There is nobody here now.
 
 
  
 
-19. COMMANDER’S LIVING
-ROOM
+19. COMMANDER’S LIVING ROOM
 
  
 
-This seems to be a living room. There are
-some tables and a number of comfortable
-chairs around the room. The floor is car-
-peted. There is a window along the left
-wall and a door in the far wall directly
-opposite the entrance. There are three peo-
-ple seated in chairs around a table across
-from the door through which you entered.
-You recognize two of them as the com-
-mander and the visiting officer. They are
-wearing leather armor. The third person is
-a woman dressed in ordinary clothes. Each
-holds a glass of wine.
+This seems to be a living room. There are some tables and a number of comfortable chairs around the room. The floor is carpeted. There is a window along the left wall and a door in the far wall directly opposite the entrance. There are three people seated in chairs around a table across from the door through which you entered.  You recognize two of them as the commander and the visiting officer. They are wearing leather armor. The third person is a woman dressed in ordinary clothes. Each holds a glass of wine.
 
  
 
- 
+The three people are the commander, his wife, and the visiting officer. Both the commander and the visiting officer are armed with daggers. Their AC and damage reflect bonuses from dexterity and strength. The commander's wife does not fight.
 
- 
+If the alarm has been raised, the commander is armed with a short sword +1 and is wearing plate mail and a shield +1. Both these items are located in room 20 when not worn. The visitor carries a short sword. They cannot be surprised once the alarm has been given.
 
-The three people are the commander, his
-wife, and the visiting officer. Both the com-
-mander and the visiting officer are armed with
-daggers. Their AC and damage reflect
-bonuses from dexterity and strength. The
-commander's wife does not fight.
-
-If the alarm has been raised, the com-
-mander is armed with a short sword + 1 and is
-wearing plate mail and a shield +1. Both the-
-se items are located in room 20 when not
-worn. The visitor carries a short sword. They
-cannot be surprised once the alarm has been
-given.
-
-The commander is wearing a gold bracelet
-set with diamonds, worth 750 gp. He also car-
-ties two keys: one unlocks room 1, the other
-room 13.
+The commander is wearing a gold bracelet set with diamonds, worth 750 gp. He also carries two keys: one unlocks room 1, the other room 13.
 
 20. COMMANDER’S BEDROOM
 
  
 
-This is obviously a bedroom. There are two
-large beds, two wardrobes, a desk, a table,
-and several chairs. There are ornate rugs on
-the floor. There is a large window in the
-outside wall, a door directly across from
-the door by which you entered, and an
-open doorway in the wall opposite the win-
-dow.
+This is obviously a bedroom. There are two large beds, two wardrobes, a desk, a table, and several chairs. There are ornate rugs on the floor. There is a large window in the outside wall, a door directly across from the door by which you entered, and an open doorway in the wall opposite the window.
 
  
 
@@ -797,56 +367,30 @@ dow.
 
  
 
-If the commander was not alerted, a short
-sword +1, plate mail armor, and a shield +1
-are hanging on the wall.
+If the commander was not alerted, a short sword +1, plate mail armor, and a shield +1 are hanging on the wall.
 
-If the party goes through the open doorway
-into room 20a, read the following:
+If the party goes through the open doorway into room 20a, read the following:
 
  
 
-This area appears to be a bath. There is a
-small stove at the far end and a large metal
-tub nearby. Closer to the door is a dressing
-table with a mirror.
+This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
 
  
-
- 
-
- 
-
-A drawer in the dressing table has a false bot-
-
-tom that conceals 94 pp, 17 gp, and a cursed
-dagger —1.
+A drawer in the dressing table has a false bottom that conceals 94 pp, 17 gp, and a cursed dagger —1.
 
 21. VISITOR’S QUARTERS
 
  
 
-This is obviously a bedroom, with a large
-bed, a wardrobe, a desk, a table, and sev-
-eral chairs. There are a few small rugs on
-the floor. There is a large window in the
-left wall, and an open doorway to your
-right. Otherwise, the room appears to be
-
-empty.
+This is obviously a bedroom, with a large bed, a wardrobe, a desk, a table, and several chairs. There are a few small rugs on the floor. There is a large window in the left wall, and an open doorway to your right. Otherwise, the room appears to be empty.
 
  
 
-The room is empty. If the party goes through
-the open doorway into room 21a, read the fol-
-lowing:
+The room is empty. If the party goes through the open doorway into room 21a, read the following:
 
  
 
-This area appears to be a bath. There is a
-small stove at the far end and a large metal
-tub nearby. Closer to the door is a dressing
-table with a mirror.
+This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
 
  
 
@@ -860,27 +404,15 @@ This room is empty.
 
  
 
-This is obviously a bedroom, with a large
-bed, a wardrobe, a desk, a table, and sev-
-eral chairs. There are a few small rugs on
-the floor. There is a large window in the
-left wall, and an open doorway to your
-right. Otherwise the room appears to be
-
-empty.
+This is obviously a bedroom, with a large bed, a wardrobe, a desk, a table, and several chairs. There are a few small rugs on the floor. There is a large window in the left wall, and an open doorway to your right. Otherwise the room appears to be empty.
 
  
 
-The room is empty. If the party goes through
-the open doorway into room 22a, read the fol-
-lowing:
+The room is empty. If the party goes through the open doorway into room 22a, read the following:
 
  
 
-This area appears to be a bath. There is a
-small stove at the far end and a large metal
-tub nearby. Closer to the door is a dressing
-table with a mirror.
+This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
 
  
 
@@ -894,14 +426,7 @@ This room is empty.
 
  
 
-This is obviously a bedroom, with a large
-bed, a wardrobe, a desk, a table, and sev-
-eral chairs. There are a few small rugs on
-the floor. There is a large window in the
-left wall, another across the room from
-the door, and an open doorway to your
-right. Otherwise, the room appears to be
-empty.
+This is obviously a bedroom, with a large bed, a wardrobe, a desk, a table, and several chairs. There are a few small rugs on the floor. There is a large window in the left wall, another across the room from the door, and an open doorway to your right. Otherwise, the room appears to be empty.
 
  
 
@@ -909,24 +434,13 @@ empty.
 
  
 
-The visiting officer is quartered here. Her
+The visiting officer is quartered here. Her things are in the wardrobe. In addition to clothing, there is plate mail armor, a shield, and a long sword. There is also a bag of holding that contains 2,000 gp and 6,000 sp.
 
-
-
-things are in the wardrobe. In addition to
-clothing, there is plate mail armor, a shield,
-and a long sword. There is also a bag of hold-
-ing that contains 2,000 gp and 6,000 sp.
-
-If the party goes through the open doorway
-into room 23a, read the following:
+If the party goes through the open doorway into room 23a, read the following:
 
  
 
-This area appears to be a bath. There is a
-small stove at the far end and a large metal
-tub nearby. Closer to the door is a dressing
-table with a mirror.
+This area appears to be a bath. There is a small stove at the far end and a large metal tub nearby. Closer to the door is a dressing table with a mirror.
 
  
 
@@ -938,380 +452,138 @@ This room is empty.
 
 24-41. OFFICERS’ QUARTERS
 
-All the officers at this oupost have private
-quarters. The rooms in this section are all
-identical. They contain a single bed, a ward-
-robe, a table with a chair pulled up to it, alow
-table near the bed, and chair near the low
-table.
+All the officers at this oupost have private quarters. The rooms in this section are all identical. They contain a single bed, a wardrobe, a table with a chair pulled up to it, alow table near the bed, and chair near the low table.
 
-24, FEMALE VETERAN’S
-QUARTERS
+24. FEMALE VETERAN’S QUARTERS
+
+ 
+There is a sword on the low table and chain mail armor draped over the chair. A woman in leather armor is asleep on the bed.
+
+The woman is a veteran (1st level fighter). The sword is a short sword. She has hidden 4 gp, 4 sp, and 4 cp under her mattress.
+
+25. FEMALE VETERAN’S QUARTERS
+
+The woman who lives in this room is currently in the lunchroom. There is chain mail armor in the wardrobe. There is a false bottom in the table drawer that conceals 7 gp, 5 sp, and 10 cp.
+
+26. FEMALE VETERAN’S QUARTERS
+
+The woman who lives in this room is currently in the lunchroom. There is chain mail armor in the wardrobe.
+
+27. FEMALE WARRIOR’S QUARTERS
 
  
 
-There is a sword on the low table and chain
-mail armor draped over the chair. A wom-
-an in leather armor is asleep on the bed.
+This room is slightly different from the others. Set apart from the rest of the room in the near left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword hangs on the wall beside it. Seated at the desk is a woman dressed in leather, writing a letter.
 
- 
-
- 
-
- 
-
-The woman is a veteran (1st level fighter). The
-sword is a short sword. She has hidden 4 gp, 4
-sp, and 4 cp under her mattress.
-
-25. FEMALE VETERAN’S
-QUARTERS
-
-The woman who lives in this room is currently
-in the lunchroom. There is chain mail armor
-in the wardrobe. There is a false bottom in the
-table drawer that conceals 7 gp, 5 sp, and 10
-
-cp.
-
-26. FEMALE VETERAN’S
-QUARTERS
-The woman who lives in this room is currently
-
-in the lunchroom. There is chain mail armor
-in the wardrobe.
-
-27. FEMALE WARRIOR’S
-QUARTERS
-
- 
-
-This room is slightly different from the
-others. Set apart from the rest of the room
-in the near left corner is a low table sur-
-rounded by four comfortable chairs. There
-
- 
-
- 
-
- 
-
-
- 
-
-is a desk in the far left corner, and a sword
-hangs on the wall beside it. Seated at the
-desk is a woman dressed in leather, writing
-
- 
-
- 
-
-a letter.
-
- 
-
-This woman is a warrior (2nd level fighter). In
-easy reach of her is a short sword +1. Because
-of her strength, she does 1 extra point of dam-
-age per attack. She carries a large pouch on her
-belt containing 10 gp, 21 sp, and 20 cp. She
-has a key ring with two keys: one to her room
-and one to the armory (room 13).
+This woman is a warrior (2nd level fighter). In easy reach of her is a short sword +1. Because of her strength, she does 1 extra point of damage per attack. She carries a large pouch on her belt containing 10 gp, 21 sp, and 20 cp. She has a key ring with two keys: one to her room and one to the armory (room 13).
 
 28. MALE VETERAN’S QUARTERS
 
- 
+There is a sword hanging on a rack on the wall.
 
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is short sword.
-There is chain mail armor in the wardrobe.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword.  There is chain mail armor in the wardrobe.
 
 29. MALE VETERAN’S QUARTERS
 
- 
+There is a sword hanging on a rack on the wall.
 
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is short sword.
-There is chain mail armor in the wardrobe.
-The drawer in the table contains 1 gp and 3
-
-sp.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword.  There is chain mail armor in the wardrobe.  The drawer in the table contains 1 gp and 3 sp.
 
 30. MALE VETERAN’S QUARTERS
 
- 
+There is a sword hanging on a rack on the wall.
 
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is short sword.
-There is chain mail armor in the wardrobe.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword.  There is chain mail armor in the wardrobe.
 
 31. MALE VETERAN’S QUARTERS
+
+There is a sword hanging on a rack on the wall.
+
+The man who lives in this room is currently in the lunchroom. The sword is a short sword.  There is chain mail armor in the wardrobe. There are 4 gp and 7 sp hidden under the mattress.
+
+32. MALE VETERAN’S QUARTERS
+
+There is a sword on the low table and chain mail armor draped over the chair. A man wearing leather armor is asleep on the bed.
+
+The man is a veteran (1st level fighter). The sword is a short sword. The drawer in the table contains 6 gp, 8 sp, and 2 cp.
+
+33. EMPTY QUARTERS
+
+This is identical to the other bedrooms, but it appears to be unused.
 
 This room is empty.
 
 34. EMPTY QUARTERS
 
- 
-
-This is identical to the other bedrooms,
-but it appears to be unused.
-
- 
+This is identical to the other bedrooms, but it appears to be unused.
 
 This room is empty.
 
 35. MALE VETERAN’S QUARTERS
 
- 
+There is a sword hanging on a rack on the wall.
 
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is short sword. There
-is chain mail armor in the wardrobe. There are 4
-gp and 7 sp hidden under the mattress.
-
-32. MALE VETERAN’S QUARTERS
-
-The occupant of this room is working out in
-the exercise room (room 6). The sword is a
-short sword. There is chain mail armor in the
-wardrobe.
+The occupant of this room is working out in the exercise room (room 6). The sword is a short sword. There is chain mail armor in the wardrobe.
 
 36. MALE VETERAN’S QUARTERS
 
- 
+There is a sword on the low table and chain mail armor draped over the chair. A man wearing leather armor is asleep on the bed.
 
-There is a sword on the low table and chain
-mail armor draped over the chair. A man
-
- 
-
- 
-
-wearing lether armor is asleep on the bed.
-
-There is a sword on the low table and chain
-mail armor draped over the chair. A man
-wearing leather armor is asleep on the bed.
-
- 
-
- 
-
- 
-
-The man is a veteran (Ist level fighter). The
-sword is a short sword. The drawer in the table
-contains 6 gp, 8 sp, and 2 cp.
-
-33. EMPTY QUARTERS
-
-The man is a veteran (Ist level fighter). The
-sword is a short sword. A pouch attached to his
-belt contains 3 gp, 4 sp, and 2 cp.
+The man is a veteran (1st level fighter). The sword is a short sword. A pouch attached to his belt contains 3 gp, 4 sp, and 2 cp.
 
 37. MALE VETERAN’S QUARTERS
 
- 
-
-This is identical to the other bedrooms,
-
- 
-
- 
-
-but it appears to be unused.
-
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
- 
+There is a sword hanging on a rack on the wall.
 
 THE GREAT ESCAPE: Monsters
 
- 
-
-Room Monster No. Hit AC HD hp MV #AT D Save ML AL SA/SD XP
-_Roll
-WM_ Veteran (F1) lor2 19 7 1 7each 120'(40') 1 1-4 Fl ime | No 10
-1 Gnoll 1 18 5 2 8 90'(30') 1 1-406 1-641 F2 BANG No 20
+Room Monster No. Hit Roll AC HD hp MV # AT D Save ML AL SA/SD XP
+WM Veteran (F1) 1 or 2 19 7 1 7 each 120'(40') 1 1-4 Fl ime | No 10
+1 Gnoll 1 18 5 2 8 90'(30') 1 1-4 or 1-641 F2 BANG No 20
 2. Male Servant 6 19 9 1 3 each 120'(40') 0 0 NM 6 N No 5
-2 Female 6 19 9 1 2each 120'(40') 0 0 NM 6. SN SaNo 5
-Servant
+2 Female Servant 6 19 9 1 2each 120'(40') 0 0 NM 6. SN SaNo 5
 6 Veteran (F1) 1 19 8 1 7 120'(40') 1 16+41ST Fl 9 ANS No 10
 17 Veteran (F1) 2 19 a 6,5 120'(40') 1 1-4 Fl 9 N No 10
 19 Commander 1 16 6 4 24 120'(40') 1 1-4 +2 F4 1034! Se No 75
-(F4) ST/DX
+ST/DX
 19 Wife (NM) 1 19 aes 3 120'(40') ° 0 NMS SLs TENG ARES
 19 Visiting 1 17 6 3 16 120'(40') La DS 9= N< S<Noin455)
 Officer (F3)
 24 Veteran (F1) 1 19 Pi 6 120'(40') 1 1-6 Fl 8 N No 10
-27. Warrior (F2) 1 19 eit 8 120'(40') 11-6 + 2ST F2 9 N No 20
+27 Warrior (F2) 1 19 eit 8 120'(40') 11-6 + 2ST F2 9 N No 20
 32 Veteran (F1) 1 19 Fahad 6 120'(40') 1 1-6 Fi 8 N No 10
 36 Veteran (F1) 1 19 7 1 6 120'(40’) 1 1-6 Fi Se Ne No sw
 41 Warrior (F2) 1 19 6 2 8 120'(40') 1 1-6 F2 9 N No 2
 
-
-
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is a short sword (D
-1-6). There is chain mail armor in the ward-
-robe. The wardrobe also holds a small pouch
-containing 6 gp and 2 sp.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword (D 1-6). There is chain mail armor in the wardrobe. The wardrobe also holds a small pouch containing 6 gp and 2 sp.
 
 38. MALE VETERAN’S QUARTERS
 
- 
+There is a sword hanging on a rack on the wall.
 
-There is a sword hanging on a rack on the
-wall.
-
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is a short sword (D
-1-6). There is chain mail armor in the ward-
-robe.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword (D 1-6). There is chain mail armor in the wardrobe.
 
 39. MALE WARRIOR’S QUARTERS
 
- 
+This room is different from the other bedrooms. Set apart from the rest of the room in the left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword and a shield hang on the wall beside it.
 
-This room is different from the other bed-
-rooms. Set apart from the rest of the room
-in the left corner is a low table surrounded
-by four comfortable chairs. There is a desk
-in the far left corner, and a sword and a
-shield hang on the wall beside it.
-
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is a short sword;
-and the shield is of normal make. There is a
-set of chain mail +1 in the wardrobe. A small
-purse hiden in a chair contains 7 gp and 12 sp.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword; and the shield is of normal make. There is a set of chain mail +1 in the wardrobe. A small purse hiden in a chair contains 7 gp and 12 sp.
 
 40. MALE WARRIOR’S QUARTERS
 
- 
 
-This room is different from the other bed-
-rooms. Set apart from the rest of the room
-in the left corner is a low table surrounded
-by four comfortable chairs. There is a desk
-in the far left corner, and a sword and a
-shield hang on the wall beside it.
+This room is different from the other bedrooms. Set apart from the rest of the room in the left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword and a shield hang on the wall beside it.
 
- 
-
- 
-
- 
-
-The man who lives in this room is currently in
-the lunchroom. The sword is a short sword;
-and the shield is a shield +1. There is a set of
-chain mail armor in the wardrobe. A secret
-compartment in the bottom of the wardrobe
-conceals 8 gp and 20 sp.
+The man who lives in this room is currently in the lunchroom. The sword is a short sword; and the shield is a shield +1. There is a set of chain mail armor in the wardrobe. A secret compartment in the bottom of the wardrobe conceals 8 gp and 20 sp.
 
 41. MALE WARRIOR’S QUARTERS
 
- 
-
-This room is different from the other bed-
-rooms. Set apart from the rest of the room
-in the left corner is a low table surrounded
-by four comfortable chairs. There is a desk
-in the far left corner, and a sword and a
-shield hang on the wall beside it. A man
-dressed in leather is asleep on the bed.
+This room is different from the other bedrooms. Set apart from the rest of the room in the left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword and a shield hang on the wall beside it. A man dressed in leather is asleep on the bed.
 
  
+This man is a warrior (2nd level fighter). His superior strength gives him +1 to damage in any attack. He is wearing leather armor and has a dagger in his belt. The short sword and shield are of normal make. There is plate mail armor in the wardrobe. A key on the bedside table unlocks the armory (room 13). A locked metal box in the bottom of the wardrobe contains 19 gp and 20 sp.
 
- 
-
- 
-
-This man is a warrior (2nd level fighter), His
-
-superior strength gives him +1 to damage in
-any attack. He is wearing leather armor and
-has a dagger in his belt. The short sword and
-shield are of normal make. There is plate mail
-armor in the wardrobe. A key on the bedside
-table unlocks the armory (room 13). A locked
-metal box in the bottom of the wardrobe con-
-tains 19 gp and 20 sp.
-
-The west wall of this room is paneled with
-wood. If the panel nearest the north wall is
-pressed just above eye level for a normal
-human, the secret door to the treasury will
-open. One of the chairs surrounding the table
-in this corner is backed up into this corner, so
-the chair must be moved in order to open the
-door.
+The west wall of this room is paneled with wood. If the panel nearest the north wall is pressed just above eye level for a normal human, the secret door to the treasury will open. One of the chairs surrounding the table in this corner is backed up into this corner, so the chair must be moved in order to open the door.
 
 42. TREASURY
 
@@ -2657,7 +1929,7 @@ on any attack.
 
 Elwyn’s spells are as follows:
 
-Ist level: cause fear, darkness (used)
+1st level: cause fear, darkness (used)
 2nd level: blight, hold person
 3rd level: curse
 
@@ -17871,7 +17143,7 @@ whose statue is atop the pyramid.
  
 
 The women are all Warrior Maidens of Mada-
-tua. Seven are Ist level fighters (AC 5; F1; hp
+tua. Seven are 1st level fighters (AC 5; F1; hp
 5 each; MV 20’; #AT 1; D 1-8; Save Fl; ML8;
 ALN). Two are 2nd level (AC 5 hp; hp 9; MV
 20'; #AT 1; D 1-8; Save F2). The leader of the
@@ -18960,7 +18232,7 @@ sessed character will die.
  
 
 Demetrius has the following spells:
-Ist level: cure light wounds, detect evil
+1st level: cure light wounds, detect evil
 2nd level: bless, hold person
 *3rd level: striking
 *4th level: cure serious wounds
@@ -19546,7 +18818,7 @@ spell; D 1-6 +1; Save C6; ML 10; ALC; S
 
 Darius has the following spells:
 
-Ist level: cure light wounds, light**
+1st level: cure light wounds, light**
 
 2nd level: bless**, silence 15’ radius
 
@@ -19842,7 +19114,7 @@ to do some service for the church.
 
 NOTE: NPC’s listed as Normal Humans have
 a —1 chance to hit and a — 1 on saving throws.
-They save as a Ist level Fighter.
+They save as a 1st level Fighter.
 
 Characters are healed 1 hit point per day of
 rest. Rest means no fighting, magic using, or
