@@ -982,1051 +982,191 @@ The minotaur will agree to help the bugbears against invaders at the cost of one
 
 Don't worry about calling the same passage as a different direction should they travel over the same route twice — that’s the effect of the magic on them. You may wish to allow the mapping character a secret saving throw every couple of turns, a 19 or 20 indicating that effect has been thrown off.)
 
+42. STIRGE CAVE: There are 13 of these flying monsters here: (AC 7, HD 1, hp 3 each, #AT 1 at +2, D 1-3 the first round plus 1-4 per additional round, MV 60’, Save Fl, ML 9). After an opponent is hit, the stirge will automatically suck blood each round thereafter, doing 1-4 hit points of damage until the victim is dead or the stirge is killed. The minotaur loves to catch and eat these creatures, so they avoid him, and they are quite hungry. In fact, this hunger makes it 90% likely that they will be squeaking and hooting to one another, so the party won't be surprised. They have No treasure.
 
+43. FIRE BEETLES: Three dwell in this area: (AC 4, HD 1+2, hp 7 each, #AT 1, D 2-8 (2d4), MV 40’, Save F1, ML 7). They, too, are hungry and will hasten to attack any persons entering this area. They have no treasure, but two glands above their eyes and one in their abdomen will glow with a red light, 10’ radius, for 1-6 days after the beetle is killed.
 
+44. FIRE BEETLES: There are 2 of these creatures here, in all respects like those in 43., above.
 
+45. THE MINOTAUR: This huge monster has AC 4 due to a great chain mail coat he wears, and carries a magic spear + 1(AC 4, HD 6, hp 35, #AT 1 or 2, D 4-9 or 1-6/ 1-6, MV 40’, Save F6, ML 12). When he attacks, the minotaur first rushes and stabs with the spear for 4-9 points damage (d6+3 due to his strength). The next round he will gore and bite for 1-6 points of damage for each successful attack. The minotaur may only use his spear or his horns and bite.
 
+When intruders enter the area, the minotaur immediately moves to attack. He knows this area so well that the only way for victims to escape is to go through the secret door into area 36., or else to run out of the place and climb a large tree.
 
-42. STIRGE CAVE: There are 13 of these
-flying monsters here: (AC 7, HD 1, hp 3
-each, #AT 1 at +2, D 1-3 the first round
-plus 1-4 per additional round, MV 60’,
-Save Fl, ML 9). After an opponent is hit,
-the stirge will automatically suck blood
-each round thereafter, doing 1-4 hit points
-of damage until the victim is dead or the
-stirge is killed. The minotaur loves to catch
-and eat these creatures, so they avoid him,
-and they are quite hungry. In fact, this
-hunger makes it 90% likely that they will
-be squeaking and hooting to one another,
-so the party won't be surprised. They have
-No treasure.
-
-43. FIRE BEETLES: Three dwell in this area:
-(AC 4, HD 1+2, hp 7 each, #AT 1, D 2-8
-(2d4), MV 40’, Save F1, ML 7). They, too,
-are hungry and will hasten to attack any
-persons entering this area. They have no
-treasure, but two glands above their eyes
-and one in their abdomen will glow with a
-red light, 10’ radius, for 1-6 days after the
-beetle is killed.
-
-44, FIRE BEETLES: There are 2 of these
-creatures here, in all respects like those in
-43., above.
-
-45, THE MINOTAUR: This huge monster
-has AC 4 due to a great chain mail coat he
-wears, and carries a magic spear + 1(AC 4,
-HD 6, hp 35, #AT 1 or 2, D 4-9 or 1-6/ 1-6,
-MV 40’, Save F6, ML 12). When he
-attacks, the minotaur first rushes and stabs
-with the spear for 4-9 points damage
-(d6+3 due to his strength). The next
-round he will gore and bite for 1-6 points
-of damage for each successful attack. The
-minotaur may only use his spear or his
-horns and bite.
-
-When intruders enter the area, the
-minotaur immediately moves to attack. He
-knows this area so well that the only way
-for victims to escape is to go through the
-secret door into area 36., or else to run out
-of the place and climb a large tree.
-
-The cave the minotaur dwells in has
-skulls and bones arrayed in decorative pat-
-terns. The secret door is actually a slab of
-stone which takes not less than 3 humans
-
-
- 
-
-to move. (It will be noticed by careful
-checking of the walls, but discovering how
-it is moved requires a roll of 1 on a six-
-sided die to find where it can be grasped.
-All of the minotaur’s treasure is behind
-this slab of rock. It hides:
-
-locked chest (with poison needle in
-lock) — contents 930 gp and 310 ep
-staff of healing
-
-man-sized (optionally elf-sized) magic
-plate armor +1
-
-locked coffer — contents 3 potion bot-
-tles (gaseous form, delusionary heal-
-ing, giant strength)
-
-locked chest — contents 3 pieces of jew-
-elry worth 1,600 gp, 900 gp, and 600
-BP, respectively
-
-GNOLL LAIR: The entry into this place is
-a small cave — and only at the end will
-worked stone be visible. If the adventurers
-have a light or make too much noise, the
-gnoll guards (46.) will certainly be alerted
-and ready.
-
-46. GUARD ROOM: There are always 4
-
-gnolls (AC 5, HD 2, hp 9 each, #AT 1,
-D 2-8, MV 30’, Save F2, ML 8) on duty
-here. Two have bows, will shoot at
-intruders until melee takes place; they will
-then run for help while the other two
-fight. Each gnoll has d8 each ep, sp and cp.
-
-47. GUARD ROOM: 3 males (AC 5, hp 8
-
-each, #AT 1, D 2-8, MV 30’, Save F2, ML
-8) and 5 females (AC 6, HD 1+1, hp 5
-each, #AT 1, D 1-8, MV 30’, Save Fl, ML
-7) are quartered here. They will be ready to
-fight immediately. The males have d6 gp
-each, the females have d4. There is a scat-
-tering of rude furniture in the place, heaps
-of bedding on the floor, several hides and
-pelts on the walls (one is a valuable sable
-cloak worth 450 gp), and a barrel of water
-in the southwest corner of the room.
-
-48. LOCKED ROOM: This chamber is a
-
-store room and armory. Besides the usual
-provisions, there are 7 shields, a suit of
-dwarf-sized chain mail, 12 battle axes, 3
-longbows, 5 quivers of arrows (20 in each),
-and a magic sword (—2 cursed). One bar-
-rel of exceptionally fine ale is leaking and
-the odor will tempt adventurers to taste it.
-It is so good, in fact, that there is a 5 in 6
-chance per taste that he or she will draw a
-healthy draught and then spend the next
-1-4 turns drinking. (If this occurs, be sure
-that you have the appropriate characters
-
-sing, make noise, and act foolishly. Any of
-their attacks will be at —2 to hit; this will
-continue for as many turns as they spend
-drinking i.e. 1-4).
-
-49. COMMON ROOM: This place quarters
-the gnoll tribe — 6 males (AC 5, HD 2, hp
-8each, #AT 1, D 2-8, MV 30’, Save F2, ML
-8), 11 females (AC 6, HD 1 +1, hp 5 each,
-#AT 1, D 1-8, MV 30’, Save Fl, ML 7), and
-18 young who do not fight. Males have dé
-each of ep and sp, females d10 sp each.
-There is the usual clutter of worthless fur-
-niture in the room.
-
-50. GNOLL CHIEFTAIN’S QUARTERS: The
-gnoll leader wears pieces of plate mail (AC 3,
-HD 3, hp 17, #AT 1, D 4-10 (2d4 + 2) due
-to his strength, Save F3, ML 10). With him
-are his two sons (AC 4 due to chain mail and
-shield, HD 2+1, hp 10 each, #AT 1, D 3-9
-(2d4 +1), Save F2, ML 10), and 4 females
-(AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8,
-MV 30’, Save F1, ML 9). The chieftain has a
-pair of silver armbands worth 50 gp each,
-and there are 39 gp in his belt pouch. His
-sons have d10 each gp, ep, and sp. Each
-female wears as silver neck chain worth 30 gp
-and has 2d6 ep in addition. The furnishings
-of the place are crude and battered. A large
-metal pot beneath a flagstone in the fireplace
-alcove hides 200 cp, 157 sp, 76 ep, and 139
-
-The secret door and passage to area K.,
-63., is unknown to all parties. Just inside
-the entrance is the skeleton of a human
-thief; his leg broken, he must have died
-here trying to escape through the secret
-door. The rotten leather armor and corrod-
-ed weapons are valueless, but the purse at
-his belt holds 12 gems of 50 gp base value
-each, and the elven boots upon his bony
-feet are still in usable shape.
-
-(DM Note: Losses by the gnolls cannot be
-replaced. They have a loose alliance with the
-ofcs, so any surviving gnolls will move to the
-orc areas and vice versa. If you wish, allow the
-chieftain to be able to escape by climbing up
-the chimney of the fireplace in his area.)
-
-K. SHRINE OF EVIL CHAOS: A faint, foul
-draft issues from the 20’ wide cave mouth
-which is the entrance to this place. The
-worn path through the copse of obscenely
-twisted and oddly bloated trees gives those
-approaching along its length an eerie sense
-of unease, and as soon as they enter the
-cave mouth a dim awareness of lurking evil
-will pervade their senses. Red strata inter-
-
-4B
-
-twines with bulging black veins running
-through the hewn rock walls beyond the
-entrance. The wide corridors and chambers
-are deathly still. A faint groaning sound,
-and a shrill piping may be occasionally
-heard, barely perceptible even if the party
-is absolutely silent and listening.
-
-The floors are smooth and worn by the
-tread of countless feet of the worshipers at
-this grim place. The footsteps of intruders
-will echo alarmingly in these vaulted halls
-(+2 chance of being surprised if no pre-
-cautions are taken), and extreme care must
-be taken to muffle such sounds if the party
-has any hopes of remaining undetected
-until the moment of their choosing. Con-
-tinual noise will bring a group of zombie
-guards to investigate:
-
-8 zombies: (AC 8, HD 2, hp 8 each, #AT 1,
-
-D 1-8, MV 30’, Save Fl, ML 12). These
-ghastly monsters are clad in filthy red and
-black striped uniforms. Each carries a
-cleaver-like battle axe. (Each wears an
-amulet of protection from turning, so
-attempts by a cleric to turn them are made
-as if they were ghouls rather than zom-
-bies.)
-
-BOULDER FILLED PASSAGE: Large
-rocks and boulders have been placed here
-in order to seal off this tunnel. It will take
-100 man-turns to open a way large enough
-for a human to pass through into the area
-beyond (possibly outside and southwest of
-the Caves of Chaos).
-
-HALL OF SKELETONS: This unusual
-audience chamber has a dais and throne-like
-chair set with 4 large red gems (500 gp each)
-at the south end. It is otherwise empty except
-for a dozen skeletons, clad in rags of chain
-mail and bearing battered shields and rusty
-scimitars, propped against the walls. These
-bony guards do not move, and any attempt
-to tum them immediately upon entering the
-chamber will have no effect, as they are obvi-
-ously not animated. However, as soon as
-intruders touch the dais or throne chair, these
-monsters will spring into action from their
-positions on either wall of the chamber. Each
-has an amulet of protection from turning on
-it, so they are turned by a cleric as if they were
-zombies, (AC 7, HD 1, hp 3 each, #AT 1, D
-1-6, Save Fl, ML 12). They have no treasure.
-
-Once the skeletons are disposed of, it is
-an easy task to pry the 4 garnets (gems)
-from the back of the chair.
-
-
- 
-
-53. GUARD ROOM: There will always be 8
-zombies (AC 8, HD 2, hp 8 each, #AT 1,
-D 1-8, Save Fl, ML 12), turned as if they
-were ghouls due to amulets of protection
-from turning hulking silently here, 4 at
-either end of the hall. Anyone entering
-will be attacked unless they are robed (see
-area 54., below) and have an amulet iden-
-tical to the ones which the undead guards
-or priests wear. There is no treasure here.
-
-54. ACOLYTES’ CHAMBER: There are 4
-acolytes (1st level clerics) here (AC 5, C1,
-hp 4 each, #AT 1, D 1-6, ML8), all dressed
-in rusty red robes with black cowls. Under
-these robes, each wears chain mail and a
-mace at his belt. Each carries 10 gp in his
-purse, and the leader wears an amulet of
-protection from good. This amulet circles
-the wearer with a magical barrier against
-attacks by characters or creatures of other
-alignments by subtracting 1 from the “to
-hit” rolls of these opponents and adding
-+1 to the wearer's saving throws. The
-amulet will also keep out melee attacks
-from enchanted (magical) monsters (such
-as gargoyles), but not missile attacks from
-these creatures. Their room contains four
-hard pallets, a brazier, a table, four stools,
-acabinet for clothing, a water pail, a waste
-bucket, and a flagon of wine and four
-cups. There is nothing of value amongst
-these items.
-
-55. EVIL CHAPEL: This place is of red
-stone, the floor being a mosaic checker-
-board of black and red. The south wall is
-covered by a huge tapestry which depicts a
-black landscape, barren trees, and uniden-
-tifiable but horrible black shapes in silhou-
-ette — possibly demons of some sort —
-holding aloft a struggling human. A gray
-sky is torn by wisps of purple clouds, and a
-bloody moon with a skull-like face upon it
-leers down upon the scene. Four black pil-
-lars support the domed ceiling some 25’
-overhead. Between these columns, just in
-front of the tapestry, is a stone altar of red
-veined black rock, rough-hewn and
-stained brown with dried blood. Upon it
-are 4 ancient bronze vessels — a shallow
-bowl, a pair of goblets, and an ewer, a vase-
-shaped pitcher. They are also bloodstained
-but obviously worth a great deal of money.
-(The value is 1,000 gp for each cup, and
-2,000 gp for each of the other items, but
-these are relics of evil, and any character
-possessing them will not part with them or
-sell them nor allow others to handle them.
-For each character who picks up one of the-
-
-se objects, the DM should roll a secret sav-
-ing throw vs. Spells at —2. Any who save
-successfully will get a “feeling of great
-evil” about the object, and he or she may
-voluntarily put it down. If the save fails,
-the characters will rapidly fall under the
-influence of a demonic spell and within 6
-days become a servant of chaos and evil,
-returning to this chapel to replace the
-relics, and then staying as a guard forever
-after. If someone attempts to destroy these
-relics, the great bell (see 58., below) will
-sound and the Shrine’s residents will come
-running in 3 rounds. If a detect evil spell is
-cast upon these items, they will glow an
-ugly purple, and all good characters will
-feel an instant loathing for them. If the
-character who has taken them has a dispel
-magic and then a bless spell cast upon him
-or her, there is a 60% chance of removing
-the evil on the first day, 50% on the 2d,
-40% on the 3rd, 30% on the 4th, 20% on
-the 5th, and 10% on the 6th. Otherwise,
-nothing will be able to save the character!).
-
-56. ADEPTS’ CHAMBER: There are 4
-adepts (2nd level clerics) here, each clad in
-a black robe with a maroon colored cowl
-(AC 2, C2, hp 8 each, #AT 1, D 1-6, ML
-8), wearing plate mail beneath their gar-
-ments, and each bearing a mace. Their
-waists are circled with copper chains (worth
-40 gp each) with skull shaped clasps fash-
-ioned of bone. Each carries a purse with 20
-gold and 5 platinum pieces, and each
-wears an amulet of protection from good,
-which makes their effective armor class 2
-vs. good creatures. The first and second
-have cause light wounds spells (does 2-7
-points of damage to creature touched; nor-
-mal ‘‘to hit” roll must be made to touch
-victim), the third a light spell, the fourth a
-cause fear spell (the victim touched must
-save vs. Spells or flee in terror for 1 turn; a
-normal “to hit” roll must be made to
-touch victim). They will use their spells
-first, if possible, before engaging in com-
-bat with weapons. In the room are four
-beds, four small stands, a table, four
-chairs, four chests for clothing, and various
-books and scrolls of evil nature — nothing
-of value. However, on the table are copper
-dishes and vessels (total weight 300 gp) of
-exceptional craftsmanship which are worth
-175 gold pieces. (If the party opts to
-destroy the evil writings, they should
-receive an additional 600 experience points
-for the act, unless they are themselves evil,
-in which case they should receive points for
-keeping and reading these works.) If hard
-
-a4
-
-pressed, these evil clerics will attempt to
-flee and warn their master by striking the
-great bell (58.).
-
-57. HALL OF UNDEAD WARRIORS:
-There are four files of the undead here,
-two of 10 skeletons each, two of 10 zom-
-bies each. The former face south, the latter
-north.
-
-20 skeletons: AC 6 (due to chain mail rags &
-shields), HD 1, hp 3 each, #AT 1, D 1-6, Save
-Fi, ML12, turned as zombies.
-
-20 zombies: AC 5 (due to chain mail), HD 2,
-hp 8 each, #AT 1, D 1-8, Save Fl; ML 12,
-turned as if they were ghouls.
-
-Upon the striking of the great iron bell at 58.
-below, the skeletons will issue forth from the
-south door of the place and march into the
-temple (58.) to line the south wall, while the
-zombies plod out the north exit to line the
-north wall of the temple. If intruders enter
-toom 57., are in the passage to the temple, or
-are within the temple itself. these undead
-warriors will attack. Proper garments and
-amulets warn by the characters will prevent
-attack unless the cleric commands the undead
-to do so. They have no treasure.
-
-58. TEMPLE OF EVIL CHAOS: This huge
-area has an arched ceiling some 30’ or more
-in height. The floor is of polished black stone
-which has swirling patterns of red veins
-through it. The walls behind the draperies,
-and the ceiling as well, are of dull black rock,
-while the west wall is of translucent red stone
-which is seemingly one piece, polished to
-mirror-like smoothness. A great bell of black
-iron stands near the entrance point, with a
-pair of mallets beside its supports. To the
-south are several long benches or pews. There
-are three stone altars to the west: the north-
-west of pure black, the middle one of
-streaked red and black, the last of red with
-black flecks. At the western end of the tem-
-ple area is a dais of black stone, with four
-lesser chairs on its lower tier and a great
-throne above. The chairs are of bone; the ivo-
-ty throne is set with gold and adored with
-gems of red and black (10 black stones each
-worth 100 gp, 10 red stones each worth 500
-gp, and one large red stone worth 1,000 gp).
-The signs and sigils upon these seats are of
-pure chaos and evil. The other walls are cov-
-ered by draperies of deep purple with
-embroidered symbols and evil sayings, done
-in scarlet and gold and black thread. As soon
-as the party enters the place, black candles in
-
-
- 
-
-eight great candelabras on either side of the
-place will come alight magically, shooting
-forth a disgusting red radiance. Shapeless
-forms of purple, yellow and green will dance
-and sway on the western wall, and if anyone
-looks at them for more than a moment, they
-must save vs. Spells or be mesmerized into
-chanting a hymn to chaotic evil. Should three
-or more voices be so raised, the iron bell will
-sound automatically by magic, but even one
-such chant will alert the guards of the head
-cleric (see below). Zombie guards will enter
-here in 3 rounds after the party, even if the
-party is quiet.
-
-59. THE CHAMBERS OF THE EVIL
-PRIEST: Location 59.g is the anteroom
-where special visitors are entertained by
-the chief cleric. There are lavish furnish-
-ings here, although none are of particular
-value except for a golden flagon and cups
-(flagon worth 500 gp, each of the nine
-cups has 100 gp value). Three zombies are
-on guard here (AC 2 due to plate mail and
-shield, HD 2, hp 13 each, #AT 1, D 1-8,
-Save Fl, ML 12). They stand unmoving
-unless they are summoned by a chant from
-the temple area, someone enters their area,
-or they are commanded by the evil priest.
-
-Location 59. is the private chamber of
-the evil priest. He is 3d level, wears magi-
-cal armor +1, has a shield +1, and wears
-an amulet of protection from good which
-adds a further +1 to his armor class when
-attacked by good creatures (AC 0 or —1,
-C3, hp 14, #AT 1, D 2-7 (staff) or 1-6
-(mace), ML 10). He attacks with a snake
-staff, which is +1 to hit. On command,
-the staff will turn into a snake and coil
-around a person hit. The victim is held
-helpless for 1d4 turns, or until the cleric
-recalls the the staff. The staff then crawls
-back to the cleric on command. He also has
-a normal mace hanging from his belt. He
-has a gold ring with a black gem (value
-1,400 gp) and a purse with 51 pp in it. He
-wears a black cape and cowl, with red robes
-beneath. His spells are: cause light wounds
-(inflicts 2-7 points of damage) and cause
-fear. The priest must touch the intended
-victim, and successfully roll to hit, for the
-spells to take effect. He also has a scroll
-with three cleric spells on it: detect magic,
-hold person, silence, 15’ radius. He has a
-potion of gaseous form which he will use to
-escape through the boulder-filled corridor,
-51., when all else fails.
-
-His room is furnished lavishly, with red
-carpet, furniture of black wood with velvet
-upholstery of scarlet, and a large bed cov-
-
-ered with silken covers of black and red
-cushions and pillows. A demon idol leers
-from the wall to the north, directly over
-the be bed. If anyone other than the priest
-touches it, it will topple over upon the
-character, causing 2-12 points of damage.
-It has two gem eyes (100 gp value each).
-The evil priest will dart behind a screen in
-the southeast corner, enter a wardrobe
-there, slip through a secret door in its back,
-and then down a short passage and out
-into the corridor through another secret
-door, should his life be in danger. When
-the secret door in the back of the wardrobe
-is opened by the party, 500 gp and 50 gems
-of 10 gp value each will spill from the
-wardrobe into the room to hopefully cause
-pursuers to stop for the loot. The priest will
-meanwhile either try to rally his forces, or
-else escape (assuming that most of his fel-
-lows have been eliminated already).
-
-60. GUEST CHAMBER: This lower room is
-
-for important guests of the place. It con-
-tains a large bed, table, chairs, etc. There is
-nothing of value within, although the tap-
-estries adorning the walls (things picturing
-evil cruelties and obscene rites) appear
-expensive. Beneath a velvet cloth on the
-table is a polished mirror.
-
-TORTURE CHAMBER: There are vari-
-ous implements of torture here, both large
-and small — a rack, iron maiden, tongs,
-pinchers, whips, etc. Comfortable chairs
-are scattered along the walls, evidently so
-placed to allow visitors an enjoyable view
-of the proceedings. The torturer lives in
-the forepart of the place, and he will attack
-unauthorized persons who enter. He is a
-3rd level fighter, hp 19, with chain mail
-under his black leather garments (AC 5,
-F3, hp 19, #AT 1, D 3-8 (1d6+2 due to
-Strength), ML 8). His weapon is a huge
-axe. Hidden in his mattress are 135 gp and
-a bracelet worth 700 gp.
-
-62, THE CRYPT: The door to this room is
-
-bolted shut. This long hall is of roughly
-hewn stone, with a low ceiling. In it are
-many coffins and large sarcophagi with the
-remains of servants of the Temple of Evil
-Chaos. The sixth tomb opened will contain
-a wight: (AC 5, HD 3*, hp 13, #AT 1, D
-drains one level, MV 30’, Save F2, ML 12).
-There is a secret compartment in the
-wight’'s tomb; this contains a sword +2a
-scroll of protection from undead, a helm of
-alignment change, and a silver dagger
-worth 800 gp because of the gems set into
-
-
-
-its pommel.
-
-63. STORAGE CHAMBER: There are many
-
-piles of boxes, crates, barrels, sacks, and so
-forth here — the supplies of the temple.
-There is nothing of value, and if the party
-stays within the place for longer than 3
-rounds, a gelatinous cube will move from
-the corridor into the place and block it:
-(AC 8, HD 4*, hp 22, #AT 1, D 2-8, plus
-paralyzation, MV 20', Save F2, ML 12).
-Inside the creature are d12 each of cp, sp,
-ep, gp, and pp, as well as several bones —
-evidently parts of a victim not yet wholly
-digested. (One of the bones is actually a
-wand of enemy detection with 9 charges
-left. If it is not gotten out of the monster
-within one turn, it will be ruined by diges-
-tive juices.) The secret door in the room
-leads to the gnoll chieftain’s cave. (50.,
-above).
-
-64. CELL: The door is of iron, locked and
-
-barred, but a window is set in the door.
-This is the place where prisoners are kept
-until tortured to death or sacrificed in the
-area above. There are several skeletons still
-chained to the wall, and one scantily clad
-female — a fair maiden obviously in need
-of rescuing! As she is partly around a cor-
-ner, at first only her shapely legs and body
-up to the shoulders can be seen. Those who
-enter and approach closer are in for a rude
-shock! This is actually a medusa recently
-taken by the evil priest's zombie guards.
-(AC 8, HD 4**, hp 20, #AT 1, D 1-6 plus
-poison, MV 30’, Save F4, ML 8). An oppo-
-nent hit by the medusa’s attack has been
-bitten by the asp-hair and must save vs.
-Poison or die. Those looking at the crea-
-ture — including those fighting her from
-the front — must save versus being Turned
-to Stone by the medusa.
-
-Not being above such things, the cleric
-had plans for removing its snakes, blinding
-it, and then eventually sacrificing it at a
-special rite to a demon. The medusa will
-spare one or two of the adventurers from
-her gaze, promising them she has magic
-which will turn their companions back to
-flesh again, if they will free her from her
-chains. She does, in fact, have a special
-elixir, a potion of stone to flesh in a small
-vial, enough liquid to turn six persons back
-to normal, but she does not intend to give
-it away. If freed she will attempt to
-“stone” her rescuers.
+The cave the minotaur dwells in has skulls and bones arrayed in decorative pat- terns. The secret door is actually a slab of stone which takes not less than 3 humans to move. (It will be noticed by careful checking of the walls, but discovering how it is moved requires a roll of 1 on a six- sided die to find where it can be grasped. All of the minotaur’s treasure is behind this slab of rock. It hides:
+
+locked chest (with poison needle in lock) — contents 930 gp and 310 ep staff of healing
+
+man-sized (optionally elf-sized) magic plate armor +1
+
+locked coffer — contents 3 potion bot- tles (gaseous form, delusionary heal- ing, giant strength)
+
+locked chest — contents 3 pieces of jew- elry worth 1,600 gp, 900 gp, and 600 BP, respectively
+
+GNOLL LAIR: The entry into this place is a small cave — and only at the end will worked stone be visible. If the adventurers have a light or make too much noise, the gnoll guards (46.) will certainly be alerted and ready.
+
+46. GUARD ROOM: There are always 4 gnolls (AC 5, HD 2, hp 9 each, #AT 1, D 2-8, MV 30’, Save F2, ML 8) on duty here. Two have bows, will shoot at intruders until melee takes place; they will then run for help while the other two fight. Each gnoll has d8 each ep, sp and cp.
+
+47. GUARD ROOM: 3 males (AC 5, hp 8 each, #AT 1, D 2-8, MV 30’, Save F2, ML 8) and 5 females (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 7) are quartered here. They will be ready to fight immediately. The males have d6 gp each, the females have d4. There is a scat- tering of rude furniture in the place, heaps of bedding on the floor, several hides and pelts on the walls (one is a valuable sable cloak worth 450 gp), and a barrel of water in the southwest corner of the room.
+
+48. LOCKED ROOM: This chamber is a store room and armory. Besides the usual provisions, there are 7 shields, a suit of dwarf-sized chain mail, 12 battle axes, 3 longbows, 5 quivers of arrows (20 in each), and a magic sword (—2 cursed). One bar- rel of exceptionally fine ale is leaking and the odor will tempt adventurers to taste it. It is so good, in fact, that there is a 5 in 6 chance per taste that he or she will draw a healthy draught and then spend the next 1-4 turns drinking. (If this occurs, be sure that you have the appropriate characters sing, make noise, and act foolishly. Any of their attacks will be at —2 to hit; this will continue for as many turns as they spend drinking i.e. 1-4).
+
+49. COMMON ROOM: This place quarters the gnoll tribe — 6 males (AC 5, HD 2, hp 8each, #AT 1, D 2-8, MV 30’, Save F2, ML 8), 11 females (AC 6, HD 1 +1, hp 5 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 7), and 18 young who do not fight. Males have dé each of ep and sp, females d10 sp each. There is the usual clutter of worthless fur- niture in the room.
+
+50. GNOLL CHIEFTAIN’S QUARTERS: The gnoll leader wears pieces of plate mail (AC 3, HD 3, hp 17, #AT 1, D 4-10 (2d4 + 2) due to his strength, Save F3, ML 10). With him are his two sons (AC 4 due to chain mail and shield, HD 2+1, hp 10 each, #AT 1, D 3-9 (2d4 +1), Save F2, ML 10), and 4 females (AC 6, HD 1+1, hp 5 each, #AT 1, D 1-8, MV 30’, Save F1, ML 9). The chieftain has a pair of silver armbands worth 50 gp each, and there are 39 gp in his belt pouch. His sons have d10 each gp, ep, and sp. Each female wears as silver neck chain worth 30 gp and has 2d6 ep in addition. The furnishings of the place are crude and battered. A large metal pot beneath a flagstone in the fireplace alcove hides 200 cp, 157 sp, 76 ep, and 139
+
+The secret door and passage to area K., 63., is unknown to all parties. Just inside the entrance is the skeleton of a human thief; his leg broken, he must have died here trying to escape through the secret door. The rotten leather armor and corroded weapons are valueless, but the purse at his belt holds 12 gems of 50 gp base value each, and the elven boots upon his bony feet are still in usable shape.
+
+(DM Note: Losses by the gnolls cannot be replaced. They have a loose alliance with the orcs, so any surviving gnolls will move to the orc areas and vice versa. If you wish, allow the chieftain to be able to escape by climbing up the chimney of the fireplace in his area.)
+
+K. SHRINE OF EVIL CHAOS: A faint, foul draft issues from the 20’ wide cave mouth which is the entrance to this place. The worn path through the copse of obscenely twisted and oddly bloated trees gives those approaching along its length an eerie sense of unease, and as soon as they enter the cave mouth a dim awareness of lurking evil will pervade their senses. Red strata inter twines with bulging black veins running through the hewn rock walls beyond the entrance. The wide corridors and chambers are deathly still. A faint groaning sound, and a shrill piping may be occasionally heard, barely perceptible even if the party is absolutely silent and listening.
+
+The floors are smooth and worn by the tread of countless feet of the worshipers at this grim place. The footsteps of intruders will echo alarmingly in these vaulted halls (+2 chance of being surprised if no precautions are taken), and extreme care must be taken to muffle such sounds if the party has any hopes of remaining undetected until the moment of their choosing. Continual noise will bring a group of zombie guards to investigate:
+
+8 zombies: (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, MV 30’, Save Fl, ML 12). These ghastly monsters are clad in filthy red and black striped uniforms. Each carries a cleaver-like battle axe. (Each wears an amulet of protection from turning, so attempts by a cleric to turn them are made as if they were ghouls rather than zombies.)
+
+BOULDER FILLED PASSAGE: Large rocks and boulders have been placed here in order to seal off this tunnel. It will take 100 man-turns to open a way large enough for a human to pass through into the area beyond (possibly outside and southwest of the Caves of Chaos).
+
+HALL OF SKELETONS: This unusual audience chamber has a dais and throne-like chair set with 4 large red gems (500 gp each) at the south end. It is otherwise empty except for a dozen skeletons, clad in rags of chain mail and bearing battered shields and rusty scimitars, propped against the walls. These bony guards do not move, and any attempt to tum them immediately upon entering the chamber will have no effect, as they are obviously not animated. However, as soon as intruders touch the dais or throne chair, these monsters will spring into action from their positions on either wall of the chamber. Each has an amulet of protection from turning on it, so they are turned by a cleric as if they were zombies, (AC 7, HD 1, hp 3 each, #AT 1, D 1-6, Save Fl, ML 12). They have no treasure.
+
+Once the skeletons are disposed of, it is an easy task to pry the 4 garnets (gems) from the back of the chair.
+
+53. GUARD ROOM: There will always be 8 zombies (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, Save Fl, ML 12), turned as if they were ghouls due to amulets of protection from turning hulking silently here, 4 at either end of the hall. Anyone entering will be attacked unless they are robed (see area 54., below) and have an amulet identical to the ones which the undead guards or priests wear. There is no treasure here.
+
+54. ACOLYTES’ CHAMBER: There are 4 acolytes (1st level clerics) here (AC 5, C1, hp 4 each, #AT 1, D 1-6, ML8), all dressed in rusty red robes with black cowls. Under these robes, each wears chain mail and a mace at his belt. Each carries 10 gp in his purse, and the leader wears an amulet of protection from good. This amulet circles the wearer with a magical barrier against attacks by characters or creatures of other alignments by subtracting 1 from the “to hit” rolls of these opponents and adding +1 to the wearer's saving throws. The amulet will also keep out melee attacks from enchanted (magical) monsters (such as gargoyles), but not missile attacks from these creatures. Their room contains four hard pallets, a brazier, a table, four stools, acabinet for clothing, a water pail, a waste bucket, and a flagon of wine and four cups. There is nothing of value amongst these items.
+
+55. EVIL CHAPEL: This place is of red stone, the floor being a mosaic checkerboard of black and red. The south wall is covered by a huge tapestry which depicts a black landscape, barren trees, and unidentifiable but horrible black shapes in silhouette — possibly demons of some sort — holding aloft a struggling human. A gray sky is torn by wisps of purple clouds, and a bloody moon with a skull-like face upon it leers down upon the scene. Four black pillars support the domed ceiling some 25’ overhead. Between these columns, just in front of the tapestry, is a stone altar of red veined black rock, rough-hewn and stained brown with dried blood. Upon it are 4 ancient bronze vessels — a shallow bowl, a pair of goblets, and an ewer, a vaseshaped pitcher. They are also bloodstained but obviously worth a great deal of money. (The value is 1,000 gp for each cup, and 2,000 gp for each of the other items, but these are relics of evil, and any character possessing them will not part with them or sell them nor allow others to handle them. For each character who picks up one of these objects, the DM should roll a secret saving throw vs. Spells at —2. Any who save successfully will get a “feeling of great evil” about the object, and he or she may voluntarily put it down. If the save fails, the characters will rapidly fall under the influence of a demonic spell and within 6 days become a servant of chaos and evil, returning to this chapel to replace the relics, and then staying as a guard forever after. If someone attempts to destroy these relics, the great bell (see 58., below) will sound and the Shrine’s residents will come running in 3 rounds. If a detect evil spell is cast upon these items, they will glow an ugly purple, and all good characters will feel an instant loathing for them. If the character who has taken them has a dispel magic and then a bless spell cast upon him or her, there is a 60% chance of removing the evil on the first day, 50% on the 2d, 40% on the 3rd, 30% on the 4th, 20% on the 5th, and 10% on the 6th. Otherwise, nothing will be able to save the character!).
+
+56. ADEPTS’ CHAMBER: There are 4 adepts (2nd level clerics) here, each clad in a black robe with a maroon colored cowl (AC 2, C2, hp 8 each, #AT 1, D 1-6, ML 8), wearing plate mail beneath their garments, and each bearing a mace. Their waists are circled with copper chains (worth 40 gp each) with skull shaped clasps fashioned of bone. Each carries a purse with 20 gold and 5 platinum pieces, and each wears an amulet of protection from good, which makes their effective armor class 2 vs. good creatures. The first and second have cause light wounds spells (does 2-7 points of damage to creature touched; normal ‘‘to hit” roll must be made to touch victim), the third a light spell, the fourth a cause fear spell (the victim touched must save vs. Spells or flee in terror for 1 turn; a normal “to hit” roll must be made to touch victim). They will use their spells first, if possible, before engaging in combat with weapons. In the room are four beds, four small stands, a table, four chairs, four chests for clothing, and various books and scrolls of evil nature — nothing of value. However, on the table are copper dishes and vessels (total weight 300 gp) of exceptional craftsmanship which are worth 175 gold pieces. (If the party opts to destroy the evil writings, they should receive an additional 600 experience points for the act, unless they are themselves evil, in which case they should receive points for keeping and reading these works.) If hard pressed, these evil clerics will attempt to flee and warn their master by striking the great bell (58.).
+
+57. HALL OF UNDEAD WARRIORS: There are four files of the undead here, two of 10 skeletons each, two of 10 zombies each. The former face south, the latter north.
+
+20 skeletons: AC 6 (due to chain mail rags & shields), HD 1, hp 3 each, #AT 1, D 1-6, Save Fi, ML12, turned as zombies.
+
+20 zombies: AC 5 (due to chain mail), HD 2, hp 8 each, #AT 1, D 1-8, Save Fl; ML 12, turned as if they were ghouls.
+
+Upon the striking of the great iron bell at 58. below, the skeletons will issue forth from the south door of the place and march into the temple (58.) to line the south wall, while the zombies plod out the north exit to line the north wall of the temple. If intruders enter toom 57., are in the passage to the temple, or are within the temple itself. these undead warriors will attack. Proper garments and amulets warn by the characters will prevent attack unless the cleric commands the undead to do so. They have no treasure.
+
+58. TEMPLE OF EVIL CHAOS: This huge area has an arched ceiling some 30’ or more in height. The floor is of polished black stone which has swirling patterns of red veins through it. The walls behind the draperies, and the ceiling as well, are of dull black rock, while the west wall is of translucent red stone which is seemingly one piece, polished to mirror-like smoothness. A great bell of black iron stands near the entrance point, with a pair of mallets beside its supports. To the south are several long benches or pews. There are three stone altars to the west: the northwest of pure black, the middle one of streaked red and black, the last of red with black flecks. At the western end of the temple area is a dais of black stone, with four lesser chairs on its lower tier and a great throne above. The chairs are of bone; the ivoty throne is set with gold and adored with gems of red and black (10 black stones each worth 100 gp, 10 red stones each worth 500 gp, and one large red stone worth 1,000 gp). The signs and sigils upon these seats are of pure chaos and evil. The other walls are covered by draperies of deep purple with embroidered symbols and evil sayings, done in scarlet and gold and black thread. As soon as the party enters the place, black candles in eight great candelabras on either side of the place will come alight magically, shooting forth a disgusting red radiance. Shapeless forms of purple, yellow and green will dance and sway on the western wall, and if anyone looks at them for more than a moment, they must save vs. Spells or be mesmerized into chanting a hymn to chaotic evil. Should three or more voices be so raised, the iron bell will sound automatically by magic, but even one such chant will alert the guards of the head cleric (see below). Zombie guards will enter here in 3 rounds after the party, even if the party is quiet.
+
+59. THE CHAMBERS OF THE EVIL PRIEST: Location 59.g is the anteroom where special visitors are entertained by the chief cleric. There are lavish furnishings here, although none are of particular value except for a golden flagon and cups (flagon worth 500 gp, each of the nine cups has 100 gp value). Three zombies are on guard here (AC 2 due to plate mail and shield, HD 2, hp 13 each, #AT 1, D 1-8, Save Fl, ML 12). They stand unmoving unless they are summoned by a chant from the temple area, someone enters their area, or they are commanded by the evil priest.
+
+Location 59. is the private chamber of the evil priest. He is 3d level, wears magical armor +1, has a shield +1, and wears an amulet of protection from good which adds a further +1 to his armor class when attacked by good creatures (AC 0 or —1, C3, hp 14, #AT 1, D 2-7 (staff) or 1-6 (mace), ML 10). He attacks with a snake staff, which is +1 to hit. On command, the staff will turn into a snake and coil around a person hit. The victim is held helpless for 1d4 turns, or until the cleric recalls the the staff. The staff then crawls back to the cleric on command. He also has a normal mace hanging from his belt. He has a gold ring with a black gem (value 1,400 gp) and a purse with 51 pp in it. He wears a black cape and cowl, with red robes beneath. His spells are: cause light wounds (inflicts 2-7 points of damage) and cause fear. The priest must touch the intended victim, and successfully roll to hit, for the spells to take effect. He also has a scroll with three cleric spells on it: detect magic, hold person, silence, 15’ radius. He has a potion of gaseous form which he will use to escape through the boulder-filled corridor, 51., when all else fails.
+
+His room is furnished lavishly, with red carpet, furniture of black wood with velvet upholstery of scarlet, and a large bed covered with silken covers of black and red cushions and pillows. A demon idol leers from the wall to the north, directly over the be bed. If anyone other than the priest touches it, it will topple over upon the character, causing 2-12 points of damage. It has two gem eyes (100 gp value each). The evil priest will dart behind a screen in the southeast corner, enter a wardrobe there, slip through a secret door in its back, and then down a short passage and out into the corridor through another secret door, should his life be in danger. When the secret door in the back of the wardrobe is opened by the party, 500 gp and 50 gems of 10 gp value each will spill from the wardrobe into the room to hopefully cause pursuers to stop for the loot. The priest will meanwhile either try to rally his forces, or else escape (assuming that most of his fellows have been eliminated already).
+
+60. GUEST CHAMBER: This lower room is for important guests of the place. It contains a large bed, table, chairs, etc. There is nothing of value within, although the tapestries adorning the walls (things picturing evil cruelties and obscene rites) appear expensive. Beneath a velvet cloth on the table is a polished mirror.
+
+TORTURE CHAMBER: There are various implements of torture here, both large and small — a rack, iron maiden, tongs, pinchers, whips, etc. Comfortable chairs are scattered along the walls, evidently so placed to allow visitors an enjoyable view of the proceedings. The torturer lives in the forepart of the place, and he will attack unauthorized persons who enter. He is a 3rd level fighter, hp 19, with chain mail under his black leather garments (AC 5, F3, hp 19, #AT 1, D 3-8 (1d6+2 due to Strength), ML 8). His weapon is a huge axe. Hidden in his mattress are 135 gp and a bracelet worth 700 gp.
+
+62, THE CRYPT: The door to this room is bolted shut. This long hall is of roughly hewn stone, with a low ceiling. In it are many coffins and large sarcophagi with the remains of servants of the Temple of Evil Chaos. The sixth tomb opened will contain a wight: (AC 5, HD 3*, hp 13, #AT 1, D drains one level, MV 30’, Save F2, ML 12). There is a secret compartment in the wight’'s tomb; this contains a sword +2a scroll of protection from undead, a helm of alignment change, and a silver dagger worth 800 gp because of the gems set into its pommel.
+
+63. STORAGE CHAMBER: There are many piles of boxes, crates, barrels, sacks, and so forth here — the supplies of the temple. There is nothing of value, and if the party stays within the place for longer than 3 rounds, a gelatinous cube will move from the corridor into the place and block it: (AC 8, HD 4*, hp 22, #AT 1, D 2-8, plus paralyzation, MV 20', Save F2, ML 12). Inside the creature are d12 each of cp, sp, ep, gp, and pp, as well as several bones — evidently parts of a victim not yet wholly digested. (One of the bones is actually a wand of enemy detection with 9 charges left. If it is not gotten out of the monster within one turn, it will be ruined by digestive juices.) The secret door in the room leads to the gnoll chieftain’s cave. (50., above).
+
+64. CELL: The door is of iron, locked and barred, but a window is set in the door. This is the place where prisoners are kept until tortured to death or sacrificed in the area above. There are several skeletons still chained to the wall, and one scantily clad female — a fair maiden obviously in need of rescuing! As she is partly around a corner, at first only her shapely legs and body up to the shoulders can be seen. Those who enter and approach closer are in for a rude shock! This is actually a medusa recently taken by the evil priest's zombie guards. (AC 8, HD 4**, hp 20, #AT 1, D 1-6 plus poison, MV 30’, Save F4, ML 8). An opponent hit by the medusa’s attack has been bitten by the asp-hair and must save vs. Poison or die. Those looking at the creature — including those fighting her from the front — must save versus being Turned to Stone by the medusa.
+
+Not being above such things, the cleric had plans for removing its snakes, blinding it, and then eventually sacrificing it at a special rite to a demon. The medusa will spare one or two of the adventurers from her gaze, promising them she has magic which will turn their companions back to flesh again, if they will free her from her chains. She does, in fact, have a special elixir, a potion of stone to flesh in a small vial, enough liquid to turn six persons back to normal, but she does not intend to give it away. If freed she will attempt to “stone” her rescuers.
+
 
 
 THE SILVER PRINCESS
 
- 
+Unlike the other adventures in this book, this one begins when an Immortal intervenes directly in campaign affairs. Thus, the adventure of the Silver Princess can occur at any time the DM desires.
 
- 
-
-Unlike the other adventures in this book, this
-one begins when an Immortal intervenes
-directly in campaign affairs. Thus, the adven-
-ture of the Silver Princess can occur at any time
-the DM desires.
-
-Direct contact with an Immortal is an unusual
-and highly significant affair. Special care should
-be taken to impress the players with the signal
-and wonderous trappings of such contact.
+Direct contact with an Immortal is an unusual and highly significant affair. Special care should be taken to impress the players with the signal and wonderous trappings of such contact.
 
 The Immortal
 
-An immortal is a superior being, seldom seen,
-who influences and manipulates campaign
-events in pursuit of higher goals. Some are
-benign, some are malevolent, but all te to
-work indirectly. In this adventure, the party
+An immortal is a superior being, seldom seen, who influences and manipulates campaign events in pursuit of higher goals. Some are benign, some are malevolent, but all te to work indirectly. In this adventure, the party be contacted by Thendara, Morden ft Valley of Haven, whose words are given at the beginning of the Silver Princess adventure.
 
-be contacted by Thendara, Morden ft Va
-ley of Haven, whose words are given at the
-beginning of the Silver Princess adventure.
+The party can be anywhere at the time of the contact. First, they will experience a chill wind, although there will be no visible signs (even torches will not flicker). Motion outside the party starts to slow, and their surroundings become hazy and indistinct. Other people and creatures seem to stop, and the party’s own motions become dreamlike and slow. A glow of light appears, growing and finally resolving into a tall woman with dark brown hair and faintly green skin. Her features have a slightly elvish cast. She has no weapons they can see, but an aura of power overlayed with gentleness emanates from her. As she smiles, the light that surrounds her expands to surround the party and they discover they can move freely within it. Upon close examination, the being seems slightly transparent. At this point the adventure begins.
 
-The party can be anywhere at the time of
-the contact. First, they will experience a chill
-wind, although there will be no visible signs
-(even torches will not flicker). Motion outside
-the party starts to slow, and their surround-
-ings become hazy and indistinct. Other peo-
-ple and creatures seem to stop, and the party’s
-own motions become dreamlike and slow. A
-glow of light appears, growing and finally
-resolving into a tall woman with dark brown
-hair and faintly green skin. Her features have
-a slightly elvish cast. She has no weapons they
-can see, but an aura of power overlayed with
-gentleness emanates from her. As she smiles,
-the light that surrounds her expands to sur-
-round the party and they discover they can
-move freely within it. Upon close examina-
-tion, the being seems slightly transparent. At
-this point the adventure begins.
+If any of the party accepts the Immortal’s offer, all will be instantly transported to the palace of the Silver Princess. Any wounds will be instantly healed, and spell casters can rechoose spells if they wish. Effectively, they will be starting a new adventure at full strength.
 
-If any of the party accepts the Immortal’s
-offer, all will be instantly transported to the pal-
-ace of the Silver Princess. Any wounds will be
-instantly healed, and spell casters can rechoose
-spells if they wish. Effectively, they will be start-
-ing a new adventure at full strength.
-
-Note: This encounter can be used to save a
-party that faces total destruction. However,
-such intervention must remain very rare if the
-players are to remain the driving force in your
-campaign. Think carefully about the effect of
-such intervention on play before you decide to
-use it—players lose interest if the DM pulls
-them out of trouble every time they foul up.
-Save this for a time when they play well, but
-are beaten by poor luck (though this, too, is
-part of the game!) If you do use this encounter
-to save the party and they won't accept it, let
-them take the consequences.
-
-i ead
-eR gee]
-aro
-Dene Peete tetera ete)
+Note: This encounter can be used to save a party that faces total destruction. However, such intervention must remain very rare if the players are to remain the driving force in your campaign. Think carefully about the effect of such intervention on play before you decide to use it—players lose interest if the DM pulls them out of trouble every time they foul up. Save this for a time when they play well, but are beaten by poor luck (though this, too, is part of the game!) If you do use this encounter to save the party and they won't accept it, let them take the consequences.
 
 Design: Tom Moldvay and Jean Wells
-Development: Allen Hammack, Harold
-Johnson, Tom Moldvay, Brian Pitzer, Jean
-Wells
 
-Editing: Allen Hammack, Harold Johnson,
-Jon Pickens, Deborah Richie
+Development: Allen Hammack, Harold Johnson, Tom Moldvay, Brian Pitzer, Jean Wells 
 
-Art: Jim Holloway, David S. La Force, Harry
-Quinn, Jim Roslof, Laura Roslof, Stephen D.
-Sullivan, Bill Willingham
+Editing: Allen Hammack, Harold Johnson, Jon Pickens, Deborah Richie
 
-Playtesting: Ken Reek, Jo La Force, Dave La
-Force, Judy Elvin, Skip Williams, Dave Con-
-ant, Shirley Egnoski, Ernie Gygax, John and
-Mary Eklund, Michael Luznicky, Blane Fuller,
-Jan Kratochvil, Mark Teloh, John Beckman,
-Bob Burgess, John Main, Gregory G. H.
-Rihn, Doug Jones, Bryan Wendorf, Tina
-Pacey, Rocky Bartlett, and Helen Cook
+Art: Jim Holloway, David S. La Force, Harry Quinn, Jim Roslof, Laura Roslof, Stephen D. Sullivan, Bill Willingham
 
-Special Thanks To: Frank Mentzer, Skip Wil-
-liams, “Col.” Steve Austin Morely, John
-Laney, Robert Cole, Kevin Woods, and Tony
-Earls, and to Harold Johnson and Walt Wells
-for inspiration.
+Playtesting: Ken Reek, Jo La Force, Dave La Force, Judy Elvin, Skip Williams, Dave Conant, Shirley Egnoski, Ernie Gygax, John and Mary Eklund, Michael Luznicky, Blane Fuller, Jan Kratochvil, Mark Teloh, John Beckman, Bob Burgess, John Main, Gregory G. H. Rihn, Doug Jones, Bryan Wendorf, Tina Pacey, Rocky Bartlett, and Helen Cook
 
-General Notes: An early version of this mod-
-ule has become a rare item; the later version
-has been adapted for this collection. The spe-
-cial programmed introduction has been
-replaced by boxed text, but this adventure is
-presented intact.
+Special Thanks To: Frank Mentzer, Skip Williams, “Col.” Steve Austin Morely, John Laney, Robert Cole, Kevin Woods, and Tony Earls, and to Harold Johnson and Walt Wells for inspiration.
 
-| eg ea ee lA Te aU 140-141
+General Notes: An early version of this module has become a rare item; the later version has been adapted for this collection. The special programmed introduction has been replaced by boxed text, but this adventure is presented intact.
 
- 
+Maps…………………. 140-141
 
-Player’s Background (Read to
-players)
+Player’s Background (Read to players)
 
-This is narrated by the Protector, when she
-appears to the players:
+This is narrated by the Protector, when she appears to the players:
 
- 
+“The valley of Haven was a peaceful land. Its crops were abundant, its citizens prosperous. Elves, Dwarves, Halflings, and Humans lived together in harmony. Hidden away in the heart of the Altan Tepe Mountains, Haven was a safe place to live. The rivers were sweet and pure; the weather was pleasant and warm.
 
-“The valley of Haven was a peaceful
-land. Its crops were abundant, its citizens
-prosperous. Elves, Dwarves, Halflings,
-and Humans lived together in harmony.
-Hidden away in the heart of the Altan Tepe
-Mountains, Haven was a safe place to live.
-The rivers were sweet and pure; the weath-
-er was pleasant and warm.
+“One reason Haven was so peaceful was due to my presence. I am Thendara, and I am known to the people of the valley as the Protector. I am an Immortal and patron of the valley. For years without number I have warded off evil and helped the crops to grow and the valley of Haven to prosper. Hear now the tale of Haven.
 
-“One reason Haven was so peaceful was
-due to my presence. I am Thendara, and I
-am known to the people of the valley as the
-Protector. I am an Immortal and patron of
-the valley. For years without number I have
-warded off evil and helped the crops to
-grow and the valley of Haven to prosper.
-Hear now the tale of Haven.
+“The ruler of Haven was the fair Princess Argenta. She lived in a palace made of white shining marble, which, when the sun set, glowed like silver. Princess Argenta was beloved by all her people. She was just, fair and friendly to all.
 
-“The ruler of Haven was the fair Princess
-Argenta. She lived in a palace made of
-white shining marble, which, when the
-sun set, glowed like silver. Princess Argen-
-ta was beloved by all her people. She was
-just, fair and friendly to all.
+“One day, the dwarves of Haven found a ruby the size of an apple while digging in a new mine. As a token of their devotion, they gave the ruby to Princess Argenta. The dwarves named the ruby “My Lady’s Heart”. The princess was so pleased with the gift that she invited all the valley to attend a celebration to see the wondrous gem. The dwarves were to be the guests of honor. It was to be a grand day of feasting and fun.
 
-“One day, the dwarves of Haven found a
-ruby the size of an apple while digging in a
-new mine. As a token of their devotion, they
-gave the ruby to Princess Argenta. The
-dwarves named the ruby “My Lady’s Heart”.
-The princess was so pleased with the gift that
-she invited all the valley to attend a celebra-
-tion to see the wondrous gem. The dwarves
-were to be the guests of honor. It was to be a
-grand day of feasting and fun.
+“The day before the celebration a strange visitor arrived. He flew into the valley riding a white dragon. The rider was dressed all in black. He had pale skin, long blond hair, and a short blond beard. Since Haven was noted for its hospitality, the princess invited the stranger to stay at the palace. She also granted his request to escort her to the celebration.
 
-“The day before the celebration a
-strange visitor arrived. He flew into the
-valley riding a white dragon. The rider was
-dressed all in black. He had pale skin, long
-blond hair, and a short blond beard. Since
-Haven was noted for its hospitality, the
-princess invited the stranger to stay at the
-palace. She also granted his request to
-escort her to the celebration.
+“At midnight, disaster struck. Dark clouds hid the moon and a freezing wind blew through the valley. The crops withered in the fields. Cattle grew sick. The valley began to die. I could do nothing.
 
-“At midnight, disaster struck. Dark
-clouds hid the moon and a freezing wind
-blew through the valley. The crops with-
-ered in the fields. Cattle grew sick. The
-valley began to die. I could do nothing.
+“From the palace came an explosion and parts of the walls came tumbling down. When the dust cleared a ruby glow surrounded the entire palace.
 
-“From the palace came an explosion and
-parts of the walls came tumbling down.
-When the dust cleared a ruby glow sur-
-rounded the entire palace.
+“Haven now lies in chaos. Raiding bands of orcs, goblins, and hobgoblins terrorize the countryside. The disaster happened so suddenly that the people are confused and helpless. Without their leaders, who are trapped in the palace, they have no courage to fight back. The situation has become desperate.
 
-“Haven now lies in chaos. Raiding
-bands of orcs, goblins, and hobgoblins ter-
-rorize the countryside. The disaster hap-
-pened so suddenly that the people are con-
+“Haven is in dire trouble. I do not know what caused the disaster, but I do know that the reason can be found somewhere in the palace. Allies of the evil that has attacked Haven have challenged me and I am under siege. I cannot help Haven, but you can. The princess needs you; the people of Haven need you. You are Haven’s only hope. Find the source of the evil that has overtaken Haven, and destroy it. If you will go, I will open the way into of the palace for you. I will also give you all the help Ican, but my power is limited. The future of Haven is in your hands.”
 
- 
-
- 
-
- 
-
-
- 
-
- 
-
-fused and helpless. Without their leaders,
-who are trapped in the palace, they have
-no courage to fight back. The situation has
-become desperate.
-
-“Haven is in dire trouble. I do not know
-what caused the disaster, but I do know
-that the reason can be found somewhere in
-the palace. Allies of the evil that has
-attacked Haven have challenged me and I
-am under siege. I cannot help Haven, but
-you can. The princess needs you; the peo-
-ple of Haven need you. You are Haven’s
-only hope. Find the source of the evil that
-has overtaken Haven, and destroy it. If you
-will go, I will open the way into of the pal-
-ace for you. I will also give you all the help
-Ican, but my power is limited. The future
-of Haven is in your hands.”
-
-“Please decide quickly, my time here is
-nearly ended. Already evil forces have detect-
-
- 
-
- 
-
-ed my sending. Will you come now?”
-
- 
+“Please decide quickly, my time here is nearly ended. Already evil forces have detected my sending. Will you come now?”
 
 Dungeon Master’s Background
 
-The disaster that has struck Haven has been
-caused by the magical ruby that the dwarves
-found. While it was called “My Lady’s Heart”
-by the people of Haven, its true name is ‘The
-Eye of Erik”’.
+The disaster that has struck Haven has been caused by the magical ruby that the dwarves found. While it was called “My Lady’s Heart” by the people of Haven, its true name is ‘The Eye of Erik”’.
 
-Arik is an ancient, evil being of great power.
-He is also known as Arik of the Hundred Eyes,
-and is sometimes worshipped as a god. For his
-many crimes, Arik was banished to a special
-dimension centuries ago to be imprisoned
-there for all eternity.
+Arik is an ancient, evil being of great power. He is also known as Arik of the Hundred Eyes, and is sometimes worshipped as a god. For his many crimes, Arik was banished to a special dimension centuries ago to be imprisoned there for all eternity.
 
-Arik has been seeking to escape from the
-prison dimension through the ages. And he
-desires to take over Haven and enslave all its peo-
-ple. He has at last managed to send one of his
-eyes across the dimensional barriers into the
-heart of the mountains. There, the dwarves
-found Arik’s ruby eye and brought it to the pal-
-ace, not knowing the evil they were bringing to
-their beloved valley. The ruby, though larger
-than most gems, looks like any other ruby and
-though the Protector would have sensed the evil,
-by the time the ruby’s influence was felt, it was
-too late. Arik had already struck.
+Arik has been seeking to escape from the prison dimension through the ages. And he desires to take over Haven and enslave all its people. He has at last managed to send one of his eyes across the dimensional barriers into the heart of the mountains. There, the dwarves found Arik’s ruby eye and brought it to the palace, not knowing the evil they were bringing to their beloved valley. The ruby, though larger than most gems, looks like any other ruby and though the Protector would have sensed the evil, by the time the ruby’s influence was felt, it was too late. Arik had already struck.
 
-The ruby is linked to Arik. It has allowed
-him to channel some of his evil magical power
-past the dimensional barriers into Haven and
-the power of the ruby attracts evil, chaotic
-monsters. Arik hopes to use the ruby “eye,”
-when the time is right, to open the way and
-cross the dimensional border.
+The ruby is linked to Arik. It has allowed him to channel some of his evil magical power past the dimensional barriers into Haven and the power of the ruby attracts evil, chaotic monsters. Arik hopes to use the ruby “eye,” when the time is right, to open the way and cross the dimensional border.
 
-The power of the ruby has killed the crops
-and brought disease to the animals. It has
-drawn orc, goblin, and hobgoblin hordes into
-Haven to fight for its master. It has even
-brought the evil cleric, Catharandamus into
+The power of the ruby has killed the crops and brought disease to the animals. It has drawn orc, goblin, and hobgoblin hordes into Haven to fight for its master. It has even brought the evil cleric, Catharandamus into the palace, to prepare the ceremony that will allow Arik to cross the dimensional barriers. The ruby has turned many of the palace inhabitants to stone and trapped the princess and the mysterious stranger inside itself. Finally, the ruby has created a magical field around the palace to prevent help from arriving and stopping Catharandamus.
 
-the palace, to prepare the ceremony that will
-allow Arik to cross the dimensional barriers.
-The ruby has turned many of the palace
-inhabitants to stone and trapped the princess
-and the mysterious stranger inside itself.
-Finally, the ruby has created a magical field
-around the palace to prevent help from arriv-
-ing and stopping Catharandamus.
-
-The Protector will open a way through the
-ruby glow, and will also open a safe passage out,
-if the party chooses to leave the palace to rest and
-recover spells and hit points. The Protector will,
-however, state that it is a drain of power and the
-way can only be opened a few times.
+The Protector will open a way through the ruby glow, and will also open a safe passage out, if the party chooses to leave the palace to rest and recover spells and hit points. The Protector will, however, state that it is a drain of power and the way can only be opened a few times.
 
 Ellis the Strong and Ariksbane
 
-The mysterious stranger in black armor who
-arrived just before the disaster struck is named
-Ellis the Strong (AC 2; F 3; hp 21; #AT 1;
-D 1-10 +3; MV 20’; ML9; ALL; $18, 19, W12,
-D13, C16, Ch15). Ellis is a Knight of the White
-Drakes, a special band of fighters from Thyatis
-who ride white dragons and are dedicated to
-defeating evil wherever it exists. The characters
-have heard stories of them. He wears black plate
-mail armor and wields a two-handed sword. His
-dragon steed is known as Ariksbane (AC 3; HD
-6; hp 30; #AT 3; D 1-4/1-4/2d8; MV 30’, Fly
-80’; ML 8; ALN). Ellis and Ariksbane came to
-Haven because they had heard of the great ruby
-and suspected that the ruby was one of the leg-
-endary eyes of Arik. Before they could be sure,
-they were caught by the power of the ruby and
-defeated. Ellis is now trapped inside the ruby
-with Princess Argenta. Ariksbane has been ban-
-ished to another dimension.
+The mysterious stranger in black armor who arrived just before the disaster struck is named Ellis the Strong (AC 2; F 3; hp 21; #AT 1; D 1-10 +3; MV 20’; ML9; ALL; $18, 19, W12, D13, C16, Ch15). Ellis is a Knight of the White Drakes, a special band of fighters from Thyatis who ride white dragons and are dedicated to defeating evil wherever it exists. The characters have heard stories of them. He wears black plate mail armor and wields a two-handed sword. His dragon steed is known as Ariksbane (AC 3; HD 6; hp 30; #AT 3; D 1-4/1-4/2d8; MV 30’, Fly 80’; ML 8; ALN). Ellis and Ariksbane came to Haven because they had heard of the great ruby and suspected that the ruby was one of the legendary eyes of Arik. Before they could be sure, they were caught by the power of the ruby and defeated. Ellis is now trapped inside the ruby with Princess Argenta. Ariksbane has been banished to another dimension.
 
 Destroying the Ruby
 
-The party must, at some point during the
-adventure, discover or figure out how to
-destroy the ruby Eye of Arik. There are several
-clues and aids throughout the dungeon. How-
-ever, if through bad luck the party appears to
-be missing most of these, ‘‘a vision from the
-Protector” can be used to give hints to steer
-them in the right direction.
+The party must, at some point during the adventure, discover or figure out how to destroy the ruby Eye of Arik. There are several clues and aids throughout the dungeon. However, if through bad luck the party appears to be missing most of these, ‘‘a vision from the Protector” can be used to give hints to steer them in the right direction.
 
-There are three ways that the party can
-destroy the ‘Eye of Arik” and defeat the evil.
-The name Ariksbane means “the ruin of
-Arik.” And if the dragon is freed it can use its
-frost breath, if the dragon wishes, to destroy
-the ruby without harming anyone near the
-ruby (or trapped inside it). The ruby can be
-shattered by using the Sword of Arik, if this
-can be found. Catharandamus is using the
-sword as part of the ceremony to free Arik. If
-the sword is used to shatter the ruby it will be
-destroyed at the same time. Finally, two notes
-played on the Ice Harp will summon the min-
-strel Rowena (see room 32). Rowena is one of
+There are three ways that the party can destroy the ‘Eye of Arik” and defeat the evil. The name Ariksbane means “the ruin of Arik.” And if the dragon is freed it can use its frost breath, if the dragon wishes, to destroy the ruby without harming anyone near the ruby (or trapped inside it). The ruby can be shattered by using the Sword of Arik, if this can be found. Catharandamus is using the sword as part of the ceremony to free Arik. If the sword is used to shatter the ruby it will be destroyed at the same time. Finally, two notes played on the Ice Harp will summon the minstrel Rowena (see room 32). Rowena is one of the legends of Haven. She was a famous minstrel who left Haven years ago to visit the Protector. Time does not flow the same with the Protector as in the rest of, the world. Though she has lived with the Protector for many years, she is little older than the day she left Haven. Rowena knows the proper notes to play on the Ice Harp to shatter the ruby.
 
-
-
-the legends of Haven. She was a famous min-
-strel who left Haven years ago to visit the Pro-
-tector. Time does not flow the same with the
-Protector as in the rest of, the world. Though
-she has lived with the Protector for many
-years, she is little older than the day she left
-Haven. Rowena knows the proper notes to
-play on the Ice Harp to shatter the ruby.
-
-If the ruby is destroyed, by any one of the
-three possible means, the evil curse which has
-befallen Haven will be lifted. Those people
-turned to stone by the ruby will return to nor-
-mal. Princess Argenta and Ellis the Strong will
-be freed and return to normal size. If Ariks-
-bane has not already been freed, the dragon
-will be freed when the ruby is destroyed. The
-hordes of chaotic monsters invading Haven
-will flee in terror. The crops will grow again
-and the animals will be cured. A grateful Prin-
-cess Argenta will reward the characters with a
-special medal of honor plus 3,000 gp each.
+If the ruby is destroyed, by any one of the three possible means, the evil curse which has befallen Haven will be lifted. Those people turned to stone by the ruby will return to normal. Princess Argenta and Ellis the Strong will be freed and return to normal size. If Ariksbane has not already been freed, the dragon will be freed when the ruby is destroyed. The hordes of chaotic monsters invading Haven will flee in terror. The crops will grow again and the animals will be cured. A grateful Princess Argenta will reward the characters with a special medal of honor plus 3,000 gp each.
 
 DUNGEON LEVEL ONE
 
-The DM may expand on the detail of this
-adventure by describing what rooms and
-items found look like: what do the floor and
-walls look like, what are they made of, what is
-in the room? He or she may also wish to
-change or add things to this dungeon. But be
-careful that any changes made do not make
-the dungeon too dangerous or give the players
-treasure that makes them too powerful.
+The DM may expand on the detail of this adventure by describing what rooms and items found look like: what do the floor and walls look like, what are they made of, what is in the room? He or she may also wish to change or add things to this dungeon. But be careful that any changes made do not make the dungeon too dangerous or give the players treasure that makes them too powerful.
 
 WANDERING MONSTERS
 
-Every other turn, the DM should make a check
-for a wandering monster. A roll of 1 on 1d6
-indicates an encounter has occurred. The
-monster will first be seen 20-120 (2d6x10) feet
-away when encountered, though the monster
-may surprise the party by stepping through a
-door, or waiting around a corner. Use the spe-
-cial table given below to determine the type of
-monster encountered.
+Every other turn, the DM should make a check for a wandering monster. A roll of 1 on 1d6 indicates an encounter has occurred. The monster will first be seen 20-120 (2d6x10) feet away when encountered, though the monster may surprise the party by stepping through a door, or waiting around a corner. Use the special table given below to determine the type of monster encountered.
 
-Acolyte: Acolytes are 1st level NPC clerics.
-The acolytes encountered as wandering mon-
-sters will all be clerics of Arik. If there are 4 or
-more encountered they will be led by either a
-2nd or 3rd level cleric. To determine which,
-roll 1d6. A roll of 1-4 indicates a 2nd level
-leader. A roll of 5-6 indicates a 3rd level lead-
-er. The DM can choose any clerical spells for
-the leader, or they may be rolled at random.
+Acolyte: Acolytes are 1st level NPC clerics. The acolytes encountered as wandering monsters will all be clerics of Arik. If there are 4 or more encountered they will be led by either a 2nd or 3rd level cleric. To determine which, roll 1d6. A roll of 1-4 indicates a 2nd level leader. A roll of 5-6 indicates a 3rd level leader. The DM can choose any clerical spells for the leader, or they may be rolled at random.
 
-The clerics of Arik all wear blood-red robes
-with large hoods that hide the faces of the cler-
-ics. The robes are decorated with 100 eyes.
-Beneath the robes the clerics wear plate mail.
-They all carry shields painted with a single
-large red eye.
-
-
- 
+The clerics of Arik all wear blood-red robes with large hoods that hide the faces of the clerics. The robes are decorated with 100 eyes. Beneath the robes the clerics wear plate mail. They all carry shields painted with a single large red eye.
 
 Wandering Monster Table: Level 1 (Roll 1d6)
 
 Die Wandering
 
- 
-
-Roll _ Monster AC HD Damage MV Save ML_AL
+Roll Monster AC HD Damage MV Save ML_AL
 1 Acolyte 1-8 2 1 1-6 20° Ci 7 CC
 2 Bandit 1-8 6 1 1-6 400 TL Bl. G
 3 Bear,Black 1 6 4 1-3/1-3/1-6 40' F2 7 N
@@ -2034,409 +1174,101 @@ Roll _ Monster AC HD Damage MV Save ML_AL
 5 Orc 2-8 6 1 1-6 30° Fi 8 6C
 6 Skeleton 3-12 7 1 1-6 20° Fi 12
 
-Bandits: Bandits are NPC thieves who have
-joined together to rob others. Bandits will act as
-normal humans, lost and wandering in the pal-
-ace, to surprise their intended victims. These
-particular bandits have been drawn to Haven by
-the Eye of Arik. If the DM chooses, the bandits
-may be led by a 2nd or 3rd level thief.
+Bandits: Bandits are NPC thieves who have joined together to rob others. Bandits will act as normal humans, lost and wandering in the palace, to surprise their intended victims. These particular bandits have been drawn to Haven by the Eye of Arik. If the DM chooses, the bandits may be led by a 2nd or 3rd level thief.
 
-Bear, Black: Black bears have black fur and
-stand about 6’ tall. They are omnivorous (will
-eat almost anything), but prefer roots and
-berries. A black bear will not usually attack
-unless it is cornered and cannot escape. This
-particular black bear has wandered into the
-caverns below the palace and was trapped
-there by the red glow from the ruby. The bear
-is extremely hungry. If the party gives him
-food, he will not attack.
+Bear, Black: Black bears have black fur and stand about 6’ tall. They are omnivorous (will eat almost anything), but prefer roots and berries. A black bear will not usually attack unless it is cornered and cannot escape. This particular black bear has wandered into the caverns below the palace and was trapped there by the red glow from the ruby. The bear is extremely hungry. If the party gives him food, he will not attack.
 
-Kobold: These kobolds have been attracted by
-the “Eye of Arik.” They hope to join in the loot-
-ing and pillaging when Arik takes over the valley.
-Orcs: These orcs have gathered to fight for Arik
-when he finally enters Haven. They will help any
-clerics of Arik, if the clerics are in trouble.
-Skeletons: The Eye of Arik has released hordes
-of undead usually kept away by the Protector.
+Kobold: These kobolds have been attracted by the “Eye of Arik.” They hope to join in the looting and pillaging when Arik takes over the valley. Orcs: These orcs have gathered to fight for Arik when he finally enters Haven. They will help any clerics of Arik, if the clerics are in trouble. Skeletons: The Eye of Arik has released hordes of undead usually kept away by the Protector.
 
 PLAYER’S START
 
- 
+Approximately a half-mile from the palace you can see that part of the structure’s left side has been destroyed. Stone blocks and rubble cover the mountain side. Almost all of the castle and many parts of the surrounding land glow a soft red. All plant life, except some strange-looking thorn bushes with white roses, has died where the ruby glow radiates.
 
-Approximately a half-mile from the palace
-you can see that part of the structure’s left side
-has been destroyed. Stone blocks and rubble
-cover the mountain side. Almost all of the cas-
-tle and many parts of the surrounding land
-glow a soft red. All plant life, except some
-strange-looking thorn bushes with white roses,
-has died where the ruby glow radiates.
+As you travel closer to the palace, a trail untouched by the ruby glow appears. The trail leads directly to the entrance of the palace. The main entryway into the palace is the only part of the palace that does not glow red. The massive, barred portcullis that usually blocks the entrance is raised.
 
-As you travel closer to the palace, a trail
-untouched by the ruby glow appears. The
-trail leads directly to the entrance of the
-palace. The main entryway into the palace
-is the only part of the palace that does not
-glow red. The massive, barred portcullis
-that usually blocks the entrance is raised.
+There is a quick, furtive movement to your right, as your party startles a rat near the entrance. The small beast darts out into the glowing area, suddenly stops, shakes a bit, and dies. You notice the remains of other small unfortunate creatures inside this red zone.
 
-There is a quick, furtive movement to your
-right, as your party startles a rat near the
-entrance. The small beast darts out into the
-glowing area, suddenly stops, shakes a bit,
-and dies. You notice the remains of other
-small unfortunate creatures inside this red
+Any player characters who enter or touch the red area must make a save vs. Spells. If successful, the character takes no damage. If unsuccessful, the character takes 1-6 points of damage. A new saving throw is required each round the character is in the red area. Evil creatures of Arik are immune to the effects of the red glow.
 
- 
+If the player characters search the entrance, they will find a small, almost invisible wire stretched across the 30-foot wide entrance, 3 inches above the ground. If the wire is tripped (automatic if the party just walks in without searching), a small dart shoots out of a concealed niche in the rocks. If there is a target in the entranceway, the dart will hit a character on a 10 or better rolled on a 20-sided die, inflicting 1-4 points of damage.
 
- 
+1. ENTRANCE HALL
 
-zone.
+You pass beneath the raised portcullis and enter the palace proper. The gateyard is a large open area surrounded by 20-foot tall rock walls, running 30 feet from east to west and 40 long. There are doors to the east and west, 20 feet from the entryway. Both doors are made of wood and reinforced with iron bars. There are two smaller portcullises in the south wall, 10’ wide and 20' high. One is set in the westernmost ten feet of the south wall, the other in the easternmost ten feet of the south wall. There is 10 feet of solid stone wall between the two portcullises.
 
- 
+As soon as the last character enters the palace, read the following to the players:
 
-Any player characters who enter or touch the red
-area must make a save vs. Spells. If successful,
-the character takes no damage. If unsuccessful,
-the character takes 1-6 points of damage. A new
-saving throw is required each round the charac-
-ter is in the red area. Evil creatures of Arik are
-immune to the effects of the red glow.
+As the last member of your band passes beneath the gates, the portcullis crashes down behind the party, removing any chance of escape by that means. The ruby glow you noted before now covers the path to the palace and the portcullis, but does extend into the palace itself.
 
-If the player characters search the entrance,
-they will find a small, almost invisible wire
-stretched across the 30-foot wide entrance, 3
-inches above the ground. If the wire is tripped
-(automatic if the party just walks in without
-searching), a small dart shoots out of a con-
-cealed niche in the rocks. If there is a target in
-the entranceway, the dart will hit a character
-on a 10 or better rolled on a 20-sided die,
-inflicting 1-4 points of damage.
+Any character trying to move the portcullis will find it will not budge, and will in addition suffer the effects of touching the red zone.
 
-1, ENTRANCE HALL
+Both wooden doors are shut. If the characters successfully try to hear any noise behind the door, they will hear scratching and squeaking behind the western door (room 3) and the slow clank of chains behind the eastern door (room 4), respectively.
 
- 
-
-You pass beneath the raised portcullis and
-enter the palace proper. The gateyard is a
-large open area surrounded by 20-foot tall
-rock walls, running 30 feet from east to
-west and 40 long. There are doors to the
-east and west, 20 feet from the entryway.
-Both doors are made of wood and rein-
-forced with iron bars. There are two
-smaller portcullises in the south wall, 10’
-wide and 20' high. One is set in the west-
-ernmost ten feet of the south wall, the oth-
-er in the easternmost ten feet of the south
-wall. There is 10 feet of solid stone wall
-between the two portcullises.
-
- 
-
-As soon as the last character enters the palace,
-read the following to the players:
-
- 
-
-As the last member of your band passes
-beneath the gates, the portcullis crashes
-down behind the party, removing any
-chance of escape by that means. The ruby
-glow you noted before now covers the path
-to the palace and the portcullis, but does
-extend into the palace itself.
-
- 
-
- 
-
- 
-
-Any character trying to move the portcullis
-will find it will not budge, and will in addi-
-tion suffer the effects of touching the red
-zone.
-
-
-
-Both wooden doors are shut. If the charac-
-ters successfully try to hear any noise behind
-the door, they will hear scratching and squeak-
-ing behind the western door (room 3) and the
-slow clank of chains behind the eastern door
-(room 4), respectively.
-
-The southern portcullises cannot be raised
-by hand, though they will not harm the char-
-acter touching them. Each of the portcullises
-are marked with the letters “A+B” and an
-arrow pointing upward. These refer to the
-levers found in rooms 2 and 3. When both
-levers in these rooms are in the “up” position,
-a grinding noise occurs and the portcullises
-will retract into the ceiling, allowing the party
-to enter the palace proper.
+The southern portcullises cannot be raised by hand, though they will not harm the character touching them. Each of the portcullises are marked with the letters “A+B” and an arrow pointing upward. These refer to the levers found in rooms 2 and 3. When both levers in these rooms are in the “up” position, a grinding noise occurs and the portcullises will retract into the ceiling, allowing the party to enter the palace proper.
 
 2. EAST ROOM
 
- 
+You open the door to reveal a 20 foot by 20 foot room. There is a lever in the center of the south wall. At the center of the room is a 3-foot long gray rat who regards you with reddish eyes.
 
-You open the door to reveal a 20 foot by 20
-foot room. There is a lever in the center of
-the south wall. At the center of the room is
-a 3-foot long gray rat who regards you with
-reddish eyes.
+There is a single giant rat in the room (AC 7; HD 1; hp 4; MV 40’; #AT 1 D 1-3 + disease; ML 8; AL N). It is very hungry. If the party throws the rat some food, it will ignore the party and gobble down the rations. Otherwise it will attack.
 
- 
-
- 
-
- 
-
-There is a single giant rat in the room (AC 7;
-HD 1; hp 4; MV 40’; #AT 1 D 1-3 + disease;
-ML 8; AL N). It is very hungry. If the party
-throws the rat some food, it will ignore the
-party and gobble down the rations. Otherwise
-it will attack.
-
-The lever in the south wall can be moved up
-or down. Its current position is down. The
-“up” position is marked by an “A” carved
-into the rock. For the effects of this lever, see
-room 1. Remember that the gates south will
-raise only if both levers are in the “up” posi-
-tion.
+The lever in the south wall can be moved up or down. Its current position is down. The “up” position is marked by an “A” carved into the rock. For the effects of this lever, see room 1. Remember that the gates south will raise only if both levers are in the “up” position.
 
 3. WEST ROOM
 
- 
+You open the door to reveal a 20 by 20 foot room with a large wooden lever in the southern wall. In the center of the room are a pair of skeletons. Long iron chains dangle from their wrists, and they carry curved swords.
 
-You open the door to reveal a 20 by 20 foot
-room with a large wooden lever in the
-southern wall. In the center of the room
-are a pair of skeletons. Long iron chains
-dangle from their wrists, and they carry
-curved swords.
+The two skeletons (AC 7; HD 1; hp 5 each; MV 20’; #AT 1; D 1-6; Save Fl; ML 12; ALC) are undead, and cannot be affected by sleep or charm magics, though they can be curned.
 
- 
+The lever on the southern wall is similar to that in room 2, except that the “up” position is marked by a ““B” instead of an “A”. If the levers in this room and room 2 are both moved to the “up” position, the gates to the south will raise.
 
- 
+4. SECRET ROOM
 
- 
+The secret panel slides back to reveal a 10 by 10 room littered with equipment: 2 sets of chain mail, a shield, a sword, a crossbow, and 20 crossbow bolts.
 
-The two skeletons (AC 7; HD 1; hp 5 each;
-MV 20’; #AT 1; D 1-6; Save Fl; ML 12; ALC)
-are undead, and cannot be affected by sleep or
-charm magics, though they can be curned.
-
-The lever on the southern wall is similar to
-that in room 2, except that the “up” position
-is marked by a ““B” instead of an “A”. If the
-levers in this room and room 2 are both moved
-to the “up” position, the gates to the south
-will raise.
-
-
- 
-
-4, SECRET ROOM
-
- 
-
-The secret panel slides back to reveal a 10
-by 10 room littered with equipment: 2 sets
-of chain mail, a shield, a sword, a cross-
-bow, and 20 crossbow bolts.
-
- 
-
- 
-
- 
-
-The equipment is in good condition, and was
-left by a previous group of adventurers as a
-storage cache that they never returned to.
+The equipment is in good condition, and was left by a previous group of adventurers as a storage cache that they never returned to.
 
 5. LIBRARY
 
- 
+Reed pens, dried ink wells, and scraps of paper litter this large room. There are several huge oak tables overturned in the southeast corner. This room appears to have been some kind of study, classroom or library. You do not see any books or scrolls, however.
 
-Reed pens, dried ink wells, and scraps of
-paper litter this large room. There are sev-
-eral huge oak tables overturned in the
-southeast corner. This room appears to
-have been some kind of study, classroom or
-library. You do not see any books or scrolls,
-however.
-
- 
-
- 
-
- 
-
-Hidden behind the tables is a family of five
-kobolds (AC 7; HD 1/2; hp 3 each; MV 40°;
-#AT 1; D 1-4; Save NM; ML 6; AL C). If the
-party decides to search the room, or they dis-
-cover the kobolds by accident, the kobolds
-will fight to defend their lair. Otherwise, they
-will remain hidden until the danger passes.
-Buried in the litter are 50 copper pieces.
+Hidden behind the tables is a family of five kobolds (AC 7; HD 1/2; hp 3 each; MV 40°; #AT 1; D 1-4; Save NM; ML 6; AL C). If the party decides to search the room, or they discover the kobolds by accident, the kobolds will fight to defend their lair. Otherwise, they will remain hidden until the danger passes. Buried in the litter are 50 copper pieces.
 
 6. STOREROOM
 
- 
+This room looks like a storeroom. Its shelves are filled with large sacks. A dozen barrels are stacked against one wall.
 
-This room looks like a storeroom. Its
-shelves are filled with large sacks. A dozen
-barrels are stacked against one wall.
-
- 
-
- 
-
- 
-
-If the players examine the sacks, they will find
-the sacks are filled with grain. The barrels are
-filled with beer. Except for the stored goods,
-the room is empty.
+If the players examine the sacks, they will find the sacks are filled with grain. The barrels are filled with beer. Except for the stored goods, the room is empty.
 
 7. PANTRY
 
- 
+This area looks like a pantry. Wooden plates, spoons, knives, and other utensils are scattered around the room. Broken pots litter the floor. You see five small, incredibly ugly, human-like beings opening drawers and cabinets and tossing things on the floor. The creatures have pale earthy colored skin. Their eyes are red and glow in the dark.
 
-This area looks like a pantry. Wooden
-plates, spoons, knives, and other utensils
-are scattered around the room. Broken
-pots litter the floor. You see five small,
-incredibly ugly, human-like beings open-
-ing drawers and cabinets and tossing
-things on the floor. The creatures have pale
-earthy colored skin. Their eyes are red and
-glow in the dark.
+The 5 human-like creatures are goblins (AC 6; HD 1-1; hp 4 each; MV 20’; #AT 1; D 1-6; Save NM; ML 7; AL C). The goblins are looting the kitchen for valuables. So far they have found nothing. As a result, they are very angry.
 
- 
-
- 
-
- 
-
-The 5 human-like creatures are goblins (AC 6;
-HD 1-1; hp 4 each; MV 20’; #AT 1; D 1-6;
-Save NM; ML 7; AL C). The goblins are loot-
-ing the kitchen for valuables. So far they have
-found nothing. As a result, they are very
-angry.
-
-Goblins normally live underground. In full
-
-daylight they fight with a penalty of —1 on
-their “‘to hit” rolls. Torch light, lantern light
-ora light spell is not equal to full daylight and
-will not affect them. Goblins hate dwarves
-and will attack them on sight.
+Goblins normally live underground. In full daylight they fight with a penalty of —1 on their “‘to hit” rolls. Torch light, lantern light ora light spell is not equal to full daylight and will not affect them. Goblins hate dwarves and will attack them on sight.
 
 8. DINING HALL
 
- 
+This room appears to be a dining hall. Seated around a large table are twenty statues. The statues look like men and women eating supper. One statue is cutting meat, another is drinking from a wine cup, and so forth. The food on the table is not stone. The food is cold and stale, but no moldy or decayed.
 
-This room appears to be a dining hall.
-Seated around a large table are twenty
-statues. The statues look like men and
-women eating supper. One statue is cut-
-ting meat, another is drinking from a wine
-cup, and so forth. The food on the table is
-not stone. The food is cold and stale, but
-no moldy or decayed.
-
- 
-
- 
-
- 
-
-When Arik sent his power to this dimension
-through the ruby, his power turned most of
-the palace inhabitants into stone statues. This
-group of people were eating supper at the
-time. There is neither monster nor treasure in
-the room.
+When Arik sent his power to this dimension through the ruby, his power turned most of the palace inhabitants into stone statues. This group of people were eating supper at the time. There is neither monster nor treasure in the room.
 
 9. HOBGOBLIN BARRACKS
 
-If the party listens at the door first, they will
-hear arguing, which any who speak hobgob-
-lins will recognize as that language. No roll for
-listening needs to be made.
+If the party listens at the door first, they will hear arguing, which any who speak hobgoblins will recognize as that language. No roll for listening needs to be made.
 
- 
+This room holds six beds. Musty, ragged blankets lie on the beds. Six footlockers (small wooden chests) rest at the foot of the beds. A half-dozen creatures sit on the beds arguing. The six creatures are humanlike and man-sized, though incredibly ugly. Their skin is an earth color and they appear very brutish.
 
-This room holds six beds. Musty, ragged
-blankets lie on the beds. Six footlockers
-(small wooden chests) rest at the foot of the
-beds. A half-dozen creatures sit on the
-beds arguing. The six creatures are human-
-like and man-sized, though incredibly
-ugly. Their skin is an earth color and they
-appear very brutish.
-
- 
-
- 
-
- 
-
-The six creatures are hobgoblins (AC 6; HD
-1+1; hp 6 each; MV 30’; #AT 1; D1-8; Save
-F1; ML8; ALC). The hobgoblins have moved
-into the old barracks which once housed the
-palace guards.
+The six creatures are hobgoblins (AC 6; HD 1+1; hp 6 each; MV 30’; #AT 1; D1-8; Save F1; ML8; ALC). The hobgoblins have moved into the old barracks which once housed the palace guards.
 
 10. DESERTED BARRACKS
 
- 
+This room contains the remains of bunks, blankets, wooden tables and stools which have been broken. Five corpses litter the floor. Two of the bodies are human, dressed like palace guards. The other three corpses are of a small human-like race with grotesque faces and livid gray skin.
 
-This room contains the remains of bunks,
-blankets, wooden tables and stools which
-have been broken. Five corpses litter the
-floor. Two of the bodies are human,
-dressed like palace guards. The other three
-corpses are of a small human-like race with
-grotesque faces and livid gray skin.
+This room was a barracks for palace guardsmen. The two dead men had been patrolling outside the palace when the disaster struck. They managed to rush back inside before the red glow surrounded the palace. Unfortunately they ran into a party of goblins who sneaked into the palace through the lower caverns and were looting the barracks.
 
- 
-
- 
-
- 
-
-This room was a barracks for palace guards-
-men. The two dead men had been patrolling
-outside the palace when the disaster struck.
-They managed to rush back inside before the
-red glow surrounded the palace. Unfortu-
-
-
-
-nately they ran into a party of goblins who
-sneaked into the palace through the lower
-caverns and were looting the barracks.
-
-After a short, bloody fight both men were
-killed, but not before they killed three gob-
-lins. The remainder of the goblins, in a fit of
-rage, smashed all the furniture in the room.
-The room is presently empty of treasure and
-live monsters.
+After a short, bloody fight both men were killed, but not before they killed three goblins. The remainder of the goblins, in a fit of rage, smashed all the furniture in the room. The room is presently empty of treasure and live monsters.
 
 11. CAVERN ENTRANCE
 
