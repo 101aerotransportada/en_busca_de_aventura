@@ -43,7 +43,7 @@ Los duendes viven con el resto de los duendes en la habitación 2. Llevan 6 me, 
 
 La aventura comienza con el grupo de pie fuera de las puertas dobles que conducen al castillo. Las puertas están abiertas, y el columpio se abren fácilmente...
 
-1, COMEDOR ABANDONADO
+1. COMEDOR ABANDONADO
 
 Esta habitación parece haber sido utilizada una vez como comedor. Hay mesas y bancos repartidos por toda la habitación, muchos girados a sus lados o al revés. Todo está cubierto de telarañas.
 
