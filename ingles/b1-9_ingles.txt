@@ -772,7 +772,7 @@ A. KOBOLD LAIR: There is a 2 in 6 chance that as the group enters the cave-like 
 
 Note: 30’ inside the entrance is a pit. There is a 3 in 6 chance that each person in the front rank will fall in unless they are probing ahead. There is a 1 in 6 chance that individuals in the second rank will also fall in, but only if they are close to the first rank and the character ahead has already fallen in. The pit is 10’ deep, and those falling in will take 1-6 points damage. The pit lid will close, and those persons within cannot escape without aid from the outside. The noise will attract creatures from areas 1. and 2. Planks for crossing the pit are stored at #1., beyond.
 
-1, GUARD ROOM: 6 kobold guards, (AC 7, HD 1/2, hp 3 each, D 1-4). They will throw spears the first round if they have initiative. Each carries d6 sp. One will run to alert areas 4. and 6, The guards will be alerted by loud noises or lights.
+1. GUARD ROOM: 6 kobold guards, (AC 7, HD 1/2, hp 3 each, D 1-4). They will throw spears the first round if they have initiative. Each carries d6 sp. One will run to alert areas 4. and 6, The guards will be alerted by loud noises or lights.
 
 2. GIANT RATS (amidst garbage and waste): There are 18 giant rats (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3 plus disease, MV 40’, Save NM, ML 8). Each time a character is bitten there is a 1-in-20 chance of getting a disease unless a save vs. Poison is made. If the saving throw fails, there is a 25% chance the character will die in 1-6 days. Otherwise the the character will be too sick to adventure for one game month. These monsters are the pets of the kobolds, living off the garbage and waste of their hosts. They will rush to the sound of the trap door closing or battle. They have nothing of value in their lair or on their bodies, but their leader (rat #18) who will be at the back of the pack, a huge fellow (AC 5 due to speed and cunning, HD 1-1, hp 4, #AT 2, D 2-4/2-4, i.e. 1-3 + 1, MV 40', Save F1, ML8) wears a thin silver chain set with 5 small gems (jewelry value 400 gp, chain value 50 gp, each gem worth 50 gp). The weight of a few rats will not trigger the pit trap.
 
@@ -816,7 +816,7 @@ C. ORCLAIR: Similar to the orcs at area B., these monsters inhabit cave areas 14
 
 14. COMMON CHAMBER: Here are quartered 9 male orcs with shields and swords (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 8) and 8 females and 3 young who do not fight. The males have d20 sp each, the females d4 cp, the young have nothing. The place is a mess, and there is nothing of value in it. The males will go to the entrance if they hear the net falling, arriving in 1 round.
 
-15, COMMON HALL: General meetings are held here, and food is likewise cooked and eaten here. There are 6 males here, 2 with light crossbows (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML8) and 4 females (non-combatant), dwelling in the western forepart. Each has treasure on their person equal to 14. above. The males here will also go to the entrance if they here the noise of the net falling, arriving in 3 rounds.
+15. COMMON HALL: General meetings are held here, and food is likewise cooked and eaten here. There are 6 males here, 2 with light crossbows (AC 6, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML8) and 4 females (non-combatant), dwelling in the western forepart. Each has treasure on their person equal to 14. above. The males here will also go to the entrance if they here the noise of the net falling, arriving in 3 rounds.
 
 16. LEADER’S ROOM: A guard (g.) is always posted just inside the door, and he cannot be surprised. (Orc: AC 5, HD 1+1, hp 6, #AT 1, D 1-6, Save F1, ML 8, carries 246 sp and d4 gp.) He immediately shouts an alarm if any intruders attempt to enter. Behind him are stacks of barrels and boxes and sacks — extra supplies for the tribe. (One small wine barrel, 400 coins in weight, contains a good quality wine worth 55 gp.) None of the other items here have value, and the foodstuffs are not up to human standards.
 
@@ -1008,7 +1008,7 @@ Once the skeletons are disposed of, it is an easy task to pry the 4 garnets (gem
 
 57. HALL OF UNDEAD WARRIORS: There are four files of the undead here, two of 10 skeletons each, two of 10 zombies each. The former face south, the latter north.
 
-20 skeletons: AC 6 (due to chain mail rags & shields), HD 1, hp 3 each, #AT 1, D 1-6, Save Fi, ML12, turned as zombies.
+20 skeletons: AC 6 (due to chain mail rags & shields), HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML12, turned as zombies.
 
 20 zombies: AC 5 (due to chain mail), HD 2, hp 8 each, #AT 1, D 1-8, Save F1; ML 12, turned as if they were ghouls.
 
@@ -1026,7 +1026,7 @@ His room is furnished lavishly, with red carpet, furniture of black wood with ve
 
 TORTURE CHAMBER: There are various implements of torture here, both large and small — a rack, iron maiden, tongs, pinchers, whips, etc. Comfortable chairs are scattered along the walls, evidently so placed to allow visitors an enjoyable view of the proceedings. The torturer lives in the forepart of the place, and he will attack unauthorized persons who enter. He is a 3rd level fighter, hp 19, with chain mail under his black leather garments (AC 5, F3, hp 19, #AT 1, D 3-8 (1d6+2 due to Strength), ML 8). His weapon is a huge axe. Hidden in his mattress are 135 gp and a bracelet worth 700 gp.
 
-62, THE CRYPT: The door to this room is bolted shut. This long hall is of roughly hewn stone, with a low ceiling. In it are many coffins and large sarcophagi with the remains of servants of the Temple of Evil Chaos. The sixth tomb opened will contain a wight: (AC 5, HD 3*, hp 13, #AT 1, D drains one level, MV 30’, Save F2, ML 12). There is a secret compartment in the wight’'s tomb; this contains a sword +2a scroll of protection from undead, a helm of alignment change, and a silver dagger worth 800 gp because of the gems set into its pommel.
+62. THE CRYPT: The door to this room is bolted shut. This long hall is of roughly hewn stone, with a low ceiling. In it are many coffins and large sarcophagi with the remains of servants of the Temple of Evil Chaos. The sixth tomb opened will contain a wight: (AC 5, HD 3*, hp 13, #AT 1, D drains one level, MV 30’, Save F2, ML 12). There is a secret compartment in the wight’'s tomb; this contains a sword +2a scroll of protection from undead, a helm of alignment change, and a silver dagger worth 800 gp because of the gems set into its pommel.
 
 63. STORAGE CHAMBER: There are many piles of boxes, crates, barrels, sacks, and so forth here — the supplies of the temple. There is nothing of value, and if the party stays within the place for longer than 3 rounds, a gelatinous cube will move from the corridor into the place and block it: (AC 8, HD 4*, hp 22, #AT 1, D 2-8, plus paralyzation, MV 20', Save F2, ML 12). Inside the creature are d12 each of cp, sp, ep, gp, and pp, as well as several bones — evidently parts of a victim not yet wholly digested. (One of the bones is actually a wand of enemy detection with 9 charges left. If it is not gotten out of the monster within one turn, it will be ruined by digestive juices.) The secret door in the room leads to the gnoll chieftain’s cave. (50., above).
 
@@ -1108,7 +1108,7 @@ The Protector will open a way through the ruby glow, and will also open a safe p
 
 Ellis the Strong and Ariksbane
 
-The mysterious stranger in black armor who arrived just before the disaster struck is named Ellis the Strong (AC 2; F 3; hp 21; #AT 1; D 1-10 +3; MV 20’; ML9; ALL; $18, 19, W12, D13, C16, Ch15). Ellis is a Knight of the White Drakes, a special band of fighters from Thyatis who ride white dragons and are dedicated to defeating evil wherever it exists. The characters have heard stories of them. He wears black plate mail armor and wields a two-handed sword. His dragon steed is known as Ariksbane (AC 3; HD 6; hp 30; #AT 3; D 1-4/1-4/2d8; MV 30’, Fly 80’; ML 8; ALN). Ellis and Ariksbane came to Haven because they had heard of the great ruby and suspected that the ruby was one of the legendary eyes of Arik. Before they could be sure, they were caught by the power of the ruby and defeated. Ellis is now trapped inside the ruby with Princess Argenta. Ariksbane has been banished to another dimension.
+The mysterious stranger in black armor who arrived just before the disaster struck is named Ellis the Strong (AC 2; F 3; hp 21; #AT 1; D 1-10 +3; MV 20’; ML 9; ALL; S18, I9, W12, D13, C16, Ch15). Ellis is a Knight of the White Drakes, a special band of fighters from Thyatis who ride white dragons and are dedicated to defeating evil wherever it exists. The characters have heard stories of them. He wears black plate mail armor and wields a two-handed sword. His dragon steed is known as Ariksbane (AC 3; HD 6; hp 30; #AT 3; D 1-4/1-4/2d8; MV 30’, Fly 80’; ML 8; ALN). Ellis and Ariksbane came to Haven because they had heard of the great ruby and suspected that the ruby was one of the legendary eyes of Arik. Before they could be sure, they were caught by the power of the ruby and defeated. Ellis is now trapped inside the ruby with Princess Argenta. Ariksbane has been banished to another dimension.
 
 Destroying the Ruby
 
@@ -1228,7 +1228,7 @@ If the party listens at the door first, they will hear arguing, which any who sp
 
 This room holds six beds. Musty, ragged blankets lie on the beds. Six footlockers (small wooden chests) rest at the foot of the beds. A half-dozen creatures sit on the beds arguing. The six creatures are humanlike and man-sized, though incredibly ugly. Their skin is an earth color and they appear very brutish.
 
-The six creatures are hobgoblins (AC 6; HD 1+1; hp 6 each; MV 30’; #AT 1; D1-8; Save F1; ML8; ALC). The hobgoblins have moved into the old barracks which once housed the palace guards.
+The six creatures are hobgoblins (AC 6; HD 1+1; hp 6 each; MV 30’; #AT 1; D1-8; Save F1; ML 8; ALC). The hobgoblins have moved into the old barracks which once housed the palace guards.
 
 10. DESERTED BARRACKS
 
@@ -1256,7 +1256,7 @@ A spitting cobra is a 3’ long, grayish-white snake that can spit a stream of v
 
 This hexagonal room contains a large sunken bath filled with water. The sunken bath is made of white marble veined with black and gold. The walls of this room are lavishly decorated with murals of water nymphs, ponds with long reeds, and hunters stalking water birds. In one corner of the room are seven flasks and a large peacock feather fan. Flying above the bath you see five birdlike creatures. The creatures resemble small feathered anteaters, with long noses.
 
-The 5 birdlike creatures are stirges (AC 7; HD 1; hp 5 each; MV 60’; #AT 1; D 1-3; Save F2; ML9; ALN). When a stirge attacks a creature, it thrusts its beak into the victim's body to suck out blood for 1-3 points of damage. A successful hit means that it has attached itself to the victim and will automatically suck blood for 1-3 points of damage per round until either it or its victim is dead. If its victim dies, it will leave. A flying stirge gains a bonus of +2 to hit on its first attack against any one opponent, due to its speed.
+The 5 birdlike creatures are stirges (AC 7; HD 1; hp 5 each; MV 60’; #AT 1; D 1-3; Save F2; ML 9; ALN). When a stirge attacks a creature, it thrusts its beak into the victim's body to suck out blood for 1-3 points of damage. A successful hit means that it has attached itself to the victim and will automatically suck blood for 1-3 points of damage per round until either it or its victim is dead. If its victim dies, it will leave. A flying stirge gains a bonus of +2 to hit on its first attack against any one opponent, due to its speed.
 
 If the party investigates the seven flasks, they will find that six of the flasks contain scented bath oil in different colors. The last flask is a potion of ESP.
 
@@ -1316,7 +1316,7 @@ This small cave is largely filled with a bubbling gray pool of liquid. The cave 
 
 The liquid is water, but the water has a very high content of sulfur. Because of the sulfur bubbles, the air here is not safe to breathe for long periods of time. Anyone staying in the room for one full turn will begin to feel dizzy. If they do not leave in the next round they will take 1 point of damage for each round they remain in the room without getting fresh air. If the party searches the room they will find that some unfortunate individual once fell into the pool. The victim is now nothing but bones. The victim clutches a leather bag. The bag is filled with 133 gp and a silver wolfheaded ring with two small sapphires for eyes (worth 300 gp).
 
-21, STOREROOM
+21. STOREROOM
 
 This room contains shelves along the south and west walls. The shelves are filled with wooden crates. Otherwise, the room appears to be empty.
 
@@ -1504,7 +1504,7 @@ This room is filled with a number of clay pots of different sizes. Plants were o
 
 The yellow fungus is yellow mold (AC can always be hit; HD 2; hp 9; MV 0’; #AT 1; D 1-6 + special; Save F2; ML no applicable; AL N). Yellow mold can only be killed by fire. A torch will cause 1-4 points of damage to it each round. Yellow mold will eat through wood and leather, but does not harm metal or stone. It does not actually attack, but if it is touched, the mold will squirt out a 10’ x 10’ cloud of spores. Anyone caught within the cloud must save vs. Death Ray or choke to death within 6 rounds.
 
-44, CAVE OF THE LOCUSTS
+44. CAVE OF THE LOCUSTS
 
 This huge cave is filled with stalactites and stalagmites that glow blue. The stalactites and stalagmites in many places have grown together to form a single column, growing together so closely, that in some places, they almost form a wall from floor to ceiling. It looks difficult, but not impossible, to move through the cave.
 
@@ -1619,7 +1619,7 @@ A statue of a young girl playing with a dove is in the southeastern corner of th
 
 The statue in this room is one of Princess Argenta’s ladies in waiting who was turned to stone. None of the scrolls in the room are magical, they are merely blank parchment on which court officials sometimes write letters.
 
-The two women appear to be fighters, but are really thieves. They were trying to loot the rooms of Mirabilis before the disaster struck. Mirabilis caught them and put them to sleep with a sleep spell. He was going to clean up and then report them to the guards, but disaster struck first. The women thieves were not affected by the disaster. They have only recently awakened and are setting out to loot the palace. The two women are named Candella (AC 5;T/2; hp 8; MV 40’; #AT 1; D 1-8; Save T2; ML 7; AL N; S12, 115, W13, D17, C15, Ch 14), and Duchess (AC 5;T/2; hp 11; MV 40’; #AT 1; D 1-8; Save T2; ML7; ALN; $11, 112, W15, D16, C18, Ch15). Because of their wisdom ability scores, both women gain a bonus of +1 on magic-based saving throws. The two thieves are both very attractive and will attempt to use this to their benefit.
+The two women appear to be fighters, but are really thieves. They were trying to loot the rooms of Mirabilis before the disaster struck. Mirabilis caught them and put them to sleep with a sleep spell. He was going to clean up and then report them to the guards, but disaster struck first. The women thieves were not affected by the disaster. They have only recently awakened and are setting out to loot the palace. The two women are named Candella (AC 5;T/2; hp 8; MV 40’; #AT 1; D 1-8; Save T2; ML 7; AL N; S12, 115, W13, D17, C15, Ch 14), and Duchess (AC 5;T/2; hp 11; MV 40’; #AT 1; D 1-8; Save T2; ML 7; ALN; $11, 112, W15, D16, C18, Ch15). Because of their wisdom ability scores, both women gain a bonus of +1 on magic-based saving throws. The two thieves are both very attractive and will attempt to use this to their benefit.
 
 These two thieves will act friendly toward the party. They will pretend to be young inexperienced fighters in search of adventure. They will politely ask to join the party, saying that they are not quite as tough or as prepared for adventuring as they had originally thought.
 
@@ -1773,7 +1773,7 @@ A large ornate canopy bed sits in the middle of the room. The bed posts have bee
 
 This was Princess Argenta’s room. It is currently empty.
 
-74, GUARD ROOM
+74. GUARD ROOM
 
 The room contains a wooden table and several wooden chairs. Standing next to the fireplace is a man dressed in the uniform of the palace guard. The man’s body has more than a dozen stab wounds, which would normally kill an individual.
 
@@ -2135,7 +2135,7 @@ The key to the chest and the key to this room are on a thong around the neck of 
 
 In this dingy chamber is found one hapless thief, captured by the bugbears on the outskirts of Guido’s Fort three weeks earlier. He used to own most of the equipment found in the bugbears’ chest (room #43).
 
-Cullen DeFilch: AC 7; T2; hp 7; #AT 1; D by weapon; Save T2; ML9; ALN; $ 10;18; W 13; D 16; C 9; CH 10.
+Cullen DeFilch: AC 7; T2; hp 7; #AT 1; D by weapon; Save T2; ML 9; ALN; $ 10;18; W 13; D 16; C 9; CH 10.
 
 If the characters release Cullen from his prison, he is most grateful, happy to join the party for the duration of the adventure. He does not ask for a share of the loot, claiming that his freedom is reward enough. If, however, he should be left alone with a bag of jewels for example, there is no guarantee that the bag remains as full as it was to begin with . . .
 
@@ -2159,7 +2159,7 @@ If any characters are foolish enough to drop into this shaft, roll 346 to see ho
 
 A torture rack, an iron maiden, and a huge pot of bubbling oil all give good indication of this room’s purpose. Feeding the fire beneath the oil are two goblins.
 
-Goblins (2): AC 6; HD 1-1; hp 4,3; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML7; ALC.
+Goblins (2): AC 6; HD 1-1; hp 4,3; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
 
 Along the southern wall of the room are four cells, each with a metal door. Each door has a barred window, persumably to let prisoners watch the “entertainment.” Mercifully, all of the cells are empty of living creatures, although a moldering skeleton lies on the bed in the far east cell. A ring bearing a large iron key hangs on the wall of the chamber. An examination shows that the key opens all four cell doors.
 
@@ -2217,7 +2217,7 @@ This cell, at the far south side of the forge room is where the dwarf has been k
 
 51. GOBLIN ARENA
 
-Bugbear (1): AC 5; HD 3+1; hp 16; MV 90’ (30'); #AT 1; D 2-8; Save F3; ML9; ALC.
+Bugbear (1): AC 5; HD 3+1; hp 16; MV 90’ (30'); #AT 1; D 2-8; Save F3; ML 9; ALC.
 
 Hobgoblins (8): AC 6; HD 1+1; hp 9,8,7,6,5, 4,3,2; MV 90’ (30'); #AT 1; D 1-6; Save F1; ML 8; AL C.
 
@@ -2379,11 +2379,11 @@ The huge double doors to this room are not locked. This chamber is where the hob
 
 A huge hobgoblin is seated on the throne at the south end of the chamber. One hobgoblin bodyguard is standing to each side of the throne. Four other hobgoblins are seated around a huge fire burning in the center of the room; two more hobgoblins are drawing liquid from a keg in the southwest corner of the room. Apparently, some kind of party is going on because the atmosphere in the room is festive.
 
-Hobgoblin King (1): AC 6; HD 5; hp 22; MV 90' (30'); #AT 1; D 1-8+2; Save F5; ML 12: ALG.
+Hobgoblin King (1): AC 6; HD 5; hp 22; MV 90' (30'); #AT 1; D 1-8+2; Save F5; ML 12: AL C.
 
-Hobgoblin Bodyguards (2): AC: 6; HD 4; hp 17,14; MV 90' (30); #AT 1; D 1-6/1-6 +1; Save F4; ML 10 (8); ALC.
+Hobgoblin Bodyguards (2): AC: 6; HD 4; hp 17,14; MV 90' (30); #AT 1; D 1-6/1-6 +1; Save F4; ML 10 (8); AL C.
 
-Hobgoblins (6): AC 6; HD 1+1; hp 9, 7, 6, 5, 3, 2; MV 90'(30’); #AT 1; D 1-8; Save Fi; ML 10 (8); ALC.
+Hobgoblins (6): AC 6; HD 1+1; hp 9, 7, 6, 5, 3, 2; MV 90'(30’); #AT 1; D 1-8; Save F1; ML 10 (8); AL C.
 
 The king’s personal bodyguards are armed with spears, one of which is a spear +1. The king is wearing a ring of fire resistance, so he is invulnerable to normal fires and gains a bonus when saving against magical fires.
 
@@ -2391,7 +2391,7 @@ When the doors to the room are open, the hobgoblin king shouts a warning and ord
 
 The fire in the center of the room is heating a large kettle of boiling liquid, which vaguely resembles soup. In fact, it is soup, but the characters find it rancid and foul-tasting, though not poisonous. The smoke from the fire is vented through a large hole in the ceiling.
 
-Each of the eight hobgoblins has a belt pouch containing a few coins: 2d6 gp, 1d10ep, and 3d6 sp for each pouch. On his belt, the king carries a ring of keys, including those to the doors of rooms #68 and #69, and to the chests in room #69. The hobgoblin bodyguard who carries a magical spear carries on his belt the key to the chest in room #67.
+Each of the eight hobgoblins has a belt pouch containing a few coins: 2d6 gp, 1d10 ep, and 3d6 sp for each pouch. On his belt, the king carries a ring of keys, including those to the doors of rooms #68 and #69, and to the chests in room #69. The hobgoblin bodyguard who carries a magical spear carries on his belt the key to the chest in room #67.
 
 67. BODYGUARD CHAMBER
 
@@ -2440,12 +2440,12 @@ TABLE 6
 WANDERING MONSTERS IN DUNGEON LEVEL II
 
 Die Roll Creature Encountered
-1 Piranha Birds (4-8): AC 6; HD 1/2; bp 4), 45S yiFi 25 2h dy 16 ev 180'(60') flying; #AT 1; D 1-4; Save NM; ML 8; ALN.
-2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save F1; ML8; ALN.
-3 Thoul (1): AC 6; HD 3**; hp 14; MV 120’ (40'); #AT 2 claws; D 1-3/ 1-3 + paralysis; Save F3; ML 10; AL Cc
-4 Bugbears (1-4); AC 5; HD 3 +1; hp 14, 12, 11, 9; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; ALC.
-5 Ogres (1-2): AC 5; HD 4+1; hp 19, 16; MV 90'(30'); #AT 1; D 1-10; Save F4; ML 10; ALC. 
-6 Berserkers (1-4): AC 7; HD 1+1*; hp 9, 7, 6, 4; MV 120’ (40); #AT 1 at +2; D 1-8; Save F1; ML 12; AL N. 
+1 Piranha Birds (4-8): AC 6; HD 1/2; bp 4), 45S yiFi 25 2h dy 16 ev 180'(60') flying; #AT 1; D 1-4; Save NM; ML 8; AL N.
+2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save F1; ML 8; AL N..
+3 Thoul (1): AC 6; HD 3**; hp 14; MV 120’ (40'); #AT 2 claws; D 1-3/ 1-3 + paralysis; Save F3; ML 10; AL C.
+4 Bugbears (1-4); AC 5; HD 3 +1; hp 14, 12, 11, 9; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; AL C.
+5 Ogres (1-2): AC 5; HD 4+1; hp 19, 16; MV 90'(30'); #AT 1; D 1-10; Save F4; ML 10; AL C.
+6 Berserkers (1-4): AC 7; HD 1+1*; hp 9, 7, 6, 4; MV 120’ (40); #AT 1 at +2; D 1-8; Save F1; ML 12; AL N.
 
 70. OCTAGONAL ROOM
 
@@ -2467,7 +2467,7 @@ In this dirty chamber, three large and furry humanoids are squatting listlessly.
 
 The trio of bugbears accidentally fell down the trap chute several months earlier; they claimed the cave and attack humans and demi-humans on sight.
 
-Bugbears (3): AC 5; HD 3+1; hp 16,13,13; MV 90'(30'); #AT 1; D 2-8; Save F3; ML9; ALC.
+Bugbears (3): AC 5; HD 3+1; hp 16,13,13; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; AL C
 
 The bugbears fight with huge, knotty pieces of wood they use as clubs. They have no clothing, armor, or anything else of value.
 
@@ -2492,7 +2492,7 @@ otic (and hungry!) inhabitants.
 
 Ghouls (4): AC 6; HD 2*; hp 13, 11, 10, 8;
 MV 90! (30'); #AT 2 claws/1 bite; D 1-3/
-1-3/1-3 + paralyze; Save F2; ML9; ALC.
+1-3/1-3 + paralyze; Save F2; ML 9; ALC.
 
 The ghouls are squatting around a pile of mis-
 cellaneous bones at the spot marked by an X
@@ -2519,7 +2519,7 @@ considerable time is spent scraping the corro-
 sion off of the blade. However, it functions
 with its +2 bonus whether it is cleaned or not.
 
-74, SECRET CHAMBER
+74. SECRET CHAMBER
 
 The two secret doors leading into this room,
 and the secret door connecting the room to
@@ -2951,7 +2951,7 @@ ML 6; ALC.
 
 5 Crab Spider (1): AC 7; HD 2*; hp
 9; MV 120'(40'); #AT 1; D 1-8 +
-poison; Save F1; ML7; ALN.
+poison; Save F1; ML 7; ALN.
 
 6 Piranha Birds (2-12): AC 6; HD 1/
 2; hp 4, 4, 4, 3, 3, 3, 2,.2,2,1,1,1;
@@ -2981,7 +2981,7 @@ Two more of these humanoids (kobolds) are
 napping in an alcove.
 
 Kobolds (3): AC 7; HD 1/2; hp 4,2,2; MV 60’
-(20'); #AT 1; D 1-4; Save NM; ML6; ALC.
+(20'); #AT 1; D 1-4; Save NM; ML 6; ALC.
 
 The kobolds are on guard duty, instructed to
 report to their chief if they sight any creatures
@@ -3225,7 +3225,7 @@ stud the walls. A single kobold is on guard at
 the top of each cliff.
 
 Kobolds (2): AC 7; HD 1/2; hp 3, 2; MV 60’
-(20'); #AT 1; D 1-4; Save NM; ML6; ALC.
+(20'); #AT 1; D 1-4; Save NM; ML 6; ALC.
 
 The kobolds are lying prone, watching the corri-
 dors below them that approach from caverns #92
@@ -3914,7 +3914,7 @@ encounter something. When an encounter
 occurs, roll 1d12 and use the resulting
 encounter on Table 1 (inside back cover).
 
-1, OUTSIDE THE TEMPLE
+1. OUTSIDE THE TEMPLE
 
  
 
@@ -4044,7 +4044,7 @@ half-chewed leather sacks. A careful search
 reveals a scrap of leather with two black pan-
 thers embossed on it.
 
-14, UPPER TEMPLE ENTRY WAY
+14. UPPER TEMPLE ENTRY WAY
 
  
 
@@ -4448,7 +4448,7 @@ drops down into darkness. The shaft drops 50
 feet to area 48 on lower level. Its damp walls are
 too slippery for even a thief to climb.
 
-24, CLOAK ROOM
+24. CLOAK ROOM
 
 Spells:
 
@@ -4515,7 +4515,7 @@ Rahasia.
 
 Alki, Elven Warrior-Seer: AC 4; E2; hp 12;
 MV 60’ (20’); #AT 1 at +2; D 1d8 +2;
-Save E2; ML9; ALL; XP 20; Str 16, Int 12,
+Save E2; ML 9; ALL; XP 20; Str 16, Int 12,
 Wis 8, Dex 9, Con 13, Cha 12
 
 There are seven openings on one side of
@@ -4532,7 +4532,7 @@ Each cell contains a cot of woven reeds, several
 dirty rags, and a pile of stones. None of these
 items have any value. There is nothing else in
 any of the cells, except cells 27f, 27g, 27n, and
-270, listed below.
+270. listed below.
 
 27£. PRIESTHOOD CELL
 
@@ -4589,7 +4589,7 @@ they are doing so. If any character fails, the
 Siswa notice immediately.
 
 Siswa (3): AC 8; E1; hp 4, 3, 2; MV 120’ (40’);
-#AT 1; D 1d8; Save E1; ML8; ALC; XP 13
+#AT 1; D 1d8; Save E1; ML 8; ALC; XP 13
 
 27n. DARK CELL
 
@@ -4972,7 +4972,7 @@ doors in the temple.
 The Rahib: AC 3; C5; hp 35; MV 60’ (20');
 #AT 1 at +1; D 1d6 +1; Save C5; ML 10;
 ALC; XP 200; Str 12, Int 11, Wis 16, Dex
-13, Con 12, Cha 17
+13. Con 12, Cha 17
 
 Spells (Clerical):
 
@@ -5292,7 +5292,7 @@ the room of Ular-Taman to what appears to be
 a rock slide. The rock slide is actually a secret
 door to room 44, where Rahasia's treasure is.
 
-44, TREASURE ROOM
+44. TREASURE ROOM
 
  
 
@@ -5310,7 +5310,7 @@ east end of the south wall.
 The metal door leads to area 45, the stair of
 locks. No one can open the door unless its lock
 is picked or unlocked with the keys from area
-37, the library.
+37. the library.
 
 The treasure is in the center of the room. It
 includes: 800 gp, a sword +1, a snake staff, a
@@ -7158,7 +7158,7 @@ Solorena’s powers are described in the Appen-
 dix under New Monsters.
 
 Solorena, Witch: AC 9; M1; hp 4; MV 120’
-(40’); #AT 1; D 1d4; Save M1; ML6; ALC;
+(40’); #AT 1; D 1d4; Save M1; ML 6; ALC;
 XP 10
 
 Spells:
@@ -7631,7 +7631,7 @@ the stone wall is shattered and fallen in.
  
 
 If the PCs did not encounter Karelena in room
-27, or if she escaped from them there, she is here
+27. or if she escaped from them there, she is here
 with a panther. She stands at the altar with her
 back to the door. When she hears the PCs enter,
 she orders the panther to attack. Then she tries
@@ -8047,7 +8047,7 @@ to their original bodies.
 away, and the eyes are banished forever to
 an unknown dimension.
 
-4, All the adventurers transformed into
+4. All the adventurers transformed into
 platinum statues are restored to normal.
 The PCs may not have rescued all the
 prisoners (the elves Hasan, Merisa, Sylva,
@@ -8477,7 +8477,7 @@ would start eating goblins!
  
 
 KEY TO TIER 1
-1, STATUE ROOM
+1. STATUE ROOM
 
  
 
@@ -8661,7 +8661,7 @@ small hole high in the north wall. The stirges
 fly through the hole when they go out hunt-
 ing at night.
 
-4, PRIEST’S QUARTERS
+4. PRIEST’S QUARTERS
 
  
 
@@ -8764,7 +8764,7 @@ beetle has three glowing spots.
 
 The three beetles are fire beetles (AC 4; HD
 1+2; hp 6 each; MV 40’; #AT 1; D 2-8; Save
-F1; ML7; ALN). Each beetle has three glands
+F1; ML 7; ALN). Each beetle has three glands
 that glow and give off light for a 10’ radius.
 The glands will continue to glow for 1-6 days
 after they are removed. The beetles are hun-
@@ -9008,7 +9008,7 @@ ML 8; ALL). The tallest, oldest man is Kana-
 dius, the Grand Master of the Brotherhood of
 Gorm (AC 4; F3; hp 25; #AT 1 at +1; D 1-
 8 +1; Save F3; ALL; $ 14,112, W9,D12,C
-10, Ch 12). He wears a fancier helmet. He also
+10. Ch 12). He wears a fancier helmet. He also
 gives all Brothers a morale of 9 when they are
 with him.
 
@@ -9244,7 +9244,7 @@ bowl and holy symbol are made from rare
 teakwood. They are worth 50 gp, 25 gp, and
 25 gp respectively.
 
-14, THE MAGI OF USAMIGARAS
+14. THE MAGI OF USAMIGARAS
 
 This corridor has been painted black with tiny
 white stars to resemble the night sky. The door
@@ -9561,8 +9561,7 @@ tles, the food and wine will be good, even if
 the crate or barrel has been sprayed with the
 beetles’ oil.
 
-20. ABANDONED CEREMONIAL
-CHAMBER
+20. ABANDONED CEREMONIAL CHAMBER
 
  
 
@@ -9570,7 +9569,7 @@ This room looks like a ruined chapel. It has
 been looted and deliberately wrecked. The
 stone altar has been smashed, and no cer-
 emonial equipment can be seen. The word
-“Zatgon” has been scrawled on one wall in
+“Zargon” has been scrawled on one wall in
 large letters.
 
  
@@ -9581,7 +9580,7 @@ large letters.
 
 This ceremonial chamber of the old Immortals
 of Cynidicea was wrecked by the followers of
-Zatgon centuries ago. Except for the wreck-
+Zargon centuries ago. Except for the wreck-
 age, the room is empty.
 
 20a. ENTRANCE TO TIER 4
@@ -9594,22 +9593,12 @@ room 38. The hinged floor section is the
 entrance to Tier 4. Characters can walk down
 the floor section into room 38.
 
-21, ARCH OF THE WARRIOR MAIDENS
+21. ARCH OF THE WARRIOR MAIDENS
 
  
 
 You see two 10’ tall statues of women fight-
 ers. The fighters wear masks with the face
-
- 
-
- 
-
- 
-
-
- 
-
 of the female statue on top of the pyramid.
 The two statues stand with spears out-
 stretched to form an arch. The only way
@@ -9650,7 +9639,6 @@ hang on all the walls and the floor is cov-
 ered by a green carpet. The room is dust-
 free and has been scrubbed clean. Except
 for the ceremonial equipment, the room
-
 appears empty.
 
  
@@ -9671,8 +9659,7 @@ any loud noises. If any party member has des-
 ecrated the shrine, the Warrior Maidens will
 attack.
 
-22. TREASURE ROOM OF THE WARRIOR
-MAIDENS OF MADARUA
+22. TREASURE ROOM OF THE WARRIOR MAIDENS OF MADARUA
 
  
 
@@ -9680,11 +9667,6 @@ The room appears to be empty except fora
 large stone vault in the middle of the east
 wall. The vault has a keyhole. It looks like
 the stone slabs that make up the vault are
-
- 
-
- 
-
 too heavy to be moved.
 
  
@@ -9721,7 +9703,7 @@ whose statue is atop the pyramid.
 
 The women are all Warrior Maidens of Mada-
 tua. Seven are 1st level fighters (AC 5; F1; hp
-5 each; MV 20’; #AT 1; D 1-8; Save F1; ML8;
+5 each; MV 20’; #AT 1; D 1-8; Save F1; ML 8;
 ALN). Two are 2nd level (AC 5 hp; hp 9; MV
 20'; #AT 1; D 1-8; Save F2). The leader of the
 Warrior Maidens is Pandora, Madarua’s
@@ -10207,8 +10189,7 @@ They will attack the party as soon as the char-
 acters enter and will fight until destroyed.
 There is no treasure here.
 
-32. QUEEN ZENOBIA’S BURIAL
-CHAMBER
+32. QUEEN ZENOBIA’S BURIAL CHAMBER
 
  
 
@@ -10440,7 +10421,7 @@ mound.
 Ten 3’ long, gray rats have made a nest in the
 corner of the room. These are giant rats (AC 7;
 HD 1/2; hp 2 each; MV 40’; #AT 1; D 1-3 +
-disease; Save NM; ML8; ALN). Each giant rat
+disease; Save NM; ML 8; ALN). Each giant rat
 has a 1 in 20 chance of having a disease. A
 character bitten by a diseased rat must save vs.
 Poison or be infected. The disease has a 1 in 4
@@ -10572,7 +10553,7 @@ by eight tentacles. Each tentacle is 2’ long.
 
 The creature is a carrion crawler (AC 7; HD
 3+1*; hp 13; MV 40’; #AT 8; D paralysis;
-Save F2; ML9; ALN). A hit by a carrion crawl-
+Save F2; ML 9; ALN). A hit by a carrion crawl-
 er paralyzes the victim unless a save vs. Paraly-
 sis is made. The paralysis can be removed by a
 cure light wounds spell, but any spell so used
@@ -10680,7 +10661,7 @@ have three huge leather sacks holding 500 gp,
 and a magic-user/elf scroll (continual light,
 levitate, read languages).
 
-42, CLERIC’S QUARTERS
+42. CLERIC’S QUARTERS
 
  
 
@@ -10753,7 +10734,7 @@ The treasure in the locked chest is 3000 gp,
 a potion of invisibility, chain mail +1, and a
 dagger +1.
 
-44, SECRET ROOM
+44. SECRET ROOM
 
 The ladder from the trap door at 27 leads
 down into this room, The room is empty.
@@ -11063,7 +11044,7 @@ many tentacles.
 Cynidiceans. All Cynidiceans are now
 masked.
 
-14, The Cynidiceans meet a barbaric, golden-
+14. The Cynidiceans meet a barbaric, golden-
 haired people (the ancestors of the
 Heldann tribes).
 
@@ -12349,7 +12330,7 @@ eral kobold-sized tools, a bag of spoiled food,
 and a small pouch containing 5 gp.
 
 Kobolds (10): AC 7; MV 30’; HD 1/2; hp 2
-each; #AT 1; D 1-4; Save NM; ML6; ALC
+each; #AT 1; D 1-4; Save NM; ML 6; ALC
 
 4. Refuse Pit
 
@@ -13533,7 +13514,7 @@ in the direction shown on Map 6.
 
 Crossbowman (1st level fighter): AC 4; Fl; hp
 7; Running Speed 90’; #AT 1; D 1-6; Save
-Fl; ML7; ALC
+F1; ML 7; ALC
 
 A. Arrow Ambush
 
@@ -13549,7 +13530,7 @@ not melee with the characters unless forced.
 They run in the direction shown on the map.
 
 Bowmen (3): AC 7; Running Speed 90’; F1;
-hp 5; #AT 1; D 1-6; Save NM; ML6; ALN
+hp 5; #AT 1; D 1-6; Save NM; ML 6; ALN
 
 B. Booth
 
@@ -13709,7 +13690,7 @@ Cleric (3rd Ivel): AC 5; MV 30’; C3; hp 14;
 Spells light, cure light wounds
 
 Fighter (3rd level): AC 5; MV 40’; F3; hp 17;
-#AT 1 at +1; D 1-8 +1; Save F3; ML9; AL
+#AT 1 at +1; D 1-8 +1; Save F3; ML 9; AL
 C; potion of invisibility
 
 3. Robing Chamber
