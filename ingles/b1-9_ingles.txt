@@ -945,6 +945,7 @@ DM NOTE: As usual, hobgoblin losses can- not be replaced during the course of no
 G. SHUNNED CAVERN: Even the normal inhabitants of this area, including the ogre, stay away from here, for the creatures that dwell herein are exceptionally danger- ous. Any creature foolish enough to ven- ture out at night becomes fair game. A horrible stench is noticed as soon as crea- tures enter the cavern area.
 
 32. EMPTY GALLERY: The odor of these places is awful. Bones and rotting corpses are spread here and there amidst a litter of dead leaves and old branches. If a careful search is made, adventurers will find a coin every round: 1-2 = 1 cp, 3 —41 sp, 5-61 ep. The sound of such searching might bring visitors! Roll on the table below for an encounter:
+
 1 Ow! bear from 34., below
 2 2-12 giant rats (AC 7, HD 1/2, hp 2
 each, #AT 1, D 1-3 plus disease, MV
@@ -19121,85 +19122,28 @@ and future Gazetteers will enable the players
 to do even more!
 
  
-
- 
-
- 
-
-wr
-
-wt
-
-|
-
-Se
-
-oi
-
- 
-
- 
-
-
-
-
- 
-
-LE LE Th OP EEE EY RE 2 SE EERE EET TY OT 1S ES
-
 Archer Bush
-
 Armor Class 7
-
 Hit dice: 2
 Move: 3'(1')
 Attacks: 1 thorn spray
 Damage: 1-4
-
 No. Appearing: 1-20
 Save As: Fighter 1
 Morale: 12
 Treasure Type: IV
 Alignment: Chaotic
 
-liding .
+A chameleon man cannot attack in the same round that it uses the vanishing move, because of the mental concentration required to vanish. A group of chameleon men will usually use the vanishing move to surround opponents.
 
-A chameleon man cannot attack in the
-same round that it uses the vanishing move,
-because of the mental concentration required
-to vanish. A group of chameleon men will
-usually use the vanishing move to surround
-opponents.
+The warriors of this race are usually armed with daggers or clubs. They never wear armor, since they cannot carry much weight while using the vanishing ability.
 
-The warriors of this race are usually armed
-with daggers or clubs. They never wear armor,
-since they cannot carry much weight while
-using the vanishing ability.
+Chameleon men usually live in deep caverns or in dense forests far from civilization.
 
-Chameleon men usually live in deep
-caverns or in dense forests far from civiliza-
-
-Archer bushes have sickly-looking green
-leaves, dwarf trunks and thorny brown
-branches. The trunk looks like a 3’ tall mound
-of leaves. Hidden under the leaves is a huge
-mouth. Archer bushes are carnivorous and can
-uproot themselves and move slowly towards
-their prey. The mouth is filled with extra hard
-thorns which the bush uses like teeth to
-devour prey once the prey is dead. Archer
-bushes attack by shooting a spray of several
-small thorns at their victims, causing 1-4
-points of damage. Archer bushes can shoot
-their thorn spray at one target up to 20 feet
-away. Each bush can only fire three such sprays
-
-tion.
+Archer bushes have sickly-looking green leaves, dwarf trunks and thorny brown branches. The trunk looks like a 3’ tall mound of leaves. Hidden under the leaves is a huge mouth. Archer bushes are carnivorous and can uproot themselves and move slowly towards their prey. The mouth is filled with extra hard thorns which the bush uses like teeth to devour prey once the prey is dead. Archer bushes attack by shooting a spray of several small thorns at their victims, causing 1-4 points of damage. Archer bushes can shoot their thorn spray at one target up to 20 feet away. Each bush can only fire three such sprays in a day.
 
 Crone of Chaos
-
 Armor Class: 7
-
 Hit Dice: 6*
 Move: 120’ (40')
 Attacks: 2
@@ -19210,12 +19154,8 @@ Morale: 8
 Alignment: Chaotic
 XP Value: 500
 
-in a day.
-
 Chameleon Man
-
 Armor Class: 9
-
 Hit Dice: 2°
 Move: 120' (40')
 Attacks: 1 weapon
@@ -19223,383 +19163,128 @@ Damage: By weapon
 No. Appearing: 2-8 (5-20)
 Save As: F2
 Morale: 7,
-
 Treasure Type: (QtS)E
 Alignment: Neutral
 XP Value: 45
 
-Chameleon men are 7 feet tall and quite thin.
-They have spindly arms and legs, and move
-with a gangly, awkward stride. Their multi-
-colored skin has with tiger-like stripes of red,
-blue, green, yellow, brown, orange, black and
-white.
+Chameleon men are 7 feet tall and quite thin. They have spindly arms and legs, and move with a gangly, awkward stride. Their multi colored skin has with tiger-like stripes of red, blue, green, yellow, brown, orange, black and white.
 
-Each round, a chameleon man can vanish,
-and reappear in another place. It can reappear
-up to 120’ from the spot where it vanished.
-This vanishing move is instantaneous. The
-control of this ability is so precise that they
-never reappear in mid-air or inside solid
-objects. However, since the use of the ability is
-instantaneous, a chameleon man cannot reap-
-pear in the exact spot where someone else is
-standing when the chameleon man vanishes.
-If several chameleon men use this ability in
-the same area, they all reappear without col-
+Each round, a chameleon man can vanish, and reappear in another place. It can reappear up to 120’ from the spot where it vanished. This vanishing move is instantaneous. The control of this ability is so precise that they never reappear in mid-air or inside solid objects. However, since the use of the ability is instantaneous, a chameleon man cannot reap pear in the exact spot where someone else is standing when the chameleon man vanishes. If several chameleon men use this ability in the same area, they all reappear without colliding .
 
-The crone of chaos is an intelligent, evil-
-natured creature that uses deception to cause
-pain and suffering. In its true form, the crone
-has wrinkled, leathery skin, sparse hair, long
-crooked arms, fangs, and large hands with
-claw-like fingers. It normally lives alone in evil
-forests or desolate wilderness, often in a cave.
+The crone of chaos is an intelligent, evil natured creature that uses deception to cause pain and suffering. In its true form, the crone has wrinkled, leathery skin, sparse hair, long crooked arms, fangs, and large hands with claw-like fingers. It normally lives alone in evil forests or desolate wilderness, often in a cave.
 
-The crone has unusually keen hearing and
-eyesight, and is surprised only on a roll of 1 on
-d6.
+The crone has unusually keen hearing and eyesight, and is surprised only on a roll of 1 on d6.
 
-The creature has several magical attacks
-available. These are natural powers, not spells
-(although they can be revealed by detect mag-
-ic and destroyed by dispel magic, a 3rd level
-magic-user spell). The most important of the-
-se powers is an illusion power that allows the
-crone to look like a human or demi-human
-character. The crone usually disguises itself as
-a beautiful young woman to fool unwary vic-
-tims. In this form it uses the animal control
-and daggers of sorcery powers to attack. The
-crone fights in its true form only if surprised,
-or if the other attacks have failed to destroy
-the opposition.
+The creature has several magical attacks available. These are natural powers, not spells (although they can be revealed by detect mag ic and destroyed by dispel magic, a 3rd level magic-user spell). The most important of the se powers is an illusion power that allows the crone to look like a human or demi-human character. The crone usually disguises itself as a beautiful young woman to fool unwary vic tims. In this form it uses the animal control and daggers of sorcery powers to attack. The crone fights in its true form only if surprised, or if the other attacks have failed to destroy the opposition.
 
-The crone’s animal control and daggers of
-Sorcery powers ate described more fully in
-encounter R2 in The Hall of Rock.
+The crone’s animal control and daggers of Sorcery powers ate described more fully in encounter R2 in The Hall of Rock.
 
 Cynidiceans
-
 Armor Class: 9
-
 Hit Dice: 1
-
 Move: 120' (40')
-
-
-
 Attacks: 1
 Damage: 1-6
-
 No. Appearing: 1-6
-
 Save As: Fighter: 1
 Morale: Special
 Treasure Type: A
 Alignment: Chaotic
 
-Cynidiceans are a special type of normal
-humans who live in the Lost City. They have
-pale skin, white hair, large eyes, and infravis-
-ion. They wear colorful masks, bright cloth-
-ing, and carry short swords. The Cynidicean
-have lived underground so long that they have
-a —1 to hit when attacking in full sunlight
-(like goblins). They spend most of their time
-living in strange dream worlds. Special Cyni-
-dicean characters can be set up just like nor-
-mal NPCs. More details on the Cynidiceans
-will be found in the DM’s Background in the
-Lost City adventure. A dozen encounters with
-Cynidiceans are outlined here. The DM may
-use these or make up his or her own.
+Cynidiceans are a special type of normal humans who live in the Lost City. They have pale skin, white hair, large eyes, and infravis ion. They wear colorful masks, bright cloth ing, and carry short swords. The Cynidicean have lived underground so long that they have a —1 to hit when attacking in full sunlight (like goblins). They spend most of their time living in strange dream worlds. Special Cyni dicean characters can be set up just like nor mal NPCs. More details on the Cynidiceans will be found in the DM’s Background in the Lost City adventure. A dozen encounters with Cynidiceans are outlined here. The DM may use these or make up his or her own.
 
 Cynidicean Encounters
 
-1. One character in a wolf mask (AC 9; NM;
-hp 3; MV 40’; #AT none; ML 7; AL C) is
-encountered. This Cynidicean believes he
-is a werewolf. When he sees the party, he
-will drop to all fours, howl, sniff, circle,
-and generally behave like a wolf. He may
-try to bite if approached too closely. He
-thinks he cannot be harmed, and will only
-be afraid of magic or silver weapons.
+1. One character in a wolf mask (AC 9; NM; hp 3; MV 40’; #AT none; ML 7; AL C) is encountered. This Cynidicean believes he is a werewolf. When he sees the party, he will drop to all fours, howl, sniff, circle, and generally behave like a wolf. He may try to bite if approached too closely. He thinks he cannot be harmed, and will only be afraid of magic or silver weapons.
 
-2. Three characters approach the party,
-dressed in dark robes and devil masks.
-They carry incense burners. These Cynidi-
-ceans think they are powerful clerics (AC
-5; C3, C2, C1; hp 13, 9, 4; MV 30’; #AT 1;
-D 1-6; ML 8; AL C). They see the party as
-demons and will try to drive them off with
-loud cries and foul-smelling smoke. The
-leader's name is Brother Theodeus.
+2. Three characters approach the party, dressed in dark robes and devil masks. They carry incense burners. These Cynidi ceans think they are powerful clerics (AC 5; C3, C2, C1; hp 13, 9, 4; MV 30’; #AT 1; D 1-6; ML 8; AL C). They see the party as demons and will try to drive them off with loud cries and foul-smelling smoke. The leader's name is Brother Theodeus.
 
-3. One Cynidicean dressed in bright green
-robes and a bird mask approaches the party
-(AC 9; NM; hp 3; MV 40’; #AT 1; D 1-6;
-ML 11; AL C). She will walk slowly up to
-one party member, hand him or her a
-small pouch, smile, and walk on. She will
-not notice any attempt the party makes to
-talk to her. The pouch contains a strange
-powder that smells like cloves. The powder
-has no special properties at all.
+3. One Cynidicean dressed in bright green robes and a bird mask approaches the party (AC 9; NM; hp 3; MV 40’; #AT 1; D 1-6; ML 11; AL C). She will walk slowly up to one party member, hand him or her a small pouch, smile, and walk on. She will not notice any attempt the party makes to talk to her. The pouch contains a strange powder that smells like cloves. The powder has no special properties at all.
 
-4. Six Cynidiceans in striped robes and camel
-masks zig-zag slowly down the hall in sin-
-gle file. They are trying to avoid the invisi-
-ble snakes on the floor. They will try to
-show the party the invisible snakes and
+4. Six Cynidiceans in striped robes and camel masks zig-zag slowly down the hall in sin gle file. They are trying to avoid the invisi ble snakes on the floor. They will try to show the party the invisible snakes and warn the party to walk around the snakes. There are, of course, no snakes.
 
+. This party of four wear insect masks, carry large clay jars, and hum like bees. They will stop and ask the party to drink from the jars. Everyone who does has 1-4 points of damage cured, as these jars contain hon ey from the lair of killer bees. If the Cyni diceans are attacked, or if someone tries to drink twice the Cynidiceans will smash the jars and attack berserkly (AC 9; NM; hp 3 each; MV 40’; #AT 1 at +2; D 1-6; ML 12; AL C).
 
- 
+. This party of four wears animal masks; Hawk, Fish, Cat, and Fox (these are also the characters’ names). They are carrying a stretcher with a gourd on it. These charac ters are rushing their ‘sick friend’ (the gourd: Dog) to a cleric. If the party has a cleric, the Cynidiceans will insist that the cleric cure their friend.
 
-warn the party to walk around the snakes.
-There are, of course, no snakes.
+. This group of six in bright yellow robes and human masks will stop and stare at the par ty. They will ‘recognize’ a party member as the King or Queen of Cynidicea. They will follow the character, sing songs of praise, and wait on the character hand and foot. In general, they will smother the character with attention. However, they will not fight for their King or Queen. They are more likely to grab the character and try to rush him or her to safety. They are: AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 7; ALC. Their spokesman is Policrates the Herald.
 
-. This party of four wear insect masks, carry
-large clay jars, and hum like bees. They
-will stop and ask the party to drink from
-the jars. Everyone who does has 1-4 points
-of damage cured, as these jars contain hon-
-ey from the lair of killer bees. If the Cyni-
-diceans are attacked, or if someone tries to
-drink twice the Cynidiceans will smash the
-jars and attack berserkly (AC 9; NM; hp 3
-each; MV 40’; #AT 1 at +2; D 1-6; ML 12;
-AL C).
+. A group of four Cynidiceans in feathered robes and bird masks approach. On secing the party, the Cynidiceans will ‘fly’ (run) forward, flapping their arms and squawk ing. They will invite the party to fly along and will lead them on a merry chase through the pyramid. If the party refuses to join the Cynidiceans, the Cynidiceans will insult the party as poor creatures who cannot fly (‘Thou land-bound slugs!”’), circle three times, and ‘fly’ away. If attacked, the Cynidiceans (AC 9; NM; hp 4; MV 40’; Save: F1) will ‘fly’ away.
 
-. This party of four wears animal masks;
-Hawk, Fish, Cat, and Fox (these are also
-the characters’ names). They are carrying a
-stretcher with a gourd on it. These charac-
-ters are rushing their ‘sick friend’ (the
-gourd: Dog) to a cleric. If the party has a
-cleric, the Cynidiceans will insist that the
-cleric cure their friend.
+. A group of six Cynidiceans with their bodies painted black and wearing vulture masks walk quietly toward the party. They carry long wooden boards, but seem friendly and normal. They will follow the party, waiting for something to be killed. When it is, they will rush over and start building a coffin to fit the body. When they are done, they will demand a 10 gp payment. They will attack if they are not paid. (AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 8; AL C).
 
-. This group of six in bright yellow robes and
-human masks will stop and stare at the par-
-ty. They will ‘recognize’ a party member as
-the King or Queen of Cynidicea. They will
-follow the character, sing songs of praise,
-and wait on the character hand and foot.
-In general, they will smother the character
-with attention. However, they will not
-fight for their King or Queen. They are
-more likely to grab the character and try to
-rush him or her to safety. They are: AC 9;
-NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML
-7; ALC. Their spokesman is Policrates the
-Herald.
+10. These five Cynidiceans are a NPC Party. They will think the player characters are some kind of monster. Turn to the Wander ing Monster: Level 2 table in the D&D Basic rules and roll for the type of monster the Cynidiceans think the player characters are. The Cynidicean party has:
 
-. A group of four Cynidiceans in feathered
-robes and bird masks approach. On secing
-the party, the Cynidiceans will ‘fly’ (run)
-forward, flapping their arms and squawk-
-ing. They will invite the party to fly along
-and will lead them on a merry chase
-through the pyramid. If the party refuses
-to join the Cynidiceans, the Cynidiceans
-will insult the party as poor creatures who
-cannot fly (‘Thou land-bound slugs!”’),
-circle three times, and ‘fly’ away. If
-attacked, the Cynidiceans (AC 9; NM; hp
-4; MV 40’; Save: F1) will ‘fly’ away.
+F3 (AC 5; hp 14; MV 20’; #AT +1 at 1; D 8+1; Save F3; ML 8;)
 
-. A group of six Cynidiceans with their
-bodies painted black and wearing vulture
-masks walk quietly toward the party. They
-carry long wooden boards, but seem
-friendly and normal. They will follow the
-party, waiting for something to be killed.
-When it is, they will rush over and start
-building a coffin to fit the body. When
-they are done, they will demand a 10 gp
+F2 (AC 5; hp 10; MV 20’; #AT 1; D 1-8; Save F2; ML 8; AL C)
 
-payment. They will attack if they are not
-paid. (AC 9; NM; hp 4 each; MV 40’; #AT
-1; D 1-6; ML 8; AL C).
+F2 (AC 5; hp 8; MV 20’; #AT 1; D 1-8; Save F2; ML 8; AL C)
 
-10. These five Cynidiceans are a NPC Party.
-They will think the player characters are
-some kind of monster. Turn to the Wander-
-ing Monster: Level 2 table in the D&D
-Basic rules and roll for the type of monster
-the Cynidiceans think the player characters
-are. The Cynidicean party has:
-
-F3 (AC 5; hp 14; MV 20’; #AT +1 at 1; D
-8+1; Save F3; ML 8;)
-
-F2 (AC 5; hp 10; MV 20’; #AT 1; D 1-8; Save
-F2; ML 8; AL C)
-
-F2 (AC 5; hp 8; MV 20’; #AT 1; D 1-8; Save
-F2; ML 8; AL C)
-
-M2 (AC 9; hp 6; MV 40’; #AT 1 or spells; D
-1-4; Save M2; ML 8; AL C) Spells: hold
+M2 (AC 9; hp 6; MV 40’; #AT 1 or spells; D 1-4; Save M2; ML 8; AL C) Spells: hold
 portal, magic missile
 
-C2 (AC 5; hp 8; MV 20’; #AT 1; D 1-6; Save
-C2; ML 8; AL C) Spell: cure light wounds
+C2 (AC 5; hp 8; MV 20’; #AT 1; D 1-6; Save C2; ML 8; AL C) Spell: cure light wounds
 
-11.This group of five Cynidiceans is dressed in
-brightly colored robes and masks with
-human faces. They will think the party is
-the same band of barbarian raiders who
-looted the city centuries ago. They will flee
-in panic as the party approaches.
+11.This group of five Cynidiceans is dressed in brightly colored robes and masks with human faces. They will think the party is the same band of barbarian raiders who looted the city centuries ago. They will flee in panic as the party approaches.
 
-12.The party encounters a Priest of Zargon
-(AC 5; C3; hp 12; MV 20’; #AT 1; D 1-6;
-Save C3; ML 8; AL C) Spell: cure light
-wounds x2). He has twelve followers (AC
-9; Fl; hp 4 each; MV 40’; #AT 1; D 1-8;
-Save F1; ML 12; AL C). They are on a holy
-quest and will insist the party come along.
-(The priest will try to trick the party and
-take them prisoner.)
+12.The party encounters a Priest of Zargon (AC 5; C3; hp 12; MV 20’; #AT 1; D 1-6; Save C3; ML 8; AL C) Spell: cure light wounds x2). He has twelve followers (AC 9; Fl; hp 4 each; MV 40’; #AT 1; D 1-8; Save F1; ML 12; AL C). They are on a holy quest and will insist the party come along. (The priest will try to trick the party and take them prisoner.)
 
 Decapus
-
 Armor Class: 5
-
 Hit Dice 4
-
 Move: 90’ (30') in trees or
 3 (1) on ground
-
 Attacks: 9 tentacles
-
 Damage: 1-6 each
-
 No. Appearing: 1
-
 Save As: Fighter 2
-
 Morale: 9
-
 Treasure Type: Cc
-
 Alignment: Chaotic
 
-The decapus is a creature usually found in for-
-ests. It looks like a bloated hairy globe sprout-
-ing ten tentacles. The hair is usually brown,
-but sometimes it is black. The body is normal-
-ly green, although some purple or yellow
-decapuses have been found. In the center of
-the decapus’s 4’ wide body is its mouth. The
-mouth of a decapus is terrible to behold. It is
+The decapus is a creature usually found in for ests. It looks like a bloated hairy globe sprout ing ten tentacles. The hair is usually brown, but sometimes it is black. The body is normal ly green, although some purple or yellow decapuses have been found. In the center of the decapus’s 4’ wide body is its mouth. The mouth of a decapus is terrible to behold. It is very wide and has long yellow teeth and a hor rible foul breath.
 
+Decapuses usually live alone, preferring to hunt by themselves. They hunt by swinging through trees and scooping up their prey in their tentacles. The tentacles are 10’ long and extend from all parts of their bodies. The ten tacles are covered with suckers that the deca pus can use not only to grasp prey but to climb walls and ceilings.
 
+The decapus attacks with nine of its tenta cles, using the tenth tentacle to hang from the ceiling (or trees).
 
-very wide and has long yellow teeth and a hor-
-rible foul breath.
-
-Decapuses usually live alone, preferring to
-hunt by themselves. They hunt by swinging
-through trees and scooping up their prey in
-their tentacles. The tentacles are 10’ long and
-extend from all parts of their bodies. The ten-
-tacles are covered with suckers that the deca-
-pus can use not only to grasp prey but to climb
-walls and ceilings.
-
-The decapus attacks with nine of its tenta-
-cles, using the tenth tentacle to hang from the
-ceiling (or trees).
-
-On the floor or ground, the decapus is
-much more helpless. Its tentacles are not
-strong enough to support its weight upright
-for long periods of time. On the ground, the
-decapus can only manage six attacks, and the-
-se attacks do only half normal damage. When
-swinging from tree limbs, the decapus can tra-
-vel at 90’ per turn, or 30’ per round. On the
-ground, the decapus can only move 3’ per
-turn or 1’ per round,
+On the floor or ground, the decapus is much more helpless. Its tentacles are not strong enough to support its weight upright for long periods of time. On the ground, the decapus can only manage six attacks, and the se attacks do only half normal damage. When swinging from tree limbs, the decapus can tra vel at 90’ per turn, or 30’ per round. On the ground, the decapus can only move 3’ per turn or 1’ per round,
 
 Fey, Wailing
-
 Armor Class: 3
-
 Hit Dice: 5”
-
 Move: 150’ (50’
 Attacks: special wail
 Damage: 1-4/round
 No. Appearing: 1(1)
-
 Save As: Fighter: 5
 Morale: 12
 ‘Treasure Type: Cc
 Alignment: Neutral
 
-Wailing feys are pale ghost-like figures. Their
-shape is roughly humanoid, though longer
-and thinner than most humans. They have
-glowing red eyes and a large, dark mouth.
-Wailing feys are supernatural creatures that
-haunt certain families. They warn the family
-that one of its members will soon die. Wailing
-feys may also mourn for a person after his or
-her death. Thus, they may be found guarding
-graves, catacombs, or tombs.
+Wailing feys are pale ghost-like figures. Their shape is roughly humanoid, though longer and thinner than most humans. They have glowing red eyes and a large, dark mouth. Wailing feys are supernatural creatures that haunt certain families. They warn the family that one of its members will soon die. Wailing feys may also mourn for a person after his or her death. Thus, they may be found guarding graves, catacombs, or tombs.
 
-Wailing feys can only be hurt by magic or
-magical weapons. They are immune to sleep,
-charm, and hold spells. They are not undead,
-and cannot be turned. Disturbed wailing feys
-attack with a special wail. All those within 30’
-of the wailing fey take 1-4 points of damage
-each round automatically. Doors or walls will
-block the sound. A wailing fey will attack any
-living creature it sees. It will continue to wail
-until it is destroyed or until the intruders have
-run away.
-
-
- 
+Wailing feys can only be hurt by magic or magical weapons. They are immune to sleep, charm, and hold spells. They are not undead, and cannot be turned. Disturbed wailing feys attack with a special wail. All those within 30’ of the wailing fey take 1-4 points of damage each round automatically. Doors or walls will block the sound. A wailing fey will attack any living creature it sees. It will continue to wail until it is destroyed or until the intruders have run away.
 
 Golem, Bone
-
 Armor Class: 2
-
 Hit Dice: 8**
 Move: 120' (40')
 Attacks: 4
 Damage: each arm by weapon
 No. Appearing: 1
-
 Save As: F4
 Morale: 12
 Treasure Type: Nil
 Alignment: N
-
 XP Value: 1750
 
-A golem is a powerful monster, created and
-animated by a high level magic-user or cleric.
-The bone golem is made of bones, bound
-together in a man-like form. It has four skele-
-tal arms, with which it wields four one-
-handed weapons or two pole arms. It attacks
-up to two opponents each round.
+A golem is a powerful monster, created and animated by a high level magic-user or cleric. The bone golem is made of bones, bound together in a man-like form. It has four skele tal arms, with which it wields four one handed weapons or two pole arms. It attacks up to two opponents each round.
 
-Bone golems can only be hit by magical
-weapons. They are immune to sleep, charm,
-and hold spells, as well as all gases, fire, cold,
-and electrical attacks. They cannot be turned.
+Bone golems can only be hit by magical weapons. They are immune to sleep, charm, and hold spells, as well as all gases, fire, cold, and electrical attacks. They cannot be turned.
 
 Haunt
-
 Armor Class: Special
 Hit Dice: Special
 Move: Nil
@@ -19612,203 +19297,82 @@ Treasure Type: Nil
 Alignment: Any
 XP Value: 100 when laid to rest
 
-A haunt is a ghost-like spirit of a dead charac-
-ter or creature, There is some reason why the
-spirit cannot rest, usually a message to be
-delivered to those who enter the haunted
-area. The haunt cannot be destroyed, only
-laid to rest by some means decided by the
-DM.
+A haunt is a ghost-like spirit of a dead charac ter or creature, There is some reason why the spirit cannot rest, usually a message to be delivered to those who enter the haunted area. The haunt cannot be destroyed, only laid to rest by some means decided by the DM.
 
-Haunts cannot attack or cause damage,
-though certain haunts may require characters
-to make a saving throw vs. spells or run away.
-Characters who fail their saving throws will
-not willingly go into the haunted area again.
-A haunt always stays in one area.
+Haunts cannot attack or cause damage, though certain haunts may require characters to make a saving throw vs. spells or run away. Characters who fail their saving throws will not willingly go into the haunted area again. A haunt always stays in one area.
 
 Lizard, Lava
-
 Armor Class: 3
-
 Hit Dice: 4*
 Move: 90' (30')
 Attacks: 1 bite
 Damage: 2-12
-
 No. Appearing: 1
-
 Save As: Fighter 4
 Morale: 12
 Treasure Type: Nil
 Alignment: Neutral
 
-The lava lizard is a bizarre reptile that dwells
-in subterranean caverns among pools of bub-
-bling lava. The creatute has a rocklike outer
-shell that helps to maintain the high body
-temperature a lava lizard must have to sur-
-vive.
+The lava lizard is a bizarre reptile that dwells in subterranean caverns among pools of bub bling lava. The creatute has a rocklike outer shell that helps to maintain the high body temperature a lava lizard must have to sur vive.
 
-The lava lizard fights by trying to bite a
-creature with its quick but relatively weak
-jaws. A bitten creature takes 1-6 points of
-damage from the lizard’s bite and must save
-vs. dragon breath. If unsuccessful, the crea-
-ture is gripped momentarily by the lava liz-
-ard’s jaws and takes an additional 1-6 points
-of damage from heat. (For magical types of
-fire resistance such as rings and spells, treat
-the bite as red dragon breath in terms of sav-
-ing throws and reduced damage).
+The lava lizard fights by trying to bite a creature with its quick but relatively weak jaws. A bitten creature takes 1-6 points of damage from the lizard’s bite and must save vs. dragon breath. If unsuccessful, the crea ture is gripped momentarily by the lava liz ard’s jaws and takes an additional 1-6 points of damage from heat. (For magical types of fire resistance such as rings and spells, treat the bite as red dragon breath in terms of sav ing throws and reduced damage).
 
-The lava lizard has a special defense as well.
-‘Whenever the creature is struck by a nonmagi-
-cal metal weapon (such as a sword blade or
-dagger), the owning character must save vs.
-magic wands or the weapon melts from the
-intense heat of the creature's interior. Note
-that a melted weapon still inflicts damage on
-that round, but not thereafter.
+The lava lizard has a special defense as well. ‘Whenever the creature is struck by a nonmagi cal metal weapon (such as a sword blade or dagger), the owning character must save vs. magic wands or the weapon melts from the intense heat of the creature's interior. Note that a melted weapon still inflicts damage on that round, but not thereafter.
 
-Although these creatures dwell in hot sub-
-terranean caverns, they have been known to
-travel several miles from the lava they need to
-survive. As they feel their body temperature
-cooling, they will attempt to return to the
-nourishing fires. There are a few unconfirmed
-reports of lava lizards being found in sta-
-tuelike immobility, presumably having been
-caught too far from their source of heat.
+Although these creatures dwell in hot sub terranean caverns, they have been known to travel several miles from the lava they need to survive. As they feel their body temperature cooling, they will attempt to return to the nourishing fires. There are a few unconfirmed reports of lava lizards being found in sta tuelike immobility, presumably having been caught too far from their source of heat.
 
 Lycanthrope, Werefox
-
 Armor Class: 6 (9)
-
 Hit Dice: 342"
 Move: 180' (60')
 Attacks: 1 + charm
 Damage: 1-6
-
 No. Appearing: 1-4 (1-6)
 Save As: Fighter: 3
 Morale: 8
-
 Treasure Type: Cc
 Alignment: Neutral
 
-Werefoxes are foxes that can change into
-human form. In human form, the werefox
-will have fox-like red hair and an Armor Class
-of 9. A werefox in human form has the ability
-to charm a person of the opposite sex. This
-ability works like a charm person spell, but
+Werefoxes are foxes that can change into human form. In human form, the werefox will have fox-like red hair and an Armor Class of 9. A werefox in human form has the ability to charm a person of the opposite sex. This ability works like a charm person spell, but lasts only one day. In fox form, the werefox can charm animals. The werefox can charm any one normal or giant animal for one day. A creature or person who saves vs. Spell will not be charmed.
 
+Once a creature or person is charmed, it will remain charmed for that day, even if the were fox changes form. The charm ability can be used only three times per day. For example, a werefox could try to charm two humans and one animal in the same day.
 
-
-lasts only one day. In fox form, the werefox
-can charm animals. The werefox can charm
-any one normal or giant animal for one day. A
-creature or person who saves vs. Spell will not
-be charmed.
-
-Once a creature or person is charmed, it will
-remain charmed for that day, even if the were-
-fox changes form. The charm ability can be
-used only three times per day. For example, a
-werefox could try to charm two humans and
-one animal in the same day.
-
-Werefoxes are clever and cunning. They live
-mainly by their wits. If combat is going
-against them they will prefer to trick or bribe
-their opponent rather than fight to the death.
+Werefoxes are clever and cunning. They live mainly by their wits. If combat is going against them they will prefer to trick or bribe their opponent rather than fight to the death.
 
 Piranha Bird
-
 Armor Class: 6
-
 Hit Dice: 1/2 (1-4 hit points)
-
 Move: 30' (10') on ground
 180’ (60’) in flight
-
 Attacks: 1 bite
-
 Damage: 1-4
-
 No. Appearing: 4-24
-
 Save As: Normal Man
-
 Treasure Type: Nil
-
 Alignment: Neutral
+The piranha bird is a one-foot long, garishly colored bird always hungry for fresh meat. Individual piranha birds may have green, blue, red, brown, black, or even purple feathers—the entire variety of colors displayed in a single flock. Their beaks are sharp and pointed, and have razorlike edges so that the bird can stick its beak into the flesh of a crea ture, bite, and fly away with a snack.
 
-The piranha bird is a one-foot long, garishly
-colored bird always hungry for fresh meat.
-Individual piranha birds may have green,
-blue, red, brown, black, or even purple
-feathers—the entire variety of colors displayed
-in a single flock. Their beaks are sharp and
-pointed, and have razorlike edges so that the
-bird can stick its beak into the flesh of a crea-
-ture, bite, and fly away with a snack.
+Piranha birds can fly with humming birdlike maneuverability; they can make sud den changes in direction, or even hover in the air. When one piranha bird catches sight of a potential meal, it utters a high-pitched whis tle, thus alerting the entire flock. They always attack warm-blooded creatures, and do not have to check morale until half of the flock has been eliminated.
 
-Piranha birds can fly with humming-
-birdlike maneuverability; they can make sud-
-den changes in direction, or even hover in the
-air. When one piranha bird catches sight of a
-potential meal, it utters a high-pitched whis-
-tle, thus alerting the entire flock. They always
-attack warm-blooded creatures, and do not
-have to check morale until half of the flock has
-been eliminated.
-
-They do not like bright sunlight, but
-piranha birds may be found in all climates
-except the very coldest or those barren of any
-shade. They prefer to live in regions of dense
-forest or in underground caverns, and seem to
-have developed limited infravision that allows
-them to detect prey up to 30 feet away even in
-total darkness.
-
+They do not like bright sunlight, but piranha birds may be found in all climates except the very coldest or those barren of any shade. They prefer to live in regions of dense forest or in underground caverns, and seem to have developed limited infravision that allows them to detect prey up to 30 feet away even in total darkness.
 
 Armor Class: 9
-
 Hit Dice: 10*
 Move: 60’ (20')
 Attacks: 2
 Damage: 1-6/1-6/1-6
 No. Appearing: 1-2 (1-3)
 Morale: 10
-
 Save As: Fighter: 5
 Treasure Type: B
 Alignment: Chaotic
 
-The polymar is a semi-intelligent creature that
-can change its shape. It can look like any crea-
-ture with 10 hit dice or less, or any object no
-larger than 100 cubic feet (10’* 10'* 1’, for
-example). The polymar gains no special abili-
-ties by changing.
+The polymar is a semi-intelligent creature that can change its shape. It can look like any crea ture with 10 hit dice or less, or any object no larger than 100 cubic feet (10’* 10'* 1’, for example). The polymar gains no special abili ties by changing.
 
-This change ability is physical, not magical.
-Thus a detect magic spell will not detect the
-polymar. The change, however, is not perfect.
-Characters, including NPCs, have the same
-chance to detect the polymar as they do to find
-secret doors. Thus, elves are more likely to
-notice polymars than other character classes. If
-the polymar is not detected before it attacks, it
-will attack with surprise.
+This change ability is physical, not magical. Thus a detect magic spell will not detect the polymar. The change, however, is not perfect. Characters, including NPCs, have the same chance to detect the polymar as they do to find secret doors. Thus, elves are more likely to notice polymars than other character classes. If the polymar is not detected before it attacks, it will attack with surprise.
 
 Sirenflower
-
 Armor Class: 9
-
 Hit Dice: 5
 Move: 0
 Attacks: 0
@@ -19818,217 +19382,73 @@ Save As: Fighter 5
 Morale: 12
 Treasure Type: ¥.
 Alignment: N
-
 XP Value: 175
 
-The sirenflower is a large carnivorous fungus
-that has developed the disguise of a normal-
-looking plant. It captures its prey by luring
-creatures toward its center. To do this, the
-plant emits scents and lights. The scents are
-similar to those near the plant, particularly
-fragrant flowers or rotting meats. The light is a
-pale glowing, no brighter than a candle at its
-best
+The sirenflower is a large carnivorous fungus that has developed the disguise of a normal looking plant. It captures its prey by luring creatures toward its center. To do this, the plant emits scents and lights. The scents are similar to those near the plant, particularly fragrant flowers or rotting meats. The light is a pale glowing, no brighter than a candle at its best
 
-Once a creature reaches the center of the
-plant, a web of branching arms close in, trap-
-ping the creature and slowly crushing it. The-
-se branches squeeze with great force, causing
-1-4 points of damage per round. In addition,
-the branches also ooze an enzyme that dis-
-solves flesh. This is very slow-acting and only
-does 1-10 points of damage each turn (not
-round). Creatures trapped by the sirenflower
+Once a creature reaches the center of the plant, a web of branching arms close in, trap ping the creature and slowly crushing it. The se branches squeeze with great force, causing 1-4 points of damage per round. In addition, the branches also ooze an enzyme that dis solves flesh. This is very slow-acting and only does 1-10 points of damage each turn (not round). Creatures trapped by the sirenflower can still fight but have a —4 penalty on all hit rolls.
 
-can still fight but have a —4 penalty on all hit
-rolls.
-
-When the sirenflower reaches 0 hit points,
-it is not dead, but all the branches have been
-chopped away. The only way to totally kill a
-sirenflower is to dig up and burn the root. The
-creature grows back at the same rate as a nor-
-mal plant.
-
+When the sirenflower reaches 0 hit points, it is not dead, but all the branches have been chopped away. The only way to totally kill a sirenflower is to dig up and burn the root. The creature grows back at the same rate as a nor mal plant.
 Steam Weevil
-
 Armor Class: i
-
 Hit Dice: 4
 Move: 60'(20')
 Attacks: 1 swarm
 Damage: 4
-
 No. Appearing: 1 swarm
 Save As: Normal Man
 Morale: 11
 ‘Treasure: Nil
 Alignment: Neutral
 
-Steam weevils are tiny flying insects that
-thrive on the intense heat and pressure of sub-
-terranean areas of geothermal activity. They
-have developed a way to turn the heat of a
-pool of lava directly into usable energy (much
-the way plants derive energy directly from the
-sun), and many generations of steam weevils
-will live their lives without ever leaving the
-deep caverns that are their preferred environ-
-ment.
+Steam weevils are tiny flying insects that thrive on the intense heat and pressure of sub terranean areas of geothermal activity. They have developed a way to turn the heat of a pool of lava directly into usable energy (much the way plants derive energy directly from the sun), and many generations of steam weevils will live their lives without ever leaving the deep caverns that are their preferred environ ment.
 
-Occasionally, however, because of volcanic
-activity, a swarm of steam weevils may be car-
-tied to the outside world in a blast of steam or
-lava. They cannot live long in the relative cold
-of the atmosphere, but they can be a danger-
-ous enemy in the 1-4 hours that passes before
-they die.
+Occasionally, however, because of volcanic activity, a swarm of steam weevils may be car tied to the outside world in a blast of steam or lava. They cannot live long in the relative cold of the atmosphere, but they can be a danger ous enemy in the 1-4 hours that passes before they die.
 
-Steam weevils glow underground or in
-shade, because of the intense heat of their
-bodies. A person caught in the midst of a
-steam weevil swarm takes four points of dam-
-age from burns if the swarm is at full strength.
-Damage is cut in half if the character is ward-
-ing the insects away. (See “Insect Swarms” in
-the monster section of the Basic rules book).
-Smoke and fire does not bother steam weevils,
-but water damages them if it is splashed on
-the swarm (roll to hit AC7.) Characters may
-scoop water from a puddle or stream with
-their hands, or they may uncover a water con-
-tainer and attempt to douse the bugs that way.
+Steam weevils glow underground or in shade, because of the intense heat of their bodies. A person caught in the midst of a steam weevil swarm takes four points of dam age from burns if the swarm is at full strength. Damage is cut in half if the character is ward ing the insects away. (See “Insect Swarms” in the monster section of the Basic rules book). Smoke and fire does not bother steam weevils, but water damages them if it is splashed on the swarm (roll to hit AC7.) Characters may scoop water from a puddle or stream with their hands, or they may uncover a water con tainer and attempt to douse the bugs that way.
 
-For each hit to the swarm, the damage that
-the steam weevils can inflict is reduced by one.
-Therefore, if two splashes have hit the swarm
-and it is surrounding a person who is warding
-them off, the swarm does only one point of
-damage. Note that the swarm can only attack
-one creature or character at a time.
-
-
+For each hit to the swarm, the damage that the steam weevils can inflict is reduced by one. Therefore, if two splashes have hit the swarm and it is surrounding a person who is warding them off, the swarm does only one point of damage. Note that the swarm can only attack one creature or character at a time.
 
 NEW MONSTERS
 
 Vampire Roses
-
 Armor Class: 7
-
 Hit Dice: 4
 Movement: 30' (10')
 Attacks: 1 + blood drain
 Damage: 1-8
-
 No. Appearing: 1-8
-
 Save As: Fighter 2
 Morale: 12
 Treasure Type: Nil
 Alignment: Chaotic
-
-Vampire roses look like normal white rose
-bushes. They can, however, uproot them-
-selves to move about slowly. Each 4 HD worth
-of vampire roses represents a single rose bush.
-The thorny stalks of vampire roses can whip
-around a victim, inflicting 1-8 points of dam-
-age. The thorns are hollow. Once a thorn stalk
-has stuck and wrapped around a victim, the
-vampire rose will drain 1-8 points of blood per
-round automatically. The vampire rose also
-injects a hypnotic anesthetic into the victim’s
-bloodstream, the victim must save vs. Spells
-or lose all willpower, allowing the vampire
-fose to continue sucking blood until the vic-
-tim dies. After a vampire rose has completely
-drained a victim, the roses will be colored
-blood red instead of white for one day.
+Vampire roses look like normal white rose bushes. They can, however, uproot them selves to move about slowly. Each 4 HD worth of vampire roses represents a single rose bush. The thorny stalks of vampire roses can whip around a victim, inflicting 1-8 points of dam age. The thorns are hollow. Once a thorn stalk has stuck and wrapped around a victim, the vampire rose will drain 1-8 points of blood per round automatically. The vampire rose also injects a hypnotic anesthetic into the victim’s bloodstream, the victim must save vs. Spells or lose all willpower, allowing the vampire fose to continue sucking blood until the vic tim dies. After a vampire rose has completely drained a victim, the roses will be colored blood red instead of white for one day.
 
 Water Weird
-
 Armor Class: 5
-
 Hit Dice: 3
-
 Move: 60’ // (20')
 Attacks: 1
 Damage: 1 +drowning
 No. Appearing: 1-2
-
 Save As: F6
-
 Morale: 12
-
-‘Treasure Type: 1
+Treasure Type: 1
 Alignment: Chaotic
-
 XP Value: 35
 
-Water weird are magical creatures made of
-water that live in bodies of water, such as
-pools. They attack all living things that dis-
-turb them, feeding on their life forces in some
-unknown way. Water weirds appear in nearly
-any shape, though the form of a giant snake is
-common,
+Water weird are magical creatures made of water that live in bodies of water, such as pools. They attack all living things that dis turb them, feeding on their life forces in some unknown way. Water weirds appear in nearly any shape, though the form of a giant snake is common,
 
-In combat, weirds attack single enemies
-within 10 feet of their pool. They form from
-the water in 2 melee rounds. Instead of mak-
-ing a normal attack, water weirds make their
-victims make a saving throw vs. paralyzation
-(Dexterity bonuses apply). Victims who fail
-their saving throw take damage, and are
-seized and dragged into the water. When
-weitds trap and drag a victim under water,
+In combat, weirds attack single enemies within 10 feet of their pool. They form from the water in 2 melee rounds. Instead of mak ing a normal attack, water weirds make their victims make a saving throw vs. paralyzation (Dexterity bonuses apply). Victims who fail their saving throw take damage, and are seized and dragged into the water. When weitds trap and drag a victim under water,
 
+they ignore other opponents until the trapped victim is dead. A trapped character can attack the weird with a —4 penalty to hit. Once in the water, victims take damage each round and must make a saving throw vs. death each round or go unconscious. Unconscious victims die after 3 rounds unless rescued.
 
- 
+Sharp weapons cause only 1 point of dam age; blunt weapons cause normal damage. All strength and magical bonuses apply. Damage equal to a weird’s total hit points disrupts it, but it reforms in 2 melee rounds. Cold slows weirds (half movement and attacks every sec ond round), but fire-based spells do half or none of their normal damage. Purify food and water spells kill water weirds immediately. All other attacks do not harm them. They may retreat to the bottoms or far corners of their pools if hard pressed.
 
-they ignore other opponents until the trapped
-victim is dead. A trapped character can attack
-the weird with a —4 penalty to hit. Once in
-the water, victims take damage each round
-and must make a saving throw vs. death each
-round or go unconscious. Unconscious victims
-die after 3 rounds unless rescued.
-
-Sharp weapons cause only 1 point of dam-
-age; blunt weapons cause normal damage. All
-strength and magical bonuses apply. Damage
-equal to a weird’s total hit points disrupts it,
-but it reforms in 2 melee rounds. Cold slows
-weirds (half movement and attacks every sec-
-ond round), but fire-based spells do half or
-none of their normal damage. Purify food and
-water spells kill water weirds immediately. All
-other attacks do not harm them. They may
-retreat to the bottoms or far corners of their
-pools if hard pressed.
-
-Larger water weirds are possible. For every
-additional 3 hit dice, the weird’s AC is
-improved by 2, damage increased by 1, attack
-range in increased by 5 feet, and saving throws
-and trapped victims’ attacks made with addi-
-tional penalties of —2.
+Larger water weirds are possible. For every additional 3 hit dice, the weird’s AC is improved by 2, damage increased by 1, attack range in increased by 5 feet, and saving throws and trapped victims’ attacks made with addi tional penalties of —2.
 
 Witch-Sisters, Three
 
-The three sisters are unlike any other magic-
-users, in that their powers work in combina-
-tion, and require the Black Opal Eye as a
-focus. Individually, they are weak, but togeth-
-er they become stronger. Use the higher levels
-and hit points listed for each only when the
-witches are together in one place and when
-they know where the Black Opal Eye is. If the
-sisters are separated, or if one of them dies, or
-if they do not know where the Black Opal Eye
-is, do not use their higher spells and hit
-points.
+The three sisters are unlike any other magic users, in that their powers work in combina tion, and require the Black Opal Eye as a focus. Individually, they are weak, but togeth er they become stronger. Use the higher levels and hit points listed for each only when the witches are together in one place and when they know where the Black Opal Eye is. If the sisters are separated, or if one of them dies, or if they do not know where the Black Opal Eye is, do not use their higher spells and hit points.
 
-The Black Opal Eye also enables the witches
-to communicate te
+The Black Opal Eye also enables the witches to communicate te
