@@ -587,424 +587,97 @@ The west wall of this room is paneled with wood. If the panel nearest the north 
 
 42. TREASURY
 
- 
+This room is empty except for a number of sacks along the far wall.
 
-This room is empty except for a number of
-sacks along the far wall.
+This room contains most of the valuables of the outpost. Two small sacks contain 200 pp each. Six large sacks contain 500 gp each. Three large sacks contain 500 sp each. Among the sacks is a medium-sized iron box that is securely locked. It weighs 100 cn, and cannot be opened by force. A thief can pick the lock, or a knock spell will open it, but it cannot be forced open. The box contains three vials, each containing a potion of growth, a ring of fire resistance, and a rod of cancellation.
 
- 
+The result of the Great Escape scenario depends on how the characters do. If they fail to escape from the outpost, they will be placed in a wagon under heavy guard and their journey to Fort Doom begins. The first night out, the wagon will be ambushed by a raiding force from Luln and the characters will be rescued. The forced march back to warn Luln will fail; the raid will have caused heavy damage. Sascia will have other uses for her men-at-arms, but will outfit the player characters if they want to recover their equipment from the outpost.
 
- 
-
- 
-
-This room contains most of the valuables of
-the outpost. Two small sacks contain 200 pp
-
-each. Six large sacks contain 500 gp each.
-Three large sacks contain 500 sp each. Among
-the sacks is a medium-sized iron box that is
-securely locked. It weighs 100 cn, and cannot
-be opened by force. A thief can pick the lock,
-or a knock spell will open it, but it cannot be
-forced open. The box contains three vials,
-each containing a potion of growth, a ring of
-fire resistance, and a rod of cancellation.
-
- 
-
- 
-
-The result of the Great Escape scenario
-depends on how the characters do. If they fail
-to escape from the outpost, they will be placed
-in a wagon under heavy guard and their jour-
-ney to Fort Doom begins. The first night out,
-the wagon will be ambushed by a raiding force
-from Luln and the characters will be rescued.
-The forced march back to warn Luln will fail;
-the raid will have caused heavy damage. Sascia
-will have other uses for her men-at-arms, but
-will outfit the player characters if they want to
-recover their equipment from the outpost.
-
-If the party successfully escapes from the
-outpost, they will arrive at Luln in time to
-warn the town against the attack. Sascia and
-her guards will prepare an ambush and drive
-off the goblins with heavy losses. The situa-
-tion will remain tense, and Sascia will make
-out a full report on the situation. When the
-party is ready to leave Luln, she will ask them
-to deliver the report to the scribe Franz Dub-
-loi, who can be found with the military garri-
-son in § . The party will receive a
-small sack of gold for traveling expenses and
-will be able to deliver the message without
-difficulty. See the Veiled Society adventure for
-more details about Specularum.
+If the party successfully escapes from the outpost, they will arrive at Luln in time to warn the town against the attack. Sascia and her guards will prepare an ambush and drive off the goblins with heavy losses. The situation will remain tense, and Sascia will make out a full report on the situation. When the party is ready to leave Luln, she will ask them to deliver the report to the scribe Franz Dubloi, who can be found with the military garrison in Specularum. The party will receive a small sack of gold for traveling expenses and will be able to deliver the message without difficulty. See the Veiled Society adventure for more details about Specularum.
 
 The Town of Luln
 
-Luln is a frontier town about the size of
-Threshold, but much more crowded, and its
+Luln is a frontier town about the size of Threshold, but much more crowded, and its living conditions are slightly more primitive. The general services provided are much the same, but the quality is generally inferior to that of Threshold. Part of this is due to the fact that the Black Eagle Barony is close by, and continual humanoid raids have prevented the development of the land, which is rich.
 
+The Baron's role in the town’s troubles is something of an open secret, but the fact remains that Duke Stephan has his hands full with other matters and little short of a blatant invasion by the Baron’s regular forces will bring outside aid. The Baron’s strategy is to keep the area worn down by continual harrassment while he builds his own forces. Then, when the Duke becomes involved in a major conflict elsewhere, the Baron can seize the town and hopefully conclude a separate peace with the Duke.
 
+The Duke knows this, of course, and has placed the ambitious Townmistress Sascia (a high level fighter) in charge of the place. Her job is to preserve the town and build up the local economy in the face of the Baron’s interference.
 
-living conditions are slightly more primitive.
-The general services provided are much the
-same, but the quality is generally inferior to
-that of Threshold. Part of this is due to the
-fact that the Black Eagle Barony is close by,
-and continual humanoid raids have prevented
-the development of the land, which is rich.
-
-The Baron's role in the town’s troubles is
-something of an open secret, but the fact
-remains that Duke Stephan has his hands full
-with other matters and little short of a blatant
-invasion by the Baron’s regular forces will
-bring outside aid. The Baron’s strategy is to
-keep the area worn down by continual harrass-
-ment while he builds his own forces. Then,
-when the Duke becomes involved in a major
-conflict elsewhere, the Baron can seize the
-town and hopefully conclude a separate peace
-with the Duke.
-
-The Duke knows this, of course, and has
-placed the ambitious Townmistress Sascia (a
-high level fighter) in charge of the place. Her job
-is to preserve the town and build up the local
-economy in the face of the Baron’s interference.
-
-The nearby Radlebb Keep assists Luln when
-itcan, which is not often—the area its garrison
-must patrol is large, and the haunted Korisze-
-gy Keep must be constantly watched. Also,
-Sascia has her eye on a knighthood, and is
-interested in proving her leadership without
-resorting to the Duke's soldiers.
-
-
- 
+The nearby Radlebb Keep assists Luln when itcan, which is not often—the area its garrison must patrol is large, and the haunted Koriszegy Keep must be constantly watched. Also, Sascia has her eye on a knighthood, and is interested in proving her leadership without resorting to the Duke's soldiers.
 
 Background
 
-The following legend is very well known. All
-the player characters should be quite familiar
-with it. The information in this section can be
-freely given to the players.
+The following legend is very well known. All the player characters should be quite familiar with it. The information in this section can be freely given to the players.
 
-The Church of Karameikos is widespread
-and popular mainly among the ruling classes
-of the Grand Duchy. However, one of its lesser
-orders most popular with the common folk is
-the Order of Chardastes. The Order grew out
-of an incident that happened more than 300
-years ago. At that time there were many places
-in Karameikos dedicated to Traladaran wor-
-ship. A small sanctuary in Marilenev (later
-renamed Specularum) was one of those sites.
+The Church of Karameikos is widespread and popular mainly among the ruling classes of the Grand Duchy. However, one of its lesser orders most popular with the common folk is the Order of Chardastes. The Order grew out of an incident that happened more than 300 years ago. At that time there were many places in Karameikos dedicated to Traladaran worship. A small sanctuary in Marilenev (later renamed Specularum) was one of those sites.
 
-One day, a woman who was very sick went
-to the sanctuary and prayed to have her health
-returned. While she was praying alone in the
-sanctuary, a being called Chardastes appeared
-to the woman. He told her that the religion of
-her people was false, and that his way was the
-only true religion. To prove this, he laid his
-hands on the woman and cured her of here ill-
-ness. He also left behind on the altar a won-
-derful magical bell.
+One day, a woman who was very sick went to the sanctuary and prayed to have her health returned. While she was praying alone in the sanctuary, a being called Chardastes appeared to the woman. He told her that the religion of her people was false, and that his way was the only true religion. To prove this, he laid his hands on the woman and cured her of here illness. He also left behind on the altar a wonderful magical bell.
 
-The bell, of ordinary size and shape, had
-been made of purest platinum. What made it
-so remarkable was that it had no clapper.
-Instead, it rang magically whenever it was
-picked up. When the Thyatians settled in
-Karamceikos, they incorporated the sanctuary
-into the Church of Karameikos.
+The bell, of ordinary size and shape, had been made of purest platinum. What made it so remarkable was that it had no clapper. Instead, it rang magically whenever it was picked up. When the Thyatians settled in Karamceikos, they incorporated the sanctuary into the Church of Karameikos.
 
-The story of the bell has spread far and
-wide. Each year, on the anniversary of the mir-
-acle, hundreds of people flock to its small
-building, hoping to be cured by Chardastes.
-They crowd into the sanctuary, a hundred or
-so at a time, and pray as the clergy sings the
-sacred words and lifts the magical bell. Most
-are disappointed, but so many have had their
-prayers answered that the Order has flour-
-ished ever since.
+The story of the bell has spread far and wide. Each year, on the anniversary of the miracle, hundreds of people flock to its small building, hoping to be cured by Chardastes. They crowd into the sanctuary, a hundred or so at a time, and pray as the clergy sings the sacred words and lifts the magical bell. Most are disappointed, but so many have had their prayers answered that the Order has flourished ever since.
 
-All that changed about five years ago. At
-that time, there was a cleric in the Order
-whose name was Elwyn. Elwyn was very dedi-
-cated to the Church, and had been well
-rewarded by the Patriarchs and Matriarchs of
-the Church. But that, apparently, was not
-enough. There were rumors that Elwyn had
-begun practicing with edged weapons and
-researching the spells of the magic-users, try-
-ing to learn the abilities of the other classes.
-This was a serious charge, indeed. But before
-anyone could prove the charges, Elwyn van-
-ished without a trace, And to the horror of the
-people, the sacred bell of Chardastes that was
-kept in the sanctuary was gone, too!
+All that changed about five years ago. At that time, there was a cleric in the Order whose name was Elwyn. Elwyn was very dedicated to the Church, and had been well rewarded by the Patriarchs and Matriarchs of the Church. But that, apparently, was not enough. There were rumors that Elwyn had begun practicing with edged weapons and researching the spells of the magic-users, trying to learn the abilities of the other classes. This was a serious charge, indeed. But before anyone could prove the charges, Elwyn vanished without a trace, And to the horror of the people, the sacred bell of Chardastes that was kept in the sanctuary was gone, too!
 
-The Order has been in a state of crisis ever
-since. The faithful still come the the sanctuary
+The Order has been in a state of crisis ever since. The faithful still come the the sanctuary  on the holy day, but there have been no miraculous cures since the bell vanished. The numbers of the faithful have decreased in recent years.
 
-on the holy day, but there have been no mirac-
-ulous cures since the bell vanished. The num-
-bers of the faithful have decreased in recent
-years.
+Some time ago, rumors of a powerful hostile force began to spring up. It was said that someone had built a large, monstrous fortress in a distant section of the county, and that those who attempted to investigate it had not returned. Recently, rumors have been circulating that Elwyn might be behind this mystery. The Patriarch Sherlane is interested in having the fortress investigated. He will have the party investigate the fortress, determine if Elwyn is involved, recover the sacred bell if it can be found, and bring Elwyn to justice if possible.
 
-Some time ago, rumors of a powerful hos-
-tile force began to spring up. It was said that
-someone had built a large, monstrous fortress
-in a distant section of the county, and that
-those who attempted to investigate it had not
-returned. Recently, rumors have been circulat-
-ing that Elwyn might be behind this mystery.
-The Patriarch Sherlane is interested in having
-the fortress investigated. He will have the par-
-ty investigate the fortress, determine if Elwyn
-is involved, recover the sacred bell if it can be
-found, and bring Elwyn to justice if possible.
+The party will be promised 500 gp apiece to investigate the fortress, 1,000 gp apiece to recover the bell, and an additional 1,000 gp if they are able to bring Elwyn alive to justice. If the party so requests, they are given an advance payment of 50% (250 gp each) with which they can buy non-magical equipment and supplies.
 
-The party will be promised 500 gp apiece to
-investigate the fortress, 1,000 gp apiece to
-recover the bell, and an additional 1,000 gp if
-they are able to bring Elwyn alive to justice. If
-the party so requests, they are given an
-advance payment of 50% (250 gp each) with
-which they can buy non-magical equipment
-and supplies.
+A local guide is provided to take the party through the wilderness to the mysterious fortress. The guide will not, under any circumstances, accompany the party into the fortress.
 
-A local guide is provided to take the party
-through the wilderness to the mysterious for-
-tress. The guide will not, under any circum-
-stances, accompany the party into the fortress.
-
-The party arrives on the anniversary of the
-miracle.
+The party arrives on the anniversary of the miracle.
 
 Notes for the Dungeon Master
 
-Elwyn is a woman, but the information above
-has been written in such a way that the party
-will assume Elwyn is male. Allow the party to
-believe this so that they will not realize imme-
-diately that the woman's voice they hear when
-exploring the fortress is actually the voice of
-Elwyn.
+Elwyn is a woman, but the information above has been written in such a way that the party will assume Elwyn is male. Allow the party to believe this so that they will not realize immediately that the woman's voice they hear when exploring the fortress is actually the voice of Elwyn.
 
-Note that the fortress is built as a double
-spiral. There is a secret corridor that runs
-alongside the rooms and corridors through
-which the party will travel. This corridor is
-used by Elwyn to observe the party along the
-way. She occasionally provides hints to the
-party when they get bogged down (always, of
-course, in a derogatory voice accompanied by
-a diabolical laugh), feeling secure in her
-power and ability to defeat the party anytime
-she chooses.
+Note that the fortress is built as a double spiral. There is a secret corridor that runs alongside the rooms and corridors through which the party will travel. This corridor is used by Elwyn to observe the party along the way. She occasionally provides hints to the party when they get bogged down (always, of course, in a derogatory voice accompanied by a diabolical laugh), feeling secure in her power and ability to defeat the party anytime she chooses.
 
-Unless otherwise stated, the rooms are not
-lit. The only doors in the fortress (except for
-the entrance and the iron door between rooms
-1 and 2) are secret. Once detected, they open
-easily.
+Unless otherwise stated, the rooms are not lit. The only doors in the fortress (except for the entrance and the iron door between rooms 1 and 2) are secret. Once detected, they open easily.
 
-The DM should copy the two treasure maps
-ahead of time and be prepared to hand them
-out to the players. The treasure maps need not
-be drawn to scale (page 158).
+The DM should copy the two treasure maps ahead of time and be prepared to hand them out to the players. The treasure maps need not be drawn to scale (page 158).
 
-
-
-There will be no wandering monsters in
-Elwyn’s fortress. If desired, you can add wan-
-dering monster encounters in the wilderness
-through which the party travels to reach the
-fortress, but it is important not to have the
-party seriously weakened before the adventure
-begins! Monster stats are given on page 34.
+There will be no wandering monsters in Elwyn’s fortress. If desired, you can add wandering monster encounters in the wilderness through which the party travels to reach the fortress, but it is important not to have the party seriously weakened before the adventure begins! Monster stats are given on page 34.
 
 OUTSIDE THE FORTRESS
 
- 
+You have traveled far into the wilderness, and finally you have arrived at your destination—the mysterious fortress that you suspect may harbor Elwyn and the mystic bell of Chardastes. Your guide has turned back after pointing out the final direction you must travel.
 
-You have traveled far into the wilderness,
-and finally you have arrived at your
-destination—the mysterious fortress that
-you suspect may harbor Elwyn and the
-mystic bell of Chardastes. Your guide has
-turned back after pointing out the final
-direction you must travel.
+You follow a path that leads out of the forest and into a clearing. There, before you, is an enormous building. It is nearly black, and looks as if it might be made of iron.
 
-You follow a path that leads out of the
-forest and into a clearing. There, before
-you, is an enormous building. It is nearly
-black, and looks as if it might be made of
-iron.
+Suddenly, there is a horrid smell as four ugly humanoids emerge from the forest to your left!
 
-Suddenly, there is a horrid smell as four
-ugly humanoids emerge from the forest to
-your left!
+The humanoids are troglodytes. Because they have the ability to blend in with their surroundings, they surprise on a 1-4 on d6. Their smell is nauseating, giving their opponents a —2 penalty to their hit rolls unless the opponents make a saving throw vs. Poison.
 
- 
+The lair of the troglodytes can be found in the forest a short distance from the path. It consists of a hollow in a small clearing with an opening that leads to an underground lair. The troglodytes’ treasure consists of five large sacks, two vials, and a piece of parchment with some faded writing on it. Two of the sacks contain 500 sp each, two contain 500 gp each, and one contains 500 pp. The two vials each contain potions of healing. The parchment is Treasure Map #1 (give a copy of the map to the players at this time), showing the location of the treasure in room 5.
 
- 
+The party must defeat the troglodytes before they can enter the fortress. It is important that they find the lair and locate the potions and the treasure map. Give the players hints, or even a little advice, to get them to look for the lair.
 
- 
+1. ENTRANCE
 
-The humanoids are troglodytes. Because they
-have the ability to blend in with their sur-
-roundings, they surprise on a 1-4 on d6. Their
-smell is nauseating, giving their opponents a
-—2 penalty to their hit rolls unless the oppo-
-nents make a saving throw vs. Poison.
+As you emerge once again from the forest, you finally get a good look at the fortress. The walls are fully 30 feet high, and the jagged shape of the outside looks like a  black dragon's teeth when it opens its mouth to breathe. The walls are indeed made of iron. There is a door visible in the southwest corner.
 
-The lair of the troglodytes can be found in
-the forest a short distance from the path. It
-consists of a hollow in a small clearing with an
-opening that leads to an underground lair.
-The troglodytes’ treasure consists of five large
-sacks, two vials, and a piece of parchment with
-some faded writing on it. Two of the sacks con-
-tain 500 sp each, two contain 500 gp each, and
-one contains 500 pp. The two vials each con-
-tain potions of healing. The parchment is
-Treasure Map #1 (give a copy of the map to the
-players at this time), showing the location of
-the treasure in room 5.
+The only entrances to the building are the visible entrance and the secret door near it. (The secret door between rooms 2 and 3 on the map leads to the lower level, not to the outside.) It is recommended that you not allow the party to find the secret entrance at this time—if they do, they avoid all the traps, tricks, and encounters, and find Elwyn at room 16a.
 
-The party must defeat the troglodytes
-before they can enter the fortress. It is impor-
-tant that they find the lair and locate the
-potions and the treasure map. Give the play-
-ers hints, or even a little advice, to get them to
-look for the lair.
+The visible entrance opens easily. The corridor behind the door is dark.
 
-1, ENTRANCE
+The corridor proceeds north from the door. After about ten feet, it opens up into a wide area to your left about 30 feet northsouth by 20 feet east-west. The area appears to be empty.
 
- 
+The area is empty. When the party has assembled in this room, read the following:
 
-As you emerge once again from the forest,
-you finally get a good look at the fortress.
-The walls are fully 30 feet high, and the
-jagged shape of the outside looks like a
+A musical, low-pitched female voice fills the air, saying, “Who dares to enter the Shrine of Elwyn unbidden? Turn back! TURN BACK NOW, for ahead lies certain death!” The voice then breaks into a diabolical laugh.
 
- 
+This is the voice of Elwyn, speaking from her secret observation corridor. The party is free to take her advice and leave—but this ends the adventure. If the party continues, wait until the entire party has crossed the area on the map indicated by a dotted line (between rooms 1 and 2), then read the following:
 
- 
+Suddenly, you hear a resounding “BOOM!” behind you. When you turn around, you see that a solid iron door has descended into the corridor, blocking your avenue of escape. You also notice that a small panel in the east wall has opened.
 
- 
-
-
- 
-
- 
-
-black dragon's teeth when it opens its
-mouth to breathe. The walls are indeed
-made of iron. There is a door visible in the
-southwest corner.
-
- 
-
- 
-
- 
-
-The only entrances to the building are the visi-
-ble entrance and the secret door near it. (The
-secret door between rooms 2 and 3 on the map
-leads to the lower level, not to the outside.) It
-is recommended that you not allow the party
-to find the secret entrance at this time—if
-they do, they avoid all the traps, tricks, and
-encounters, and find Elwyn at room 16a.
-
-The visible entrance opens easily. The corri-
-dor behind the door is dark.
-
- 
-
-The corridor proceeds north from the door.
-After about ten feet, it opens up into a
-wide area to your left about 30 feet north-
-south by 20 feet east-west. The area
-appears to be empty.
-
- 
-
-The area is empty. When the party has assem-
-bled in this room, read the following:
-
- 
-
-A musical, low-pitched female voice fills
-the air, saying, “Who dares to enter the
-Shrine of Elwyn unbidden? Turn back!
-TURN BACK NOW, for ahead lies certain
-death!” The voice then breaks into a dia-
-bolical laugh.
-
- 
-
- 
-
- 
-
-This is the voice of Elwyn, speaking from her
-secret observation corridor. The party is free to
-take her advice and leave—but this ends the
-adventure. If the party continues, wait until
-the entire party has crossed the area on the
-map indicated by a dotted line (between
-rooms 1 and 2), then read the following:
-
- 
-
-Suddenly, you hear a resounding
-“BOOM!” behind you. When you turn
-around, you see that a solid iron door has
-descended into the corridor, blocking your
-avenue of escape. You also notice that a
-small panel in the east wall has opened.
-
- 
-
- 
-
- 
-
-The open panel reveals an obvious keyhole.
-When the proper key is inserted into the hole
-and turned, the door will rise. Elwyn has the
-only key. The lock and the door cannot be
-opened by a thief’s open Jock skill, or with a
-knock spell.
+The open panel reveals an obvious keyhole. When the proper key is inserted into the hole and turned, the door will rise. Elwyn has the only key. The lock and the door cannot be opened by a thief’s open Jock skill, or with a knock spell.
 
 2. DAIS
 
- 
-
-To your left you see an open area about 30
-
- 
-
- 
-
- 
-
-feet north-south by about 20 feet east-
-west. The area seems to be empty except
+To your left you see an open area about 30 feet north-south by about 20 feet east-west. The area seems to be empty except
 for a raised area occupying the middle of
 the west wall. The raised area is about half
 a foot above the floor and looks like pol-
