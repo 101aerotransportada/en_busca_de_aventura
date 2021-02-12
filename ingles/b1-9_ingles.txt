@@ -64,15 +64,7 @@ You see a large room with many tables and benches. About 20 people are sitting a
 
 If the party opens the door into the kitchen, read the following:
 
- 
-
 An open kitchen reveals a dining room beyond, filled with people. Two women are preparing and serving a meal. A delicious aroma of cooking meat comes from the kitchen.
-
- 
-
- 
-
- 
 
 The two women in the kitchen and ten of the people seated at the table are non-combatant servants. The rest are fighters wearing leather armor and armed with daggers.
 
@@ -80,29 +72,13 @@ There are 6 male servants, 6 female servants, 8 veteran fighters (1st level figh
 
 3. MEN’S COMMON QUARTERS
 
- 
-
 This room contains a number of beds and wardrobes, a few chairs, and a couple of tables. It otherwise appears to be empty.  There is an open doorway on the far side of the room.
-
- 
-
- 
-
- 
 
 This room provides quarters for the male servants. There is no one here at the moment.  Under one mattress can be found 12 sp and 14 cp. Under a second matress can be found 6 sp and 15 cp. A third mattress conceals 8 sp and 6 cp. A fourth holds 3 sp and 19 cp.
 
 4. MEN’S BATH
 
- 
-
 This long, narrow room has an open doorway at the far end. There are several wooden tubs on the floor, and what looks like a stove in the middle of the room. The floor is wet, and there is a soap smell. The room appears to be empty.
-
- 
-
- 
-
- 
 
 This room is a bath. The stove is used to heat water for the tubs. The room is currently empty. The floor is very slippery; any character searching here must roll his Dexterity or less, using 3d6, or slip on the floor and turn an ankle. A turned ankle cuts a character's movement rate by half for 1d6 turns.
 
@@ -110,28 +86,15 @@ This room is a bath. The stove is used to heat water for the tubs. The room is c
 
 NOTE; The following description assumes the party enters this room from the east. If they enter from room 6, you must make the appropriate adjustments. The small entranceway to the east of this room is currently empty. Both doors are swinging doors, and can easily be pushed open.
 
- 
-
 The left wall of this long, narrow room seems to be a curtain. The right wall is lined with pegs. One of the pegs has some clothing on it. There is a basket near the far end of the room that has some cloth things on it. Otherwise, the room appears to be empty.
 
- 
-
 This area is used by the men to change clothes before using the bath or the exercise room (room 6). The curtain has several gaps through which one can enter room 6. The clothing belongs to the man in room 6, and includes leather armor and a belt with a dagger. The basket is filled with wet towels.
-
 
 6. MEN’S EXERCISE ROOM
 
 NOTE: The following description assumes the party enters this room from the south. If they come from room 5, make the appropriate adjustments.
 
- 
-
 This looks like a work-out room. There are mats on the floor, weights, and other equipment. A man dressed only in short pants is doing push-ups near a rack in the near left corner of the room.
-
- 
-
- 
-
- 
 
 This man is a veteran (1st level fighter). He is AC 8 because of good dexterity. When he sees the party, he grabs a weight from the rack and uses it like a mace (D 2-7, due to strength). He is too far from the dining room to call to the others, but he fights as best he can. He runs to alert the others if he can.
 
@@ -139,48 +102,21 @@ There is nothing of value in this room. If party members choose, they can use th
 
 7. WOMEN’S COMMON QUARTERS
 
- 
-
 This room contains a number of beds and wardrobes, a few chairs, and a couple of tables. It otherwise appears to be empty.  There is an open doorway on the far side of the room.
-
- 
-
- 
-
- 
 
 This room provides quarters for the female servants. There is no one here at the moment.  Under one mattress can be found 7 sp and 5 cp. Under a second mattress can be found 8 sp and 20 cp.
 
 8. WOMEN’S BATH
 
- 
-
 This long, narrow room has an open doorway at the far end. There are several wooden tubs on the floor, and what looks like a stove in the middle of the room. The floor is wet, and there is a soap smell. The room appears to be empty.
 
- 
-
- 
-
- 
-
 This room is a bath. The stove is used to heat water for the tubs. The room is currently empty. The floor is very slippery; any character searching here must roll his Dexterity or less, using 3d6, or slip on the floor and turn an ankle. A turned ankle cuts a character's movement rate by half for 1d6 turns.
-
-
- 
 
 9. WOMEN’S DRESSING ROOM
 
 NOTE: The following description assumes the party enters this room from the east. If they enter from room 10, you must make the appropriate adjustments. The small entranceway to the east of this room is currently empty.  Both doors are swinging doors, and can easily be pushed open.
 
- 
-
 The left wall of this long, narrow room seems to be a curtain. The right wall is lined with pegs. There is a basket near the far end of the room that has some cloth things on it. Otherwise, the room appears to be empty.
-
- 
-
- 
-
- 
 
 This area is used by the women to change clothes before using the bath or the exercise room (room 10). The curtain has several gaps through which one can enter room 10. The basket is filled with wet towels.
 
@@ -188,36 +124,17 @@ This area is used by the women to change clothes before using the bath or the ex
 
 NOTE: The following description assumes the party enters this room from the north. If they come from room 5, make the appropriate adjustments.
 
- 
-
 This looks like a work-out room. There are mats on the floor, weights, and other equipment. The room otherwise seems to be empty.
-
- 
-
- 
-
- 
 
 There is nothing of value in this room. If party members choose, they can use the weights as maces, but receive a — 1 to both hit and damage rolls when using them.
 
 11. PANTRY
 
- 
-
 This room is lined with shelves, and two additional rows of shelves are in the middle of the room. Sacks and barrels are stacked along the left wall.
-
- 
-
- 
-
- 
 
 The sacks contain flour, potatoes, beans, and other food. The barrels hold pickles, dried fish, dried meat, and other preserved food.  The shelves are not very well stocked, but there are wooden boxes filled with vegetables and bottles. On one shelf, together with bottles of vinegar, oil, and other common liquids, are five vials. Three contain potions of healing, one contains a potion of invisibility, and one contains a potion of poison.
 
 12. TRAINING ROOM
-
-
- 
 
 At the far end of this room is a window, and three more windows line the long wall to the left. All are barred. The floor is covered with straw, bales of hay, and padded posts.
 
@@ -242,7 +159,6 @@ This is an interrogation and torture chamber.  The stains on the floor are blood
 15. JAILER’S QUARTERS
 
 This messy bedroom contains a bed, a table, a chair, and a lot of ragged clothing.
-
 
 The gnoll jailer lives in this room. He has a large chest hidden under the floorboards beneath his bed. It is trapped with a poison needed. Anyone who opens the chest without first finding and removing the poison needle must make a saving throw vs. Poison or die.  The chest contains 300 gp.
 
@@ -448,7 +364,6 @@ The man who lives in this room is currently in the lunchroom. The sword is a sho
 41. MALE WARRIOR’S QUARTERS
 
 This room is different from the other bedrooms. Set apart from the rest of the room in the left corner is a low table surrounded by four comfortable chairs. There is a desk in the far left corner, and a sword and a shield hang on the wall beside it. A man dressed in leather is asleep on the bed.
-
  
 This man is a warrior (2nd level fighter). His superior strength gives him +1 to damage in any attack. He is wearing leather armor and has a dagger in his belt. The short sword and shield are of normal make. There is plate mail armor in the wardrobe. A key on the bedside table unlocks the armory (room 13). A locked metal box in the bottom of the wardrobe contains 19 gp and 20 sp.
 
