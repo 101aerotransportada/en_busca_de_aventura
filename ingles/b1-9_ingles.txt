@@ -3036,6 +3036,14 @@ The cast archway leads to area 14 (the entryway). The north archway leads to are
 
 24. CLOAK ROOM
 
+Thick dust covers everything in this room. Dozens of pegs line the walls at shoulder height. Suddenly, a slender figure hurtles from the darkness, shouting a warrior’s challenge.
+
+An elven warrior-seer, Alki, hid here when he heard the PCs coming. Unless the PCs try to talk to him, Alki will fight to the death.
+
+Alki was one of the original elves summoned to help Rahasia, but he arrived at the temple after the others. He already has used his two spells. He will gladly join the PCs if invited. Alki is devoted to beauty, and thus to Rahasia.
+
+Alki, Elven Warrior-Seer: AC 4; E2; hp 12; MV 60’ (20’); #AT 1 at +2; D 1d8 +2; Save E2; ML9; ALL; XP 20; Str 16, Int 12, Wis 8, Dex 9, Con 13, Cha 12
+
 Spells:
 
 First Level: magic missile, shield
@@ -3054,19 +3062,11 @@ These two stairways look identical. The stairway at 25 splits into two sets of s
 
 27. PRIESTHOOD CELLS
 
-Thick dust covers everything in this room. Dozens of pegs line the walls at shoulder height. Suddenly, a slender figure hurtles from the darkness, shouting a warrior’s challenge.
-
-An elven warrior-seer, Alki, hid here when he heard the PCs coming. Unless the PCs try to talk to him, Alki will fight to the death.
-
-Alki was one of the original elves summoned to help Rahasia, but he arrived at the temple after the others. He already has used his two spells. He will gladly join the PCs if invited. Alki is devoted to beauty, and thus to Rahasia.
-
-Alki, Elven Warrior-Seer: AC 4; E2; hp 12; MV 60’ (20’); #AT 1 at +2; D 1d8 +2; Save E2; ML9; ALL; XP 20; Str 16, Int 12, Wis 8, Dex 9, Con 13, Cha 12
-
 There are seven openings on one side of this 10-foot-wide hallway. The openings are blocked by heavy curtains.
 
 Each cell contains a cot of woven reeds, several dirty rags, and a pile of stones. None of these items have any value. There is nothing else in any of the cells, except cells 27f, 27g, 27n, and 270, listed below.
 
-27. PRIESTHOOD CELL
+27f. PRIESTHOOD CELL
 
 Within this cell is a woven reed cot with a chest under it, several rags, and a pile of stones.
 
@@ -3092,7 +3092,7 @@ The five Siswa in this room heard the PCs approaching and are only pretending to
 
 Siswa (5): AC 8; E1; hp 6, 6, 5, 3, 2; MV 120’ (40'); #AT 1; D 1d8; Save E1; ML 8; ALC; XP 13
 
-270. DARK CELL
+27o. DARK CELL
 
 In the back of this dark cell lie five robed figures.
 
@@ -3128,12 +3128,10 @@ GELATINOUS CUBE LOCATION
 
 Die Roll Location
 
-North Hall
-South Hall
-East Hall
-West Hall
-
-Bene
+1 North Hall
+2 South Hall
+3 East Hall
+4 West Hall
 
 Gelatinous Cube: AC 8; HD 4*; hp 17; MV 60’ (20'); #AT 1; D 2d4 + paralyze; Save F2; ML 12; ALN; XP 125
 
@@ -3183,7 +3181,7 @@ A staircase in the north wall leads to a trap door behind the altar in area 35 o
 If the PCs spend more than one round in this room, the spirit of Rahasia’s father appears as a ghostly form. He is a haunt. See New Monsters for details about haunts. Rahasia’s father is a stately elf with piercing, yet gentle, eyes and a melodious voice, He cannot cause or take damage. He identifies himself, recites the following message, then disappears. He will not reform or answer any questions.
 
 “By the Rahie’s hand
-Was | here felled
+Was I here felled
 And long awaited
 You to come.
 
@@ -3194,13 +3192,13 @@ To free her.
 
 “Nasan is m the dungeon south;
 My Gold Is toward the north.
-an ally in the dragon Guard
-Waits Before the gold.
+An ally in the dragon guard
+Waits before the gold.
 
 “The Rahis Is But a pawn;
-a darker evil lies Below.
-The dragon Guard knows the story
-And Guards the way Below.”
+A darker evil lies below.
+The dragon guard knows the story
+And guards the way below.”
 
 Rahasia’s father was brought here from the well. The Rahib tried to force the lore of the pendant from him, as well as repeating his demands that Rahasia go with him unhindered, When the elf refused, the Rahib slew him in a fit of rage. The elf’s spirit refuses to rest, however, until Rahasia is safe.
 
@@ -3218,8 +3216,7 @@ First Level: detect magic, protection from evil
 
 Second Level: hold person, silence 15’ radius
 
-The Rahib is wearing chainmail +1 under a
-black robe and carries a mace +1.
+The Rahib is wearing chainmail +1 under a black robe and carries a mace +1.
 
 38. HALL
 
@@ -3249,9 +3246,9 @@ This thin, dark tunnel winds down from area 40 through the gray mountain to the 
 
 41. RECEPTION ROOM
 
- This octagonal room is 30 feet across. It has 10-foot-square alcoves in the north, south, and west walls. These are blocked by gates of heavy iron bars. Above the north alcove is carved the word, “KESINI.” Above the other alcoves are carved the word “KESANA.” A large gong hangs before the western wall.
+This octagonal room is 30 feet across. It has 10-foot-square alcoves in the north, south, and west walls. These are blocked by gates of heavy iron bars. Above the north alcove is carved the word, “KESINI.” Above the other alcoves are carved the word “KESANA.” A large gong hangs before the western wall.
 
- The alcoves are magical portals. The northern portal is a one-way receiving portal from the roadside shrine. The southern portal sends anything entering it to the receiving teleport in the Hall of the Siswa, area 28 on the middle level. The western portal sends anything entering it to the southern alcove of the roadside shrine.
+The alcoves are magical portals. The northern portal is a one-way receiving portal from the roadside shrine. The southern portal sends anything entering it to the receiving teleport in the Hall of the Siswa, area 28 on the middle level. The western portal sends anything entering it to the southern alcove of the roadside shrine.
 
 The Rahib brings food and treasures offered at the roadside shrine (and shipments of food that he brought there secretly) into the temple through the northern portal. The food is stored in room 46 or sent to the Hall of the Siswa, area 28 on the middle level. The gong announces a delivery—or the arrival of unwanted guests.
 
@@ -3259,9 +3256,9 @@ Each time something enters through the northern portal, the gong rings with a th
 
 42. ULAR-TAMAN’S ROOM
 
- Smooth bare stones form the walls of this 20-foot-square room, but a rough cut tunnel is carved in the west corner of the north wall. In the center of the room, a glittering snake-like reptile weaves back and forth.
+Smooth bare stones form the walls of this 20-foot-square room, but a rough cut tunnel is carved in the west corner of the north wall. In the center of the room, a glittering snake-like reptile weaves back and forth.
 
- The snake-like reptile is Ular-Taman, a creature created by Elyas long ago. Ular-Taman is good, kind, and wise. It prefers characters of lawful alignment. Ular-Taman can never leave the temple.
+The snake-like reptile is Ular-Taman, a creature created by Elyas long ago. Ular-Taman is good, kind, and wise. It prefers characters of lawful alignment. Ular-Taman can never leave the temple.
 
 Ular-taman guarded the only known entrance to the ruins of Elyas’ tower, the Tower Tunnel, area 44a. Out of respect for Elyas after he died, the elves never entered the ruins. After several generations, they forgot that the ruins existed. The Rahib discovered another way into the tower, from area 40.
 
@@ -3276,14 +3273,14 @@ The ring is hidden under a loose stone in the floor. Treat the stone as a shifti
 Ular-Taman: AC 2; HD 6; hp 32; MV 120’ (40'); #AT 2 or spells; D 1d4/2d6 + constriction; Save F6; ML 10; AL L; XP 275; Except for his special abilities, Ular Taman's attacks (not his appearance) are similar to a rock python’s (giant constricting snake).
 
 Spells (Clerical): (each spell once per day)
-First Level: cure light wounds (X2), protec-
-tion from evil, light
+
+First Level: cure light wounds (X2), protection from evil, light
 
 Second Level: hold person, silence 15’ radius
 
 If the PCs talk to the reptile, they find an ally and gain the black jade ring (if they have the pendant). Ular-Taman also tells the PCs the following story.
 
- “Many generations ago, a wizard, called Elyas, visited these elven people. He asked for a place to live, where he could work in peace and solitude. Because his heart was true and he respected the elves and their customs, they gave him a place in their forest where he built a tremendous tower. For many years they helped him and he protected and taught them, for his magic and learning was vast.
+“Many generations ago, a wizard, called Elyas, visited these elven people. He asked for a place to live, where he could work in peace and solitude. Because his heart was true and he respected the elves and their customs, they gave him a place in their forest where he built a tremendous tower. For many years they helped him and he protected and taught them, for his magic and learning was vast.
 
 “Their friendship with Elyas was passed from father to son, until even Elyas grew old. Then disaster struck. Three horrible witches attacked his tower. They sought a magical gem Elyas owned—the Black Opal Eye—for its power could make them almost invincible.
 
@@ -3293,7 +3290,7 @@ If the PCs talk to the reptile, they find an ally and gain the black jade ring (
 
 “T guard the way to Elyas’ tower, but I fear the Rahib has found another entrance”.
 
- If the PCs ask how to get to Elyas’ tower, Ulartaman tells them about the secret door in area 44 that leads to the Tower Tunnel, area 44a.
+If the PCs ask how to get to Elyas’ tower, Ulartaman tells them about the secret door in area 44 that leads to the Tower Tunnel, area 44a.
 
 If the PCs attack and kill Ular-Taman, it becomes a haunt and continues to guard the treasure and the ring. See New Monsters for details about haunts. Characters that see a haunt must make a successful saving throw vs. spells or run away. Those characters absolutely refuse to enter the area for at least 1 day.
 
@@ -3307,9 +3304,9 @@ This 10-foot-wide tunnel runs northeast from the room of Ular-Taman to what appe
 
 44, TREASURE ROOM
 
- This 30-foot-wide (east to west) by 20-footdeep room holds a treasure of tremendous wealth! A solid metal door is set into the east end of the south wall.
+This 30-foot-wide (east to west) by 20-footdeep room holds a treasure of tremendous wealth! A solid metal door is set into the east end of the south wall.
 
- The metal door leads to area 45, the stair of locks. No one can open the door unless its lock is picked or unlocked with the keys from area 37, the library.
+The metal door leads to area 45, the stair of locks. No one can open the door unless its lock is picked or unlocked with the keys from area 37, the library.
 
 The treasure is in the center of the room. It includes: 800 gp, a sword +1, a snake staff, a ring of animal control, a potion of healing, a marble jar with 6 inlaid gems (worth 1,000 gp), 2 platinum birds (worth 700 gp each), and 12 gems (each worth 100 gp).
 
@@ -3333,9 +3330,9 @@ Giant Rats (8): AC 7; HD 1d4 hp; hp 4, 4, 4, 4, 2, 1, 1, 1; MV 120° (40'); #AT 
 
 47. GUARDROOM
 
- Double doors open into this guardroom. Four Siswa guards in chainmail are posted here. Directly across the room is another set of double doors.
+Double doors open into this guardroom. Four Siswa guards in chainmail are posted here. Directly across the room is another set of double doors.
 
- The guards’ orders are to let no one pass unless the Rahib is present and instructs them otherwise. The guard leader carries the keys to all the cells in area 49.
+The guards’ orders are to let no one pass unless the Rahib is present and instructs them otherwise. The guard leader carries the keys to all the cells in area 49.
 
 If the PCs are escaping from the cells, you may reduce the number of guards in this area to make their escape possible; assume the other guards are with the Rahib.
 
@@ -3343,15 +3340,15 @@ Siswa Guards (4): AC 4; E2; hp 10, 8, 6, 4; MV 120’ (40’); #AT 1; D 1d8; Sav
 
 48. WELL BOTTOM
 
- This is the bottom of a deep, 10-foot-wide shaft that extends straight upward into darkness. It is sealed off from the hallway at its base by a heavy iron gate. Piled at the bottom of the well are stuffed leather mats that prevent damage from a fall down the shaft. The walls of the well are damp and too slippery for even a thief to climb.
+This is the bottom of a deep, 10-foot-wide shaft that extends straight upward into darkness. It is sealed off from the hallway at its base by a heavy iron gate. Piled at the bottom of the well are stuffed leather mats that prevent damage from a fall down the shaft. The walls of the well are damp and too slippery for even a thief to climb.
 
- The iron gate is locked. Trying to smash through the gate alerts the guards. The alerted guards use vials of sleeping gas to capture the PCs before they can break through. To get through quietly, the PCs must pick the lock.
+The iron gate is locked. Trying to smash through the gate alerts the guards. The alerted guards use vials of sleeping gas to capture the PCs before they can break through. To get through quietly, the PCs must pick the lock.
 
 49. PRISON CELLS
 
- A long, dark hallway runs east and west. Heavy wooden doors with barred windows line both sides of the central hallway. A similar door stands at the east end of the hallway. A gate of iron bars blocks the west end.
+A long, dark hallway runs east and west. Heavy wooden doors with barred windows line both sides of the central hallway. A similar door stands at the east end of the hallway. A gate of iron bars blocks the west end.
 
- The cells are 10 feet square and empty except as noted below. The keys to all the cells are carried by the guard leader in area 47. Another set of keys is in the library, area 37. If the PCs are captured, they are locked in cells f, g, and h. If the entire party is captured, encourage them to plan their own escape. Any reasonable plan will work—for example a thief might pick the door lock with a piece of scrap metal, a very strong character may work a door bar loose, or the PCs may plot to summon and ambush the guards. Captured PCs’ weapons and other equipment is piled in cells, which is not locked. Other prisoners can only be freed by picking the locks to their cells or using the keys.
+The cells are 10 feet square and empty except as noted below. The keys to all the cells are carried by the guard leader in area 47. Another set of keys is in the library, area 37. If the PCs are captured, they are locked in cells f, g, and h. If the entire party is captured, encourage them to plan their own escape. Any reasonable plan will work—for example a thief might pick the door lock with a piece of scrap metal, a very strong character may work a door bar loose, or the PCs may plot to summon and ambush the guards. Captured PCs’ weapons and other equipment is piled in cells, which is not locked. Other prisoners can only be freed by picking the locks to their cells or using the keys.
 
 Locked in cell b is a tall human fighter named Baik Telor. He wandered into the roadside shrine and was caught by the Siswa. He will gladly join the party if he is given weapons. He is wearing chainmail, and his dress is somewhat Arabian—turban and loose silk breeches.
 
@@ -3365,9 +3362,9 @@ Hasan: AC 8; E2; hp 8; MV 120’ (40’); #AT 1; D unarmed; Save E2; ML 10; ALL;
 
 Cell r is filled with old bones. The Rahib gives them to Karelena and Solorena. They use the bones to create skeletons that sometimes appear as wandering monsters.
 
- ELYAS’ TOWER
+ELYAS’ TOWER
 
- The adventure in Elyas’ Tower forms the second half of this adventure. The characters can be allowed to rest in the elven village before continuing.
+The adventure in Elyas’ Tower forms the second half of this adventure. The characters can be allowed to rest in the elven village before continuing.
 
 Halls of Grandeur
 Use Map 5 for areas 50-84.
@@ -3378,20 +3375,18 @@ In the Halls of Grandeur, check for random encounters every third game turn. Rol
 
 50. GATES OF THE TOWER
 
- The tunnel opens into a dark, dry cavern, deep within the mountain. No sound breaks the silence in the cavern. Gray stone walls rise up 60 feet to the cavern’s rock and earth ceiling. This structure appears to be an ancient tower, buried under the mountain. Only the lowest story of the tower is intact. What little of the upper stories is visible is destroyed. Cut stones from walls and battlements lie scattered about the cavern floor. The cavern has caved in around the sides of the tower so only the front is visible. Darkly stained doors stand in the tower's front wall. Unrecognizable engravings cover those metal doors.
+The tunnel opens into a dark, dry cavern, deep within the mountain. No sound breaks the silence in the cavern. Gray stone walls rise up 60 feet to the cavern’s rock and earth ceiling. This structure appears to be an ancient tower, buried under the mountain. Only the lowest story of the tower is intact. What little of the upper stories is visible is destroyed. Cut stones from walls and battlements lie scattered about the cavern floor. The cavern has caved in around the sides of the tower so only the front is visible. Darkly stained doors stand in the tower's front wall. Unrecognizable engravings cover those metal doors.
 
 The doors are the only entrance to the tower. The doors are unlocked, but difficult to open; characters must apply 25 strength points to open the doors far enough to enter area 51.
 
 51. CORRIDOR OF THE UNEXPECTED
 
- This is a long 10-foot-wide majestic corridor. Its walls rise 30 feet to an arched ceiling. The walls and the ceiling are streaked with soot. The corridor leads north into the darkness of the tower.
+This is a long 10-foot-wide majestic corridor. Its walls rise 30 feet to an arched ceiling. The walls and the ceiling are streaked with soot. The corridor leads north into the darkness of the tower.
 
- The corridor is 40 feet long. Two thieves hide in the shadows near the north end of the corridor. When the PCs enter, the thieves try to surprise them and attack. If the thieves do not surprise the PCs, or are captured, they try to bluff their way out.
+The corridor is 40 feet long. Two thieves hide in the shadows near the north end of the corridor. When the PCs enter, the thieves try to surprise them and attack. If the thieves do not surprise the PCs, or are captured, they try to bluff their way out.
 
-Bandits (2): AC 6; T1; hp 6, 4; MV 40’; #AT
-1; ; D 1d6; Save T1; ML 8 AL C; XP 10
-These bandits are wearing leather armor and
-are armed with short swords.
+Bandits (2): AC 6; T1; hp 6, 4; MV 40’; #AT 1; ; D 1d6; Save T1; ML 8 AL C; XP 10
+These bandits are wearing leather armor and are armed with short swords.
 
 These thieves followed the Rahib into the temple to the tower. They have not been in the tower very long. They went down the west corridor where all they found was a burned library and some wine.
 
@@ -3413,9 +3408,9 @@ Each turn a character searches the rubble, roll 1d6. If the result is a 1 or a 2
 
 54. TOMB OF SOULS
 
- Most of this room is taken up by a platform. Three steps lead up to the platform. A brazier, standing in the middle of the platform blazing with bright blue flame, illuminates this room. Three stone coffins are arranged in a triangle around the brazier. The largest coffin stands at the front of the platform. The coffins are covered with mysterious carvings. At the back of the platform, is an ornate cast-iron throne. To the left of the throne, a metal stand supports a large, ancient, leather-bound book. The book is closed, its cracked cover held by a metal clasp. A long quill pen lies on top of the book. The stand is turned so that the book, if opened, faces the throne.
+Most of this room is taken up by a platform. Three steps lead up to the platform. A brazier, standing in the middle of the platform blazing with bright blue flame, illuminates this room. Three stone coffins are arranged in a triangle around the brazier. The largest coffin stands at the front of the platform. The coffins are covered with mysterious carvings. At the back of the platform, is an ornate cast-iron throne. To the left of the throne, a metal stand supports a large, ancient, leather-bound book. The book is closed, its cracked cover held by a metal clasp. A long quill pen lies on top of the book. The stand is turned so that the book, if opened, faces the throne.
 
- The coffins are marked A, B, and C on the map. See encounter areas 54A, 54B, and 54C for details about these coffins. The brazier is fixed to the floor and cannot be removed. The flame burns without heat or smoke and cannot be extinguished. The coals continue to burn after being removed from the brazier, each coal lighting an area 10 feet in diameter. The throne is a receiving teleport from the throne in area 100. Sitting on the throne here has no effect.
+The coffins are marked A, B, and C on the map. See encounter areas 54A, 54B, and 54C for details about these coffins. The brazier is fixed to the floor and cannot be removed. The flame burns without heat or smoke and cannot be extinguished. The coals continue to burn after being removed from the brazier, each coal lighting an area 10 feet in diameter. The throne is a receiving teleport from the throne in area 100. Sitting on the throne here has no effect.
 
 The Book of Years and its quill, Windscribe have been waiting here for quite some time. They are both intelligent and protected by a spell that allows only Lawful characters to touch them.
 
@@ -3427,7 +3422,7 @@ The book, when opened, says, “Receive the tale of years!"” But the pages of 
 
 Rained flame and stone upon his tower.
 
-“€lyas trapped each witch in a dragon's eye.
+“Elyas trapped each witch in a dragon's eye.
 
 But without the opal, they 51d not die. As Elyas Raced to RetRIEvE the stone,
 
@@ -3444,13 +3439,13 @@ sweet
 Then revenge they will Reap upon all
 that they meet.”
 
- The quill answers up to five yes/no questions with an 80% chance of accuracy. Windscribe only answers questions for Lawful characters. If asked about the tower floorplan, the quill flies to the parchment the PCs are mapping on and draws a rough map of area 100, and areas 87, 102, and 105. Windscribe does not include secret doors in its map.
+The quill answers up to five yes/no questions with an 80% chance of accuracy. Windscribe only answers questions for Lawful characters. If asked about the tower floorplan, the quill flies to the parchment the PCs are mapping on and draws a rough map of area 100, and areas 87, 102, and 105. Windscribe does not include secret doors in its map.
 
 54A. KARALENA’S CRYPT
 
- This is the largest of the crypts. It is covered with unknown symbols. The lid is sealed to the base on all four sides with lead. Each lead seal is inscribed with a mysterious symbol.
+This is the largest of the crypts. It is covered with unknown symbols. The lid is sealed to the base on all four sides with lead. Each lead seal is inscribed with a mysterious symbol.
 
- All PCs attempting to lift the lid of the coffin must add their strengths together. Roll 2420. If the PCs’ combined strengths total more than the result of the dice roll, they break the seals and open the lid.
+All PCs attempting to lift the lid of the coffin must add their strengths together. Roll 2420. If the PCs’ combined strengths total more than the result of the dice roll, they break the seals and open the lid.
 
 The skeleton of a woman covered with the tattered remains of a deep blue robe lies within the coffin. A secret panel in the bottom of the coffin conceals 1,000 cp, 800 ep, and 500 gp.
 
@@ -3462,11 +3457,8 @@ This is a long 10-foot-wide majestic corridor. Its walls rise 30 feet to an arch
 
 The corridor is 40 feet long. Two thieves hide in the shadows near the north end of the corridor. When the PCs enter, the thieves try to surprise them and attack. If the thieves do not surprise the PCs, or are captured, they try to bluff their way out.
 
-Bandits (2): AC 6; T1; hp 6, 4; MV 40’; #AT
-
-1; ; D 1d6; Save T1; ML 8 AL C; XP 10
-These bandits are wearing leather armor and
-are armed with short swords.
+Bandits (2): AC 6; T1; hp 6, 4; MV 40’; #AT 1; ; D 1d6; Save T1; ML 8 AL C; XP 10
+These bandits are wearing leather armor and are armed with short swords.
 
 These thieves followed the Rahib into the temple to the tower. They have not been in the tower very long. They went down the west corridor where all they found was a burned library and some wine.
 
@@ -3474,21 +3466,21 @@ One bandit carries 30 sp in a pouch. The other carries 200 gp in a leather back 
 
 52. HALL OF RUBBLE
 
- This is a tremendous hall, filled with broken and charred beams and rubble. The rubble has been moved to the center of the room. Overhead, the ceiling is broken through by beams and stones.
+This is a tremendous hall, filled with broken and charred beams and rubble. The rubble has been moved to the center of the room. Overhead, the ceiling is broken through by beams and stones.
 
- The northernmost 10 feet of this room slopes gently downward to the north. Dwarves have their normal chance to detect the slope, if they look for sloping passages.
+The northernmost 10 feet of this room slopes gently downward to the north. Dwarves have their normal chance to detect the slope, if they look for sloping passages.
 
 Each turn a character searches the rubble, roll 1d6. If the result is a 1 or a 2, the character finds one of 10 100-gp gems hidden in the rubble. Characters may search as long as they wish, but searching is noisy. After 4 turns of searching, roll for a random encounter on Table 3 every turn until they stop searching.
 
 53. INNER HALL
 
- This dark, 30-foot-wide hall has a flat ceiling. Two alcoves are set in the east wall, and two in the west wall. The alcoves are 10 feet high and 10 feet deep. A plush, red velvet curtain hangs across the north end of the hall.
+This dark, 30-foot-wide hall has a flat ceiling. Two alcoves are set in the east wall, and two in the west wall. The alcoves are 10 feet high and 10 feet deep. A plush, red velvet curtain hangs across the north end of the hall.
 
- This hall is 50 feet long, and slopes gently downward to the north. Dwarves have their normal chance to detect the slope. The curtain blocks all light from area 54, but is easily moved aside.
+This hall is 50 feet long, and slopes gently downward to the north. Dwarves have their normal chance to detect the slope. The curtain blocks all light from area 54, but is easily moved aside.
 
 54. TOMB OF SOULS
 
- Most of this room is taken up by a platform. Three steps lead up to the platform. A brazier, standing in the middle of the platform blazing with bright blue flame, illuminates this room. Three stone coffins are arranged in a triangle around the brazier. The largest coffin stands at the front of the platform. The coffins are covered with mysterious carvings. At the back of the platform, is an ornate cast-iron throne. To the left of the throne, a metal stand supports a large, ancient, leather-bound book. The book is closed, its cracked cover held by a metal clasp. A long quill pen lies on top of the book. The stand is turned so that the book, if opened, faces the throne.
+Most of this room is taken up by a platform. Three steps lead up to the platform. A brazier, standing in the middle of the platform blazing with bright blue flame, illuminates this room. Three stone coffins are arranged in a triangle around the brazier. The largest coffin stands at the front of the platform. The coffins are covered with mysterious carvings. At the back of the platform, is an ornate cast-iron throne. To the left of the throne, a metal stand supports a large, ancient, leather-bound book. The book is closed, its cracked cover held by a metal clasp. A long quill pen lies on top of the book. The stand is turned so that the book, if opened, faces the throne.
 
 The coffins are marked A, B, and C on the map. See encounter areas 54A, 54B, and 54C for details about these coffins. The brazier is fixed to the floor and cannot be removed. The flame burns without heat or smoke and cannot be extinguished. The coals continue to burn after being removed from the brazier, each coal lighting an area 10 feet in diameter. The throne is a receiving teleport from the throne in area 100. Sitting on the throne here has no effect.
 
@@ -3496,24 +3488,25 @@ The Book of Years and its quill, Windscribe have been waiting here for quite som
 
 The book, when opened, says, “Receive the tale of years!"” But the pages of the book are all blank! The book then recites the following story. The book does nothing else.
 
- “Come woodland folk and gather near, The tale of the wizard's keep to hear. Whence, long aGo In a YOUNGER age, The Black Opal was held By Elyas the mace.
+“Come woodland folk and gather near,
+the tale of the wizard's keep to hear.
+Whence, long ago in a younger age,
+the black opal was held by Elyas the mage.
 
-“the opal increased his magical grace, But he kept the stone in an open place. Three witches, wishing to heighten their power,
-
-Rained flame and stone upon his tower.
+“The opal increased his magical grace,
+but he kept the stone in an open place.
+Three witches, wishing to heighten their power,
+rained flame and stone upon his tower.
 
 “Elyas trapped each witch in a dragon's eye.
+But without the opal, they did not die.
+As Elyas raced to retrieve the stone,
+a granite mountain crushed the mage and his home.
 
-But without the opal, they 51d not die.
-As Elyas Raced to RetRIEvE the stone,
-
-4 Granite mountain crushed the mage and his home.
-
-“the spell ne'er completed, the three witches wait
-
-In eternal suspension until By some fate Their souls are Released upon innocence sweet
-
-Then revenge they will Reap upon all that they meet.”
+“The spell ne'er completed, the three witches wait
+in eternal suspension until by some fate
+their souls are Released upon innocence sweet
+then revenge they will Reap upon all that they meet.”
 
 The quill answers up to five yes/no questions with an 80% chance of accuracy. Windscribe only answers questions for Lawful characters. If asked about the tower floorplan, the quill flies to the parchment the PCs are mapping on and draws a rough map of area 100, and areas 87, 102, and 105. Windscribe does not include secret doors in its map.
 
@@ -3521,18 +3514,21 @@ The quill answers up to five yes/no questions with an 80% chance of accuracy. Wi
 
 This is the largest of the crypts. It is covered with unknown symbols. The lid is sealed to the base on all four sides with lead. Each lead seal is inscribed with a mysterious symbol.
 
-All PCs attempting to lift the lid of the coffin must add their strengths together. Roll 2420. If the PCs’ combined strengths total more than the result of the dice roll, they break the seals and open the lid.
+All PCs attempting to lift the lid of the coffin must add their strengths together. Roll 2420. If the PCs’ combined strengths total more than the result of the dice roll, they lift the lid.
 
 The skeleton of a woman covered with the tattered remains of a deep blue robe lies within the coffin. A secret panel in the bottom of the coffin conceals 1,000 cp, 800 ep, and 500 gp.
 
+54B. SOLORENA'S CRYPT
+
 This coffin is covered with carvings of unfamiliar design. The seals on all four sides of this coffin are broken.
 
-All PCs attempting to lift the lid of the coffin must add their strengths together. Roll 2420. If the PCs’ combined strengths total more than the result of the dice roll, they lift the lid.
+All PCs attempting to lift the lid of the coffin must add their strengths together. Roll 2420. If the PCs’ combined strengths total more than the result of the dice roll, they break the seals and open the lid.
 
 A woman's skeleton wearing rusting chain mail armor and rotting furs lies in the coffin. One hand holds a nicked non-magical sword across its ribcage. The other hand holds a scroll across the sword. The sword cannot be removed from the skeleton’s hand by the PCs. If the scroll is read, the skeleton attacks the PC reading the scroll.
 
-“A second chance is seldom found To revenge those beneath the ground. On ye this fate I do intone
-
+“A second chance is seldom found
+To revenge those beneath the ground.
+On ye this fate I do intone
 That you may feel the strength of bone.”
 
 Skeleton: AC 4; HD 1; hp 8; MV 60’ (20); #AT 1; D 1d6; Save F1; ML12; AL C; XP
@@ -3550,6 +3546,15 @@ The skeleton of a woman covered with the tattered remains of a flowing red dress
 Faded frescos of golden towers and diamond trees cover the walls and ceiling of this 30-foot-square room. In the center of the room sits a 10-foot-square cube of stone. A ladder leans against the south end of the east wall.
 
 The floor in this room is level. On the west side of the cube is a secret door to area 56. Another secret door, at the top of the ladder, leads to area 54.
+
+
+
+
+
+
+
+
+
 
 56. INNER WEST VAULT
 
@@ -3605,7 +3610,7 @@ Miryala’s kidnapping was not discovered until after the PCs left the elven vil
 
 64. SPIDER LAIR
 
- Thick cobwebs cover the walls and ceiling of this cell. Within the cobwebs, something moves slowly.
+Thick cobwebs cover the walls and ceiling of this cell. Within the cobwebs, something moves slowly.
 
 A black widow spider in the web attacks anyone who approaches the web.
 
@@ -3674,7 +3679,7 @@ The charred remains of a long, elegant table run the length of the room north to
 
 If PCs spend 3 turns searching the shelves, they find a single page of parchment under a scorched book cover. The page itself is scorched and stained, but parts of the writing are still legible. The text that can be read is:
 
-“Once the three are snared in the trap I have prepared for them, I. . . after this, I will take it to the throne and . . . the destruction shall signal . . . banished for all eternity.”
+“Once the three are snared in the trap I have prepared for them, I... after this, I will take it to the throne and... the destruction shall signal... banished for all eternity.”
 
 72. MAP ROOM
 
@@ -3716,9 +3721,7 @@ Spells: (2 of the following)
 
 First Level: shield, hold portal, sleep
 
-Black Panther: (AC 4; HD 4; hp 14; MV 210’
-
-(70); #AT 3; D 1d4/1d4/1d8; Save F2; Morale 8; AL N; XP 75
+Black Panther: (AC 4; HD 4; hp 14; MV 210’ (70); #AT 3; D 1d4/1d4/1d8; Save F2; Morale 8; AL N; XP 75
 
 77. GAS-FILLED ROOM
 
@@ -3748,15 +3751,13 @@ This room has been unused for a long time. There is nothing here of interest.
 
 A hole large enough for a man to pass through has been blasted through the northernmost part of the east wall. All the walls are scorched and pitted, as from a massive explosion.
 
- The hole in the wall leads to the stairs, area 81. Characters will have no trouble passing through here.
+The hole in the wall leads to the stairs, area 81. Characters will have no trouble passing through here.
 
 80. ORCS’ ROOM
 
 Torches in sconces illuminate this 20-footsquare room. Huddled in the southeast corner of the room, five dark, hunched figures argue among themselves. At the northeast corner of the room lies an open stone box.
 
-The dark, hunched figures are orcs. Their
-argument is so loud and intense that they are
-surprised on a roll of 1-4 on 1d6.
+The dark, hunched figures are orcs. Their argument is so loud and intense that they are surprised on a roll of 1-4 on 1d6.
 
 Ores (5): (AC 6; HD 1; hp 8, 7, 7, 6, 5; MV 120’ (40'); #AT 1; D 1d6; ML 8; Save F1; AL C; XP 10
 
@@ -3766,7 +3767,7 @@ Each orc is carrying 1d10 x 10 sp. The stone box contains 100 gp, 500 ep, 50 pp,
 
 The southern flight of stairs is covered with rubble, though it is passable. The corner wall collapsed here. It is possible to climb the rubble into a hole in the wall.
 
- The hole leads to area 79. Characters will have no trouble passing through here.
+The hole leads to area 79. Characters will have no trouble passing through here.
 
 Any character who drinks this Good Wine falls unconscious for 1 or 2 turns. Upon reviving, the character remembers a vision of a stone obelisk demanding the answer to a question. The character feels as if the answer is known, but he cannot remember it.
 
@@ -3776,9 +3777,9 @@ The numbers on the label are a code that can help the PCs pass safely through th
 
 83. UPPER HALL OF STATUES
 
- Two alcoves are cut into both sides of this 10-foot-wide hall. Several shadowy figures stand silently in each alcove.
+Two alcoves are cut into both sides of this 10-foot-wide hall. Several shadowy figures stand silently in each alcove.
 
- This hall is 50 feet long. At each end of the corridor stand pairs of bronze doors, carved with delicate designs.
+This hall is 50 feet long. At each end of the corridor stand pairs of bronze doors, carved with delicate designs.
 
 Each alcove contains one or two life-sized platinum statues of adventurers: humans, dwarves, elves, and halflings. All of them are posed in running positions, their hands and arms outstretched. Broad smiles cover their faces. The sculpting is very skillful, with extremely life-like detail work on each statue. The statues are surprisingly light; they weigh about as much as an average person. The platinum is only a surface layer, as each of the statues is composed of layers of different metals: platinum, gold, electrum, silver, and copper, with most of the metal being copper. Each statue is worth 2d6 x 20 gp.
 
@@ -3786,11 +3787,11 @@ These statues are all converted thieves and adventurers who stepped through the 
 
 84. WELL OF WHISPERS
 
- This is a 30-foot-diameter circular room. Its domed ceiling is 30 feet overhead. The entrance to this room is a pair of bronze doors in the west wall. A 10-foot-diameter well drops down into darkness from the center of the room. Stone statues stand to the north, south, and east of the well. Soft moans whisper through the room.
+This is a 30-foot-diameter circular room. Its domed ceiling is 30 feet overhead. The entrance to this room is a pair of bronze doors in the west wall. A 10-foot-diameter well drops down into darkness from the center of the room. Stone statues stand to the north, south, and east of the well. Soft moans whisper through the room.
 
 On the wall between the eastern statue and the northern statue is carved the single word “Pah.” The word ““Nwad”’ is carved on the wall between the the eastern statue and the southern statue.
 
- Natural air movements over the statues’ mouths make the moaning sounds. The well is 1,000 feet deep. It is the shaft of a magical elevator that connects this level and the lower level of Elyas’ tower. At the bottom of the shaft, in room 85, a glowing blue disc, 2 feet in diameter, rests on an ornate stone pedestal. The words “Pah” and ‘“‘Nwad” carved in the walls of rooms 84 and 85 activate the elevator.
+Natural air movements over the statues’ mouths make the moaning sounds. The well is 1,000 feet deep. It is the shaft of a magical elevator that connects this level and the lower level of Elyas’ tower. At the bottom of the shaft, in room 85, a glowing blue disc, 2 feet in diameter, rests on an ornate stone pedestal. The words “Pah” and ‘“‘Nwad” carved in the walls of rooms 84 and 85 activate the elevator.
 
 When the word “Pah” is spoken, the disc rises from the pedestal in room 85 to the top of the well-shaft in room 84. As it nears the top, it slows down and gently floats to a stop. When the word “Nwad” is spoken, the disc descends gently and comes to rest atop the pedestal in room 85. The disc is cool to the touch and easily supports 20,000 coin weight. Passengers are in no danger of falling off the disc. The disc cannot be removed from the shaft.
 
@@ -3805,29 +3806,27 @@ In this level, check for random encounters every third game turn. Roll 1d6. A re
 
 If the PCs enter this room from area 84, use the first boxed description. If the PCs enter this room from area 86, use the second boxed description.
 
- The blue disc comes to rest atop an ornate carved pedestal in the center of a 30-footdiameter room. This room is identical to the room above; the three statues and the bronze doors are copies of the ones in that room. The word “Pah” is carved in the wall between the east and north statues. The word “Nwad”’ is carved in the wall between the south and east statues.
+The blue disc comes to rest atop an ornate carved pedestal in the center of a 30-footdiameter room. This room is identical to the room above; the three statues and the bronze doors are copies of the ones in that room. The word “Pah” is carved in the wall between the east and north statues. The word “Nwad”’ is carved in the wall between the south and east statues.
 
 In the center of this 30-foot-diameter room stands a short round pedestal covered with ornate carvings. A glowing blue disc, 2 feet in diameter, lies atop the pedestal. Three 15-foot-tall statues of men stand around the pedestal at the north, south, and east sides of the room. They seem to stare at you with hollow eyes. Each statue makes an eerie moaning sound, as if in pain. On the wall between the eastern statue and the northern statue is carved the single word “Pah.” The word ‘“‘Nwad"’ is carved between the eastern statue and the southern statue. A 10-foot-diameter shaft rises from the domed ceiling, directly above the pedestal and the glowing disk. The shaft extends upward as far as you can see.
 
- Natural air movements over the statues’ mouths cause the moaning sounds. The disk is an elevator that moves up and down in the shaft. The shaft rises 1,000 feet to room 84. Thieves can attempt to climb the shaft. See area 84 for an explanation of how the elevator works.
+Natural air movements over the statues’ mouths cause the moaning sounds. The disk is an elevator that moves up and down in the shaft. The shaft rises 1,000 feet to room 84. Thieves can attempt to climb the shaft. See area 84 for an explanation of how the elevator works.
 
 86. LOWER HALL OF STATUES
 
-88. CORRIDOR
+Three alcoves are cut into each side of this 10-foot-wide hall. Several shadowy figures stand silently in each alcove.
 
- Three alcoves are cut into each side of this 10-foot-wide hall. Several shadowy figures stand silently in each alcove.
-
- This hall is 70 feet long. At each end of the corridor stand pairs of bronze doors, carved with delicate designs. Each alcove contains one or two life-sized platinum statues like those in area 83. See area 83 for details about these statues.
+This hall is 70 feet long. At each end of the corridor stand pairs of bronze doors, carved with delicate designs. Each alcove contains one or two life-sized platinum statues like those in area 83. See area 83 for details about these statues.
 
 87. TRANSMUTER TRAP
 
- This 20-foot-square room is bathed in soft golden light. Glowing 15-foot-wide silver arches open through the north and south walls, A pair of ornate bronze doors stands in the center of the east wall. A pair of steel doors, carved with similar decorations, is set in the west wall.
+This 20-foot-square room is bathed in soft golden light. Glowing 15-foot-wide silver arches open through the north and south walls, A pair of ornate bronze doors stands in the center of the east wall. A pair of steel doors, carved with similar decorations, is set in the west wall.
 
 Elyas’ treasure room lies beyond the north arch. Light from its glowing domed ceiling reflects off the polished marble floor, brightening this room. There must be thousands of gold pieces in the treasure room, spilling from ornate chests!
 
 The room through the south arch is identical to the treasure room, but it is empty.
 
- If any characters passes through either of the arches, a burst of light flashes in the archway and they turn into platinum statues just like the statues in areas 83 and 86. Victims do not make saving throws.
+If any characters passes through either of the arches, a burst of light flashes in the archway and they turn into platinum statues just like the statues in areas 83 and 86. Victims do not make saving throws.
 
 The statue remains in the archway for only a moment. Then the eastern doors swing open by themselves. The statue PCs rise up and float through the doors into an alcove in area 86.
 
@@ -3835,13 +3834,15 @@ When the witches are destroyed with the Black Opal Eye as explained in area 100,
 
 The Black Opal Eye is hanging from the center of the the domed ceiling in the room to the south, area 105. However, it is not visible from area 87 because the archway between the rooms is much lower than the ceiling in area 105.
 
+88. CORRIDOR
+
 This dark corridor is 30 feet long. A pair of steel doors are in the east end, and a pair of bronze doors are in the west end. The north and south walls each contain a single wooden door, reinforced with iron bands. Those doors are directly across from one another.
 
- 89. KARELENA’S BEDROOM
+89. KARELENA’S BEDROOM
 
- This is an extravagantly furnished bedroom. A gilt framed bed stands in the middle of the room. Tapestries hang on all four walls. A large wardrobe stands in the southwest corner. A vanity and mirror sit next to the wardrobe. Six small jars and a large glass vial lie on top of the vanity. An iron gate is set in the north end of the west wall. The gate leads to an empty 10-footsquare alcove. A 1-foot-long lever is attached to the wall near the gate. A woman’s wide-brimmed feathered hat hangs on a peg near the lever.
+This is an extravagantly furnished bedroom. A gilt framed bed stands in the middle of the room. Tapestries hang on all four walls. A large wardrobe stands in the southwest corner. A vanity and mirror sit next to the wardrobe. Six small jars and a large glass vial lie on top of the vanity. An iron gate is set in the north end of the west wall. The gate leads to an empty 10-footsquare alcove. A 1-foot-long lever is attached to the wall near the gate. A woman’s wide-brimmed feathered hat hangs on a peg near the lever.
 
- The alcove is a teleporter to Elyas’ laboratory. Anyone who puts on the hat and steps into the alcove appears in the northern alcove in room 70. The hat reappears on the peg here. The hat has no other magical power.
+The alcove is a teleporter to Elyas’ laboratory. Anyone who puts on the hat and steps into the alcove appears in the northern alcove in room 70. The hat reappears on the peg here. The hat has no other magical power.
 
 The lever raises and lowers the iron gate. The lever is currently down. The lever cannot be seen or reached by anyone in the alcove. Karelena keeps the gate lowered when she is in the room or when she is gone and will not be using the teleporter for a while.
 
@@ -3851,7 +3852,7 @@ The tapestries, clothes, and jars have no real value, but the vial contains a ma
 
 The door to this room from area 88 is locked.
 
- The walls and floor of this room are covered with rare and expensive carpets. Pillows and cushions lie scattered around the room. In the center of the room is a large carpet with a phoenix embroidered on it. A large pile of pillows sits in the southwest corner of the room. An arch in the west wall leads to a 10-foot-square alcove. Near the alcove, a 1-foot-long lever projects from the wall.
+The walls and floor of this room are covered with rare and expensive carpets. Pillows and cushions lie scattered around the room. In the center of the room is a large carpet with a phoenix embroidered on it. A large pile of pillows sits in the southwest corner of the room. An arch in the west wall leads to a 10-foot-square alcove. Near the alcove, a 1-foot-long lever projects from the wall.
 
 Solorena is asleep on the pile of pillows. Remember that she is using the body of Sylva, a willowy, golden-haired elf maiden. Solorena’s powers are described in the Appendix under New Monsters.
 
@@ -3906,15 +3907,18 @@ Archway #2 at 92D leads to room 96, north alcove.
 93. West Maze (Safe combination: 331422)
 
 Archway #3 at 93A leads to 93B
+
 Archway #3 at 93B leads to 93C
+
 Archway #1 at 93C leads to 93D
+
 Archway #4 at 93D leads to 93E
+
 Archway #2 at 93E leads to 93F
+
 Archway #2 at 93F leads to room 96, middle alcove.
 
-94. South Maze (Safe 14231241)
-
-combination:
+94. South Maze (Safe combination: 14231241)
 
 Archway #1 at 94A leads to 94B
 
@@ -3949,29 +3953,24 @@ In a flash of white light, you appear on a platform on one side of a large, circ
 
 The PCs appear on the southern platform. As soon as any PC climbs onto the opposite platform, that PC is teleported to area 91. The portcullis the PC entered the maze through remains open.
 
-
 TABLE 4
 ARENA OPPONENTS
 
-From
-Maze Arena Number Save XP
-Area Monster Appearing AC HD MV #AT Damage As ML AL Value
+From Maze Arena Monster Number Appearing AC HD MV #AT Damage XP Value
 A Skeletons 5 7 1 60’(20’) 1 1d6 Fi 12 Cc 10
 B Ores 5 6 1 120’(40’) 1 1d6 Fi 8 GC 10
-Cc Tarantella Spider 1 5 " 120’(40’) 1 1d8 + F2 8 N 125
-D Zombies 8 8 2 90'(30’) 1 1d8 Fi 12 Cc 20
-E Ogres 2 5 41 90'(30’) 1 1d10 F4 10 c 125
-8 Panthers 2 4 4 210'(70’) 3 1d4/1d4/1d8 — F2 8 N 75
+Cc Tarantella Spider 1 5 " 120’(40’) 1 1d8 + poison F2 8 N 125
+D Zombies 8 8 2 90'(30’) 1 1d8 Fi 12 C 20
+E Ogres 2 5 41 90'(30’) 1 1d10 F4 10 C 125
+8 Panthers 2 4 4 210'(70’) 3 1d4/1d4/1d8  F2 8 N 75
 G Minotaurs 2 6 6 120’(40') 2 1d6/1d6 F6 12 c 275
-H Green Dragon 1 1 or 90°(30’)/ 3+ 1d6/1d6/3d8 F8 9 Cc 1750
-
-240'(80’) breath
+H Green Dragon 1 1 or 90°(30’)/240'(80’) 3+breath 1d6/1d6/3d8 F8 9 C 1750
 
 When the PCs appear in this arena, monsters also appear to fight the PCs and keep them from reaching the north platform. The type and number of monsters that appear depends upon where the PCs stepped through the wrong archway. Use Table 4 to determine the monsters that appear in the arena. The monsters disappear when they or their opponents are defeated.
 
-The Inner Sanctu find Its secret through nearBy maGical ways
+The Inner Sanctum
 Use Map 8 for areas 96-100.
-That have waited for many long years.
+
 96. OUTER TEMPLE
 
 You suddenly appear inside a 10-footsquare alcove. An archway in the west wall opens into a 30-foot-square room.
@@ -3989,10 +3988,14 @@ If the same character gives a reasonably accurate explanation of the PCs’ ques
 If asked how they can complete their quest, the obelisk tells them:
 
 “Beyond the three temples of the elements,
-
-The Black dragon's eye walts for thee.
-
-Beware the tricks Of old Elyas, And return here with the Black opal eye, TO Give It power. Then, s€t It In Its place and Behold the end of Great sadness; the Beginning of Life; the destruction of evil and the end of strife.”
+the black dragon's eye walts for thee.
+Find its secret through nearby magical ways
+that have waited for many long years.
+Beware the tricks of old Elyas, 
+and return here with the Black opal eye, to give it power.
+Then, set it in its place and behold
+the end of great sadness; the beginning of life;
+the destruction of evil and the end of strife.”
 
 The obelisk also knows the names of the three temples, “Earth,” “Wind,” and “Fire,” but only discloses them if asked about them directly.
 
@@ -4028,9 +4031,7 @@ This room is 50 feet tall. Its arched ceiling and walls are covered with frescos
 
 If the PCs did not encounter Karelena in room 27, or if she escaped from them there, she is here with a panther. She stands at the altar with her back to the door. When she hears the PCs enter, she orders the panther to attack. Then she tries to escape. Remember she is using Merisa’s body. A complete description of Karelena is in the Appendix under New Monsters.
 
-Karelena, Witch: AC 9; M1; hp 5; MV
-120’ (40'); #AT 1; D 1d4; Save M1;
-Morale 6; AL C; XP 10
+Karelena, Witch: AC 9; M1; hp 5; MV 120’ (40'); #AT 1; D 1d4; Save M1; Morale 6; AL C; XP 10
 
 Spells: (2 of the following)
 
@@ -4095,8 +4096,7 @@ This room is 20 feet square. Ornate steel doors in the west wall face a semi-cir
 
 Anyone who stands upon the platform is instantly teleported to the western alcove in room 100. 
 
-104. SOUTH TREASURY
-ENTRANCE
+104. SOUTH TREASURY ENTRANCE
 
 This is a 20-foot-square room. A semicircular platform stands against the wall opposite a pair of steel double doors. The doors are closed.
 
@@ -4155,8 +4155,6 @@ Elyas planned to use the Black Opal Eye's power to destroy the witches, but was 
 5. The Black Opal Eye shatters into dust.
 
 6. If the Rahib is still alive and free, he flees from the elven forest forever.
-
-INTERLUDE G
 
 After delivering Sindar’s package in the elven village the party returns to the Duke's road brings them to Selenica. As the western end of a trade route that crosses the Altan Tepe Mountains and the vast sandy Alasiyan Desert to the cast, its crowded streets have vendors selling many wares that are rarely seen in the Grand Duchy. The streets are strange and confusing, and in trying to follow Sindar’s directions the party becomes hopelessly lost. Finally, they manage to discover Arnulf’s dwelling, an expensive mansion in the Merchants’ Quarter. A new problem arises. They are met at the door by Praxes, a snobbish servant of Arnulf. He looks at the dusty and travel-stained adventurers and is convinced they could not possibly have anything to give his master. Encourage the players to role-play their attempts to get Arnulf’s whereabouts from the haughty servant. Among things that will work: a) a bribe of 100 gp or more; b) taking rooms somewhere, cleaning up, and presenting themselves in new and expensive clothing; or c) any device that impresses you as ‘Trying to get the information elsewhere will reveal only that he “left town” secretly, as he often does and that he is probably off trading somewhere. Asking for information about
 
@@ -4331,11 +4329,6 @@ The three beetles are fire beetles (AC 4; HD 1+2; hp 6 each; MV 40’; #AT 1; D 
 This room holds spare parts for the machinery inside the statues. There are also several large, covered, clay pots. These pots held oil to lubricate the machinery. The oil has almost evaporated over the centuries, even through though the pots were sealed. The party can recover 5 flasks of oil that will burn poorly and make thick clouds of smoke if lit. It will take 2 turns to recover all the oil. There is also a small foundry here for fixing broken statue parts. It has a forge, an anvil, tongs, hammers, and so on.
 
 7. TREASURE ROOM
-
-cold. It dissolves wood and metal in 6 rounds. If it touches flesh, it will turn the victim to green slime in 1-4 rounds after the first 6 rounds. Green slime can be burned off, but this does 1/2 damage to the slime and 1/2 damage to the character.
-
-9. ABANDONED PRIEST’S QUARTERS
-
 In the center of the room you see a 10’ tall cage. In the bottom of the cage is a pile of coins and gems. Hanging from the top of the cage is a giant beehive. Several large, 1’ long bees are buzzing around the room. The mesh of the cage is wide enough for them to fly through. There is also a 1’ square hole high in the south wall.
 
 The locked cage holds the treasure of the Brotherhood of Gorm (rooms 11 and 12). The treasure is guarded by 5 giant bees (AC 7; HD 1/2*; hp 2 each; MV 50’; #AT 1; D 1-3 + special; Save Fl; ML 9; AL N) flying around the room. The giant bees have learned that persons wearing a mask of Gorm are friendly. They will not attack anyone wearing the mask of Gorm unless attacked first.
@@ -4350,7 +4343,9 @@ The bees inside the hive will not attack the party unless the hive itself is att
 
 The entire floor of this room is covered with green, oozing slime. Otherwise the room appears to be empty.
 
-The green oozing slime (AC n/a; HD 2*; hp 9; MV 1'; #AT 1; D special; Save Fl; ML 12; ALN). Green slime can only be hurt by fire or
+The green oozing slime (AC n/a; HD 2*; hp 9; MV 1'; #AT 1; D special; Save Fl; ML 12; ALN). Green slime can only be hurt by fire or cold. It dissolves wood and metal in 6 rounds. If it touches flesh, it will turn the victim to green slime in 1-4 rounds after the first 6 rounds. Green slime can be burned off, but this does 1/2 damage to the slime and 1/2 damage to the character.
+
+9. ABANDONED PRIEST’S QUARTERS
 
 The room contains an old bed, writing table, chair, and a chest. From the looks of the furniture, the quarters have been long abandoned. From behind the bed comes scuffling sounds. Suddenly you see the head of a large, pale blue lizard with orange spots burst suddenly into view.
 
@@ -4605,13 +4600,13 @@ As you walk down the corridor, the shimmering, ghostlike figures of a man and a 
 
 “IT am Queen Zenobia,’ the woman says. “Turn back; only death awaits you!”
 
- The shimmering figures of King Alexander and Queen Zenobia are haunts. Characters who see the haunts must save vs. Spells or try to run away in fear. The fear lasts for 1-4 turns. The haunts are otherwise harmless. Since they have no real physical existence, haunts cannot be hurt by physical attack or spells.
+The shimmering figures of King Alexander and Queen Zenobia are haunts. Characters who see the haunts must save vs. Spells or try to run away in fear. The fear lasts for 1-4 turns. The haunts are otherwise harmless. Since they have no real physical existence, haunts cannot be hurt by physical attack or spells.
 
 26. TOMB ANNEX
 
- The floor of this long, narrow room has a ted and white checkerboard pattern of 2' X 2' squares. Court scenes are painted on the north and south walls. In the east wall, there is a 2’ high opening at floor level near the southeast corner.
+The floor of this long, narrow room has a ted and white checkerboard pattern of 2' X 2' squares. Court scenes are painted on the north and south walls. In the east wall, there is a 2’ high opening at floor level near the southeast corner.
 
- Room 26 is the annex to the burial chambers of King Alexander and Queen Zenobia. This corridor was kept open when the pyramid was built in order to bring in the bodies of the king and queen. After the funerals, the corridor was sealed from the outside.
+Room 26 is the annex to the burial chambers of King Alexander and Queen Zenobia. This corridor was kept open when the pyramid was built in order to bring in the bodies of the king and queen. After the funerals, the corridor was sealed from the outside.
 
 26a. TOMB TRAPS
 
@@ -4629,7 +4624,7 @@ The door to this room has a 2’ wide hole gnawed in it near the floor.
 
 Painted on the walls of this room are scenes of a throne room with a man giving advice to kings and queens. In the center of the room lies a wooden coffin. Large holes have been gnawed in the sides of the coffin.
 
- The holes in the coffin and the door have been gnawed by 3 giant shrews (AC 4; HD 1*; hp 4 each; MV 50’; #AT 2; D 1-6/1-6; Save Fl; ML 10; AL N). The giant shrews have made the coffin their lair. The coffin is empty except for the giant shrews. The body and any treasure have been stolen.
+The holes in the coffin and the door have been gnawed by 3 giant shrews (AC 4; HD 1*; hp 4 each; MV 50’; #AT 2; D 1-6/1-6; Save Fl; ML 10; AL N). The giant shrews have made the coffin their lair. The coffin is empty except for the giant shrews. The body and any treasure have been stolen.
 
 The giant shrews have burrowed through a weak spot in the door and use the hole as an exit when they go hunting in the pyramid cortidors.
 
@@ -4637,51 +4632,51 @@ Like bats, giant shrews depend on sound “echoes” to “‘see.” As soon as
 
 27a. TRAP DOOR
 
- In the middle of the floor at this point is a large stone slab with a bronze ring bolted deeply into it.
+In the middle of the floor at this point is a large stone slab with a bronze ring bolted deeply into it.
 
- The slab is a trap door. When the trap door is opened the party will see an iron ladder leading down to room 44 on Tier 5.
+The slab is a trap door. When the trap door is opened the party will see an iron ladder leading down to room 44 on Tier 5.
 
 28. HIGH PRIEST’S BURIAL ROOM
 
- The door to this room is scorched, as is the end of the corridor. The outline of a mansized humanoid form is etched into the scorched wall section. The door to the room is slightly open, but not enough to see into the room.
+The door to this room is scorched, as is the end of the corridor. The outline of a mansized humanoid form is etched into the scorched wall section. The door to the room is slightly open, but not enough to see into the room.
 
- The man-sized outline is that of a ghoul. The ghoul was blasted to ashes when it accidently triggered the magical trap guarding the door. Now that the trap has been triggered, the door can be opened safely.
+The man-sized outline is that of a ghoul. The ghoul was blasted to ashes when it accidently triggered the magical trap guarding the door. Now that the trap has been triggered, the door can be opened safely.
 
- Along the walls are paintings of a priest performing ceremonies. On a raised dais in the middle of the room lies an open bronze sarcophagus. Here, three hideous, beastlike humanoids are tearing a mummified body apart with their sharp claws.
+Along the walls are paintings of a priest performing ceremonies. On a raised dais in the middle of the room lies an open bronze sarcophagus. Here, three hideous, beastlike humanoids are tearing a mummified body apart with their sharp claws.
 
 The three creatures are ghouls (AC 6; HD 2*; hp 9 each; MV 30’; #AT 3; D 1-3 all; Save F2; ML 9; AL C). Any non-elf creature hit by a ghoul must make a save vs. Paralyzation or be paralyzed. Tossed inside the sarcophagus are a jeweled necklace worth 1500 gp and two jeweled bracelets each worth 600 gp. The ghouls have stripped them from the body and thrown them away.
 
 29. EMBALMING ROOM
 
- This room contains several large tables. Around the walls are a number of large jars and casks. There is a bin in the northwest corner of the room.
+This room contains several large tables. Around the walls are a number of large jars and casks. There is a bin in the northwest corner of the room.
 
- This room was used for embalming (preparing bodies for burial). Concealed in the room are 5 shadows (AC 7; HD 2*; hp 11 each; MV 30’; #AT 1; D 1-4 + drain strength; Save F2; ML 12; ALC), They will surprise the party on a roll of 15 on 1d6. These intelligent ghost-like creatures look like real shadows. If a shadow scores a hit, it will drain 1 point of Strength in addition to doing normal damage. This weakness will last 8 turns. Shadows cannot be affected by sleep or charm spells. They can only be hit by magical weapons. If the party has no magical weapons, it is suggested that the DM let them run away after the first shadow attack. The shadows will not leave this room.
+This room was used for embalming (preparing bodies for burial). Concealed in the room are 5 shadows (AC 7; HD 2*; hp 11 each; MV 30’; #AT 1; D 1-4 + drain strength; Save F2; ML 12; ALC), They will surprise the party on a roll of 15 on 1d6. These intelligent ghost-like creatures look like real shadows. If a shadow scores a hit, it will drain 1 point of Strength in addition to doing normal damage. This weakness will last 8 turns. Shadows cannot be affected by sleep or charm spells. They can only be hit by magical weapons. If the party has no magical weapons, it is suggested that the DM let them run away after the first shadow attack. The shadows will not leave this room.
 
 If the party destroys the shadows they can search the room. The jars and casks are filled with various spices used in embalming. The spices have been stored in this room so long that they are now worthless. The bin is filled with rotten linen winding cloths. Underneath the rotten linen is a potion of invisibility and a chest filled with 3000 sp.
 
 30. LADY-INWAITING BURIAL ROOM
 
- A white ivory coffin lies in a niche in the east wall. Painted on the walls are scenes from court life, focusing on the life of ladies-in-waiting to Queen Zenobia.
+A white ivory coffin lies in a niche in the east wall. Painted on the walls are scenes from court life, focusing on the life of ladies-in-waiting to Queen Zenobia.
 
- The coffin is empty. Except for the coffin, the room is empty.
+The coffin is empty. Except for the coffin, the room is empty.
 
 31. GUARD CAPTAIN’S BURIAL ROOM
 
- A mummified human in plate armor and holding a halberd stands at attention against the west side of the south wall. Grouped around the mummy are nine skeletons holding swords, also at attention.
+A mummified human in plate armor and holding a halberd stands at attention against the west side of the south wall. Grouped around the mummy are nine skeletons holding swords, also at attention.
 
- The mummified body is one of the guard captains from the reign of King Alexander. It is not an undead monster and its armor and weapons are normal. The skeletons are undead monsters (AC 7; HD 1; hp 4 each; MV 20'; #AT 1; D 1-6; Save Fl; ML 12; AL C). They will attack the party as soon as the characters enter and will fight until destroyed. There is no treasure here.
+The mummified body is one of the guard captains from the reign of King Alexander. It is not an undead monster and its armor and weapons are normal. The skeletons are undead monsters (AC 7; HD 1; hp 4 each; MV 20'; #AT 1; D 1-6; Save Fl; ML 12; AL C). They will attack the party as soon as the characters enter and will fight until destroyed. There is no treasure here.
 
 32. QUEEN ZENOBIA’S BURIAL CHAMBER
 
- The walls of this room are plain stone. An oblong box made from stone slabs lies in the center of the room. Written in several languages on the side of the box are the words: “May the curse of darkness destroy all who dare desecrate my resting place.” The box is 3’ high, 7' long, and 3' wide.
+The walls of this room are plain stone. An oblong box made from stone slabs lies in the center of the room. Written in several languages on the side of the box are the words: “May the curse of darkness destroy all who dare desecrate my resting place.” The box is 3’ high, 7' long, and 3' wide.
 
- The stone box contains the wooden coffin of Queen Zenobia. If the coffin is opened, the party will find that Zenobia is now a wight (AC 5; HD 3*; hp 24; MV 30’; #AT 1; D energy drain; Save F3; ML 12; ALC). She will attack on sight (roll initiative normally). A wight can only be hit by silvered or magical weapons. Each hit by the wight drains one level of experience (including one hit dic) from the victim. The queen’s chamber once contained a treasure trove. However, the only treasure left is the jeweled crown she wears (5000 gp) and her sceptre (actually a wand of paralyzation with 8 charges). Since becoming a creature of darkness, she has forgotten how to use the wand.
+The stone box contains the wooden coffin of Queen Zenobia. If the coffin is opened, the party will find that Zenobia is now a wight (AC 5; HD 3*; hp 24; MV 30’; #AT 1; D energy drain; Save F3; ML 12; ALC). She will attack on sight (roll initiative normally). A wight can only be hit by silvered or magical weapons. Each hit by the wight drains one level of experience (including one hit dic) from the victim. The queen’s chamber once contained a treasure trove. However, the only treasure left is the jeweled crown she wears (5000 gp) and her sceptre (actually a wand of paralyzation with 8 charges). Since becoming a creature of darkness, she has forgotten how to use the wand.
 
 33. FALSE TOMB
 
- This room contains two large sarcophagi. Both gleam with golden highlights. One sarcophagus is marked “Alexander,” the other is marked “Zenobia.” Surrounding the sarcophagi are a number of large wooden chests. The room is littered with broken objects: two smashed thrones, a broken chariot, smashed pottery, broken weapons, and torn clothing. Piles of bones cover the floor. On the walls is a mosaic showing famous events from the reign of King Alexander and Queen Zenobia.
+This room contains two large sarcophagi. Both gleam with golden highlights. One sarcophagus is marked “Alexander,” the other is marked “Zenobia.” Surrounding the sarcophagi are a number of large wooden chests. The room is littered with broken objects: two smashed thrones, a broken chariot, smashed pottery, broken weapons, and torn clothing. Piles of bones cover the floor. On the walls is a mosaic showing famous events from the reign of King Alexander and Queen Zenobia.
 
- This is not the real tomb of King Alexander and Queen Zenobia. This is a fake tomb to fool grave robbers. The bodies inside the sarcophagi are actually those of royal slaves. The real burial chambers of the king and queen are rooms 32 and 34.
+This is not the real tomb of King Alexander and Queen Zenobia. This is a fake tomb to fool grave robbers. The bodies inside the sarcophagi are actually those of royal slaves. The real burial chambers of the king and queen are rooms 32 and 34.
 
 The sarcophagi are made of wood, painted to look like gold. The chests contain small items a king and queen might need in the afterlife. All the items have been ritually “killed” (broken, ripped, or smashed) just like the larger items littering the floor. The piles of bones are the remains of royal slaves and royal animals killed after the funeral.
 
@@ -4691,9 +4686,9 @@ If the party taps on the walls (using a hammer, wooden pole, or some similar obj
 
 34. KING ALEXANDER’S BURIAL CHAMBER
 
- The walls of this room are bare. In the center of the room is an oblong box made from stone slabs. Suddenly, rising out of the stone box is a translucent, ghost-like figure. The pale figure has glowing red eyes and a large, dark mouth.
+The walls of this room are bare. In the center of the room is an oblong box made from stone slabs. Suddenly, rising out of the stone box is a translucent, ghost-like figure. The pale figure has glowing red eyes and a large, dark mouth.
 
- The translucent, ghost-like figure is a wailing fey (AC 3; HD 5*; hp 26; MV 50’; #AT 1; D wail for 1-4; Save F5; ML 12; ALC). The wailing fey is a new monster. A wailing fey is a supernatural creature that warns certain families of an approaching death or mourns for certain individuals after their deaths. Wailing feys can only be hit by magical weapons or harmed by magical spells.
+The translucent, ghost-like figure is a wailing fey (AC 3; HD 5*; hp 26; MV 50’; #AT 1; D wail for 1-4; Save F5; ML 12; ALC). The wailing fey is a new monster. A wailing fey is a supernatural creature that warns certain families of an approaching death or mourns for certain individuals after their deaths. Wailing feys can only be hit by magical weapons or harmed by magical spells.
 
 The wailing fey is guarding King Alexander's grave. It attacks by wailing. The DM should describe the wailing fey’s piercing wail and tell the party they can feel an icy deathlike chill. Then the DM should roll initiative. If the party wins initiative and runs out of range, they take no damage. Otherwise, all individuals within 30' of the wailing wailing fey take an automatic 1-4 points of damage per round from the wailing attack. If the party can get outside the room, and close the door between themselves and the wailing fey, they will be safe (even if still within the 30’ range of the wail). The wailing fey will attack as soon as the tomb door is opened.
 
@@ -4701,15 +4696,15 @@ King Alexander's tomb was looted long ago, except for the treasure inside the wo
 
 35. SLAVE’S BURIAL ROOM
 
- This room is filled with skeletons. The bones lie in piles on the floor. They cover the floor so thickly that it is impossible to walk across the room without walking on bones.
+This room is filled with skeletons. The bones lie in piles on the floor. They cover the floor so thickly that it is impossible to walk across the room without walking on bones.
 
- The skeletons are the remains of household slaves belonging to the various individuals buried in the pyramid. Upon the deaths of their masters, the slaves were herded together and killed, then tossed into this room. The skeletons are not undead. They are merely bones.
+The skeletons are the remains of household slaves belonging to the various individuals buried in the pyramid. Upon the deaths of their masters, the slaves were herded together and killed, then tossed into this room. The skeletons are not undead. They are merely bones.
 
 36. CHAMBERLIN’S BURIAL ROOM
 
- The walls of this room show painted scenes of a man signing documents and organizing tax collection. A wooden coffin that has been smashed open is lying on the floor. Six pale-skinned humans stand around the coffin. They all have wounds bad enough to kill a normal person.
+The walls of this room show painted scenes of a man signing documents and organizing tax collection. A wooden coffin that has been smashed open is lying on the floor. Six pale-skinned humans stand around the coffin. They all have wounds bad enough to kill a normal person.
 
- The six humans are zombies (AC 8; HD 2; hp 9 each; MV 30’; #AT 1; D 1-8; Save Fl; ML 12; AL C). Zombies are undead. They will attack the party on sight and fight until destroyed, always striking last. Zombies are immune to sleep and charm spells. The coffin has already been looted.
+The six humans are zombies (AC 8; HD 2; hp 9 each; MV 30’; #AT 1; D 1-8; Save Fl; ML 12; AL C). Zombies are undead. They will attack the party on sight and fight until destroyed, always striking last. Zombies are immune to sleep and charm spells. The coffin has already been looted.
 
 37. GIANT RAT LAIR
 
@@ -4723,9 +4718,9 @@ The rats’ nest conceals a small hole in the west wall. This hole is just big e
 
 The floor from the tier above (20a) hinges down to meet a ramp in this room.
 
- Painted on the walls of this room are court scenes showing King Alexander and Queen Zenobia being entertained by a dwarven jester. A small coffin rests in a niche in the east wall and in each corner of the room is a large brass jar.
+Painted on the walls of this room are court scenes showing King Alexander and Queen Zenobia being entertained by a dwarven jester. A small coffin rests in a niche in the east wall and in each corner of the room is a large brass jar.
 
- If the lid of the coffin is touched, it will spring off. An oversized wooden model of the head of the dwarven jester, painted in bright colors, will jump up. The head is attached to a coiled spring like a jack-in-the-box. The coffin also contains the ashes of the jester. The brass jars look empty, but any item put completely into any of them will be instantly teleported into a large concealed hollow beneath the coffin. The jars were used by the jester as his master trick, in which he made items disappear to amuse the court. The party can get to the hollow by removing the coffin.
+If the lid of the coffin is touched, it will spring off. An oversized wooden model of the head of the dwarven jester, painted in bright colors, will jump up. The head is attached to a coiled spring like a jack-in-the-box. The coffin also contains the ashes of the jester. The brass jars look empty, but any item put completely into any of them will be instantly teleported into a large concealed hollow beneath the coffin. The jars were used by the jester as his master trick, in which he made items disappear to amuse the court. The party can get to the hollow by removing the coffin.
 
 39. ROLLING BOULDER TRAP
 
@@ -5207,7 +5202,7 @@ If the characters defeat the hobgoblins, the naked men rush forward and fall at 
 
 “No,” says the second man. “I want to make it deeper. Nobody can ever find this but us.”
 
- If the men are not disturbed, they dig a little more and load the bundle into the hole. They fill the hold with dirt, move some items over the spot, and then leave the cellar. If the players reveal themselves, the two men attempt to flee. In the bundle is the body of a young woman, recently murdered. See “The Investigation,” for information about the woman and the house above.
+If the men are not disturbed, they dig a little more and load the bundle into the hole. They fill the hold with dirt, move some items over the spot, and then leave the cellar. If the players reveal themselves, the two men attempt to flee. In the bundle is the body of a young woman, recently murdered. See “The Investigation,” for information about the woman and the house above.
 
 The men advise the characters to release them, if captured. Otherwise, they say, members of the Veiled Society will harm them. Lawful characters should not allow the men to be murdered. They must turn the murderers in or suffer an alignment change to Chaotic.
 
@@ -5215,11 +5210,11 @@ Two men (3rd level thieves): AC 7; MV 40’; T3; hp 8, 7; #AT 1; D 1-8; Save T3;
 
 3. Kobold Exploration Party
 
- This dug-out cave is dimly lit by torches. From the cave comes the sounds of several creatures. In the middle of the room is a group of kobolds struggling to place a wooden support beam. One turns toward you and begins to jibber. The beam slips a few inches and a small hail of dirt falls over the room and the kobolds.
+This dug-out cave is dimly lit by torches. From the cave comes the sounds of several creatures. In the middle of the room is a group of kobolds struggling to place a wooden support beam. One turns toward you and begins to jibber. The beam slips a few inches and a small hail of dirt falls over the room and the kobolds.
 
 The tunnel to the room collapses in billows of choking dust. One of the kobolds hisses in common. “Come help us, or we will all be trapped!”
 
- If the characters assist, the kobolds let go of the beam when the characters approach. A successful initiative roll allows the characters to grab the beam. If they are unable to grab the beam, the ceiling collapses, doing 1 hp of damage to each PC. The characters can free themselves from the rubble in one round. The kobolds attack while the characters cannot fight back.
+If the characters assist, the kobolds let go of the beam when the characters approach. A successful initiative roll allows the characters to grab the beam. If they are unable to grab the beam, the ceiling collapses, doing 1 hp of damage to each PC. The characters can free themselves from the rubble in one round. The kobolds attack while the characters cannot fight back.
 
 The cave-in behind the characters can be dug clear in one turn. Near the beam are several kobold-sized tools, a bag of spoiled food, and a small pouch containing 5 gp.
 
@@ -5239,22 +5234,21 @@ At the bottom of the ladder is a dry dirt cellar. Bags are piled against the wal
 
 A squeaking and scratching noise comes from the southeast corner.
 
- If the party turns to look, they see a big rat run along the wall and scuttle out of sight. If the characters follow, they see a shadow move in the southwest corner of the root cellar. Careful investigation of the corner reveals a hidden entrance to a small passage. Characters taller than a halfling must stoop to use the passage.
+If the party turns to look, they see a big rat run along the wall and scuttle out of sight. If the characters follow, they see a shadow move in the southwest corner of the root cellar. Careful investigation of the corner reveals a hidden entrance to a small passage. Characters taller than a halfling must stoop to use the passage.
 
- A clattering noise and whispery sounds fill the room, but there is no apparent source.
+A clattering noise and whispery sounds fill the room, but there is no apparent source.
 
- If the characters listen carefully while moving about, they find it is loudest in the northwest corner. Careful examination reveals another small passage behind a sack of grain. Characters taller than a halfling must stoop to use passage, also.
+If the characters listen carefully while moving about, they find it is loudest in the northwest corner. Careful examination reveals another small passage behind a sack of grain. Characters taller than a halfling must stoop to use passage, also.
 
 6. The Unburied Dead
 
- This chamber was apparently once the cellar of a house. It is now choked with rubble, burned beams, and dirt. Several paths can be carefully picked across the room. A chuckling sound continually echoes throughout the room. A glowing light, taking the vague form of a person, floats about the room. It passes through beams. The sound seems to come from it. The form passes through a wall and disappears from sight.
+This chamber was apparently once the cellar of a house. It is now choked with rubble, burned beams, and dirt. Several paths can be carefully picked across the room. A chuckling sound continually echoes throughout the room. A glowing light, taking the vague form of a person, floats about the room. It passes through beams. The sound seems to come from it. The form passes through a wall and disappears from sight.
 
- If the characters search the rubble, they find pieces of bone, perhaps once a person. As soon as the bone is found, the glowing light and laughter comes again. Whether the characters strike at the light or not, it does not harm them. Hidden under a loose beam, in a charred box, are 3 pieces of half-melted jewelry worth 200 gp each.
+If the characters search the rubble, they find pieces of bone, perhaps once a person. As soon as the bone is found, the glowing light and laughter comes again. Whether the characters strike at the light or not, it does not harm them. Hidden under a loose beam, in a charred box, are 3 pieces of half-melted jewelry worth 200 gp each.
 
- A faint sliding sound follows a loud snap-
-ping.
+A faint sliding sound follows a loud snapping.
 
- The legs of three characters (determine randomly) are grasped. Roll for surprise. The gripped characters are thrown to the floor as three zombies burst up from the rubblecovered floor.
+The legs of three characters (determine randomly) are grasped. Roll for surprise. The gripped characters are thrown to the floor as three zombies burst up from the rubblecovered floor.
 
 Zombies (3): AC 8; MV 30’; HD 2; hp 5 each; #AT 1; D 1-8; Save Fl; ML 12; ALC
 
@@ -5340,7 +5334,7 @@ By the end of the day, the speakers become quite bold. Not only do they connect 
 
 As the characters cross a marketplace to return to their inns sometime before nightfall, read the following:
 
- It is late in the afternoon. Most of the stalls have closed for the day, but many people are still in the market. An orator stands on the edge of the central fountain. The crowd gathers around him.
+It is late in the afternoon. Most of the stalls have closed for the day, but many people are still in the market. An orator stands on the edge of the central fountain. The crowd gathers around him.
 
 The orator shouts, “And I tell you, these Torenescu are dangerous. Do they care for you? Do they care for the safety of common workers? Who declares the taxes? Who steals food from your children’s mouths to fatten themselves in luxury?”
 
@@ -5350,7 +5344,7 @@ The clatter of horse hooves makes the crowd turn.
 
 Ringing the outer edges of the marketplace are 30 of the Duke’s horsemen. The orator and the crowd glow silent. Three riders slowly bring their mounts toward the center of the crowd. Suddenly, a hoarse cry erupts from the crowd and something flashes through the air. The lead rider falls, struck by a rock.
 
- Allow the player characters to move to the edge of the crowd, if they wish. They are not allowed to cross the line of horsemen. After the rider falls, there is total silence for a second. Then the crowd surges at the riders. The riders respond by drawing swords and charging. As soon as they charge, their line is broken and the characters can attempt to escape.
+Allow the player characters to move to the edge of the crowd, if they wish. They are not allowed to cross the line of horsemen. After the rider falls, there is total silence for a second. Then the crowd surges at the riders. The riders respond by drawing swords and charging. As soon as they charge, their line is broken and the characters can attempt to escape.
 
 The commoners take up poles, rocks, rotten fruit, and daggers. A vicious riot breaks out. The horsemen hit the crowd, blindly slashing with their sabers. The people respond, swinging sticks and hurling stones. Horses, dragged down by the weight of clinging peasants, fall with frightened screams. Women, children, and men run in panic from the charging riders.
 
@@ -5773,15 +5767,15 @@ Cynidicean Encounters
 
 4. Six Cynidiceans in striped robes and camel masks zig-zag slowly down the hall in sin gle file. They are trying to avoid the invisi ble snakes on the floor. They will try to show the party the invisible snakes and warn the party to walk around the snakes. There are, of course, no snakes.
 
-. This party of four wear insect masks, carry large clay jars, and hum like bees. They will stop and ask the party to drink from the jars. Everyone who does has 1-4 points of damage cured, as these jars contain hon ey from the lair of killer bees. If the Cyni diceans are attacked, or if someone tries to drink twice the Cynidiceans will smash the jars and attack berserkly (AC 9; NM; hp 3 each; MV 40’; #AT 1 at +2; D 1-6; ML 12; AL C).
+This party of four wear insect masks, carry large clay jars, and hum like bees. They will stop and ask the party to drink from the jars. Everyone who does has 1-4 points of damage cured, as these jars contain hon ey from the lair of killer bees. If the Cyni diceans are attacked, or if someone tries to drink twice the Cynidiceans will smash the jars and attack berserkly (AC 9; NM; hp 3 each; MV 40’; #AT 1 at +2; D 1-6; ML 12; AL C).
 
-. This party of four wears animal masks; Hawk, Fish, Cat, and Fox (these are also the characters’ names). They are carrying a stretcher with a gourd on it. These charac ters are rushing their ‘sick friend’ (the gourd: Dog) to a cleric. If the party has a cleric, the Cynidiceans will insist that the cleric cure their friend.
+This party of four wears animal masks; Hawk, Fish, Cat, and Fox (these are also the characters’ names). They are carrying a stretcher with a gourd on it. These charac ters are rushing their ‘sick friend’ (the gourd: Dog) to a cleric. If the party has a cleric, the Cynidiceans will insist that the cleric cure their friend.
 
-. This group of six in bright yellow robes and human masks will stop and stare at the par ty. They will ‘recognize’ a party member as the King or Queen of Cynidicea. They will follow the character, sing songs of praise, and wait on the character hand and foot. In general, they will smother the character with attention. However, they will not fight for their King or Queen. They are more likely to grab the character and try to rush him or her to safety. They are: AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 7; ALC. Their spokesman is Policrates the Herald.
+This group of six in bright yellow robes and human masks will stop and stare at the par ty. They will ‘recognize’ a party member as the King or Queen of Cynidicea. They will follow the character, sing songs of praise, and wait on the character hand and foot. In general, they will smother the character with attention. However, they will not fight for their King or Queen. They are more likely to grab the character and try to rush him or her to safety. They are: AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 7; ALC. Their spokesman is Policrates the Herald.
 
-. A group of four Cynidiceans in feathered robes and bird masks approach. On secing the party, the Cynidiceans will ‘fly’ (run) forward, flapping their arms and squawk ing. They will invite the party to fly along and will lead them on a merry chase through the pyramid. If the party refuses to join the Cynidiceans, the Cynidiceans will insult the party as poor creatures who cannot fly (‘Thou land-bound slugs!”’), circle three times, and ‘fly’ away. If attacked, the Cynidiceans (AC 9; NM; hp 4; MV 40’; Save: F1) will ‘fly’ away.
+A group of four Cynidiceans in feathered robes and bird masks approach. On secing the party, the Cynidiceans will ‘fly’ (run) forward, flapping their arms and squawk ing. They will invite the party to fly along and will lead them on a merry chase through the pyramid. If the party refuses to join the Cynidiceans, the Cynidiceans will insult the party as poor creatures who cannot fly (‘Thou land-bound slugs!”’), circle three times, and ‘fly’ away. If attacked, the Cynidiceans (AC 9; NM; hp 4; MV 40’; Save: F1) will ‘fly’ away.
 
-. A group of six Cynidiceans with their bodies painted black and wearing vulture masks walk quietly toward the party. They carry long wooden boards, but seem friendly and normal. They will follow the party, waiting for something to be killed. When it is, they will rush over and start building a coffin to fit the body. When they are done, they will demand a 10 gp payment. They will attack if they are not paid. (AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 8; AL C).
+A group of six Cynidiceans with their bodies painted black and wearing vulture masks walk quietly toward the party. They carry long wooden boards, but seem friendly and normal. They will follow the party, waiting for something to be killed. When it is, they will rush over and start building a coffin to fit the body. When they are done, they will demand a 10 gp payment. They will attack if they are not paid. (AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 8; AL C).
 
 10. These five Cynidiceans are a NPC Party. They will think the player characters are some kind of monster. Turn to the Wander ing Monster: Level 2 table in the D&D Basic rules and roll for the type of monster the Cynidiceans think the player characters are. The Cynidicean party has:
 
@@ -5791,8 +5785,7 @@ F2 (AC 5; hp 10; MV 20’; #AT 1; D 1-8; Save F2; ML 8; AL C)
 
 F2 (AC 5; hp 8; MV 20’; #AT 1; D 1-8; Save F2; ML 8; AL C)
 
-M2 (AC 9; hp 6; MV 40’; #AT 1 or spells; D 1-4; Save M2; ML 8; AL C) Spells: hold
-portal, magic missile
+M2 (AC 9; hp 6; MV 40’; #AT 1 or spells; D 1-4; Save M2; ML 8; AL C) Spells: hold portal, magic missile
 
 C2 (AC 5; hp 8; MV 20’; #AT 1; D 1-6; Save C2; ML 8; AL C) Spell: cure light wounds
 
@@ -5803,8 +5796,7 @@ C2 (AC 5; hp 8; MV 20’; #AT 1; D 1-6; Save C2; ML 8; AL C) Spell: cure light w
 Decapus
 Armor Class: 5
 Hit Dice 4
-Move: 90’ (30') in trees or
-3 (1) on ground
+Move: 90’ (30') in trees or 3 (1) on ground
 Attacks: 9 tentacles
 Damage: 1-6 each
 No. Appearing: 1
@@ -5828,9 +5820,9 @@ Move: 150’ (50’
 Attacks: special wail
 Damage: 1-4/round
 No. Appearing: 1(1)
-Save As: Fighter: 5
+Save As: Fighter 5
 Morale: 12
-‘Treasure Type: Cc
+Treasure Type: Cc
 Alignment: Neutral
 
 Wailing feys are pale ghost-like figures. Their shape is roughly humanoid, though longer and thinner than most humans. They have glowing red eyes and a large, dark mouth. Wailing feys are supernatural creatures that haunt certain families. They warn the family that one of its members will soon die. Wailing feys may also mourn for a person after his or her death. Thus, they may be found guarding graves, catacombs, or tombs.
@@ -6009,9 +6001,7 @@ XP Value: 35
 
 Water weird are magical creatures made of water that live in bodies of water, such as pools. They attack all living things that dis turb them, feeding on their life forces in some unknown way. Water weirds appear in nearly any shape, though the form of a giant snake is common,
 
-In combat, weirds attack single enemies within 10 feet of their pool. They form from the water in 2 melee rounds. Instead of mak ing a normal attack, water weirds make their victims make a saving throw vs. paralyzation (Dexterity bonuses apply). Victims who fail their saving throw take damage, and are seized and dragged into the water. When weitds trap and drag a victim under water,
-
-they ignore other opponents until the trapped victim is dead. A trapped character can attack the weird with a —4 penalty to hit. Once in the water, victims take damage each round and must make a saving throw vs. death each round or go unconscious. Unconscious victims die after 3 rounds unless rescued.
+In combat, weirds attack single enemies within 10 feet of their pool. They form from the water in 2 melee rounds. Instead of mak ing a normal attack, water weirds make their victims make a saving throw vs. paralyzation (Dexterity bonuses apply). Victims who fail their saving throw take damage, and are seized and dragged into the water. When weitds trap and drag a victim under water, they ignore other opponents until the trapped victim is dead. A trapped character can attack the weird with a —4 penalty to hit. Once in the water, victims take damage each round and must make a saving throw vs. death each round or go unconscious. Unconscious victims die after 3 rounds unless rescued.
 
 Sharp weapons cause only 1 point of dam age; blunt weapons cause normal damage. All strength and magical bonuses apply. Damage equal to a weird’s total hit points disrupts it, but it reforms in 2 melee rounds. Cold slows weirds (half movement and attacks every sec ond round), but fire-based spells do half or none of their normal damage. Purify food and water spells kill water weirds immediately. All other attacks do not harm them. They may retreat to the bottoms or far corners of their pools if hard pressed.
 
@@ -6021,4 +6011,4 @@ Witch-Sisters, Three
 
 The three sisters are unlike any other magic users, in that their powers work in combina tion, and require the Black Opal Eye as a focus. Individually, they are weak, but togeth er they become stronger. Use the higher levels and hit points listed for each only when the witches are together in one place and when they know where the Black Opal Eye is. If the sisters are separated, or if one of them dies, or if they do not know where the Black Opal Eye is, do not use their higher spells and hit points.
 
-The Black Opal Eye also enables the witches to communicate te
+The Black Opal Eye also enables the witches to communicate telepathically with their panthers. It also
