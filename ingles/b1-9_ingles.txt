@@ -4938,7 +4938,7 @@ The gambling room contains 3000 sp, 5000 gP, 26 gems worth a total of 3100 gp, a
 
 This room contains the evil cleric Darius and his hobgoblin guards. They will be ready for the party to enter, but it is more likely they will come charging out of the room as the party tries to take the treasure in room 57. If the party has tried to steal the treasure, the Cynidiceans in room 57 will join Darius to fight the party. Otherwise, these will do nothing unless attacked. The forces of Darius include:
 
-Darius: AC 5; hp 22; MV 20’; #AT 1 at +1, or spell; D 1-6 +1; Save C6; ML 10; ALC; S 13, 19, W 16, D9, C 13, Ch 14.
+Darius: AC 5; hp 22; MV 20’; #AT 1 at +1, or spell; D 1-6 +1; Save C6; ML 10; AL C; S 13, 19, W 16, D9, C 13, Ch 14.
 
 Darius has the following spells:
 
@@ -5089,7 +5089,7 @@ Entering Specularum
 
 The player characters enter the city for the first time. This encounter will acquaint the players with the city and how things are done here. It also encourages the players to join different sides of the power struggle. Allow the players to ask questions and learn about their surroundings as they play. Be ready to create answers to common questions: Is there an inn nearby? How much does it cost? What time of day is it?
 
- The gate is open. A few soldiers with spears lounge near the entrance. They wear tabards of red and blue with a device of a ship on the front. Beyond the gate is a narrow muddy street. It is choked with people. Most dress in their best clothes and many wear brightly-colored outfits. Jugglers and fire-eaters are scattered throughout the crowd. The noise from whistles, drums, singing, and happy chater make normal talk difficult.
+The gate is open. A few soldiers with spears lounge near the entrance. They wear tabards of red and blue with a device of a ship on the front. Beyond the gate is a narrow muddy street. It is choked with people. Most dress in their best clothes and many wear brightly-colored outfits. Jugglers and fire-eaters are scattered throughout the crowd. The noise from whistles, drums, singing, and happy chater make normal talk difficult.
 
 “Halt! Do you wish to enter Specularum?” shouts a guard inside the gate. “The tax is 8 silver pieces, each of you. All but daggers must be bound with cloth. Unbound weapons are fined. Murder by unbound weapon is punished by confiscation of property, or death for the landless. Interference with the Duke's men gets you prison. Treasonous activity is especially nice — it gets you one day of slow torture and then we draw and quarter you. So enjoy yourselves.”
 
@@ -5097,13 +5097,13 @@ The player characters enter the city for the first time. This encounter will acq
 
 The guard collects the tax from the player characters (3 sp of the 8 goes into his pocket). He checks all weapons to see that they are secured. He lashes swords with thongs and wraps spears and the like with rags. It will take characters one round to remove the bindings from their weapons. After binding the weapons, the guard forgets about the characters and turns his attention back to the festival. The guard has lived here all of this life and can answer most questions asked about the city and what is going on.
 
- Beyond the gate swirls a crowd of people. Mud churned up by stumbling dancers cakes on the crowd’s boots. People jostle each other, straining for a look at acrobats, knife-throwers, dancing bears, and minstrels, The smells of sewage, grilled meats, breads, sweat, and wine mingle in a strange, but inoffensive odor.
+Beyond the gate swirls a crowd of people. Mud churned up by stumbling dancers cakes on the crowd’s boots. People jostle each other, straining for a look at acrobats, knife-throwers, dancing bears, and minstrels, The smells of sewage, grilled meats, breads, sweat, and wine mingle in a strange, but inoffensive odor.
 
 Suddenly, the crowd sways to the sides of the street. The music fades and changes to bells and chanting. Statues carried by several men seem to float above the heads of the crowd. A sedan chair, borne on the shoulders of clerics, follows.
 
 “The procession is coming!" shouts a young boy.
 
- Advancing toward the gate is the Procession of Lucor. The procession is a religious celebration honoring a legendary local cleric named to the harbor, where the statue of Lucor is floated out to sea. Each year a woman of notable rank and importance leads the procession. This year Lady Magda, a member of the Torenescu faction, has this honor.
+Advancing toward the gate is the Procession of Lucor. The procession is a religious celebration honoring a legendary local cleric named to the harbor, where the statue of Lucor is floated out to sea. Each year a woman of notable rank and importance leads the procession. This year Lady Magda, a member of the Torenescu faction, has this honor.
 
 The festival is of great importance. This fact well suits the Radu — if the festival has problems, problems that look like they were caused by the Torenescu supporters, the Torenescu would be disgraced.
 
@@ -5133,7 +5133,7 @@ First Event
 
 Read the following to strong-looking characters as they relax inside an inn.
 
- The citizens have finally slowed their celebration of the festival, although it has taken much time, food, and strong drink. From nearby in this smoky common room comes a loud, tipsy voice.
+The citizens have finally slowed their celebration of the festival, although it has taken much time, food, and strong drink. From nearby in this smoky common room comes a loud, tipsy voice.
 
 A scarred man points. “Hey you there! ‘Want some work? Here, sit and drink. I need strong bodies. Theosius is my name. You look brave. Do you want to earn money?”
 
@@ -5161,7 +5161,8 @@ UNDER THE FLOORS
 
 Zweis nervously looked at the others around the table. Antonito casually studied his fingetnails. Anton, hunched beside a candle, flipped through papers. “Zweis looks a bit uncomfortable,” thought Cartha. “Good.”
 
-“So, it didn’t work as you planned,” Anton said, fixing a sharp eye on Zweis. “A feeble plan and it didn’t work. What do we do now?” 
+“So, it didn’t work as you planned,” Anton said, fixing a sharp eye on Zweis. “A feeble plan and it didn’t work. What do we do now?”
+
 “Make a statement,” Antonito said, grinning. “A knife in the night would teach the Vorloi peach-makers a lot. The members are impatient. They want to act, no more little work.”
 
 Anton looked at him calmly, “I then assume you would lead them? We must be cautious. There will be no more mistakes. Cartha, what do you say?”
@@ -5218,7 +5219,7 @@ If the characters assist, the kobolds let go of the beam when the characters app
 
 The cave-in behind the characters can be dug clear in one turn. Near the beam are several kobold-sized tools, a bag of spoiled food, and a small pouch containing 5 gp.
 
-Kobolds (10): AC 7; MV 30’; HD 1/2; hp 2 each; #AT 1; D 1-4; Save NM; ML6; ALC
+Kobolds (10): AC 7; MV 30’; HD 1/2; hp 2 each; #AT 1; D 1-4; Save NM; ML6; AL C
 
 4. Refuse Pit
 
@@ -5250,7 +5251,7 @@ A faint sliding sound follows a loud snapping.
 
 The legs of three characters (determine randomly) are grasped. Roll for surprise. The gripped characters are thrown to the floor as three zombies burst up from the rubblecovered floor.
 
-Zombies (3): AC 8; MV 30’; HD 2; hp 5 each; #AT 1; D 1-8; Save Fl; ML 12; ALC
+Zombies (3): AC 8; MV 30’; HD 2; hp 5 each; #AT 1; D 1-8; Save Fl; ML 12; AL C
 
 7. Turano’s Cellar
 
@@ -5352,7 +5353,7 @@ If a character attempts to escape without fighting there is a 30% chance a horse
 
 If the character stays to fight, two more horsemen arrive in the next two rounds to assist. If these horsemen are defeated, the characters and the crowd are not bothered by any other riders. After defeating the horsemen, the characters are swept up by the commoners and hailed as heroes of the common people. The characters must think and speak quickly to avoid becoming the leaders of the rioters.
 
-Horsemen: AC 6; MV 40’ (on foot); F1; hp 4; #AT 1; D 1-8; Save NM; ML 9; ALL
+Horsemen: AC 6; MV 40’ (on foot); F1; hp 4; #AT 1; D 1-8; Save NM; ML 9; AL L
 
 The horses have AC 7, HD 2, 9 hp and move 80’. Six characters working together can pull down one horse and rider.
 
@@ -5380,7 +5381,7 @@ There are normally 20 members present at the meetings he attends. All members ar
 
 Also, he knows the names of Lucia’s murderers — Akarios the Shipwright and Zachatiah Boestes. If asked, he tells the characters to look at the Blue Water Mead Hall for them.
 
-Orator (2nd level thief): AC 9; MV 40’; T2; hp 6; #AT 1; D 1-4; Save T2; ML 6; ALC
+Orator (2nd level thief): AC 9; MV 40’; T2; hp 6; #AT 1; D 1-4; Save T2; ML 6; AL C
 
 He carries 200 gp, his pay for rabble-rousing.
 
@@ -5390,7 +5391,7 @@ If the characters stay with the rioters, the commoners make them the military le
 
 Meanwhile, other commoners gather stones, throw bricks at nearby buildings, and collect wood for fires. If the characters attempt to impose order on the crowd, a large visciouslooking thug challenges them. Waving his saber, he demands a fight with one of the characters. The longer the characters let him talk, the more support he gets from the crowd.
 
-Thug (3rd level fighter): AC 7; MV 40’; F3; hp 14; #AT 1; D 1-8+2; Save F3; ML 12; ALC
+Thug (3rd level fighter): AC 7; MV 40’; F3; hp 14; #AT 1; D 1-8+2; Save F3; ML 12; AL C
 
 He does not fight fair, using any dirty trick in the book he can get away with.
 
@@ -5720,7 +5721,7 @@ XP Value: 500
 
 Chameleon Man
 Armor Class: 9
-Hit Dice: 2°
+Hit Dice: 2*
 Move: 120' (40')
 Attacks: 1 weapon
 Damage: By weapon
@@ -5918,6 +5919,7 @@ Piranha birds can fly with humming birdlike maneuverability; they can make sud d
 
 They do not like bright sunlight, but piranha birds may be found in all climates except the very coldest or those barren of any shade. They prefer to live in regions of dense forest or in underground caverns, and seem to have developed limited infravision that allows them to detect prey up to 30 feet away even in total darkness.
 
+Polymar
 Armor Class: 9
 Hit Dice: 10*
 Move: 60’ (20')
@@ -5950,7 +5952,8 @@ The sirenflower is a large carnivorous fungus that has developed the disguise of
 
 Once a creature reaches the center of the plant, a web of branching arms close in, trap ping the creature and slowly crushing it. The se branches squeeze with great force, causing 1-4 points of damage per round. In addition, the branches also ooze an enzyme that dis solves flesh. This is very slow-acting and only does 1-10 points of damage each turn (not round). Creatures trapped by the sirenflower can still fight but have a —4 penalty on all hit rolls.
 
-When the sirenflower reaches 0 hit points, it is not dead, but all the branches have been chopped away. The only way to totally kill a sirenflower is to dig up and burn the root. The creature grows back at the same rate as a nor mal plant.
+When the sirenflower reaches 0 hit points, it is not dead, but all the branches have been chopped away. The only way to totally kill a sirenflower is to dig up and burn the root. The creature grows back at the same rate as a normal plant.
+
 Steam Weevil
 Armor Class: i
 Hit Dice: 4
@@ -5960,7 +5963,7 @@ Damage: 4
 No. Appearing: 1 swarm
 Save As: Normal Man
 Morale: 11
-‘Treasure: Nil
+Treasure: Nil
 Alignment: Neutral
 
 Steam weevils are tiny flying insects that thrive on the intense heat and pressure of sub terranean areas of geothermal activity. They have developed a way to turn the heat of a pool of lava directly into usable energy (much the way plants derive energy directly from the sun), and many generations of steam weevils will live their lives without ever leaving the deep caverns that are their preferred environ ment.
@@ -6016,15 +6019,12 @@ The Black Opal Eye also enables the witches to communicate telepathically with t
 The three sisters despise one another and often argue among themselves. When the three are together and not under attack, there is a 20% cummulative chance per round that they will stop whatever they are doing and bicker among themselves. If attacked, however, they always co-operate to defend themselves.
 
 Karelena
-
 Armor Class: 9
-
 Level: M1/M4
 Hit Points: 5/11
 Move: 120’ (40')
 Attacks: 1 (with dagger)
 Damage: 1d4
-
 Save As: M1/M4
 Morale: 6/12
 Alignment: Chaotic
@@ -6035,15 +6035,12 @@ When alone, Karelena can cast two of the following spells: hold portal, shield, 
 Karelena is using the body of the elven maiden, Merisa. She appears dark and powerful, wearing gaudy clothing. She is always accompanied by a black panther. Karelena orders her panther to attack the PCs whenever she sees them, then attempts to escape while the PCs fight the panther.
 
 Solorena
-
 Armor Class: 9
-
 Level: M1/M4
 Hit Points: 4/10
 Move: 120’ (40')
 Attacks: 1 (with dagger)
 Damage: 1d4
-
 Save As: M1/M4
 Morale: 6/12
 Alignment: Chaotic
@@ -6056,15 +6053,12 @@ Solorena has taken the body of the elf Sylva. She appears as a tall and willowy 
 If the PCs capture Solorena, she pretends to be Sylva.
 
 Trilena
-
 Armor Class: 9
-
 Level: M1/M5
 Hit Points: 6/13
 Move: 120’ (40')
 Attacks: 1 (with dagger)
 Damage: 1d4
-
 Save As: M1/M5
 Morale: 6/12
 Alignment: Chaotic
