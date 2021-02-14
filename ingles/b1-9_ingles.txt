@@ -920,7 +920,7 @@ G. SHUNNED CAVERN: Even the normal inhabitants of this area, including the ogre,
 
 H. BUGBEAR LAIR: The group of bugbears is not numerous, but what it lacks in numbers, it makes up for in strength and cunning. There are signs beside the entrance cave in kobold, orcish, goblin, etc. Each says: “Safety, security and repose for all humanoids who enter — WELCOME! (Come in and report to the first guard on the left for a hot meal and bed assignment.)”
 
-GUARD ROOM: 3 bugbears (AC 5, HD 3 +1, hp 11 each, #AT 1, D 2-8, Save F3, ML 9) with 2d10 gp each. These creatures lounge on stools near a smoking brazier that has skewers of meat roasting over the coals. Each will ignore his great flail when intruders enter, reaching instead for the food. Though they do not speak common, they will grab and eat a chunk, then offer the skewers to the adventurers — and suddenly use them as swords to strike first blow (at +2 bonus to hit due to surprise!) unless the victims are very alert. There are two cots in the place and a large gong. If the battle goes badly, one will smite the gong to warn the others in the complex.
+35. GUARD ROOM: 3 bugbears (AC 5, HD 3 +1, hp 11 each, #AT 1, D 2-8, Save F3, ML 9) with 2d10 gp each. These creatures lounge on stools near a smoking brazier that has skewers of meat roasting over the coals. Each will ignore his great flail when intruders enter, reaching instead for the food. Though they do not speak common, they will grab and eat a chunk, then offer the skewers to the adventurers — and suddenly use them as swords to strike first blow (at +2 bonus to hit due to surprise!) unless the victims are very alert. There are two cots in the place and a large gong. If the battle goes badly, one will smite the gong to warn the others in the complex.
 
 36. CHIEFTAIN’S ROOM: This tough old bugbear is equal to an ogre (AC 5, HD 4+1, hp 18, #AT 1, D 3-12 (d10 +2), Save F4, ML 9). He has a pouch holding a key, 29 pp, and three 50 gp gems. With him is a female bugbear equal to a male (AC 5, HD 3+1, hp 12, #AT 1, D 2-8, Save F1, ML 8, Save F3, ML 9). She has gold earrings worth 100 gp. The furnishings of the room are battered and crude, but several pieces of silk are mixed up with the bedding, in all 6 may be found; the party will be able to sell them for 20 gp each. There is a gray chest stuck up on a ledge near the ceiling which will only be spotted if the room is carefully searched. It contains 1,462 sp, a 30 pound statue of alabaster and ivory (worth 200 gp) and 2 potions of healing (which will break if the chest is roughly handled). It will take three or four strong characters to bring this down safely. There is a hand axe +1 on the wall, and if the chieftain has the chance, he will take it down and hurl it first, then close for full melee. He knows of the secret door — it is his escape route in desperate situations.
 
@@ -956,10 +956,10 @@ When intruders enter the area, the minotaur immediately moves to attack. He know
 
 The cave the minotaur dwells in has skulls and bones arrayed in decorative patterns. The secret door is actually a slab of stone which takes not less than 3 humans to move. (It will be noticed by careful checking of the walls, but discovering how it is moved requires a roll of 1 on a sixsided die to find where it can be grasped. All of the minotaur’s treasure is behind this slab of rock. It hides:
 
-locked chest (with poison needle in lock) — contents 930 gp and 310 ep staff of healing
-man-sized (optionally elf-sized) magic plate armor +1
-locked coffer — contents 3 potion bottles (gaseous form, delusionary healing, giant strength)
-locked chest — contents 3 pieces of jewelry worth 1,600 gp, 900 gp, and 600 BP, respectively
+1 locked chest (with poison needle in lock) — contents 930 gp and 310 ep staff of healing
+1 man-sized (optionally elf-sized) magic plate armor +1
+1 locked coffer — contents 3 potion bottles (gaseous form, delusionary healing, giant strength)
+1 locked chest — contents 3 pieces of jewelry worth 1,600 gp, 900 gp, and 600 BP, respectively
 
 GNOLL LAIR: The entry into this place is a small cave — and only at the end will worked stone be visible. If the adventurers have a light or make too much noise, the gnoll guards (46.) will certainly be alerted and ready.
 
@@ -983,9 +983,9 @@ The floors are smooth and worn by the tread of countless feet of the worshipers 
 
 8 zombies: (AC 8, HD 2, hp 8 each, #AT 1, D 1-8, MV 30’, Save F1, ML 12). These ghastly monsters are clad in filthy red and black striped uniforms. Each carries a cleaver-like battle axe. (Each wears an amulet of protection from turning, so attempts by a cleric to turn them are made as if they were ghouls rather than zombies.)
 
-BOULDER FILLED PASSAGE: Large rocks and boulders have been placed here in order to seal off this tunnel. It will take 100 man-turns to open a way large enough for a human to pass through into the area beyond (possibly outside and southwest of the Caves of Chaos).
+51. BOULDER FILLED PASSAGE: Large rocks and boulders have been placed here in order to seal off this tunnel. It will take 100 man-turns to open a way large enough for a human to pass through into the area beyond (possibly outside and southwest of the Caves of Chaos).
 
-HALL OF SKELETONS: This unusual audience chamber has a dais and throne-like chair set with 4 large red gems (500 gp each) at the south end. It is otherwise empty except for a dozen skeletons, clad in rags of chain mail and bearing battered shields and rusty scimitars, propped against the walls. These bony guards do not move, and any attempt to tum them immediately upon entering the chamber will have no effect, as they are obviously not animated. However, as soon as intruders touch the dais or throne chair, these monsters will spring into action from their positions on either wall of the chamber. Each has an amulet of protection from turning on it, so they are turned by a cleric as if they were zombies, (AC 7, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 12). They have no treasure.
+52. HALL OF SKELETONS: This unusual audience chamber has a dais and throne-like chair set with 4 large red gems (500 gp each) at the south end. It is otherwise empty except for a dozen skeletons, clad in rags of chain mail and bearing battered shields and rusty scimitars, propped against the walls. These bony guards do not move, and any attempt to tum them immediately upon entering the chamber will have no effect, as they are obviously not animated. However, as soon as intruders touch the dais or throne chair, these monsters will spring into action from their positions on either wall of the chamber. Each has an amulet of protection from turning on it, so they are turned by a cleric as if they were zombies, (AC 7, HD 1, hp 3 each, #AT 1, D 1-6, Save F1, ML 12). They have no treasure.
 
 Once the skeletons are disposed of, it is an easy task to pry the 4 garnets (gems) from the back of the chair.
 
@@ -1015,9 +1015,9 @@ His room is furnished lavishly, with red carpet, furniture of black wood with ve
 
 60. GUEST CHAMBER: This lower room is for important guests of the place. It contains a large bed, table, chairs, etc. There is nothing of value within, although the tapestries adorning the walls (things picturing evil cruelties and obscene rites) appear expensive. Beneath a velvet cloth on the table is a polished mirror.
 
-TORTURE CHAMBER: There are various implements of torture here, both large and small — a rack, iron maiden, tongs, pinchers, whips, etc. Comfortable chairs are scattered along the walls, evidently so placed to allow visitors an enjoyable view of the proceedings. The torturer lives in the forepart of the place, and he will attack unauthorized persons who enter. He is a 3rd level fighter, hp 19, with chain mail under his black leather garments (AC 5, F3, hp 19, #AT 1, D 3-8 (1d6+2 due to Strength), ML 8). His weapon is a huge axe. Hidden in his mattress are 135 gp and a bracelet worth 700 gp.
+61. TORTURE CHAMBER: There are various implements of torture here, both large and small — a rack, iron maiden, tongs, pinchers, whips, etc. Comfortable chairs are scattered along the walls, evidently so placed to allow visitors an enjoyable view of the proceedings. The torturer lives in the forepart of the place, and he will attack unauthorized persons who enter. He is a 3rd level fighter, hp 19, with chain mail under his black leather garments (AC 5, F3, hp 19, #AT 1, D 3-8 (1d6+2 due to Strength), ML 8). His weapon is a huge axe. Hidden in his mattress are 135 gp and a bracelet worth 700 gp.
 
-62, THE CRYPT: The door to this room is bolted shut. This long hall is of roughly hewn stone, with a low ceiling. In it are many coffins and large sarcophagi with the remains of servants of the Temple of Evil Chaos. The sixth tomb opened will contain a wight: (AC 5, HD 3*, hp 13, #AT 1, D drains one level, MV 30’, Save F2, ML 12). There is a secret compartment in the wight’'s tomb; this contains a sword +2a scroll of protection from undead, a helm of alignment change, and a silver dagger worth 800 gp because of the gems set into its pommel.
+62. THE CRYPT: The door to this room is bolted shut. This long hall is of roughly hewn stone, with a low ceiling. In it are many coffins and large sarcophagi with the remains of servants of the Temple of Evil Chaos. The sixth tomb opened will contain a wight: (AC 5, HD 3*, hp 13, #AT 1, D drains one level, MV 30’, Save F2, ML 12). There is a secret compartment in the wight’'s tomb; this contains a sword +2a scroll of protection from undead, a helm of alignment change, and a silver dagger worth 800 gp because of the gems set into its pommel.
 
 63. STORAGE CHAMBER: There are many piles of boxes, crates, barrels, sacks, and so forth here — the supplies of the temple. There is nothing of value, and if the party stays within the place for longer than 3 rounds, a gelatinous cube will move from the corridor into the place and block it: (AC 8, HD 4*, hp 22, #AT 1, D 2-8, plus paralyzation, MV 20', Save F2, ML 12). Inside the creature are d12 each of cp, sp, ep, gp, and pp, as well as several bones — evidently parts of a victim not yet wholly digested. (One of the bones is actually a wand of enemy detection with 9 charges left. If it is not gotten out of the monster within one turn, it will be ruined by digestive juices.) The secret door in the room leads to the gnoll chieftain’s cave. (50., above).
 
@@ -1050,7 +1050,7 @@ Art: Jim Holloway, David S. La Force, Harry Quinn, Jim Roslof, Laura Roslof, Ste
 Playtesting: Ken Reek, Jo La Force, Dave La Force, Judy Elvin, Skip Williams, Dave Conant, Shirley Egnoski, Ernie Gygax, John and Mary Eklund, Michael Luznicky, Blane Fuller, Jan Kratochvil, Mark Teloh, John Beckman, Bob Burgess, John Main, Gregory G. H. Rihn, Doug Jones, Bryan Wendorf, Tina Pacey, Rocky Bartlett, and Helen Cook
 Special Thanks To: Frank Mentzer, Skip Williams, “Col.” Steve Austin Morely, John Laney, Robert Cole, Kevin Woods, and Tony Earls, and to Harold Johnson and Walt Wells for inspiration.
 General Notes: An early version of this module has become a rare item; the later version has been adapted for this collection. The special programmed introduction has been replaced by boxed text, but this adventure is presented intact.
-Maps…………………. 140-141
+Maps ………………… 140-141
 
 Player’s Background (Read to players)
 
@@ -1078,7 +1078,7 @@ This is narrated by the Protector, when she appears to the players:
 
 Dungeon Master’s Background
 
-The disaster that has struck Haven has been caused by the magical ruby that the dwarves found. While it was called “My Lady’s Heart” by the people of Haven, its true name is ‘The Eye of Erik”’.
+The disaster that has struck Haven has been caused by the magical ruby that the dwarves found. While it was called “My Lady’s Heart” by the people of Haven, its true name is “The Eye of Erik”.
 
 Arik is an ancient, evil being of great power. He is also known as Arik of the Hundred Eyes, and is sometimes worshipped as a god. For his many crimes, Arik was banished to a special dimension centuries ago to be imprisoned there for all eternity.
 
@@ -1116,15 +1116,13 @@ The clerics of Arik all wear blood-red robes with large hoods that hide the face
 
 Wandering Monster Table: Level 1 (Roll 1d6)
 
-Die Wandering
-
-Roll Monster AC HD Damage MV Save ML_AL
-1 Acolyte 1-8 2 1 1-6 20° Ci 7 CC
-2 Bandit 1-8 6 1 1-6 400 TL Bl. G
-3 Bear,Black 1 6 4 1-3/1-3/1-6 40' F2 7 N
-4 Kobold 4-16 ib 1/2 1-4 40". NM 6 C
-5 Orc 2-8 6 1 1-6 30° Fi 8 6C
-6 Skeleton 3-12 7 1 1-6 20° Fi 12
+Die Roll Wandering Monster AC HD Damage MV Save ML_AL
+1 Acolyte 1-8 2 1 1-6 20' C1 7 C
+2 Bandit 1-8 6 1 1-6 40' T1 8 C
+3 Bear, Black 1 6 4 1-3/1-3/1-6 40' F2 7 N
+4 Kobold 4-16 7 1/2 1-4 40' NM 6 C
+5 Orc 2-8 6 1 1-6 30' F1 8 C
+6 Skeleton 3-12 7 1 1-6 20' F1 12 C
 
 Bandits: Bandits are NPC thieves who have joined together to rob others. Bandits will act as normal humans, lost and wandering in the palace, to surprise their intended victims. These particular bandits have been drawn to Haven by the Eye of Arik. If the DM chooses, the bandits may be led by a 2nd or 3rd level thief.
 
