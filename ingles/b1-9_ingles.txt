@@ -6011,4 +6011,65 @@ Witch-Sisters, Three
 
 The three sisters are unlike any other magic users, in that their powers work in combina tion, and require the Black Opal Eye as a focus. Individually, they are weak, but togeth er they become stronger. Use the higher levels and hit points listed for each only when the witches are together in one place and when they know where the Black Opal Eye is. If the sisters are separated, or if one of them dies, or if they do not know where the Black Opal Eye is, do not use their higher spells and hit points.
 
-The Black Opal Eye also enables the witches to communicate telepathically with their panthers. It also
+The Black Opal Eye also enables the witches to communicate telepathically with their panthers. It also gives them enormous additional power when the stars are in proper conjunction. It was during a conjunction that the witches attacked Elyas. A similar conjunction helped them give the Rahib power over the Siswa.
+
+The three sisters despise one another and often argue among themselves. When the three are together and not under attack, there is a 20% cummulative chance per round that they will stop whatever they are doing and bicker among themselves. If attacked, however, they always co-operate to defend themselves.
+
+Karelena
+
+Armor Class: 9
+
+Level: M1/M4
+Hit Points: 5/11
+Move: 120’ (40')
+Attacks: 1 (with dagger)
+Damage: 1d4
+
+Save As: M1/M4
+Morale: 6/12
+Alignment: Chaotic
+XP Value: 10/75
+
+When alone, Karelena can cast two of the following spells: hold portal, shield, sleep.  When with her sisters, she can cast any two of the above spells, plus any two of these spells: levitate, web, wizard lock.
+
+Karelena is using the body of the elven maiden, Merisa. She appears dark and powerful, wearing gaudy clothing. She is always accompanied by a black panther. Karelena orders her panther to attack the PCs whenever she sees them, then attempts to escape while the PCs fight the panther.
+
+Solorena
+
+Armor Class: 9
+
+Level: M1/M4
+Hit Points: 4/10
+Move: 120’ (40')
+Attacks: 1 (with dagger)
+Damage: 1d4
+
+Save As: M1/M4
+Morale: 6/12
+Alignment: Chaotic
+XP Value: 10/75
+
+When alone, Solorena can cast one of the following spells: charm person, floating disc, sleep. When with her sisters, she can cast any two of the above spells, plus any two of the following spells: invisibility, ESP, phantasmal force.
+
+Solorena has taken the body of the elf Sylva. She appears as a tall and willowy girl with long, golden hair. She looks, however, as though she has not been able to sleep for weeks. Solorena has a black panther as a pet.  The cat is never far away, and she can summon it telepathically.
+
+If the PCs capture Solorena, she pretends to be Sylva.
+
+Trilena
+
+Armor Class: 9
+
+Level: M1/M5
+Hit Points: 6/13
+Move: 120’ (40')
+Attacks: 1 (with dagger)
+Damage: 1d4
+
+Save As: M1/M5
+Morale: 6/12
+Alignment: Chaotic
+XP Value: 10/175
+
+At the beginning of the module, the witch Trilena is imprisoned in one of the stone dragon heads in room 100. During the play of the module, Trilena tries to inhabit any female character with charisma 15 or higher.  Trilena cannot use any spells until she escapes from the stone prison.
+
+If encountered alone, she can cast one of the following spells: light, magic missile, shield. If encountered with her sisters, she can cast any two of the above spells, plus any two of the following: continual light, levitate, mirror image. She may also cast one hold person spell per day.
