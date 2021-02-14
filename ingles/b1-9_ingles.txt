@@ -662,18 +662,16 @@ whose Strength is reduced to zero becomes a shadow. Shadows, like gargoyles, are
 
 ELWYN’S SANCTUARY: Monsters
 Room Monster No. Hit Roll AC HD hp MV #AT D Save ML AL SA/SD XP
-— _ Trolodyte 	4 18 5 2 12,14,10,10 120'(40') 3 1-4/1-4/1-4 F2 9 C Yes 30
-3 Acolyte (C1) 	6 19 2 1 6 each 120'(40') 1 1-6 + 1 sword F1 9 C No 10
-5b Orc Leader 	1 18 5 2 9 120'(40') 1 ee < Fl bi GES ND No 20
-5b Orcs 5 19 5 1 Geach 120'(40') 1 1-6 Fl g. | Nor adi-10
-8 Wooden Golem 1 17 7 eZ 14 120'(40') 1 1-8 Fl 2 hiN Yes 35
-11 Rock Living Statue 1 16 4 5 23 60'(20') 2° -2-12/2-12 F5 11 C Yes 300
-16 Black Dragon 1 16 2 7 28 90'(30') or 3 2-§/2-5/2-20 F7 8 Cc Yes 1250
-240'(80') fly
-21 Gargoyle 2 16 5 4 18,15 90'(30') or 4° 1-3/1-3/1-6/ FB A1-— Ce Wes: e825:
-150'(50’) fly 1-4
-21 Shadow 2 17 7 242 9,12 90'(30') 1 1-4 + special F2 12 C Yes 35
-16 Elwyn (C6) 1 17 a 6 24 120'(40') 1 1-6 + Gilt 12S) siaNessts) 500
+— Trolodyte 4 18 5 2 12,14,10,10 120'(40') 3 1-4/1-4/1-4 F2 9 C Yes 30
+3 Acolyte (C1) 6 19 2 1 6 each 120'(40') 1 1-6 C1 7 C No 10
+5b Orc Leader 1 18 5 2 9 120'(40') 1 1-6 + 1 sword Fl 9 C No 20
+5b Orcs 5 19 5 1 6 each 120'(40') 1 1-6 Fl 8 C No 10
+8 Wooden Golem 1 17 7 2+2 14 120'(40') 1 1-8 Fl 12 N Yes 35
+11 Rock Living Statue 1 16 4 5 23 60'(20') 2 2-12/2-12 F5 11 C Yes 300
+16 Black Dragon 1 16 2 7 28 90'(30') or 240'(80') fly 3 2-5/2-5/2-20 F7 8 C Yes 1250
+21 Gargoyle 2 16 5 4 18,15 90'(30') or 150'(50’) fly 4° 1-3/1-3/1-6/1-4 F8 11 C Yes 125
+21 Shadow 2 17 7 2+2 9,12 90'(30') 1 1-4 + special F2 12 C Yes 35
+16 Elwyn (C6) 1 17 1 6 24 120'(40') 1 1-6 + special C6 12 C Yes 500
 
 16a. EDWYN THE ARDANT
 
@@ -742,7 +740,7 @@ General Notes: This module, originally titled B2, The Keep on the Borderlands, h
 
 Cave Maps……………………… 138-139
 
-START: The forest you have been passing through has been getting more dense, tangled, and gloomier than before. The thick, twisted tree trunks, unnaturally misshapen limbs, writhing roots, clutching and grasping thorns and briars all seem to warn and ward you off, but you have forced and hacked your way through regardless. Now the strange growth has suddenly ended — you have stepped out of the thicket into a ravine-like area. The walls rise rather steeply to either side to a height of about 100’ or so — dark, streaked rock mingled with earth. Clumps of trees grow here and there, both on the floor of the ravine and up the sloping walls of the canyon. The opening you stand in is about 200’ wide. The ravine runs at least 400’ west (actually 440’) to where the western end rises in a steep slope. Here and there at varying heights on all sides of the ravine, you can see the black mouths of cave-like openings in the rock walls. The sunlight is dim, the air is dank, there is an oppressive feeling here — as if something evil is watching and waiting to pounce upon you. There are bare, dead trees here and there, and upon one a vulture perches and gazes hungrily at you. A flock of ravens rise croaking from the ground, the beat of their wings and their cries magnified by the terrain to sound loud and horrible. Amongst the litter of rubble, boulders, and dead wood scattered about on the ravine floor, you can see bits of gleaming ivory and white — closer inspection reveals that these are bones and skulls of men, animals and other things. . . .
+START: The forest you have been passing through has been getting more dense, tangled, and gloomier than before. The thick, twisted tree trunks, unnaturally misshapen limbs, writhing roots, clutching and grasping thorns and briars all seem to warn and ward you off, but you have forced and hacked your way through regardless. Now the strange growth has suddenly ended — you have stepped out of the thicket into a ravine-like area. The walls rise rather steeply to either side to a height of about 100’ or so — dark, streaked rock mingled with earth. Clumps of trees grow here and there, both on the floor of the ravine and up the sloping walls of the canyon. The opening you stand in is about 200’ wide. The ravine runs at least 400’ west (actually 440’) to where the western end rises in a steep slope. Here and there at varying heights on all sides of the ravine, you can see the black mouths of cave-like openings in the rock walls. The sunlight is dim, the air is dank, there is an oppressive feeling here — as if something evil is watching and waiting to pounce upon you. There are bare, dead trees here and there, and upon one a vulture perches and gazes hungrily at you. A flock of ravens rise croaking from the ground, the beat of their wings and their cries magnified by the terrain to sound loud and horrible. Amongst the litter of rubble, boulders, and dead wood scattered about on the ravine floor, you can see bits of gleaming ivory and white — closer inspection reveals that these are bones and skulls of men, animals and other things...
 
 You know you have certainly discovered the Caves of Chaos.
 
@@ -1174,7 +1172,7 @@ The lever in the south wall can be moved up or down. Its current position is dow
 
 You open the door to reveal a 20 by 20 foot room with a large wooden lever in the southern wall. In the center of the room are a pair of skeletons. Long iron chains dangle from their wrists, and they carry curved swords.
 
-The two skeletons (AC 7; HD 1; hp 5 each; MV 20’; #AT 1; D 1-6; Save F1; ML 12; ALC) are undead, and cannot be affected by sleep or charm magics, though they can be curned.
+The two skeletons (AC 7; HD 1; hp 5 each; MV 20’; #AT 1; D 1-6; Save F1; ML 12; AL C) are undead, and cannot be affected by sleep or charm magics, though they can be curned.
 
 The lever on the southern wall is similar to that in room 2, except that the “up” position is marked by a ““B” instead of an “A”. If the levers in this room and room 2 are both moved to the “up” position, the gates to the south will raise.
 
@@ -1216,7 +1214,7 @@ If the party listens at the door first, they will hear arguing, which any who sp
 
 This room holds six beds. Musty, ragged blankets lie on the beds. Six footlockers (small wooden chests) rest at the foot of the beds. A half-dozen creatures sit on the beds arguing. The six creatures are humanlike and man-sized, though incredibly ugly. Their skin is an earth color and they appear very brutish.
 
-The six creatures are hobgoblins (AC 6; HD 1+1; hp 6 each; MV 30’; #AT 1; D1-8; Save F1; ML8; ALC). The hobgoblins have moved into the old barracks which once housed the palace guards.
+The six creatures are hobgoblins (AC 6; HD 1+1; hp 6 each; MV 30’; #AT 1; D1-8; Save F1; ML8; AL C). The hobgoblins have moved into the old barracks which once housed the palace guards.
 
 10. DESERTED BARRACKS
 
@@ -1336,7 +1334,7 @@ The two tapestries show Princess Argenta and the warrior Ellis the Strong. Excep
 
 In this room is a 10’ wide semi-circular alcove. On either side of the alcove stands the statue of a warrior.
 
-The two statues are actually living crystal statues (AC 4; HD 3; hp 14; MV 30’; #AT 2; D 1-6/1-6; Save F3; ML 11; ALL). Living crystal statues are life forms made of crystals, instead of flesh. While they look just like normal statues, they are actually living beings. Whenever this room is entered the DM should roll a monster reaction (2d6). On a roll of 5 or less, the statues will attack.
+The two statues are actually living crystal statues (AC 4; HD 3; hp 14; MV 30’; #AT 2; D 1-6/1-6; Save F3; ML 11; AL L). Living crystal statues are life forms made of crystals, instead of flesh. While they look just like normal statues, they are actually living beings. Whenever this room is entered the DM should roll a monster reaction (2d6). On a roll of 5 or less, the statues will attack.
 
 26. SCHOOLROOM
 
@@ -1362,7 +1360,7 @@ You see shelves covering most of the walls. The shelves are filled with books an
 
 This room is the palace library. Since the students sometimes used the library both day and night, there are extra candles in the room.
 
-Clinging to the ceiling is a giant crab spider (AC 7; HD 2*; hp 9; MV 40’; #AT 1; D 1-8 + poison; Save F1; ML 7; ALN). Giant crab spiders have chameleon-like powers and can change their color to blend into their surroundings. They will surprise the party on a roll of 1-4 on 1d6. After the first attack, a crab spider can be seen and attacked normally. Crab spiders are carnivorous (meat-eaters). Any victim bitten by a crab spider must save vs. Poison or die in 1-4 turns. However, their poison is weak, and the victim may add +2 to the saving throw roll.
+Clinging to the ceiling is a giant crab spider (AC 7; HD 2*; hp 9; MV 40’; #AT 1; D 1-8 + poison; Save F1; ML 7; AL N). Giant crab spiders have chameleon-like powers and can change their color to blend into their surroundings. They will surprise the party on a roll of 1-4 on 1d6. After the first attack, a crab spider can be seen and attacked normally. Crab spiders are carnivorous (meat-eaters). Any victim bitten by a crab spider must save vs. Poison or die in 1-4 turns. However, their poison is weak, and the victim may add +2 to the saving throw roll.
 
 If the party searches the books and scrolls carefully (which will take a full 3 turns), they will find that one scroll is a magic-user/elf spell scroll. The scroll contains the second level spell: web.
 
@@ -1382,7 +1380,7 @@ This room is a butchering room. Meat is butchered here, then stored in the ice c
 
 The underground river channel is blocked by a heavy iron grill. Anyone falling into the river will be swept against the grill by the powerful current. Fortunately the grill is too small for characters to be swept through.
 
-Three giant rats (AC 7; HD 1/2; hp 3 each; MV 20’; #AT 1; D 1-3; Save NM; ML 8; ALN) are also trapped in the underground passage. They are desperate and in a state of panic. They will immediately attack. There is a 1 in 20 chance that any one of the giant rats carries a disease. If an individual is bitten by a diseased rat the victim must make a save vs. Poison. If the save fails, the victim will either die in 1-6 days or be sick in bed (unable to adventure) for one month. Roll 1d4; the disease is only deadly on a result of 1.
+Three giant rats (AC 7; HD 1/2; hp 3 each; MV 20’; #AT 1; D 1-3; Save NM; ML 8; AL N) are also trapped in the underground passage. They are desperate and in a state of panic. They will immediately attack. There is a 1 in 20 chance that any one of the giant rats carries a disease. If an individual is bitten by a diseased rat the victim must make a save vs. Poison. If the save fails, the victim will either die in 1-6 days or be sick in bed (unable to adventure) for one month. Roll 1d4; the disease is only deadly on a result of 1.
 
 If the underground passage is searched, the characters will find the dead body of an unfortunate victim. The body will be only a skeleton. The individual was carrying a sack of mixed coins (10 gp, 8 sp; and 9 cp) plus a jade ring with dragons carved into it worth 250 gp.
 
@@ -1470,7 +1468,7 @@ Travis used to hold court in this room. He would review his orc troops here. Sin
 
 This room holds four double bunkbeds. Seated on the beds are eight human-like creatures who look like a combination of animals and men. Despite their weird looks, the creatures are all wearing the uniforms of palace guards. The uniforms do not fit properly.
 
-The human-like creatures are orcs (AC 6; HD 1; hp 4 each; MV 30’; #AT 1; D 1-6; Save F1; ML 8; ALC). The orcs were led by Travis who had them dress up in the uniforms of guards.
+The human-like creatures are orcs (AC 6; HD 1; hp 4 each; MV 30’; #AT 1; D 1-6; Save F1; ML 8; AL C). The orcs were led by Travis who had them dress up in the uniforms of guards.
 
 Ores are nocturnal, usually sleeping in the day and active in the dark. When fighting in full daylight, they must subtract 1 from their “to hit” roll. The orcs’ treasure totals 12 gp, 38 sp, and 56 cp.
 
@@ -1579,7 +1577,7 @@ The fighting swords and bright light is an illusion placed there by the palace m
 
 You see a room filled with stuffed animals, shelves filled with books and scrolls, and jars of powders and herbs. Strange symbols are painted on the walls. An iron statue of a warrior stands in the southeast corner of the room. A polishing cloth is draped over the warrior's shield.
 
-This room was the palace magic-user’s laboratory. The iron statue is actually a living iron statue (AC 2; HD 4; hp 18; MV 10’; #AT 2;D 1-8/1-8; Save F4; ML 11; ALN). Living iron statues have bodies which can absorb iron and steel. When hit, they will take normal damage, but if a non-magical metal weapon is used, the attacker must save vs. Spells or the weapon will become stuck in the body of the living iron statue, and can only be removed if the statue is killed.
+This room was the palace magic-user’s laboratory. The iron statue is actually a living iron statue (AC 2; HD 4; hp 18; MV 10’; #AT 2;D 1-8/1-8; Save F4; ML 11; AL N). Living iron statues have bodies which can absorb iron and steel. When hit, they will take normal damage, but if a non-magical metal weapon is used, the attacker must save vs. Spells or the weapon will become stuck in the body of the living iron statue, and can only be removed if the statue is killed.
 
 52. STOREROOM
 
@@ -1591,7 +1589,7 @@ The room once held stores of various sorts but has recently been cleaned out.
 
 A plain bed and a huge wooden desk dominate this sparsely furnished bedchamber. A broom lies in one corner near a pile of dirt. A tattered pair of silk bedroom slippets lie on the floor near the bed. A small nightstand has been overturned. While you watch, a small black kitten races out from under the bed, bats one of the slippers around, then runs back under the bed.
 
-The room is the bedroom of the palace magicuser, Mirabilis. The black kitten is his familiar and pet. Three times a day the kitten can transform itself into a panther (AC 4; HD 4; hp 18; MV 70’; #AT 3; D 1-4/1-4/1-8; Save F2; ML 8; ALL). The transformation lasts 10 rounds. When in kitten form the creature is harmless. Note that while panthers are usually neutral in alignment, the kitten/panther is lawful because this magical animal is the familiar of a magic-user.
+The room is the bedroom of the palace magicuser, Mirabilis. The black kitten is his familiar and pet. Three times a day the kitten can transform itself into a panther (AC 4; HD 4; hp 18; MV 70’; #AT 3; D 1-4/1-4/1-8; Save F2; ML 8; AL L). The transformation lasts 10 rounds. When in kitten form the creature is harmless. Note that while panthers are usually neutral in alignment, the kitten/panther is lawful because this magical animal is the familiar of a magic-user.
 
 If the party carefully searches the desk, there is a 50% chance that they will find a secret compartment. The secret compartment holds a potion of invisibility. 
 
@@ -1607,7 +1605,7 @@ A statue of a young girl playing with a dove is in the southeastern corner of th
 
 The statue in this room is one of Princess Argenta’s ladies in waiting who was turned to stone. None of the scrolls in the room are magical, they are merely blank parchment on which court officials sometimes write letters.
 
-The two women appear to be fighters, but are really thieves. They were trying to loot the rooms of Mirabilis before the disaster struck. Mirabilis caught them and put them to sleep with a sleep spell. He was going to clean up and then report them to the guards, but disaster struck first. The women thieves were not affected by the disaster. They have only recently awakened and are setting out to loot the palace. The two women are named Candella (AC 5;T/2; hp 8; MV 40’; #AT 1; D 1-8; Save T2; ML 7; AL N; S12, 115, W13, D17, C15, Ch 14), and Duchess (AC 5;T/2; hp 11; MV 40’; #AT 1; D 1-8; Save T2; ML7; ALN; $11, 112, W15, D16, C18, Ch15). Because of their wisdom ability scores, both women gain a bonus of +1 on magic-based saving throws. The two thieves are both very attractive and will attempt to use this to their benefit.
+The two women appear to be fighters, but are really thieves. They were trying to loot the rooms of Mirabilis before the disaster struck. Mirabilis caught them and put them to sleep with a sleep spell. He was going to clean up and then report them to the guards, but disaster struck first. The women thieves were not affected by the disaster. They have only recently awakened and are setting out to loot the palace. The two women are named Candella (AC 5;T/2; hp 8; MV 40’; #AT 1; D 1-8; Save T2; ML 7; AL N; S12, 115, W13, D17, C15, Ch 14), and Duchess (AC 5;T/2; hp 11; MV 40’; #AT 1; D 1-8; Save T2; ML7; AL N; $11, 112, W15, D16, C18, Ch15). Because of their wisdom ability scores, both women gain a bonus of +1 on magic-based saving throws. The two thieves are both very attractive and will attempt to use this to their benefit.
 
 These two thieves will act friendly toward the party. They will pretend to be young inexperienced fighters in search of adventure. They will politely ask to join the party, saying that they are not quite as tough or as prepared for adventuring as they had originally thought.
 
@@ -1729,7 +1727,7 @@ The wooden chest is a treasure chest. It is trapped with a poison dart trap. A c
 
 This room contains a bed, a large wooden chest, a stool, and a wooden wardrobe.
 
-The bedclothes are crumpled, as if a number of people had been sitting on the bed. The chest is filled with old nightshirts packed in mothballs. The wardrobe is empty. Normally this room is a guest bedroom. Recently, the room has been occupied by the bodyguard of Catharandamus, the cleric in room 68. The bodyguard is 7 large orcs (AC 6; HD 1; hp 6 each; MV 40’; #AT 1; D 1-6; Save F1; ML 8; ALC). The orcs all carry shields with a red eye painted on them. The leader of the orcs is Alha, a werewolf (lycanthrope), When first encountered, she will be in human form, but she will change into a werewolf to attack if she can. Alha (AC 5 (9 in human form); HD 4*; hp 18; MV 60’; #AT 1; D 2-8; Save F4; ML 8; AL C) will also be wearing a red robe and has an eye painted on her forehead.
+The bedclothes are crumpled, as if a number of people had been sitting on the bed. The chest is filled with old nightshirts packed in mothballs. The wardrobe is empty. Normally this room is a guest bedroom. Recently, the room has been occupied by the bodyguard of Catharandamus, the cleric in room 68. The bodyguard is 7 large orcs (AC 6; HD 1; hp 6 each; MV 40’; #AT 1; D 1-6; Save F1; ML 8; AL C). The orcs all carry shields with a red eye painted on them. The leader of the orcs is Alha, a werewolf (lycanthrope), When first encountered, she will be in human form, but she will change into a werewolf to attack if she can. Alha (AC 5 (9 in human form); HD 4*; hp 18; MV 60’; #AT 1; D 2-8; Save F4; ML 8; AL C) will also be wearing a red robe and has an eye painted on her forehead.
 
 If Catharandamus yells for help (from room 68), Alha and the orcs will yell back that they are on their way and rush to his aid. Alha will turn into a werewolf and attack. Any human character who is severely hurt by her (losing more than half of his or her hit points) will become a lycanthrope of the same type in 2-24 days. The victim will begin to show signs of the disease (such as an appetite for raw meat) after only half that time. The disease will kill non-humans instead of turning them into were-creatures. However, if the Eye of Arik is destroyed as a result of the party’s actions, any character with the disease of lycanthropy will automatically be cured.
 
@@ -1874,12 +1872,12 @@ TABLE 3
 WANDERING MONSTERS IN THE RUINED MONASTERY
 
 Die Roll Creature Encountered
-1 Rock Baboons (1-4): AC6; HD 2; hp 10, 9,7,7; MV 120’ (40’); #AT 1 club/1 bite; D 1-6/1-3; Save F2; ML 8; ALN.
-2 Ogre (1): AC 5; HD 4+1; hp 5 each; MV 90' (30'); #AT 1; D 1-10; Save F4; ML 10; ALC.
+1 Rock Baboons (1-4): AC6; HD 2; hp 10, 9,7,7; MV 120’ (40’); #AT 1 club/1 bite; D 1-6/1-3; Save F2; ML 8; AL N.
+2 Ogre (1): AC 5; HD 4+1; hp 5 each; MV 90' (30'); #AT 1; D 1-10; Save F4; ML 10; AL C.
 3 Hobgoblins (1-6): AC 6; HD 1+1; hp 5 each; MV 90’ (30'); #AT 1; D 1-6; Save F1; ML 8; AL C; each carries spear and shortsword.
-4 Dire Wolf (1): AC 6; HD 4+1; hp 20; MV 150’ (50'); #AT 1; D 2-8; Save F2; ML 8; ALN.
-5 Zombies (1-6): AC 8; HD 2; hp 12,10,9,8, 7,7; MV 120’ (40’); #AT 1; D 1-8; Save F1; ML 12; ALC.
-6 Giant Centipedes (1-8): AC 9; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1; MV 60’ (20'); #AT 1; D poison; Save NM; ML 7; ALN.
+4 Dire Wolf (1): AC 6; HD 4+1; hp 20; MV 150’ (50'); #AT 1; D 2-8; Save F2; ML 8; AL N.
+5 Zombies (1-6): AC 8; HD 2; hp 12,10,9,8, 7,7; MV 120’ (40’); #AT 1; D 1-8; Save F1; ML 12; AL C.
+6 Giant Centipedes (1-8): AC 9; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1; MV 60’ (20'); #AT 1; D poison; Save NM; ML 7; AL N.
 
 Key to Areas in the Ruined Monastery
 
@@ -1897,7 +1895,7 @@ The water is uncomfortably warm to the touch. The pool is fed by the same geothe
 
 Along the east end of the pool is a crumbled mass of stone that was at one time a luxurious bathhouse. No ceiling stands over these four rooms, and the walls have crumbled to only three or four feet of height. Large cracks can be seen, and many of the stone slabs that had been used as the ceiling are supported by debris. Lurking in these cracks and crevices are eight giant centipedes, which rush forward to attack any creatures passing the east rim of the pool.
 
-Giant Centipedes (8): AC 9; HD 1/2; hp 4,4, 3,3,2,2,1,1; MV 60’ (20’); #AT 1; D poison; Save NM; ML 7; ALN.
+Giant Centipedes (8): AC 9; HD 1/2; hp 4,4, 3,3,2,2,1,1; MV 60’ (20’); #AT 1; D poison; Save NM; ML 7; AL N.
 
 22. STEAM VENT
 
@@ -1913,7 +1911,7 @@ This carving depicts an old pagan deity, a fat, squatting, vaguely humanoid figu
 
 As soon as any character touches the statue or opens one of the doors on the perimeter of the room, 12 guardians of the tomb burst from the doors and attack. The guardians are 12 skeletons, and one comes from each door.
 
-Skeletons (12): AC 7; HD 1; hp 8,7,6,6,5,5,4,4,3,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save F1; ML 12; ALC.
+Skeletons (12): AC 7; HD 1; hp 8,7,6,6,5,5,4,4,3,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save F1; ML 12; AL C.
 
 Each of the skeletons is armed with a shortsword and carries a shield.
 
@@ -1927,7 +1925,7 @@ This garden once grew the many potent ingredients the monks used for brewing fou
 
 The three spots marked with Xs on the map are entrances to tunnels that goblins have carved into the tangle. The tunnel entrances have been carefully masked with bushes, but they may be detected by rolling for a secret door. Behind each pile of brush lurk three goblins, waiting to ambush the party as they approach the temple door to room #31. The ambush is sprung only if the party is obviously moving toward the door, or if they begin to inspect the garden too closely.
 
-Goblins (9): AC 6; HD 1-1; hp 7,6,6,5,4,4,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
+Goblins (9): AC 6; HD 1-1; hp 7,6,6,5,4,4,3,2,1; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML 7; AL C.
 
 The goblins are armed with shortswords and shields. The seven hit point goblin carries a shield +1 (ACS).
 
@@ -1953,7 +1951,7 @@ A shattered oven and much broken pottery lies about the room. In the southeast c
 
 In two rounds, eight more rats charge into the room through a small hole in the kitchen wall that leads to the forest outside the monastery.
 
-Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3, 2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 + disease; Save F1; ML 8; ALN.
+Giant Rats (10): AC 7; HD 1/2; hp 4,4,3,3,3, 2,2,2,1,1;MV 120’ (40’); 1 bite; D 1-3 + disease; Save F1; ML 8; AL N.
 
 The rats have been using the kitchen as a lair, storing their pile of apparent garbage here. Most of the pile consists of tattered pieces of leather, old bones, and many shiny pebbles, but characters willing to dig through the filth can find a few valuable items: three gems (60 gp, 40 gp, and 30 gp), 7 gp, 12 sp, 2 pp, and an arrow +2.
 
@@ -2011,7 +2009,7 @@ Wooden and leather debris litters this chamber; a thick layer of dust covers the
 
 This room is inhabited by a pair of the ugliest and meanest ogres to ever walk The Hill. They spend most of their time drinking and gambling, so there is a 50% chance that characters who stop to listen can hear their raucous bellows and heated arguments. The door to their room is locked, and the key hangs on the belt of the largest ogre.
 
-Ogres (2): AC 5; HD 4 +1; hp 21,19; MV 90’ (30'); #AT 1 club; D 1-10; Save F4; ML 10; ALC.
+Ogres (2): AC 5; HD 4 +1; hp 21,19; MV 90’ (30'); #AT 1 club; D 1-10; Save F4; ML 10; AL C.
 
 When discovered, the ogres are seated at a large table in the middle of the room. (It may be, of course, that they heard the party enter room #32 and went to investigate.) Because they are concentrating on rolling knucklebones (crude, bone dice) on the table before them, add one to their chance of being surprised (i.¢., they are surprised if you roll one, two, or three on 1d6).
 
@@ -2025,7 +2023,7 @@ Scattered about the top of the table, among the knucklebones and spilled winegla
 
 The door to this room is barred on the outside and locked. If it is opened, four male Neanderthals within are crouching belligerently, as if prepared to fight with their bare hands. They are quite surprised if any creatures other than ogres open the door, and wait to see what develops before attacking.
 
-Neanderthals (4): AC 8; HD 2; hp 9 each; MV 120' (40'); #AT 1; D 2-8; Save F2; ML 7; ALL.
+Neanderthals (4): AC 8; HD 2; hp 9 each; MV 120' (40'); #AT 1; D 2-8; Save F2; ML 7; AL L.
 
 These cavemen have been captured by ogres in one of the frequent skirmishes between these bands of mortal enemies. The peaceful Neanderthals have been trying to settle on The Hill for several years, but the ogres’ depredations during this time have made this difficult.
 
@@ -2498,7 +2496,7 @@ In a far-north alcove of this chamber lies a large pile of leather and cloth.
 
 Inside the pile are three adult shrews and six young. As the leading character advances into the room, the adult shrews bound out in fury, lashing at the intruders with razor-sharp teeth. The young are too small to engage in combat.
 
-Giant Shrews (3): AC 4; HD 1; hp 6, 4, 3; MV 180'(60'); #AT 2 bites; D 1-6/1-6; Save F1; ML 10; ALN.
+Giant Shrews (3): AC 4; HD 1; hp 6, 4, 3; MV 180'(60'); #AT 2 bites; D 1-6/1-6; Save F1; ML 10; AL N.
 
 Note that giant shrews always gain initiative on their first attack; for their second attack, they gain +1 to their initiative roll. A silence 15’ radius spell will “blind” them, since they use batlike radar to find their way about the darkness.
 
@@ -2508,7 +2506,7 @@ This long cavern winds back into darkness. The air feels moist here.
 
 This cavern contains a well of fresh, cool water, and an owl bear.
 
-Owl Bear (1): AC 5; HD 5; hp 22; MV 120’ (40'); #AT 2 claws, 1 bite; D 1-8/1-8/1-8; Save F3; ML 9; ALN; can “hug” for extra damage.
+Owl Bear (1): AC 5; HD 5; hp 22; MV 120’ (40'); #AT 2 claws, 1 bite; D 1-8/1-8/1-8; Save F3; ML 9; AL N; can “hug” for extra damage.
 
 The owl bear is jealously possessive of its den, and will attack and attempt to maul any characters who stroll through the entrance. The bear will be resting at the spot marked with an X on the maps so that it has a view of the mouth of its den. When it attacks, the owl bear will direct both of its claw attacks and its bite to the same character, repeating the attack until that character has been killed before selecting a new victim. It will not pursue characters beyond the mouth of its cave if it has already killed one; if not, it will pursue until it slays a character. It will then cease pursuit and drag the corpse back to its den.
 
@@ -2993,7 +2991,7 @@ A long room, 10 feet wide and 30 feet long, lies on each side of the opening beh
 
 The figures are Siswa, and they are huddled around two leather sacks. They do not notice the party unless disturbed. Each sack contains 150 gp. Embossed on the outside of these sacks are two black panthers and the word “Tithe” in Common Tongue.
 
-Siswa (5): AC 8; E1; hp 3, 1, 4, 6, 4; MV 120’ (40'); #AT 1; D 1d8; Save E1; ML 8; ALC; XP 13
+Siswa (5): AC 8; E1; hp 3, 1, 4, 6, 4; MV 120’ (40'); #AT 1; D 1d8; Save E1; ML 8; AL C; XP 13
 
 21. HALL JUNCTION
 
@@ -3007,7 +3005,7 @@ As the party enters the junction, four human bandits run out of the north wall a
 
 After their first attack, the bandit leader yells, “They aren’t Siswa!"’ The other bandits look confused. Immediately get the PCs’ reactions. The bandits stop fighting unless PCs attack them. If the Siswa in area 20 are still active, they run out toward the noise and probably attack. If they do, the bandits join the PCs against the Siswa. The bandit leader's name is Teikus.
 
-Bandits (4): AC 6; T1 (leader is T3); hp 8, 4, 3, 3; MV 90’ (30’); #AT 1; D 1d6; Save T1 (leader saves as T3); ML 8; ALC; XP 10
+Bandits (4): AC 6; T1 (leader is T3); hp 8, 4, 3, 3; MV 90’ (30’); #AT 1; D 1d6; Save T1 (leader saves as T3); ML 8; AL C; XP 10
 
 These bandits are wearing leather armor and are armed with short swords.
 
@@ -3043,7 +3041,7 @@ An elven warrior-seer, Alki, hid here when he heard the PCs coming. Unless the P
 
 Alki was one of the original elves summoned to help Rahasia, but he arrived at the temple after the others. He already has used his two spells. He will gladly join the PCs if invited. Alki is devoted to beauty, and thus to Rahasia.
 
-Alki, Elven Warrior-Seer: AC 4; E2; hp 12; MV 60’ (20’); #AT 1 at +2; D 1d8 +2; Save E2; ML9; ALL; XP 20; Str 16, Int 12, Wis 8, Dex 9, Con 13, Cha 12
+Alki, Elven Warrior-Seer: AC 4; E2; hp 12; MV 60’ (20’); #AT 1 at +2; D 1d8 +2; Save E2; ML9; AL L; XP 20; Str 16, Int 12, Wis 8, Dex 9, Con 13, Cha 12
 
 Spells:
 
@@ -3083,7 +3081,7 @@ Three Siswa are chanting here. They become most unreasonable if their chanting i
 
 Each character who attempts to pass this cell without being noticed has a base 65% chance of doing so. Thieves may add their move silently ability to this base chance if they state they are doing so. If any character fails, the Siswa notice immediately.
 
-Siswa (3): AC 8; E1; hp 4, 3, 2; MV 120’ (40’); #AT 1; D 1d8; Save E1; ML8; ALC; XP 13
+Siswa (3): AC 8; E1; hp 4, 3, 2; MV 120’ (40’); #AT 1; D 1d8; Save E1; ML8; AL C; XP 13
 
 27n. DARK CELL
 
@@ -3091,7 +3089,7 @@ In the back of this darkened cell, five figures rest upon the floor.
 
 The five Siswa in this room heard the PCs approaching and are only pretending to be asleep. The Siswa don’t know who they hear, but they attack at once if they discover anyone in the temple outside their brotherhood.
 
-Siswa (5): AC 8; E1; hp 6, 6, 5, 3, 2; MV 120’ (40'); #AT 1; D 1d8; Save E1; ML 8; ALC; XP 13
+Siswa (5): AC 8; E1; hp 6, 6, 5, 3, 2; MV 120’ (40'); #AT 1; D 1d8; Save E1; ML 8; AL C; XP 13
 
 27o. DARK CELL
 
@@ -3099,7 +3097,7 @@ In the back of this dark cell lie five robed figures.
 
 These Siswa are asleep. Each character attempting to pass this cell must roll his dexterity or less on 1d20 or awaken these Siswa. These Siswa also awaken if a fight occurs in the next room, cell 27n.
 
-Siswa (5): AC 8; El; hp 6, 6, 5, 4, 3; MV 120’ (40’); #AT 1; D 1d8; Save E1; ML 8; ALC; XP 13
+Siswa (5): AC 8; El; hp 6, 6, 5, 4, 3; MV 120’ (40’); #AT 1; D 1d8; Save E1; ML 8; AL C; XP 13
 
 28. HALL OF THE SISWA
 
@@ -3134,7 +3132,7 @@ Die Roll Location
 3 East Hall
 4 West Hall
 
-Gelatinous Cube: AC 8; HD 4*; hp 17; MV 60’ (20'); #AT 1; D 2d4 + paralyze; Save F2; ML 12; ALN; XP 125
+Gelatinous Cube: AC 8; HD 4*; hp 17; MV 60’ (20'); #AT 1; D 2d4 + paralyze; Save F2; ML 12; AL N; XP 125
 
 31. NORTHWEST JUNCTION
 
@@ -3209,7 +3207,7 @@ This room is 20 feet square, with a 10-footwide alcove in the north end of the e
 
 This is the most important encounter on this level. The dark figure is the Rahib. He will try to destroy the PCs. However, if he doesn’t think he can fight the PCs and win, he tries to escape to area 40, where his panthers are. Role-play the Rahib as intelligently as possible. The PCs’ best move is to rush him and overpower him immediately. Buried under the papers on the table is a set of keys to all the doors in the temple.
 
-The Rahib: AC 3; C5; hp 35; MV 60’ (20'); #AT 1 at +1; D 1d6 +1; Save C5; ML 10; ALC; XP 200; Str 12, Int 11, Wis 16, Dex 13, Con 12, Cha 17
+The Rahib: AC 3; C5; hp 35; MV 60’ (20'); #AT 1 at +1; D 1d6 +1; Save C5; ML 10; AL C; XP 200; Str 12, Int 11, Wis 16, Dex 13, Con 12, Cha 17
 
 Spells (Clerical):
 
@@ -3353,13 +3351,13 @@ The cells are 10 feet square and empty except as noted below. The keys to all th
 
 Locked in cell b is a tall human fighter named Baik Telor. He wandered into the roadside shrine and was caught by the Siswa. He will gladly join the party if he is given weapons. He is wearing chainmail, and his dress is somewhat Arabian—turban and loose silk breeches.
 
-Baik Telor, Human Fighter: AC 5; F4; hp 24; MV 120’ (20'); #AT 1 at + 1; D unarmed; Save F4; ML 10; ALL; XP 50; Str 15; Int 9; Wis 12; Dex 10; Con 9; Cha 13
+Baik Telor, Human Fighter: AC 5; F4; hp 24; MV 120’ (20'); #AT 1 at + 1; D unarmed; Save F4; ML 10; AL L; XP 50; Str 15; Int 9; Wis 12; Dex 10; Con 9; Cha 13
 
 Baik Telor is wearing chainmail.
 
 Hasan is locked in cell 49q. He has no weapons or armor. Although he is tired, he is ready and willing to join the PCs against the Rahib.
 
-Hasan: AC 8; E2; hp 8; MV 120’ (40’); #AT 1; D unarmed; Save E2; ML 10; ALL; XP 20; Str 12; Int 16; Wis 10; Dex 13; Con 10; Cha 13
+Hasan: AC 8; E2; hp 8; MV 120’ (40’); #AT 1; D unarmed; Save E2; ML 10; AL L; XP 20; Str 12; Int 16; Wis 10; Dex 13; Con 10; Cha 13
 
 Cell r is filled with old bones. The Rahib gives them to Karelena and Solorena. They use the bones to create skeletons that sometimes appear as wandering monsters.
 
@@ -3548,15 +3546,6 @@ Faded frescos of golden towers and diamond trees cover the walls and ceiling of 
 
 The floor in this room is level. On the west side of the cube is a secret door to area 56. Another secret door, at the top of the ladder, leads to area 54.
 
-
-
-
-
-
-
-
-
-
 56. INNER WEST VAULT
 
 This vault is empty.
@@ -3571,7 +3560,7 @@ The walls of this 30-foot-square room are meticulously clean. A ladder leans aga
 
 A gelatinous cube is hiding behind the stone cube. It attacks the PCs on sight. There are 60 ep, 40 gp, and one 50-gp gem inside the creature.
 
-Gelatinous Cube: AC 8; HD 4*; hp 15; MV 60' (20'); #AT 1; D 2d4 + paralysis; Save F2; M 12; ALN; XP 125
+Gelatinous Cube: AC 8; HD 4*; hp 15; MV 60' (20'); #AT 1; D 2d4 + paralysis; Save F2; M 12; AL N; XP 125
 
 59. INNER EAST VAUIT
 
@@ -3605,7 +3594,7 @@ Piteous weeping comes from within this cell.
 
 An elven maiden, Miryala, is chained to the wall with leg irons in the southeast part of the cell. She cowers in fear when the PCs approach. She is tired, dizzy, and hungry. She currently has no spells.
 
-Miryala: AC 9; E1; hp 6; MV 120’ (40'); #AT 1; D Unarmed; Save E1; ML 5; ALN
+Miryala: AC 9; E1; hp 6; MV 120’ (40'); #AT 1; D Unarmed; Save E1; ML 5; AL N
 
 Miryala’s kidnapping was not discovered until after the PCs left the elven village. The Rahib is keeping her here until she recovers enough for Trilena to take over her body. Trilena would prefer someone with a higher charisma (such as Rahasia), but doesn’t want to wait much longer. Miryala knows nothing about her captors or the tower.
 
@@ -3615,7 +3604,7 @@ Thick cobwebs cover the walls and ceiling of this cell. Within the cobwebs, some
 
 A black widow spider in the web attacks anyone who approaches the web.
 
-Black Widow Spider: AC 6; HD 3*; hp 20; MV 60’ (20'); #AT 1; D 2d6 + poison; Save F2; ML 8; ALN; XP 50
+Black Widow Spider: AC 6; HD 3*; hp 20; MV 60’ (20'); #AT 1; D 2d6 + poison; Save F2; ML 8; AL N; XP 50
 
 The bones and clothing of a dead adventurer hang in the web in the northeast corner of the room. The adventurer was a woman wearing leather armor. There are two daggers and a leather pouch on her belt. The pouch contains 50 gp, 20 pp, and 10 50-gp gems.
 
@@ -3627,7 +3616,7 @@ As the door opens, you hear a metallic clank and something moving in the cell.
 
 A magician named Merdiz is chained by leg irons to the wall in the northwest corner of the cell. He casts a sleep spell at the PCs on sight. Then he uses his spells, as needed, to defeat the PCs.
 
-Merdiz, Human Magician: AC 8; M4; hp 9; MV 120’ (40’); #AT 1; D Unarmed; Save M4; ML 10; ALN; XP 50
+Merdiz, Human Magician: AC 8; M4; hp 9; MV 120’ (40’); #AT 1; D Unarmed; Save M4; ML 10; AL N; XP 50
 
 Spells:
 
@@ -3732,7 +3721,7 @@ This room is full of explosive gas from leaking bottles. If the PCs extinguish a
 
 The gleaming red eyes belong to a pack of giant rats. The rats attack anyone who enters this room.
 
-Giant Rats (8): (AC 7; HD 1d4 points; hp 4, 3, 3,3, 3,3, 2, 2; MV 120’ (40’); #AT 1;D 1d3 + disease; Save NM; M 8; ALN; XP 3
+Giant Rats (8): (AC 7; HD 1d4 points; hp 4, 3, 3,3, 3,3, 2, 2; MV 120’ (40’); #AT 1; D 1d3 + disease; Save NM; M 8; AL N; XP 3
 
 The jars are filled with old chemicals and potion ingredients. The contents are all now worthless.
 
@@ -3772,7 +3761,7 @@ The hole leads to area 79. Characters will have no trouble passing through here.
 
 Any character who drinks this Good Wine falls unconscious for 1 or 2 turns. Upon reviving, the character remembers a vision of a stone obelisk demanding the answer to a question. The character feels as if the answer is known, but he cannot remember it.
 
-After reviving, the character is drunk and clumsy for 1d4 turns, making all attacks at — 2. Make a random encounter check every turn due to the noise drunk characters make.
+After reviving, the character is drunk and clumsy for 1d4 turns, making all attacks at -2. Make a random encounter check every turn due to the noise drunk characters make.
 
 The numbers on the label are a code that can help the PCs pass safely through the western teleport maze, area 93.
 
@@ -3857,7 +3846,7 @@ The walls and floor of this room are covered with rare and expensive carpets. Pi
 
 Solorena is asleep on the pile of pillows. Remember that she is using the body of Sylva, a willowy, golden-haired elf maiden. Solorena’s powers are described in the Appendix under New Monsters.
 
-Solorena, Witch: AC 9; M1; hp 4; MV 120’ (40’); #AT 1; D 1d4; Save M1; ML6; ALC; XP 10
+Solorena, Witch: AC 9; M1; hp 4; MV 120’ (40’); #AT 1; D 1d4; Save M1; ML6; AL C; XP 10
 
 Spells:
 
@@ -3869,7 +3858,7 @@ If the PCs wake her, Solorena tries to escape through the secret door in the sou
 
 If she cannot escape, she pretends to be a prisoner. If the PCs attack her, she fights back and mentally summons her pet, an intelligent black panther. The panther arrives 1d10 rounds later to defend her.
 
-Black Panther: AC 4; HD 4; hp 14; MV 210’ (70'); #AT 3; D 1d4/1d4/1d8; Save F2; ML 8; ALN; XP 75
+Black Panther: AC 4; HD 4; hp 14; MV 210’ (70'); #AT 3; D 1d4/1d4/1d8; Save F2; ML 8; AL N; XP 75
 
 The carpet with the phoenix design on it is of very high quality and is worth 40 gp. It weights 300 coin weight.
 
@@ -3883,7 +3872,7 @@ A huge statue of a tremendously fat man sits cross-legged in the center of the r
 
 Each portcullis leads to one of three mazes, area 92, 93, or 94. The statue is a magical wine taster. Whenever wine is poured into its mouth, it opens one of the portcullises. The portcullis that is opened depends upon the quality of the wine poured into the statue. The better the wine poured into the taster, the shorter and safer the maze.
 
-Each type of wine found in the tower has a serial number printed at the bottom of the label. The last letter of that number indicates which portcullis is opened. Thus, ‘Champagne du le Stomp” (last letter N) opens the portcullis in the north wall. “Red Dragon Crush” (last letter W) opens the west portcullis. ‘‘Grapemash” (last letter S$) opens the south portcullis. Any wine not found in the tower is always judged as the inferior ‘‘Grapemash.”
+Each type of wine found in the tower has a serial number printed at the bottom of the label. The last letter of that number indicates which portcullis is opened. Thus, ‘Champagne du le Stomp” (last letter N) opens the portcullis in the north wall. “Red Dragon Crush” (last letter W) opens the west portcullis. ‘‘Grapemash” (last letter S) opens the south portcullis. Any wine not found in the tower is always judged as the inferior ‘‘Grapemash.”
 
 92-94. TELEPORT MAZES
 
@@ -3898,43 +3887,28 @@ If the PCs step through the correct combination of archways, they never have to 
 92. North Maze (Safe combination: 3132)
 
 Archway #3 at 92A leads to 92B
-
 Archway #1 at 92B leads to 92C
-
 Archway #3 at 92C leads to 92D
-
 Archway #2 at 92D leads to room 96, north alcove.
 
 93. West Maze (Safe combination: 331422)
 
 Archway #3 at 93A leads to 93B
-
 Archway #3 at 93B leads to 93C
-
 Archway #1 at 93C leads to 93D
-
 Archway #4 at 93D leads to 93E
-
 Archway #2 at 93E leads to 93F
-
 Archway #2 at 93F leads to room 96, middle alcove.
 
 94. South Maze (Safe combination: 14231241)
 
 Archway #1 at 94A leads to 94B
-
 Archway #4 at 94B leads to 94C
-
 Archway #2 at 94C leads to 94D
-
 Archway #3 at 94D leads to 94E
-
 Archway #1 at 94E leads to 94F
-
 Archway #2 at 94F leads to 94G
-
 Archway #4 at 94G leads to 94H
-
 Archway #1 at 94H leads to room 96, south alcove.
 
 When the PCs enter 92A, 93A, or 94A, use the following boxed description.
@@ -5280,7 +5254,7 @@ A well-to-do merchant, Fortunato Vorloi, and his daughter Lucia live here. Fortu
 
 Several drops of a brownish liquid are scattered amongst the bloodstains. If the liquid is tasted, it proves to be a particularly strong type of wine. Several items of value (jewelry, money, etc.) are obviously missing. None of it is traceable.
 
-If the characters carefully examine the bloodstains, they find a small section where the stain seems to have been rubbed away. Something may have been written there. It is hard to tell but the letters could be BAD . . ., BAO...,RAD...,RAO... The message is obviously incomplete.
+If the characters carefully examine the bloodstains, they find a small section where the stain seems to have been rubbed away. Something may have been written there. It is hard to tell but the letters could be BAD…, BAO..., RAD..., RAO... The message is obviously incomplete.
 
 The daggger is crusted with dried blood. A few strands of red hair are dried in the blood. Near the cellar entrance is a signet ring of the Torenescu family. A short length of bloodstained hemp rope lies near the trapdoor. Careful examination by a character looking for clues reveals small bits of pitch stuck to the rungs of the ladder.
 
@@ -5420,7 +5394,7 @@ As the second day wears on, the tensions of the riot slowly subside. The tension
 
 Read the following section to player characters hired by Theosius (of the Torenescu faction) when they return to their inn.
 
-Back at the inn, the innkeeper calls out, “Excuse me, but a gentleman called for you while you were out. He gave me a message, let’s see. Uh, you were to goto. . . It was to go someplace and get a package, that I know. The Senator Eipistlo's house, that’s where you're to take it. Ah, from the Jade Sea, a boat down at the wharf. And there was a warning, too, gentlemen? He said that there were those who would try to take what you carried.”
+Back at the inn, the innkeeper calls out, “Excuse me, but a gentleman called for you while you were out. He gave me a message, let’s see. Uh, you were to goto... It was to go someplace and get a package, that I know. The Senator Eipistlo's house, that’s where you're to take it. Ah, from the Jade Sea, a boat down at the wharf. And there was a warning, too, gentlemen? He said that there were those who would try to take what you carried.”
 
 Characters contacted by the Veiled Society receive the following message as they are out on the streets.
 
@@ -5460,7 +5434,7 @@ Vinter's Lane is a dark and lonely place this late at night. The lane is narrow 
 
 The only person in the booth is a fat, sweaty old man of about 60. Around him are bottles and jugs of wine. The air has a sour-sweet smell.
 
-“Gentlemen, you have chosen well to come to me,” says the man in the booth. “I, Aristo, am the finest dealer of wines in the city! What would you . . .” He stops in a fit of coughing and hacking.
+“Gentlemen, you have chosen well to come to me,” says the man in the booth. “I, Aristo, am the finest dealer of wines in the city! What would you… ” He stops in a fit of coughing and hacking.
 
 Before he can continue, 10 men appear, five at each end of the street. They all wear black hoods. They stop 10’ away from the booth.
 
@@ -5628,7 +5602,7 @@ The traitor slain by the members was the man who assisted Akarios with the murde
 
 Searching the room reveals nothing of use or value.
 
-Veiled Society Members (20): AC 9; MV 40’; HD 1; hp 4; #AT 1; D 1-4; Save NM; ML 9; ALC
+Veiled Society Members (20): AC 9; MV 40’; HD 1; hp 4; #AT 1; D 1-4; Save NM; ML 9; AL C
 
 Leader (3rd level magic-user): AC 8; MV 40’; HD 2; hp 7; #AT 1 at +1; D 1-4+1 Save M3+1; ML 8; AL C; Spells charm person, sleep, invisibility; Magic items dagger +1; ring of protection +1
 
@@ -5636,7 +5610,7 @@ The leader is Antonito Radu. If captured, he tries to place the blame for all ev
 
 If the characters did not defeat the guard in the alley in the previous encounter, he is in this chamber. He is mute and attacks anyone he does not recognize. He does not recognize the player characters. He is slavishly loyal to the Radu and does not reveal anything about them willingly.
 
-Giant Guard (3rd level fighter): AC 6; MV 40’; F3; hp 19; #AT 1 at +3; D 1-10 +3; Save F3; ML 12; ALC
+Giant Guard (3rd level fighter): AC 6; MV 40’; F3; hp 19; #AT 1 at +3; D 1-10 +3; Save F3; ML 12; AL C
 
 6. Cell
 
@@ -5773,7 +5747,7 @@ This party of four wear insect masks, carry large clay jars, and hum like bees. 
 
 This party of four wears animal masks; Hawk, Fish, Cat, and Fox (these are also the characters’ names). They are carrying a stretcher with a gourd on it. These charac ters are rushing their ‘sick friend’ (the gourd: Dog) to a cleric. If the party has a cleric, the Cynidiceans will insist that the cleric cure their friend.
 
-This group of six in bright yellow robes and human masks will stop and stare at the par ty. They will ‘recognize’ a party member as the King or Queen of Cynidicea. They will follow the character, sing songs of praise, and wait on the character hand and foot. In general, they will smother the character with attention. However, they will not fight for their King or Queen. They are more likely to grab the character and try to rush him or her to safety. They are: AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 7; ALC. Their spokesman is Policrates the Herald.
+This group of six in bright yellow robes and human masks will stop and stare at the par ty. They will ‘recognize’ a party member as the King or Queen of Cynidicea. They will follow the character, sing songs of praise, and wait on the character hand and foot. In general, they will smother the character with attention. However, they will not fight for their King or Queen. They are more likely to grab the character and try to rush him or her to safety. They are: AC 9; NM; hp 4 each; MV 40’; #AT 1; D 1-6; ML 7; AL C. Their spokesman is Policrates the Herald.
 
 A group of four Cynidiceans in feathered robes and bird masks approach. On secing the party, the Cynidiceans will ‘fly’ (run) forward, flapping their arms and squawk ing. They will invite the party to fly along and will lead them on a merry chase through the pyramid. If the party refuses to join the Cynidiceans, the Cynidiceans will insult the party as poor creatures who cannot fly (‘Thou land-bound slugs!”’), circle three times, and ‘fly’ away. If attacked, the Cynidiceans (AC 9; NM; hp 4; MV 40’; Save: F1) will ‘fly’ away.
 
