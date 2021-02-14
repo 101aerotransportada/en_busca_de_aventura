@@ -488,7 +488,7 @@ The altar is made of marble, too heavy to be moved. The pedestal is a solid bloc
 
 To your left you see an open area about 30 feet east-west by about 20 feet north-south. The area seems to be empty.
 
-This is the room indicated on the treasure map found in the lair of the troglodytes. The room is empty except for the secret treasure located at the spot on the map marked with an “X.” The floor in the room is hinged along the south wall. When the entire party has entered this room, Elwyn, who is observing from her corridor, triggers a mechanism that causes the floor to open up under the party. . .
+This is the room indicated on the treasure map found in the lair of the troglodytes. The room is empty except for the secret treasure located at the spot on the map marked with an “X.” The floor in the room is hinged along the south wall. When the entire party has entered this room, Elwyn, who is observing from her corridor, triggers a mechanism that causes the floor to open up under the party...
 
 Suddenly, you feel the floor begin to move beneath your feet. As the floor swings down from a hinge near the south wall, you fall into the darkness, landing on the floor below. The floor swings back into position above you, creating a strong gust of air that extinguishes all torches and lan terns.
 
@@ -913,10 +913,8 @@ G. SHUNNED CAVERN: Even the normal inhabitants of this area, including the ogre,
 
 32. EMPTY GALLERY: The odor of these places is awful. Bones and rotting corpses are spread here and there amidst a litter of dead leaves and old branches. If a careful search is made, adventurers will find a coin every round: 1-2 = 1 cp, 3 —41 sp, 5-61 ep. The sound of such searching might bring visitors! Roll on the table below for an encounter:
 
-1 Ow! bear from 34., below
-2 2-12 giant rats (AC 7, HD 1/2, hp 2
-each, #AT 1, D 1-3 plus disease, MV
-40', Save NM, ML 8)
+1 Owl bear from 34., below
+2 2-12 giant rats (AC 7, HD 1/2, hp 2 each, #AT 1, D 1-3 plus disease, MV 40', Save NM, ML 8)
 3 Gray ooze from 33., below
 4-6 Nothing is attracted to the noise
 
@@ -2063,9 +2061,9 @@ Three hobgoblins and two goblins are greedily feasting on a shank of meat at a d
 
 This chamber serves as a guardroom and line of defense to prevent unwelcome intruders from discovering the entrance to the dungeon below the monastery. Six hobgoblins and six goblins are on duty here, protecting the approach to their lair and hideout. Four of the hobgoblins and four of the goblins are sleeping when the party discovers this room; the sleeping monsters require two rounds to arm and prepare for battle.
 
-Hobgoblins (6): AC 6; HD 1+1; hp 9,8,6,6,5, 4; MV 90’ (30'); #AT 1; D 1-8; Save F1; ML 9(8); ALC
+Hobgoblins (6): AC 6; HD 1+1; hp 9,8,6,6,5, 4; MV 90’ (30'); #AT 1; D 1-8; Save F1; ML 9(8); AL C
 
-Goblins (6): AC 6; HD 1-1; hp 7,6,5,4,3,2; MV 60' (20')’ #AT 1; D 1-6; Save NM; ML 9(6); ALC
+Goblins (6): AC 6; HD 1-1; hp 7,6,5,4,3,2; MV 60' (20')’ #AT 1; D 1-6; Save NM; ML 9(6); AL C
 
 The nine point hobgoblin carries a shield +1 (AC 5); his morale is 9 (instead of 8), and as long as he is alive to spur the others on, all of the hobgoblins and goblins also have morale 9.
 
@@ -2088,8 +2086,8 @@ TABLE 5
 WANDERING MONSTERS IN DUNGEON LEVEL I
 
 Die Roll Creature Encountered
-1-2 Bugbears (1-3): AC 5; HD 3 +1; hp 16,14, 13; MV 90’ (30'); #AT 1; D 2 8; Save F3; ML 9; ALC.
-3-4 Goblins (2-8): AC 6; HD 1-1; hp 7,6,5, 5,4,3,2,1; MV 60'(20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
+1-2 Bugbears (1-3): AC 5; HD 3 +1; hp 16,14, 13; MV 90’ (30'); #AT 1; D 2 8; Save F3; ML 9; AL C.
+3-4 Goblins (2-8): AC 6; HD 1-1; hp 7,6,5, 5,4,3,2,1; MV 60'(20'); #AT 1; D 1-6; Save NM; ML 7; AL C.
 5-6 Hobgoblins (1-4): AC 6; HD 1+1; hp 8,6,6, 6,6,5; MV 90'(30'); #AT 1; D 1-8; Save F1; ML 8; AL C.
 
 Key to areas in dungeon level I
@@ -2112,7 +2110,7 @@ The door to this chamber is locked; three bugbears reside within. They have just
 
 If the characters can pick the lock, or smash the door on the first try, they automatically gain initiative. If they hit the door once without breaking it open, however, the bugbears are armed and waiting for them on the next round.
 
-Bugbears (3): AC 5; HD 3 +1; hp 15,13,10; MV 90'(30'); #AT 1; D 1-8 +1 of 1-8 +2; Save F3; ML 9; ALC.
+Bugbears (3): AC 5; HD 3 +1; hp 15,13,10; MV 90'(30'); #AT 1; D 1-8 +1 of 1-8 +2; Save F3; ML 9; AL C.
 
 One of the bugbears carries a battle axe +1; the other two carry swords.
 
@@ -2124,9 +2122,9 @@ The key to the chest and the key to this room are on a thong around the neck of 
 
 In this dingy chamber is found one hapless thief, captured by the bugbears on the outskirts of Guido’s Fort three weeks earlier. He used to own most of the equipment found in the bugbears’ chest (room #43).
 
-Cullen DeFilch: AC 7; T2; hp 7; #AT 1; D by weapon; Save T2; ML9; ALN; $ 10;18; W 13; D 16; C 9; CH 10.
+Cullen DeFilch: AC 7; T2; hp 7; #AT 1; D by weapon; Save T2; ML9; AL N; $ 10;18; W 13; D 16; C 9; CH 10.
 
-If the characters release Cullen from his prison, he is most grateful, happy to join the party for the duration of the adventure. He does not ask for a share of the loot, claiming that his freedom is reward enough. If, however, he should be left alone with a bag of jewels for example, there is no guarantee that the bag remains as full as it was to begin with . . .
+If the characters release Cullen from his prison, he is most grateful, happy to join the party for the duration of the adventure. He does not ask for a share of the loot, claiming that his freedom is reward enough. If, however, he should be left alone with a bag of jewels for example, there is no guarantee that the bag remains as full as it was to begin with...
 
 If the characters are not interested in the services of another thief. Cullen doesn’t try to change their minds. He asks if the party has seen any sign of his equipment, and if they have he asks to have it returned. He does not become hostile, however, feeling his position to be too precarious to risk antagonizing his rescuers. He simply leaves and tries to make his way back to Guido's Fort if he is not invited to join the party.
 
@@ -2138,7 +2136,7 @@ A shallow stream runs through this room, falling from a spout in the ceiling, ru
 
 Lurking in the shadows where the stream disappears through the floor are three giant centipedes. As soon as they catch sight of intruders in the room, they rush forward to attack.
 
-Giant Centipedes (3): AC 9; HD 1/2; hp 3,2, 2; MV 60'(20'); #AT 1; D poison; Save NM; ML7: ALN.
+Giant Centipedes (3): AC 9; HD 1/2; hp 3,2, 2; MV 60'(20'); #AT 1; D poison; Save NM; ML7: AL N.
 
 Although the level of the stream is low now, stains on the walls indicate that it often fills the room to a depth of three or four feet. The spout in the ceiling is only one foot in diameter, and the stream disappears through a fourfoot diameter hole in the floor. The hole in the floor drops through 60 feet of a winding, narrow shaft, before entering a large cavern totally filled with water.
 
@@ -2148,7 +2146,7 @@ If any characters are foolish enough to drop into this shaft, roll 346 to see ho
 
 A torture rack, an iron maiden, and a huge pot of bubbling oil all give good indication of this room’s purpose. Feeding the fire beneath the oil are two goblins.
 
-Goblins (2): AC 6; HD 1-1; hp 4,3; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML7; ALC.
+Goblins (2): AC 6; HD 1-1; hp 4,3; MV 60’ (20'); #AT 1; D 1-6; Save NM; ML7; AL C.
 
 Along the southern wall of the room are four cells, each with a metal door. Each door has a barred window, persumably to let prisoners watch the “entertainment.” Mercifully, all of the cells are empty of living creatures, although a moldering skeleton lies on the bed in the far east cell. A ring bearing a large iron key hangs on the wall of the chamber. An examination shows that the key opens all four cell doors.
 
@@ -2176,7 +2174,7 @@ The door to this room is not locked. (Its inhabitant—the foul cleric Moray Vac
 
 A table, bed, and several chairs are visible in this room. Seated at the table, a hunched and scrawny figure is apparently writing on a sheet of parchment.
 
-Moray Vaco: AC 2; C3; hp 12; #AT 1; D 2-7; Save C3; ALC; § 12; 110; W 16; D 12; C 9; CH 6; +2 to saving throws (wisdom adjustment).
+Moray Vaco: AC 2; C3; hp 12; #AT 1; D 2-7; Save C3; AL C; § 12; 110; W 16; D 12; C 9; CH 6; +2 to saving throws (wisdom adjustment).
 
 Spells: First Level: protection from evil, detect magic.
 
@@ -2206,11 +2204,11 @@ This cell, at the far south side of the forge room is where the dwarf has been k
 
 51. GOBLIN ARENA
 
-Bugbear (1): AC 5; HD 3+1; hp 16; MV 90’ (30'); #AT 1; D 2-8; Save F3; ML9; ALC.
+Bugbear (1): AC 5; HD 3+1; hp 16; MV 90’ (30'); #AT 1; D 2-8; Save F3; ML9; AL C.
 
 Hobgoblins (8): AC 6; HD 1+1; hp 9,8,7,6,5, 4,3,2; MV 90’ (30'); #AT 1; D 1-6; Save F1; ML 8; AL C.
 
-Gareth Ironhand: AC 7; D 2; hp 13; #AT 1;D 2-7; Save D2; ALL; $ 13,110, W9,D 12, C 16, CH8.
+Gareth Ironhand: AC 7; D 2; hp 13; #AT 1;D 2-7; Save D2; AL L; $ 13,110, W9,D 12, C 16, CH8.
 
 The bugbear carries a large club, the hobgoblins wear shortswords, and the dwarf wears a leather apron and carries a larger hammer.
 
@@ -2218,7 +2216,7 @@ Torches placed on the walls at frequent intervals light this chamber. Two massiv
 
 If the characters approach for a closer look, they see that all of the bodies have been pierced by many arrows, but they have not been dead for long. As the characters approach, two shadowy forms advance from behind one of the columns to stand by the bodies and growl menacingly at the PCs. They are two wolves trained as war dogs.
 
-Wolves (2): AC 7; HD 2+2; hp 12,11; MV 180' (60'); #AT 1; D 1-6; Save F1; ML 8; ALN.
+Wolves (2): AC 7; HD 2+2; hp 12,11; MV 180' (60'); #AT 1; D 1-6; Save F1; ML 8; AL N.
 
 The dogs were trained by the party of adventurers now lying dead upon the arena floor. The canines are very loyal creatures, remaining here to guard their masters. The dogs look scrawny and underfed.
 
@@ -2244,7 +2242,7 @@ In this large room, four long tables, each bracketed by a pair of benches, easil
 
 If the characters enter this room before they enter the kitchen (room #54), then one round after the characters enter this room, the door to room #54 swings open; two very small goblins carrying large, empty trays stroll in. They squeak with fright at the sight of the intruders and rush back from whence they came to alert two other goblins in room #54; all four then rush into the hall to alert the guards in room #57, The guards appear in three rounds. If the characters have already been to room #54, the goblins will already have alerted the guards.
 
-Goblins (4): AC 6; HD 1-1; hp 2,2,1,1; MV 60' (20’); No attacks or damage; Save NM; ML 7; ALC.
+Goblins (4): AC 6; HD 1-1; hp 2,2,1,1; MV 60' (20’); No attacks or damage; Save NM; ML 7; AL C.
 
 54. KITCHEN
 
@@ -2264,7 +2262,7 @@ Two glittering gems adorn the eyesockets of this statue. Each is a fist-sized st
 
 Each gem is hooked to an elaborate trap, which is sprung unless removed by a thief. Note that each gem’s trap must be removed individually. If a trap is sprung, the statue's mouth drops open and four robber flies buzz angrily into the room. They attack the characters randomly, although one is certain to go after the character stealing the gems.
 
-Robber Flies (4): AC 6; HD 2; hp 10,8,8,6; MV 180 (60'); #AT 1; D 1-8; Save F1; ML 8; ALN.
+Robber Flies (4): AC 6; HD 2; hp 10,8,8,6; MV 180 (60'); #AT 1; D 1-8; Save F1; ML 8; AL N.
 
 56. SMALL SECRET CHAMBER
 
@@ -2280,9 +2278,9 @@ A group of goblins and hobgoblins are seated around two tables and three wooden 
 
 The room is a place for a complement of goblin and hobgoblin guards to wait while they are “‘on call.” The guards are fully armed and armored, and respond quickly to any threat to their stronghold.
 
-Hobgoblins (4): AC 6; HD 1+1; hp 9,7,6,5; MV 90' (30'); #AT 1; D 1-8; Save F1; ML 8; ALC.
+Hobgoblins (4): AC 6; HD 1+1; hp 9,7,6,5; MV 90' (30'); #AT 1; D 1-8; Save F1; ML 8; AL C.
 
-Goblins (4): AC 6; HD 1-1; hp 6,5,5,3; MV 60' (20'); #AT 1; D 1-6; Save NM; ML 7; ALC.
+Goblins (4): AC 6; HD 1-1; hp 6,5,5,3; MV 60' (20'); #AT 1; D 1-6; Save NM; ML 7; AL C.
 
 If the party attacks, one of the hobgoblins tries to slip out the back door to alert the hobgoblins in room #65. The other guards fight a delaying action until reinforcements arrive. It takes five rounds for the hobgoblins to arm themselves and run to the fight.
 
@@ -2294,7 +2292,7 @@ This room is actually a giant birdcage. Having heard the door open, a flock of b
 
 The hobgoblin king has captured a flock of deadly piranha birds, and keeps them here, feeding them only rarely. They are halfstarved and ravenously attack any creature so unfortunate as to have opened the door to the foom.
 
-Piranha Birds (8): AC 6; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1, 1,; MV 180’ (60’) flying; #AT 1; D 1-4; Save NM; ML 8; ALN.
+Piranha Birds (8): AC 6; HD 1/2; hp 4, 4, 3, 3, 2, 2, 1, 1,; MV 180’ (60’) flying; #AT 1; D 1-4; Save NM; ML 8; AL N.
 
 For a complete description of piranha birds, see New Monsters.
 
@@ -2356,7 +2354,7 @@ If the party smashed in the door to this room before they have investigated the 
 
 This chamber is identical to room #64, except that 14 hobgoblins are sleeping on the bunks around the room. The hobgoblins are armed and ready for combat one round after awakening, but the PCs automatically gain initiative on that round.
 
-Hobgoblins (14): AC 6; HD 1 +1; hp 9, 8, 8, 7, 7, 6, 6, 5, 5,4, 4, 3, 3, 2; MV 90’ (30'); #AT 1; D 1-8; Save F1; ML 8; ALC.
+Hobgoblins (14): AC 6; HD 1 +1; hp 9, 8, 8, 7, 7, 6, 6, 5, 5,4, 4, 3, 3, 2; MV 90’ (30'); #AT 1; D 1-8; Save F1; ML 8; AL C.
 
 Each hobgoblin is armed with a sword and protected by a shield.
 
@@ -2368,11 +2366,11 @@ The huge double doors to this room are not locked. This chamber is where the hob
 
 A huge hobgoblin is seated on the throne at the south end of the chamber. One hobgoblin bodyguard is standing to each side of the throne. Four other hobgoblins are seated around a huge fire burning in the center of the room; two more hobgoblins are drawing liquid from a keg in the southwest corner of the room. Apparently, some kind of party is going on because the atmosphere in the room is festive.
 
-Hobgoblin King (1): AC 6; HD 5; hp 22; MV 90' (30'); #AT 1; D 1-8+2; Save F5; ML 12: ALG.
+Hobgoblin King (1): AC 6; HD 5; hp 22; MV 90' (30'); #AT 1; D 1-8+2; Save F5; ML 12: AL G.
 
-Hobgoblin Bodyguards (2): AC: 6; HD 4; hp 17,14; MV 90' (30); #AT 1; D 1-6/1-6 +1; Save F4; ML 10 (8); ALC.
+Hobgoblin Bodyguards (2): AC: 6; HD 4; hp 17,14; MV 90' (30); #AT 1; D 1-6/1-6 +1; Save F4; ML 10 (8); AL C.
 
-Hobgoblins (6): AC 6; HD 1+1; hp 9, 7, 6, 5, 3, 2; MV 90'(30’); #AT 1; D 1-8; Save Fi; ML 10 (8); ALC.
+Hobgoblins (6): AC 6; HD 1+1; hp 9, 7, 6, 5, 3, 2; MV 90'(30’); #AT 1; D 1-8; Save Fi; ML 10 (8); AL C.
 
 The king’s personal bodyguards are armed with spears, one of which is a spear +1. The king is wearing a ring of fire resistance, so he is invulnerable to normal fires and gains a bonus when saving against magical fires.
 
@@ -2429,11 +2427,11 @@ TABLE 6
 WANDERING MONSTERS IN DUNGEON LEVEL II
 
 Die Roll Creature Encountered
-1 Piranha Birds (4-8): AC 6; HD 1/2; bp 4), 45S yiFi 25 2h dy 16 ev 180'(60') flying; #AT 1; D 1-4; Save NM; ML 8; ALN.
-2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save F1; ML8; ALN.
-3 Thoul (1): AC 6; HD 3**; hp 14; MV 120’ (40'); #AT 2 claws; D 1-3/ 1-3 + paralysis; Save F3; ML 10; AL Cc
-4 Bugbears (1-4); AC 5; HD 3 +1; hp 14, 12, 11, 9; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; ALC.
-5 Ogres (1-2): AC 5; HD 4+1; hp 19, 16; MV 90'(30'); #AT 1; D 1-10; Save F4; ML 10; ALC. 
+1 Piranha Birds (4-8): AC 6; HD 1/2; bp 4), 45S yiFi 25 2h dy 16 ev 180'(60') flying; #AT 1; D 1-4; Save NM; ML 8; AL N.
+2 Robber Flies (1-4): AC 6; HD 2; hp 12, 10, 9, 7; MV 180’ (60’) flying; #AT 1; D 108; Save F1; ML8; AL N.
+3 Thoul (1): AC 6; HD 3**; hp 14; MV 120’ (40'); #AT 2 claws; D 1-3/ 1-3 + paralysis; Save F3; ML 10; AL C.
+4 Bugbears (1-4); AC 5; HD 3 +1; hp 14, 12, 11, 9; MV 90'(30'); #AT 1; D 2-8; Save F3; ML 9; AL C.
+5 Ogres (1-2): AC 5; HD 4+1; hp 19, 16; MV 90'(30'); #AT 1; D 1-10; Save F4; ML 10; AL C. 
 6 Berserkers (1-4): AC 7; HD 1+1*; hp 9, 7, 6, 4; MV 120’ (40); #AT 1 at +2; D 1-8; Save F1; ML 12; AL N. 
 
 70. OCTAGONAL ROOM
@@ -2442,7 +2440,7 @@ After bumping and sliding down the chute, you land on the floor of an eightsided
 
 One of the doors (roll 1d8 to determine which one) opens 1d6 rounds after the characters land in the room; two men, filthy and unshaven, run wildly into the room, a maniacal expression in their eyes. In fact, they are berserkers and attack the party on sight.
 
-Berserkers (2): AC 7; HD 1+1*; hp 7,5: MV 120'(40'); #AT 1 at +2; D 1-8; Save F1; ML 12; ALN.
+Berserkers (2): AC 7; HD 1+1*; hp 7,5: MV 120'(40'); #AT 1 at +2; D 1-8; Save F1; ML 12; AL N.
 
 One of the berserkers is wearing leather armor +1(AC 6).
 
@@ -2456,7 +2454,7 @@ In this dirty chamber, three large and furry humanoids are squatting listlessly.
 
 The trio of bugbears accidentally fell down the trap chute several months earlier; they claimed the cave and attack humans and demi-humans on sight.
 
-Bugbears (3): AC 5; HD 3+1; hp 16,13,13; MV 90'(30'); #AT 1; D 2-8; Save F3; ML9; ALC.
+Bugbears (3): AC 5; HD 3+1; hp 16,13,13; MV 90'(30'); #AT 1; D 2-8; Save F3; ML9; AL C.
 
 The bugbears fight with huge, knotty pieces of wood they use as clubs. They have no clothing, armor, or anything else of value.
 
@@ -2470,7 +2468,7 @@ This large cavern appears to be empty. The ceiling is high, and the far end curv
 
 This chamber is the lair of a band of ghouls who happily eat humans or any other vaguely warm-blooded creature that they can sink their filthy claws into. Though the cave appears to be empty from its entrance, around the bend in the wall lurk the cave’s four chaotic (and hungry!) inhabitants.
 
-Ghouls (4): AC 6; HD 2*; hp 13, 11, 10, 8; MV 90! (30'); #AT 2 claws/1 bite; D 1-3/ 1-3/1-3 + paralyze; Save F2; ML9; ALC.
+Ghouls (4): AC 6; HD 2*; hp 13, 11, 10, 8; MV 90! (30'); #AT 2 claws/1 bite; D 1-3/ 1-3/1-3 + paralyze; Save F2; ML9; AL C.
 
 The ghouls are squatting around a pile of miscellaneous bones at the spot marked by an X on the map. Unless the characters are very noisy, check normally for surprise. In any case, the ghouls attack the characters on sight. Garbage the ghouls have collected lies piled against the wall next to their pile of bones. Most of the garbage is merely old belt buckles, links from chain mail, strapless shields, and the like. A few items of value might be turned up, however, if the characters wish to dig through the refuse. Valuables include 23pp in an old sack; 80 gp, 100 sp, and 200 cp scattered around the floor; a jeweled necklace worth 100 gp; and a battered, corroded sword that is actually a shortsword +2. The sword is not recognizable as a magical weapon unless considerable time is spent scraping the corrosion off of the blade. However, it functions with its +2 bonus whether it is cleaned or not.
 
@@ -2482,7 +2480,7 @@ Several small flying creatures dart from the door, zooming toward you. You can s
 
 When an entry door is opened, each character standing in the doorway is attacked by two stirges apiece. The rest of these blood-sucking parasites fly past the first rank of characters to find sustenance from those in the rearward ranks. All the stirges make an attack on the first round out of the chamber.
 
-Stirges (8): AC 7; HD 1*; hp 8, 7, 6, 5, 4, 3, 2, 1; MV 180'(60"); #AT 1; D 1-3; Save F2; ML 9; ALN.
+Stirges (8): AC 7; HD 1*; hp 8, 7, 6, 5, 4, 3, 2, 1; MV 180'(60"); #AT 1; D 1-3; Save F2; ML 9; AL N.
 
 These birdlike predators have been living off the rats that occasionally enter their chamber through small holes. The stirges haven't had a decent meal in years; they try eagerly to attack any character so unfortunate as to have released the parasites from their cavern.
 
@@ -2518,7 +2516,7 @@ The owl bear is jealously possessive of its den, and will attack and attempt to 
 
 This cavern has been claimed by the small band of insane humans struggling to survive the dungeon. Two of these fellows the party met in room #70. Although some of the berserkers are out wandering the tunnels, the PCs find five in this chamber.
 
-Berserkers (5): AC 7 (5); HD 1+1*; hp 9, 7, 7, 6, 5; MV 12'(40'); #AT 1 at +2; D 1-8; Save Fl; ML 12; ALN.
+Berserkers (5): AC 7 (5); HD 1+1*; hp 9, 7, 7, 6, 5; MV 12'(40'); #AT 1 at +2; D 1-8; Save Fl; ML 12; AL N.
 
 The nine hit point berserker carries a shield +2 for AC 5.
 
@@ -2562,9 +2560,9 @@ This large cavern has one of the now-familiar steam vents in the northeastern en
 
 Residing in this chamber—reveling in the occasional bursts of steam—are a lava lizard and a swarm of steam weevils.
 
-Steam Weevils (1 swarm): AC 7; HD 4; hp 14; MV 60'(20'); #AT burn; D 1-4 points; Save NM; ML 11; ALN.
+Steam Weevils (1 swarm): AC 7; HD 4; hp 14; MV 60'(20'); #AT burn; D 1-4 points; Save NM; ML 11; AL N.
 
-Lava Lizard (1): AC 3; HD 4*; hp 16; MV 90’; (30'); #AT 1 bite + burn; D 1-6/1-6; Save F4; ML 12; ALN.
+Lava Lizard (1): AC 3; HD 4*; hp 16; MV 90’; (30'); #AT 1 bite + burn; D 1-6/1-6; Save F4; ML 12; AL N.
 
 For a complete description of both these monster types, see New Monsters.
 
@@ -2600,11 +2598,11 @@ WANDERING MONSTERS IN DUNGEON LEVEL Ill
 
 Die Roll Creature Encountered
 1 Lava Lizard (1): AC 3; HD 4*; hp 17; MV 90'(30'); #AT 1 bite/1 burn; D 1-6 all; Save F4; ML 12; AL N.
-2. Kobolds (2-12): AC 7; HD 1/2; hp 4,4,4, 3; 3, 3,2; 2,.2,1):1, 1; MV 60'(20'); #AT 1; D 1-4; Save NM; ML 6; ALC.
-3 Steam Weevils (1 swarm): AC 7; HD 4; hp 16; MV 60'(20'); #AT 1; D 1-4; Save NM; ML 11; ALN.
-4 Giant Bats (1-4): AC 6; HD 2; hp 13,10, 8,6; MV 180'(60'); #AT 1; D 1-4; Save Fl; ML 8; ALN.
-5 Crab Spider (1): AC 7; HD 2*; hp 9; MV 120'(40'); #AT 1; D 1-8 + poison; Save Fl; ML7; ALN.
-6 Piranha Birds (2-12): AC 6; HD 1/2; hp 4, 4, 4, 3, 3, 3, 2,.2,2,1,1,1; MV 180’ (60’); #AT 1; D 1-4; Save NM; ML 8; ALN.
+2. Kobolds (2-12): AC 7; HD 1/2; hp 4,4,4, 3; 3, 3,2; 2,.2,1):1, 1; MV 60'(20'); #AT 1; D 1-4; Save NM; ML 6; AL C.
+3 Steam Weevils (1 swarm): AC 7; HD 4; hp 16; MV 60'(20'); #AT 1; D 1-4; Save NM; ML 11; AL N.
+4 Giant Bats (1-4): AC 6; HD 2; hp 13,10, 8,6; MV 180'(60'); #AT 1; D 1-4; Save Fl; ML 8; AL N.
+5 Crab Spider (1): AC 7; HD 2*; hp 9; MV 120'(40'); #AT 1; D 1-8 + poison; Save Fl; ML7; AL N.
+6 Piranha Birds (2-12): AC 6; HD 1/2; hp 4, 4, 4, 3, 3, 3, 2,.2,2,1,1,1; MV 180’ (60’); #AT 1; D 1-4; Save NM; ML 8; AL N.
 
 Key to Areas in Dungeon Level III
 
@@ -2616,7 +2614,7 @@ Illuminated by the greenish phosphorescent glow, a flat shore is visible about 1
 
 Two more of these humanoids (kobolds) are napping in an alcove.
 
-Kobolds (3): AC 7; HD 1/2; hp 4,2,2; MV 60’ (20'); #AT 1; D 1-4; Save NM; ML6; ALC.
+Kobolds (3): AC 7; HD 1/2; hp 4,2,2; MV 60’ (20'); #AT 1; D 1-4; Save NM; ML6; AL C.
 
 The kobolds are on guard duty, instructed to report to their chief if they sight any creatures coming down the stream. So many years have passed since the kobolds have encountered any intruders from this direction, however, that the guards are not taking their duties very seriously. When the characters first sight the kobold, there is a 20% chance the little humanoid sees them as well. If it doesn’t the party may advance to 50 feet away, when there is a 50% chance they are observed. If they are still not seen, they can reach the northern edge of the landing, but then are automatically sighted. When they are, the lone kobold shouts to his fellow guards asleep in the alcove. Obviously, if any of these kobolds escape, they run to warn the rest of the kobold band. In this event, the party can hear the blast of the warning horn from the south.
 
@@ -2628,7 +2626,7 @@ If no guards escaped from the landing (area #85), the party hears a clashing of 
 
 If one or more of the guards at the landing did escape, the four kobolds are no longer in cavern #86; instead they are waiting for the party at the bridges to cavern #87, along with other kobold soldiers.
 
-Kobolds (4): AC 7; HD 1/2; hp 4, 4, 3, 2; MV 60'(20'); #AT 1; D 1-5 (1d6 — 1); Save NM; ML 6; ALC.
+Kobolds (4): AC 7; HD 1/2; hp 4, 4, 3, 2; MV 60'(20'); #AT 1; D 1-5 (1d6 — 1); Save NM; ML 6; AL C.
 
 If these kobolds are still in the cavern, they are in the northern portion; in the southern alcove are several shoddy wicker bins. The bins contain fish and rat bodies, scaled or skinned, presumably for use as food.
 
@@ -2640,7 +2638,7 @@ The south side of the crevasse is guarded by five kobolds at all times. If any k
 
 If no alarm has been given, the leader of the five guards blows a brass horn he carries at his side as soon as the intruders are sighted. Reinforcements arrive within three rounds.
 
-Kobolds (5): AC 7; HD 1/2; hp 4, 3, 3, 2, 1; MV 60'(20'); #AT 1 spear or shortsword; D 1-5; Save NM; ML 6; ALC.
+Kobolds (5): AC 7; HD 1/2; hp 4, 3, 3, 2, 1; MV 60'(20'); #AT 1 spear or shortsword; D 1-5; Save NM; ML 6; AL C.
 
 Each of the five carries two spears.
 
@@ -2654,8 +2652,8 @@ If called by the horn, reinforcements from room #86 approach the bridges from th
 
 In this chamber, the kobold chief and his bodyguards dwell in modest splendor. If discovered in the council room, the chief and his six bodyguards are sitting in the center of the room drinking a foul-smelling brew. More of this nauseating liquid is fermenting in a large kettle at the northern end of the room.
 
-Kobold Chief (1): AC 7; HD 2; hp 9; MV 60’ (20'); #AT 1; D 2-7; Save F2; ML 12; ALC.
-Kobold Bodyguards (6): AC7; HD 1 +1; hp 6 each; MV 60'(20'); #AT 1; D 1-5; Save F1; ML 8 or 6; ALC.
+Kobold Chief (1): AC 7; HD 2; hp 9; MV 60’ (20'); #AT 1; D 2-7; Save F2; ML 12; AL C.
+Kobold Bodyguards (6): AC7; HD 1 +1; hp 6 each; MV 60'(20'); #AT 1; D 1-5; Save F1; ML 8 or 6; AL C.
 The chief carries a shortsword +2.
 
 Around the chief's waist is a belt made of gold and silver coins linked by a chain. The belt is worth 250 gp, but it constitutes all of the monetary wealth owned by the entire tribe of kobolds. If a character examines the liquid in the kettle, it is identifiable as a kind of beer made mainly from fishheads.
@@ -2664,7 +2662,7 @@ Around the chief's waist is a belt made of gold and silver coins linked by a cha
 
 Most of the kobold tribe occupies this room. If they have not been called to the defense of the bridges, 12 kobolds are here, languishing about.
 
-Kobolds (12): AC 7; HD 1/2; hp 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1; MV 60'(20'); #AT 1; D 1-4; Save NM; ML 6; ALC.
+Kobolds (12): AC 7; HD 1/2; hp 4, 4, 4, 3, 3, 3, 2, 2, 2, 1, 1, 1; MV 60'(20'); #AT 1; D 1-4; Save NM; ML 6; AL C.
 
 There are 15 dirty pallets of sand and dried grass in the room, a few pieces of halfconsumed rat, and several bottles of the fishhead beer. The room contains nothing of value to the party.
 
@@ -2703,7 +2701,7 @@ This network of rooms and tunnels has a floor littered with broken rock and dust
 
 These two corridors expand and then drop away in 50-foot cliffs, and rock outcroppings stud the walls. A single kobold is on guard at the top of each cliff.
 
-Kobolds (2): AC 7; HD 1/2; hp 3, 2; MV 60’ (20'); #AT 1; D 1-4; Save NM; ML6; ALC.
+Kobolds (2): AC 7; HD 1/2; hp 3, 2; MV 60’ (20'); #AT 1; D 1-4; Save NM; ML6; AL C.
 
 The kobolds are lying prone, watching the corridors below them that approach from caverns #92 and #93. If the party sneaks up on them from behind, add +2 to the kobolds’ chances of being surprised. If the party is below the kobolds, however, add +2 to the characters’ chance of being surprised, and allow NO chance for the kobolds to be surprised.
 
@@ -2721,7 +2719,7 @@ The cliff here has gradually crumbled away, leaving a jumble of huge boulders. T
 
 All characters may move both up and down the rockslide, but calculate movement at onequarter the normal exploring rate. In addition, a hidden menace is coiled in the exact center of the slide.
 
-Giant Rattler (1): AC 5; HD 4*; hp 15; MV 120'(40'); #AT 2; D 1-4 + poison; Save F2; ML 8; ALN.
+Giant Rattler (1): AC 5; HD 4*; hp 15; MV 120'(40'); #AT 2; D 1-4 + poison; Save F2; ML 8; AL N.
 
 The snake senses any character moving onto the rockslide, and immediately begins to rattle. The snake is hidden in the rocks, however, so the party cannot see it. If the characters continue to move up or down the slide, the snake slithers forward and tries to intercept the nearest character. If the snake fails a morale check, it disappears into the rocks, bothering the PCs no more.
 
@@ -2731,7 +2729,7 @@ Two large, iguana-like lizards are in the middle of this natural cavern. They ar
 
 These are lava lizards. They remain asleep unless touched. Once something comes into contact with one of them, however, they both awaken and enter into combat on the next round.
 
-Lava Lizards (2): AC 3; HD 4*; hp 20,17; MV 90'(30'); #AT 1 bite/1 burn; D 1-6/1-6; Save F4; ML 12; ALN.
+Lava Lizards (2): AC 3; HD 4*; hp 20,17; MV 90'(30'); #AT 1 bite/1 burn; D 1-6/1-6; Save F4; ML 12; AL N.
 
 For a complete description of the lava lizard, see New Monsters.
 
@@ -2763,7 +2761,7 @@ This chamber is huge and dark. You feel an aura of evil, and from the darkness a
 
 The red dragon living in this cavern is quite youthful by a dragon's standards, but it is still an awesome and terrible opponent. Its lair is connected to the outside by a tunnel nearly a mile long.
 
-Red Dragon (1): AC —1; HD 7; hp 22; MV 90' (30'); #AT 2 claws/1 bite/ + breathes fire; D 1-8/1-8/4-32 + 22; Save F7; ML 10; ALC.
+Red Dragon (1): AC —1; HD 7; hp 22; MV 90' (30'); #AT 2 claws/1 bite/ + breathes fire; D 1-8/1-8/4-32 + 22; Save F7; ML 10; AL C.
 
 Spells:
 
@@ -2801,6 +2799,9 @@ If the party needed the mage during the adventure, he will seek them out and cla
 
 If the characters are wondering what to do with a subdued dragon, they can find a mage at the Lion’s Den who offers to buy the dragon. He offers 5,000 gp but the PCs can bargain for up to 10,000 gp, the mage’s final offer. It is recommended the dragon pass from the campaign but if you choose to let them keep it, the dragon will refuse to go adventuring and should remain, in a campaign context, a source of prestige for which the characters pay heavily.
 
+
+
+RAHASIA
 Design: Tracy and Laura Hickman
 Development: Jon Pickens and Edward Sollers
 Development & Editing: Curtis Smith
@@ -2811,7 +2812,7 @@ Cartography: Diesel & D.C. Sutherland III
 
 General Notes: This module was originally published as the first and second modules in the RPGA™ series, which were available only to members of that organization as RPGA 1 and RPGA 2. They were re-edited and combined into a single adventure by Curtis Smith, appearing as B7, Rahasia. The adventure appears here in its entirety in its later form.
 
-New Magical Items ............002005 96
+New Magical Items ............96
 Maps .................. 146-149
 Monster Tables .......... inside back cover
 Player Handouts ................ 159-160
