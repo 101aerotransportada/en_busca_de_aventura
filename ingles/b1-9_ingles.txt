@@ -6009,6 +6009,7 @@ The Black Opal Eye also enables the witches to communicate telepathically with t
 The three sisters despise one another and often argue among themselves. When the three are together and not under attack, there is a 20% cummulative chance per round that they will stop whatever they are doing and bicker among themselves. If attacked, however, they always co-operate to defend themselves.
 
 Karelena
+
 Armor Class: 9
 Level: M1/M4
 Hit Points: 5/11
@@ -6025,6 +6026,7 @@ When alone, Karelena can cast two of the following spells: hold portal, shield, 
 Karelena is using the body of the elven maiden, Merisa. She appears dark and powerful, wearing gaudy clothing. She is always accompanied by a black panther. Karelena orders her panther to attack the PCs whenever she sees them, then attempts to escape while the PCs fight the panther.
 
 Solorena
+
 Armor Class: 9
 Level: M1/M4
 Hit Points: 4/10
@@ -6043,6 +6045,7 @@ Solorena has taken the body of the elf Sylva. She appears as a tall and willowy 
 If the PCs capture Solorena, she pretends to be Sylva.
 
 Trilena
+
 Armor Class: 9
 Level: M1/M5
 Hit Points: 6/13
