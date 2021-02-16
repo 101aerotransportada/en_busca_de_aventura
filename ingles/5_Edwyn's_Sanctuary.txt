@@ -1,0 +1,344 @@
+Background
+
+The following legend is very well known. All the player characters should be quite familiar with it. The information in this section can be freely given to the players.
+
+The Church of Karameikos is widespread and popular mainly among the ruling classes of the Grand Duchy. However, one of its lesser orders most popular with the common folk is the Order of Chardastes. The Order grew out of an incident that happened more than 300 years ago. At that time there were many places in Karameikos dedicated to Traladaran worship. A small sanctuary in Marilenev (later renamed Specularum) was one of those sites.
+
+One day, a woman who was very sick went to the sanctuary and prayed to have her health returned. While she was praying alone in the sanctuary, a being called Chardastes appeared to the woman. He told her that the religion of her people was false, and that his way was the only true religion. To prove this, he laid his hands on the woman and cured her of here illness. He also left behind on the altar a wonderful magical bell.
+
+The bell, of ordinary size and shape, had been made of purest platinum. What made it so remarkable was that it had no clapper. Instead, it rang magically whenever it was picked up. When the Thyatians settled in Karamceikos, they incorporated the sanctuary into the Church of Karameikos.
+
+The story of the bell has spread far and wide. Each year, on the anniversary of the miracle, hundreds of people flock to its small building, hoping to be cured by Chardastes. They crowd into the sanctuary, a hundred or so at a time, and pray as the clergy sings the sacred words and lifts the magical bell. Most are disappointed, but so many have had their prayers answered that the Order has flourished ever since.
+
+All that changed about five years ago. At that time, there was a cleric in the Order whose name was Elwyn. Elwyn was very dedicated to the Church, and had been well rewarded by the Patriarchs and Matriarchs of the Church. But that, apparently, was not enough. There were rumors that Elwyn had begun practicing with edged weapons and researching the spells of the magic-users, trying to learn the abilities of the other classes. This was a serious charge, indeed. But before anyone could prove the charges, Elwyn vanished without a trace, And to the horror of the people, the sacred bell of Chardastes that was kept in the sanctuary was gone, too!
+
+The Order has been in a state of crisis ever since. The faithful still come the the sanctuary on the holy day, but there have been no miraculous cures since the bell vanished. The numbers of the faithful have decreased in recent years.
+
+Some time ago, rumors of a powerful hostile force began to spring up. It was said that someone had built a large, monstrous fortress in a distant section of the county, and that those who attempted to investigate it had not returned. Recently, rumors have been circulating that Elwyn might be behind this mystery. The Patriarch Sherlane is interested in having the fortress investigated. He will have the party investigate the fortress, determine if Elwyn is involved, recover the sacred bell if it can be found, and bring Elwyn to justice if possible.
+
+The party will be promised 500 gp apiece to investigate the fortress, 1,000 gp apiece to recover the bell, and an additional 1,000 gp if they are able to bring Elwyn alive to justice. If the party so requests, they are given an advance payment of 50% (250 gp each) with which they can buy non-magical equipment and supplies.
+
+A local guide is provided to take the party through the wilderness to the mysterious fortress. The guide will not, under any circumstances, accompany the party into the fortress.
+
+The party arrives on the anniversary of the miracle.
+
+Notes for the Dungeon Master
+
+Elwyn is a woman, but the information above has been written in such a way that the party will assume Elwyn is male. Allow the party to believe this so that they will not realize immediately that the woman’s voice they hear when exploring the fortress is actually the voice of Elwyn.
+
+Note that the fortress is built as a double spiral. There is a secret corridor that runs alongside the rooms and corridors through which the party will travel. This corridor is used by Elwyn to observe the party along the way. She occasionally provides hints to the party when they get bogged down (always, of course, in a derogatory voice accompanied by a diabolical laugh), feeling secure in her power and ability to defeat the party anytime she chooses.
+
+Unless otherwise stated, the rooms are not lit. The only doors in the fortress (except for the entrance and the iron door between rooms 1 and 2) are secret. Once detected, they open easily.
+
+The DM should copy the two treasure maps ahead of time and be prepared to hand them out to the players. The treasure maps need not be drawn to scale (page 158).
+
+There will be no wandering monsters in Elwyn’s fortress. If desired, you can add wandering monster encounters in the wilderness through which the party travels to reach the fortress, but it is important not to have the party seriously weakened before the adventure begins! Monster stats are given on page 34.
+
+OUTSIDE THE FORTRESS
+
+You have traveled far into the wilderness, and finally you have arrived at your destination—the mysterious fortress that you suspect may harbor Elwyn and the mystic bell of Chardastes. Your guide has turned back after pointing out the final direction you must travel.
+
+You follow a path that leads out of the forest and into a clearing. There, before you, is an enormous building. It is nearly black, and looks as if it might be made of iron.
+
+Suddenly, there is a horrid smell as four ugly humanoids emerge from the forest to your left!
+
+The humanoids are troglodytes. Because they have the ability to blend in with their surroundings, they surprise on a 1-4 on d6. Their smell is nauseating, giving their opponents a -2 penalty to their hit rolls unless the opponents make a saving throw vs. Poison.
+
+The lair of the troglodytes can be found in the forest a short distance from the path. It consists of a hollow in a small clearing with an opening that leads to an underground lair. The troglodytes’ treasure consists of five large sacks, two vials, and a piece of parchment with some faded writing on it. Two of the sacks contain 500 sp each, two contain 500 gp each, and one contains 500 pp. The two vials each contain potions of healing. The parchment is Treasure Map #1 (give a copy of the map to the players at this time), showing the location of the treasure in room 5.
+
+The party must defeat the troglodytes before they can enter the fortress. It is important that they find the lair and locate the potions and the treasure map. Give the players hints, or even a little advice, to get them to look for the lair.
+
+1. ENTRANCE
+
+As you emerge once again from the forest, you finally get a good look at the fortress. The walls are fully 30 feet high, and the jagged shape of the outside looks like a black dragon’s teeth when it opens its mouth to breathe. The walls are indeed made of iron. There is a door visible in the southwest corner.
+
+The only entrances to the building are the visible entrance and the secret door near it. (The secret door between rooms 2 and 3 on the map leads to the lower level, not to the outside.) It is recommended that you not allow the party to find the secret entrance at this time—if they do, they avoid all the traps, tricks, and encounters, and find Elwyn at room 16a.
+
+The visible entrance opens easily. The corridor behind the door is dark.
+
+The corridor proceeds north from the door. After about ten feet, it opens up into a wide area to your left about 30 feet northsouth by 20 feet east-west. The area appears to be empty.
+
+The area is empty. When the party has assembled in this room, read the following:
+
+A musical, low-pitched female voice fills the air, saying, “Who dares to enter the Shrine of Elwyn unbidden? Turn back! TURN BACK NOW, for ahead lies certain death!” The voice then breaks into a diabolical laugh.
+
+This is the voice of Elwyn, speaking from her secret observation corridor. The party is free to take her advice and leave—but this ends the adventure. If the party continues, wait until the entire party has crossed the area on the map indicated by a dotted line (between rooms 1 and 2), then read the following:
+
+Suddenly, you hear a resounding “BOOM!” behind you. When you turn around, you see that a solid iron door has descended into the corridor, blocking your avenue of escape. You also notice that a small panel in the east wall has opened.
+
+The open panel reveals an obvious keyhole. When the proper key is inserted into the hole and turned, the door will rise. Elwyn has the only key. The lock and the door cannot be opened by a thief’s open Jock skill, or with a knock spell.
+
+2. DAIS
+
+To your left you see an open area about 30 feet north-south by about 20 feet east-west. The area seems to be empty except for a raised area occupying the middle of the west wall. The raised area is about half a foot above the floor and looks like pol ished stone. There is a pedestal in the mid dle of the raised area. It is about three feet high and two feet square, and appears to be made of wood. On top of the pedestal is a black bell.
+
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahoga ny; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of wrought iron, and is worth about 1 gp.
+
+The secret door between rooms 2 and 3 leads to a stairway that is more fully described under room 5. It is better if the party does not discover it at this time.
+
+3. ALTAR
+
+If the party has been quiet as they proceed north through the corridor, read the following:
+
+You hear a low murmur of voices coming from the north.
+
+As the party enters the room:
+
+To your left you see an open area about 30 feet east-west by about 20 feet north south, The entire length of the west wall is occupied by an altar. The room is dimly lit by a few candles on the altar. Kneeling at the altar are six human figures wearing plate mail armor; they are making a low, chanting sound.
+
+These are six acolytes (1st level clerics) armed with maces. They are followers of Elwyn. If the door trap was triggered or the party was noisy coming down the corridor, the acolytes are aware of their coming; otherwise the party can surprise the acolytes. If the party tries to sneak past this room without alerting the aco lytes there is a 25% chance they can do so. If the acolytes notice the party, they attack.
+
+There is nothing of value in this room and the acolytes are not carrying any wealth.
+
+4. DAIS
+
+To your left you see an open area about 30 fee east-west you about 20 feet north-south. The area seems to be empty except for an altar similar to the one your saw ear lier. There is a pedestal in the middle of the altar. On top of the pedestal is a bell that appears to be made of a reddish metal.
+
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of copper, and is worth about 5 gp.
+
+5. TREASURE OF THE TROGLODYTES
+
+To your left you see an open area about 30 feet east-west by about 20 feet north-south. The area seems to be empty.
+
+This is the room indicated on the treasure map found in the lair of the troglodytes. The room is empty except for the secret treasure located at the spot on the map marked with an “X.” The floor in the room is hinged along the south wall. When the entire party has entered this room, Elwyn, who is observing from her corridor, triggers a mechanism that causes the floor to open up under the party...
+
+Suddenly, you feel the floor begin to move beneath your feet. As the floor swings down from a hinge near the south wall, you fall into the darkness, landing on the floor below. The floor swings back into position above you, creating a strong gust of air that extinguishes all torches and lan terns.
+
+5a. TRAP ROOM
+
+No one in the party takes any damage from the slide. Party members with infravision can see. When light is restored, the remaining party members also see the following:
+
+You are in a room about 30 feet square. It appears to be empty. A corridor leads off in one direction.
+
+The room is empty. The party is now on the lower level of the fortress. The corridor leads to room 5b, and then to a series of steps that will return the party to the upper level, as shown on the map of the lower level.
+
+5b. ORC LAIR
+
+You see a large room, perhaps 50 feet long and 30 feet wide. There are a number of pallets about the room. Standing among the pallets are six small, ugly humanoids that look like a combination of animal and man. They are armed with short swords.
+
+These are five orcs armed with short swords, and an orc leader armed with a short sword +1. The orcs attack the party as soon as they spot them.
+
+If the party is using light, the orcs cannot be surprised. If there is no light, the orcs can be sur prised, but all humans without infravision receive a -4 penalty to hit rolls, and opponents who can see them receive a +4 bonus to hit rolls.
+
+The room contains six small sacks. One con tains 200 gp, the others contain 200 sp each. The ore leader carries a small pouch containing 7 gems (worth 200 gp, 100gp (x5), and 50 gp, respectively). The floor is littered with an assort ment of bones, mostly human and humanoid. These are the remains of previous adventurers.
+
+The corridor leads to a stairway. The stair way ends in a door that opens easily. This is the secret door between rooms 2 and 3. Do not tell the party where they are; let them discover it. As the party passes through rooms 3 and 4, read the descriptions of the rooms, modified by whatever has happened in the meantime. For example, if the party killed the acolytes in room 3, they find corpses. If they did not, the acolytes are still there, praying.
+
+When the party returns to room 5, they find that there is a visible border around the collaps ing floor that is about three feet wide. If they wish, they can easily and safely move in single file to the spot marked with an “X” on the map.
+
+At the spot marked “X,” there is a loose stone about three feet from the floor, When the stone is removed, a cavity behind the stone is found, containing the following: a clerical scroll with three cure light wound spells, a potion of poly morph self (labeled), a potion of growth (also labeled), a war hammer +1, and another trea sure map (this one leading to the treasure in room 9, Treasure Map #2).
+
+The potion of polymorph self is from the D&D® Expert Set. It allows the user to change shape into that of any living creature with hit dice or level equal to or less than his or her own. The transformation does not change the user’s ht points, hit rolls, or saving throws. The user gains the physical abilities of the new shape, but none of the special abilities (spell use, breath weapon, paralyzation attacks, etc.) The effect of the potion lasts for 7-12 (1d6 +6) turns. If the user is a spell caster, he cannot use his own spells while polymorphed.
+
+6. EMPTY ROOM
+
+To your left you see an open area about 30 feet north-south by about 20 feet east west. The area seems to be empty.
+
+This room is empty.
+
+7. DAIS
+
+To your left you see an open area about 30 feet north-south by about 20 feet east west. The area seems to be empty except for an altar similar to the one you saw earli er. There is a pedestal in the middle of the raised area. On top of the pedestal is a bell that appears to be made of a shiny metal.
+
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of brass, and is worth about 10 gp.
+
+8. GOLEM CHAMBER
+
+You see an area to your left about 30 feet north-south by about 20 feet east-west. The room contains a strange humanoid creature about three feet tall and apparently made of wood. It is moving stiffly toward you.
+
+The creature is a wood golem. A golem is a mon ster created by a high-level magic-user or cleric. Golems can be hit only by magical weapons. Magical attacks will work, but the golem is immune to sleep, charm, and hold spells, and to all gasses. Because it is clumsy, it has a penalty of  -1 on its initiative roll, and because it is made of wood, it has a penalty of -2 on its saving throw vs. fire-based attacks. If it is hit by fire, it also takes an extra point of damage per die. The room is otherwise empty.
+
+9. TREASURE ROOM
+
+To your left you see an open area about 30 feet east-west by about 20 feet north-south. The area seems to be empty.
+
+The room is empty, except for the secret trea sure marked with an ‘‘X" on the map. The treasure map (Treasure Map #2) found in room 5 will reveal its location to the party. As in room 5, the treasure is hidden behind a block of loose stone at waist height. Behind the stone is the following treasure:
+
+A smooth stick about 18 inches long. This is actually a wand of paralyzation (3 charges)— any elf or magic-user recognizes it for what it is, and only an elf or magic-user can wield it. The command word is written on the wand.
+
+A sword. This is actually a sword +1.
+
+A piece of rolled-up parchment. This is actually a clerical scroll containing a cure light wounds spell and a silence 15’ radius spell. The silence 15’ radius spell is described in the D&D® Expert Set. It will make an area 30 feet in diameter totally silent for 12 turns. Conver sation and spell use in the area of the silence spell are prevented. If cast on a person, the victim must make a saving throw vs. Spells, or the spell effect will move with the victim. If the saving throw is successful, the spell still works, but it stays in one place. The victim can then leave the area and speak normally.
+
+A ring. This is actually a ring of spell stor ing. Its operation is fully described in the D&D® Expert Set. Once the ring is put on, the wearer knows what spells are in the ring and how to cast them from it. After a spell is used, the ring may be recharged by a spell caster, who must cast the replacement spell directly at the ring. The ring will not absorb spells cast at the wearer. The spells in the ring have the duration, range, and effect equal to the lowest level of magic use needed in order to cast them. This ring has two magic missile spells, a web spell, and a lightning bolt spell. The lightning bolt spell creates a 5 foot wide, 60 foot long bolt of lightning anywhere within its range (180 feet). Any creature in the area of effect takes 5d6 points of damage. If the vic tim makes a saving throw vs. Spells, damage is halved. If the lightning bolt strikes a solid sur face before reaching its 60 foot length, it rebounds back toward its caster until it reaches full length. If it hits its caster, the caster takes full damage (or half damage if the caster makes a saving throw vs. Spells).
+
+10. DAIS
+
+To your left you see an open area about 30 feet east-west by about 20 feet north south. The area seems to be empty except for an altar similar to the ones you have seen throughout this strange sanctuary. There is a pedestal in the middle of the altar. On top of the pedestal is a bell that appears to be made of a silvery metal.
+
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of silver, and is worth about 50 gp.
+
+11. STATUE
+
+To your right you see an open area about 10 feet east-west by about 20 feet north south. The area seems to be empty except for a large stone statue in the northeast cor ner. The statue is an image of Chardastes.
+
+The statue is a living rock statue. It attacks by squirting magma from its fingertips as soon as any party member enters the space. A wom an’s diabolical laughter (Elwyn, again) is heard as the creature attacks. There is no trea sure here.
+
+12. EMPTY ROOM
+
+To your right you see an open area about 10 feet east-west by about 20 feet north south. The area appears to be empty.
+
+When the first character enters the room, a pit trap covering the entire 10x20 area opens up. The pit is 10 feet deep, and the victim takes 1-6 points of damage from the fall. The room is otherwise empty.
+
+13. STATUE
+
+The corridor widens here to form a room about 30 feet north-south by about 20 feet east-west. The corridor continues off to the east. The room appears to be empty except for a statue of a small horse in the southeast corner, The statue is made of a yellowish metal.
+
+The statue is made of solid bronze, and can not be moved. It is immune to any damage. If it is struck by a hand-held metal weapon, the wielder of the weapon suffers 2-5 points of damage from electrical shock (no saving throw). There is nothing else in the room.
+
+14. DAIS
+
+The corridor widens here to form a room about 30 feet north-south by about 20 feet east-west. The corridor continues off to the cast. This area contains an altar identical to the ones you have seen before. The bell on the altar is made of a golden metal.
+
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is a normal bell made of gold, and is worth about 500 gp.
+
+15. CELL
+
+To your right you see an open area about 10 feet east-west by about 20 feet north south. The area appears to be empty.
+
+The area is empty. If the entire party enters the room, an iron grate suddenly descends (trig gered by Elwyn, who is watching, as usual), trapping the party in the room. Elwyn laughs diabolically. A panel opens up in the east wall of the corridor, across from the cell. Behind the panel is a keyhole with a key stuck in it. “Just turn the key, and freedom is yours,” she says mockingly. The key, when turned, causes the portcullis to raise.
+
+There are several solutions available to the party. A knock spell cast on the keyhole causes the key to turn magically. If the party has the polymorph self potion, one member can drink it, change into a creature small enough to slip through the bars, exit the cell, wait for the potion to wear off (or change to to a larger or normal form), then turn the key. A character can attempt to lasso the key and turn it in the lock by twisting the rope. This requires a suc cessful hit roll with a -3 penalty, but unlim ited attempts are allowed. Characters with a combined strength of 36 or more can bend the bars of the cell enough to allow passage; how ever, each character helping to bend the bars must make a saving throw vs. Paralysis or strain a muscle. The effect of a strained muscle is to give a character a -2 penalty to hit rolls for the rest of the adventure.
+
+Creative players may come up with other unusual methods to escape this trap. Reward clever and creative thinking by allowing any reasonably good suggestion to succeed. Give a special award of 100 experience points to the player who comes up with a workable and cre ative solution to the trap.
+
+ELWYN’S SANCTUARY
+
+16. BLACK DRAGON
+
+The corridor widens here to form a room about 20 feet square. The corridor con tinues off to the west. A huge, black lizard-like creature with wings is asleep and snoring in the corner. It has an iron collar around its neck and it is chained to the wall. There are several large sacks in the northwest corner.
+
+The creature is a young black dragon, asleep. The party gets one round of free attacks, with a +2 bonus on all hit rolls. The chain on the dragon allows it to move up to 30 feet in any direction. If the party tries to sneak past the dragon, it automatically wakes up.
+
+The area on the map marked 16a is a secret door leading to the corridor from which Elwyn has been spying on the party. It is better if the party does not find the door at this time. If they do, proceed to the final encounter with Elwyn. Otherwise, the party will meet Elwyn here after they have been to area 21. The final encounter with Elwyn takes place here when the party tries to leave.
+
+17-21. THE INNERMOST SANCTUARY
+
+Read the following to the players as they enter the corridor that leads to area 21.
+
+You see a large open area, about 20 feet wide and more than 100 feet long. It is dimly lit by a few candles in sconces along the walls. There are four niches that extend out from the center aisle: two about 30 feet from this end of the hall and two more almost at the end. The far end seems to fade away into darkness. The walls that you can see are painted with abstract designs in soft colors.
+
+This is the innermost sanctuary of Elwyn’s for tress. The party will presumably explore the area as they approach area 21. Note that the woman portrayed in the murals located behind the curtains is the same in each mural. If the party does not realize this, tell them after they have seen the third mural.
+
+17. ALCOVE
+
+The west wall of this area is covered by a black curtain.
+
+If the party looks behind the curtain, they see:
+
+You see a mural depicting a woman in a bright yellow robe with a drawn sword in her hand. She is surrounded by human vic tims.
+
+18. ALCOVE
+
+The east wall of this area is covered by a black curtain.
+
+If the party looks behind the curtain, they see:
+
+You see a mural depicting a woman in a lavender robe kneeling at an altar. She is flanked by six men wearing black robes and armed with maces. They are standing at attention. The glint of metal armor can be seen under their robes.
+
+19. ALCOVE
+
+The west wall of this area is covered by a black curtain.
+
+If the party looks behind the curtain, they see:
+
+You see a mural depicting a woman in a white robe. She is about to shoot an arrow from a longbow at a being who is begin ning to disappear into the sky. You recog nize the being as Chardastes.
+
+20. ALCOVE
+
+The east wall of this area is covered by a black curtain.
+
+If the party looks behind the curtain, they see:
+
+There is a pedestal in the middle of the raised area. It is about three feet high, five feet deep, and ten feet wide, and appears to be made of wood. On top of the pedes tal is a bell that appears to be made of a sil ver metal.
+
+You see a mural depicting a woman in a black robe about to descend into a great chasm. Leading her into the chasm is a n enormous male humanoid figure covered with short, dark fur. Only his hands and feet are uncovered. He wears no clothing.
+
+The party member with the highest intelli gence recognizes this being as Leptar, a chaotic Immortal who was long ago defeated by Char dastes.
+
+21. ALTAR
+
+Until the party has examined all four murals, this area is shrouded in darkness, caused by the clerical spell darkness, cast by Elwyn. (Darkness is the reverse of light, and creates a 30 foot circle of darkness.) As soon as the party has examined the last of the four murals, the following occurs:
+
+As you turn away from the mural, the darkness in the area to the north dissolves, revealing an area about 20 feet square. The entire area is raised about half a foot above the floor and looks like polished stone.
+
+The altar is made of marble, too heavy to be moved. The pedestal is a solid block of mahogany; it can be moved, although it is extremely heavy. At least four party members are needed to move it. It would be worth 500 gp on the open market. The bell is, of course, the sacred platinum bell for which the party has been seeking. If someone picks it up, the following occurs:
+
+As you pick up the sacred bell, it begins to ring. At almost the same time, four crea tures appear and swoop down upon you, as if called by the sound of the bell. Two of the creatures are ugly things with horns and long fangs. The other two are dark and hard to make out. Their outlines seem to shimmer and you can almost see through them.
+
+The horned creatures are flying gargoyles; the other two creatures are shadows. They have emerged through the one-way secret doors in areas 19 and 20, and immediately attack the party.
+
+Gargoyles can only be hit with magic or magical weapons. They are not affected by sleep and charm spells. Shadows can only be special hit by magical weapons. When a shadow
+scores a hit on an opponent, it drains one point of Strength from its victim in addition to causing normal damage. The loss of Strength lasts for eight turns, but any creature
+whose Strength is reduced to zero becomes a shadow. Shadows, like gargoyles, are unaffected by sleep and charm spells.
+
+ELWYN’S SANCTUARY: Monsters
+Room Monster No. Hit Roll AC HD hp MV #AT D Save ML AL SA/SD XP
+— Trolodyte 4 18 5 2 12,14,10,10 120’(40’) 3 1-4/1-4/1-4 F2 9 C Yes 30
+3 Acolyte (C1) 6 19 2 1 6 each 120’(40’) 1 1-6 C1 7 C No 10
+5b Orc Leader 1 18 5 2 9 120’(40’) 1 1-6 + 1 sword Fl 9 C No 20
+5b Orcs 5 19 5 1 6 each 120’(40’) 1 1-6 Fl 8 C No 10
+8 Wooden Golem 1 17 7 2+2 14 120’(40’) 1 1-8 Fl 12 N Yes 35
+11 Rock Living Statue 1 16 4 5 23 60’(20’) 2 2-12/2-12 F5 11 C Yes 300
+16 Black Dragon 1 16 2 7 28 90’(30’) or 240’(80’) fly 3 2-5/2-5/2-20 F7 8 C Yes 1250
+21 Gargoyle 2 16 5 4 18,15 90’(30’) or 150’(50’) fly 4° 1-3/1-3/1-6/1-4 F8 11 C Yes 125
+21 Shadow 2 17 7 2+2 9,12 90’(30’) 1 1-4 + special F2 12 C Yes 35
+16 Elwyn (C6) 1 17 1 6 24 120’(40’) 1 1-6 + special C6 12 C Yes 500
+
+16a. EDWYN THE ARDANT
+
+If the party defeats the monsters and recovers the sacred bell, they can then leave the fortress. However, as they leave, Elwyn the Ardent leaves her secret corridor and is waiting for the party in area 16a.
+
+You see a woman standing in the corridor to the east. She is wearing a striped robe of bright yellow, lavender, white, and black, and she carries a glowing shield, She is clearly the woman depicted in the murals. There is a glint of metal armor beneath her robe, and on her belt is a key ring and a mace. As she begins to speak, you recognize the voice that has taunted you throughout this expedition:
+
+“In the name of Leptar, welcome to MY holy sanctuary. You have done very well; much better than all the other miserable wretches that have tried to assault my fortress. I presume you found their bones after you defeated my orcs. Oh, well, orcs are easy to find, and they like working for Elwyn the Ardent. The new ones will enjoy feasting on YOUR bones when I get through with you!”
+
+Elwyn is wearing plate mail armor and carries a shield +1. The key ring on her belt opens the iron door between rooms 1 and 2. She is armed with a mace of draining +1. In addition to normal damage, this mace will, on command, drain one experience level from the character hit, as a wight. It can only absorb a total of three levels. After those levels are used up, it becomes a normal mace + 1.
+
+Note that Elwyn has superior strength, which gives her an additional +1 to damage on any attack.
+
+Elwyn’s spells are as follows:
+
+1st level: cause fear, darkness (used)
+2nd level: blight, hold person
+3rd level: curse
+
+Most of these spells are contained in the D&D® Expert Set.
+
+Cause fear is the reverse of remove fear. It will make any one creature flee for two turns. This reversed spell has a range of 120 feet.
+
+Darkness is the reverse of light. It creates a circle of darkness 30 feet in diameter. Elwyn has already used this spell on the altar.
+
+Blight is the reverse of bless. It places a -1 penalty on enemies’ morale, hit rolls, and damage rolls. Each victim may make a saving throw vs. Spells to avoid the penalties. It affects all creatures within a 20 foot square area, and lasts for six turns. Elwyn casts this spell on the party when they first leave the altar. The DM should make a secret saving throw for each party member before they reach Elwyn.
+
+Hold person affects human or human-like beings. Each victim must make a saving throw vs. Spells or be paralyzed for 9 turns. The spell may be cast at a single person or at a group. If cast at a single person, a -2 penalty applies to the saving throw. If cast at a group, it will affect up to 4 persons (at the cleric’s choice), but with no penalty to their rolls. The paralysis can only be removed by its reverse or the dispel magic spell.
+
+Curse is the reverse of remove curse. It causes a misfortune or penalty to affect the victim, Curses ate limited only by the caster’s imagination, but if an attempted curse is too powerful, it may return to the caster! Elwyn is considering a curse to make one of the party’s boots turn to glue and stick to the floor. The DM, of course, may think of a more ingenious curse. The victim is entitled to a saving throw vs. Spells against the curse.
+
+Elwyn’s strategy is to cast blight before the Party arrives. She will then cast hold person followed by curse. Then, she will cast cause fear. Afterward, she will pull out her mace +1 and attack the party. If the black dragon is still alive, she frees it from its chain and it also attacks the
+
+Unaware that the party has acquired a web spell, she is standing in the narrow corridor and can be quickly imprisoned if the party is clever. If the party uses the lightning bolt, they should be careful, because the rebound can cause a great deal of damage to their own side.
+
+Elwyn should be a tough opponent, but not impossible to defeat. She will never surrender. Once she is defeated, the party automatically sees the slightly-open secret door behind her. Just inside the secret door is Elwyn’s treasure: a small wooden chest containing 11 gems (worth a total of 1,650 gp), and 2 pairs of matching bracelets (one worth 1,000 gp each and the other worth 1,100 gp each). Beside the chest is a staff of healing.
+
+The party can use the key on Elwyn’s belt to open the iron door between rooms 1 and 2, and exit through the front door, or they can follow Elwyn’s secret corridor to the door that leads to the outside.
+
+Following the adventure at Elwyn’s Sanctuary, the adventurers return to Threshold with the bell. Word rapidly spreads about the party’s deeds. For the next week or so, the party will not be able to keep up with the invitations — this is a good time to have the characters drop a few hundred gold pieces for fancy dress, presents for the hosts, and similar items. This also a good time to introduce more NPC contacts if the players are interested. Eventually things will quiet down. The bell will be put away pending a decision to build a new shrine in Threshold or return it to Specularum (the former will call for a special tax, the latter could lead to a new adventure). At this time the players may either be called in by the Church or receive an unusual dream visit. The first leads to the Caves of Chaos, the second is with an evil temple hidden in some caves near Castellan Keep. The area is filled with humanoids, but the temple must be found and destroyed. The characters must travel upriver past Kelvin by boat, to the military post called Castellan Keep. If they agree, they will receive a letter of introduction from Sherlane.
+
+The trip to the fort, though long, is uneventful. The party will leave the boat in a wildemess of wooded hills and complete their journey on foot.
+
+The keep looms atop a sheer-walled mount of stone, reachable only by means of a narrow rocky track. Its gatehouse opens on an outer bailey, which contains stables, barracks, a tavem, a chapel, and similar structures. Through a second gatehouse is the inner bailey and main keep, forbidden to all except those on official business.
+
+The commander will be polite, but formal. He is worried about giants, not evil temples. He has no time, men or equipment to spare for the concerns of a patriarch in another part of the realm. Supplies can be drawn from the quartermaster at twice list price, subject to availability—and it’s a shame you didn’t bring some recruits with you. The interview ends as an aide interrupts with some important papers to be signed. (If the party is rude, the commander will become Jess cooperative.)
+
+The tavern keeper can give the party the location of the cave complex, which has been pretty quiet lately. Since there are no giants there, patrols have been few. These rumors are available from soldiers in the tavern:
+1. Tribes of different creatures live in the caves.
+2. All of the cave entrances are trapped. (False)
+3. If you get lost, beware the eater of men!
+4. “Bree-yark” is goblin language for “we surrender!” (False)
+5. There is more than one tribe of orcs within the caves.
+
+
+
+
+
