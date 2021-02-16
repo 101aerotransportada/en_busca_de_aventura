@@ -1,0 +1,337 @@
+Antecedentes
+
+La siguiente leyenda es muy conocida. Todos los personajes jugadores deberían estar bastante familiarizados con ella. La información de esta sección puede ser facilitada libremente a los jugadores.
+
+La Iglesia de Karameikos está muy extendida y es popular principalmente entre las clases dirigentes del Gran Ducado. Sin embargo, una de sus órdenes menores más populares entre la gente común es la Orden de Chardastes. La Orden surgió de un incidente que ocurrió hace más de 300 años. En aquella época había muchos lugares en Karameikos dedicados al culto de Traladaran. Un pequeño santuario en Marilenev (posteriormente rebautizado como Specularum) era uno de esos lugares.
+
+Un día, una mujer que estaba muy enferma fue al santuario y rezó para que se le devolviera la salud. Mientras rezaba sola en el santuario, se le apareció un ser llamado Chardastes. Le dijo que la religión de su pueblo era falsa y que su camino era la única religión verdadera. Para demostrarlo, puso sus manos sobre la mujer y la curó de su enfermedad. También dejó en el altar una maravillosa campana mágica.
+
+La campana, de tamaño y forma normales, estaba hecha de platino puro. Lo que la hacía tan notable era que no tenía badajo. En su lugar, sonaba mágicamente cada vez que se levantaba. Cuando los tiatianos se establecieron en Karamceikos, incorporaron el santuario a la Iglesia de Karameikos.
+
+La historia de la campana se ha difundido por todas partes. Cada año, en el aniversario del milagro, cientos de personas acuden a su pequeño edificio, esperando ser curados por Chardastes. Se agolpan en el santuario, un centenar a la vez, y rezan mientras el clero canta las palabras sagradas y levanta la campana mágica. La mayoría se siente decepcionada, pero son tantos los que han visto sus oraciones atendidas que la Orden ha florecido desde entonces.
+
+Todo eso cambió hace unos cinco años. Por aquel entonces, había un clérigo en la Orden que se llamaba Elwyn. Elwyn estaba muy dedicado a la Iglesia, y había sido bien recompensado por los Patriarcas y Matriarcas de la Iglesia. Pero eso, aparentemente, no era suficiente. Había rumores de que Elwyn había empezado a practicar con armas blancas y a investigar los hechizos de los usuarios de la magia, intentando aprender las habilidades de las otras clases. Se trataba de una acusación grave, sin duda. Pero antes de que nadie pudiera probar las acusaciones, Elwyn desapareció sin dejar rastro, y para horror de la gente, la campana sagrada de Chardastes que se guardaba en el santuario también había desaparecido.
+
+Desde entonces, la Orden está en crisis. Los fieles siguen acudiendo al santuario en el día sagrado, pero no ha habido curaciones milagrosas desde que la campana desapareció. El número de fieles ha disminuido en los últimos años.
+
+Hace algún tiempo, empezaron a surgir rumores de una poderosa fuerza hostil. Se decía que alguien había construido una gran y monstruosa fortaleza en una sección distante del condado, y que los que intentaron investigarla no habían regresado. Recientemente, han circulado rumores de que Elwyn podría estar detrás de este misterio. El Patriarca Sherlane está interesado en que se investigue la fortaleza. Hará que el grupo investigue la fortaleza, determine si Elwyn está involucrado, recupere la campana sagrada si se puede encontrar y lleve a Elwyn ante la justicia si es posible.
+
+El grupo recibirá 500 gp cada uno por investigar la fortaleza, 1.000 gp cada uno por recuperar la campana, y 1.000 gp adicionales si consiguen llevar a Elwyn vivo ante la justicia. Si el grupo lo solicita, se les da un anticipo del 50% (250 gp cada uno) con el que pueden comprar equipo y suministros no mágicos.
+
+Se proporciona un guía local para llevar al grupo a través de la naturaleza hasta la misteriosa fortaleza. El guía no acompañará al grupo, bajo ninguna circunstancia, al interior de la fortaleza.
+
+El grupo llega en el aniversario del milagro.
+
+Notas para el Dungeon Master
+
+Elwyn es una mujer, pero la información anterior ha sido escrita de tal manera que el grupo asumirá que Elwyn es un hombre. Permite que el grupo crea esto para que no se den cuenta inmediatamente de que la voz de mujer que escuchan al explorar la fortaleza es en realidad la voz de Elwyn.
+
+Ten en cuenta que la fortaleza está construida en forma de doble espiral. Hay un pasillo secreto que discurre junto a las habitaciones y pasillos por los que viajará el grupo. Este corredor es utilizado por Elwyn para observar al grupo a lo largo del camino. Ocasionalmente, proporciona pistas al grupo cuando éste se encuentra atascado (siempre, por supuesto, con una voz despectiva acompañada de una risa diabólica), sintiéndose segura de su poder y de su capacidad para derrotar al grupo cuando lo desee.
+
+A menos que se indique lo contrario, las habitaciones no están iluminadas. Las únicas puertas de la fortaleza (excepto la entrada y la puerta de hierro entre las habitaciones 1 y 2) son secretas. Una vez detectadas, se abren fácilmente.
+
+El DM debe copiar los dos mapas del tesoro con antelación y estar preparado para repartirlos a los jugadores. No es necesario que los mapas del tesoro estén dibujados a escala (página 158).
+
+No habrá monstruos errantes en la fortaleza de Elwyn. Si lo deseas, puedes añadir encuentros con monstruos errantes en el desierto por el que viaja el grupo para llegar a la fortaleza, pero es importante que el grupo no esté muy debilitado antes de que comience la aventura. Las estadísticas de los monstruos se dan en la página 34.
+
+FUERA DE LA FORTALEZA
+
+Habéis viajado mucho por el desierto, y finalmente habéis llegado a vuestro destino: la misteriosa fortaleza que sospecháis que puede albergar a Elwyn y la campana mística de Chardastes. Tu guía ha dado media vuelta después de indicarte la última dirección que debes tomar.
+
+Sigues un camino que sale del bosque y llega a un claro. Allí, ante vosotros, hay un enorme edificio. Es casi negro y parece estar hecho de hierro.
+
+De repente, se percibe un olor horrible y cuatro feos humanoides emergen del bosque a tu izquierda.
+
+Los humanoides son trogloditas. Como tienen la capacidad de mezclarse con su entorno, sorprenden con un 1-4 en el d6. Su olor es nauseabundo, dando a sus oponentes una penalización de -2 a sus tiradas de golpe, a menos que los oponentes hagan una tirada de salvación contra el veneno.
+
+La guarida de los trogloditas se encuentra en el bosque, a poca distancia del camino. Consiste en una hondonada en un pequeño claro con una abertura que conduce a una guarida subterránea. El tesoro de los trogloditas consiste en cinco grandes sacos, dos frascos y un trozo de pergamino con una escritura descolorida. Dos de los sacos contienen 500 sp cada uno, dos contienen 500 gp cada uno y uno contiene 500 pp. Los dos frascos contienen pociones de curación. El pergamino es el Mapa del Tesoro nº 1 (entrega una copia del mapa a los jugadores en este momento), que muestra la ubicación del tesoro en la sala 5.
+
+El grupo debe derrotar a los trogloditas antes de poder entrar en la fortaleza. Es importante que encuentren la guarida y localicen las pociones y el mapa del tesoro. Da pistas a los jugadores, o incluso un pequeño consejo, para que busquen la guarida.
+
+1. ENTRADA
+
+Al salir de nuevo del bosque, por fin puedes ver bien la fortaleza. Los muros tienen una altura de nueve metros, y la forma dentada del exterior parece los dientes de un dragón negro cuando abre la boca para respirar. Los muros son, efectivamente, de hierro. Hay una puerta visible en la esquina suroeste.
+
+Las únicas entradas al edificio son la entrada visible y la puerta secreta cerca de ella. (La puerta secreta entre las habitaciones 2 y 3 del mapa lleva al nivel inferior, no al exterior). Se recomienda que no permitas que el grupo encuentre la entrada secreta en este momento; si lo hacen, evitarán todas las trampas, trucos y encuentros, y encontrarán a Elwyn en la habitación 16a.
+
+La entrada visible se abre fácilmente. El pasillo detrás de la puerta es oscuro.
+
+El corredor avanza hacia el norte desde la puerta. Después de unos diez pies, se abre en una amplia zona a su izquierda de unos 30 pies de norte a sur por 20 pies de este a oeste. La zona parece estar vacía.
+
+El área está vacía. Cuando el grupo se haya reunido en esta sala, lee lo siguiente:
+
+Una voz femenina musical y grave llena el aire, diciendo: "¿Quién se atreve a entrar en el Santuario de Elwyn sin ser invitado? Volved atrás. Vuélvete ahora, porque te espera una muerte segura". La voz rompe entonces en una risa diabólica.
+
+Es la voz de Elwyn, que habla desde su pasillo secreto de observación. El grupo es libre de seguir su consejo y marcharse, pero esto pone fin a la aventura. Si el grupo continúa, espera hasta que todo el grupo haya cruzado la zona del mapa indicada por una línea de puntos (entre las salas 1 y 2), y entonces lee lo siguiente:
+
+De repente, oyes un sonoro "¡BUM!" detrás de ti. Cuando te das la vuelta, ves que una sólida puerta de hierro ha descendido en el pasillo, bloqueando tu vía de escape. También observas que se ha abierto un pequeño panel en la pared este.
+
+El panel abierto revela un evidente ojo de cerradura. Cuando se introduce la llave adecuada en el agujero y se gira, la puerta se levanta. Elwyn tiene la única llave. La cerradura y la puerta no pueden abrirse con la habilidad Jock abierto de un ladrón, ni con un hechizo de golpear.
+
+2. DAIS
+
+A tu izquierda ves una zona abierta de unos 30 pies de norte a sur por unos 20 pies de este a oeste. La zona parece estar vacía excepto por una zona elevada que ocupa el centro de la pared oeste. La zona elevada está a medio pie por encima del suelo y parece piedra pulida. Hay un pedestal en el centro de la zona elevada. Tiene un metro de altura y un metro cuadrado, y parece estar hecho de madera. Encima del pedestal hay una campana negra.
+
+El altar es de mármol, demasiado pesado para moverlo. El pedestal es un bloque sólido de mahoga ny; se puede mover, aunque es extremadamente pesado. Se necesitan al menos cuatro miembros del grupo para moverlo. Su valor en el mercado es de 500 gp. La campana es una campana normal hecha de hierro forjado, y vale alrededor de 1 gp.
+
+La puerta secreta entre las habitaciones 2 y 3 conduce a una escalera que se describe con más detalle en la habitación 5. Es mejor que el grupo no la descubra en este momento.
+
+3. ALTAR
+
+Si el grupo ha estado en silencio mientras avanza hacia el norte por el corredor, lee lo siguiente:
+
+Oyes un murmullo de voces procedentes del norte.
+
+Cuando el grupo entra en la habitación:
+
+A tu izquierda ves un área abierta de unos 30 pies este-oeste por unos 20 pies norte-sur, Toda la longitud de la pared oeste está ocupada por un altar. La habitación está débilmente iluminada por unas pocas velas en el altar. Arrodillados ante el altar hay seis figuras humanas con armadura de malla metálica que emiten un sonido bajo y cantado.
+
+Son seis acólitos (clérigos de primer nivel) armados con mazas. Son seguidores de Elwyn. Si la trampa de la puerta se activó o el grupo hizo ruido al bajar por el pasillo, los acólitos se dan cuenta de su llegada; de lo contrario, el grupo puede sorprender a los acólitos. Si el grupo intenta pasar a hurtadillas por esta sala sin alertar a los acólitos, hay un 25% de posibilidades de que lo consigan. Si los acólitos se percatan de la presencia del grupo, atacan.
+
+No hay nada de valor en esta habitación y los acólitos no llevan ninguna riqueza.
+
+4. DAIS
+
+A tu izquierda ves un área abierta de unos 30 pies de este a oeste y unos 20 pies de norte a sur. El área parece estar vacía excepto por un altar similar al que viste antes. Hay un pedestal en el centro del altar. Encima del pedestal hay una campana que parece estar hecha de un metal rojizo.
+
+El altar es de mármol, demasiado pesado para ser movido. El pedestal es un bloque macizo de caoba; se puede mover, aunque es extremadamente pesado. Se necesitan al menos cuatro miembros del grupo para moverlo. Su valor en el mercado sería de 500 gp. La campana es una campana normal hecha de cobre, y vale unos 5 gp.
+
+5. TESORO DE LOS TROGLODITAS
+
+A tu izquierda ves un área abierta de unos 30 pies de este a oeste por unos 20 pies de norte a sur. La zona parece estar vacía.
+
+Esta es la habitación indicada en el mapa del tesoro encontrado en la guarida de los trogloditas. La habitación está vacía excepto por el tesoro secreto situado en el punto del mapa marcado con una "X". El suelo de la habitación está articulado a lo largo de la pared sur. Cuando todo el grupo ha entrado en esta sala, Elwyn, que está observando desde su pasillo, activa un mecanismo que hace que el suelo se abra bajo el grupo...
+
+De repente, sentís que el suelo empieza a moverse bajo vuestros pies. Cuando el suelo se balancea hacia abajo desde una bisagra cerca de la pared sur, caes en la oscuridad, aterrizando en el suelo de abajo. El suelo vuelve a su posición por encima de ti, creando una fuerte ráfaga de aire que apaga todas las antorchas y lan ternas.
+
+5a. SALA DE LA TRAMPA
+
+Ningún miembro del grupo recibe daño por el deslizamiento. Los miembros del grupo con infravisión pueden ver. Cuando se restablece la luz, los miembros restantes del grupo también ven lo siguiente:
+
+Estás en una habitación de unos 30 pies cuadrados. Parece estar vacía. Un pasillo se abre en una dirección.
+
+La habitación está vacía. El grupo está ahora en el nivel inferior de la fortaleza. El pasillo conduce a la sala 5b, y luego a una serie de escalones que devolverán al grupo al nivel superior, como se muestra en el mapa del nivel inferior.
+
+5b. GUARIDA DE ORCOS
+
+Se ve una gran sala, quizás de 50 pies de largo y 30 pies de ancho. Hay varios palés por la habitación. De pie entre los palés hay seis pequeños y feos humanoides que parecen una combinación de animal y hombre. Están armados con espadas cortas.
+
+Son cinco orcos armados con espadas cortas, y un líder orco armado con una espada corta +1. Los orcos atacan al grupo en cuanto los ven.
+
+Si el grupo está usando luz, los orcos no pueden ser sorprendidos. Si no hay luz, los orcos pueden ser sorprendidos, pero todos los humanos sin infravisión reciben una penalización de -4 a las tiradas de golpe, y los oponentes que pueden verlos reciben un bono de +4 a las tiradas de golpe.
+
+La habitación contiene seis pequeños sacos. Uno contiene 200 gp, los otros contienen 200 sp cada uno. El líder de los minerales lleva una pequeña bolsa que contiene 7 gemas (con un valor de 200 gp, 100gp (x5) y 50 gp, respectivamente). El suelo está sembrado de un surtido de huesos, en su mayoría humanos y humanoides. Son los restos de aventureros anteriores.
+
+El pasillo conduce a una escalera. La escalera termina en una puerta que se abre fácilmente. Esta es la puerta secreta entre las habitaciones 2 y 3. No le digas al grupo dónde está; deja que lo descubran. Mientras el grupo pasa por las habitaciones 3 y 4, lee las descripciones de las habitaciones, modificadas por lo que haya sucedido mientras tanto. Por ejemplo, si el grupo mató a los acólitos en la sala 3, encontrarán cadáveres. Si no lo hicieron, los acólitos siguen allí, rezando.
+
+Cuando el grupo vuelve a la sala 5, encuentra que hay un borde visible alrededor del suelo derrumbado de un metro de ancho. Si lo desean, pueden moverse fácilmente y con seguridad en una sola fila hasta el lugar marcado con una "X" en el mapa.
+
+En el punto marcado con una "X", hay una piedra suelta a un metro del suelo, Cuando se retira la piedra, se encuentra una cavidad detrás de la piedra, que contiene lo siguiente: un pergamino clerical con tres hechizos de curación de heridas leves, una poción de polimorfia de uno mismo (etiquetada), una poción de crecimiento (también etiquetada), un martillo de guerra +1, y otro mapa del tesoro (este lleva al tesoro de la sala 9, Mapa del Tesoro #2).
+
+La poción de polimorfia es del Set de Expertos de D&D®. Permite al usuario cambiar de forma en la de cualquier criatura viva con dados de golpe o nivel igual o inferior al suyo. La transformación no cambia los puntos de vida del usuario, las tiradas de golpe o las tiradas de salvación. El usuario gana las habilidades físicas de la nueva forma, pero ninguna de las habilidades especiales (uso de hechizos, arma de aliento, ataques de paralización, etc.) El efecto de la poción dura entre 7 y 12 (1d6 +6) turnos. Si el usuario es un lanzador de conjuros, no puede utilizar sus propios conjuros mientras está polimorfo.
+
+6. SALA VACIA
+
+A tu izquierda ves un área abierta de unos 30 pies de norte a sur por unos 20 pies de este a oeste. El área parece estar vacía.
+
+Esta habitación está vacía.
+
+7. DAIS
+
+A tu izquierda ves un área abierta de unos 30 pies de norte a sur por unos 20 pies de este a oeste. El área parece estar vacía excepto por un altar similar al que viste anteriormente. Hay un pedestal en el centro de la zona elevada. Encima del pedestal hay una campana que parece estar hecha de un metal brillante.
+
+El altar es de mármol, demasiado pesado para ser movido. El pedestal es un bloque macizo de caoba; se puede mover, aunque es extremadamente pesado. Se necesitan al menos cuatro miembros del grupo para moverlo. Su valor en el mercado sería de 500 gp. La campana es una campana normal de latón, y vale unos 10 gp.
+
+8. CÁMARA DEL GOLEM
+
+Ves un área a tu izquierda de unos 30 pies de norte a sur por unos 20 pies de este a oeste. La habitación contiene una extraña criatura humanoide de un metro de altura y aparentemente hecha de madera. Se mueve rígidamente hacia ti.
+
+La criatura es un golem de madera. Un gólem es un monstruo creado por un usuario de magia o un clérigo de alto nivel. Los gólems sólo pueden ser golpeados por armas mágicas. Los ataques mágicos funcionan, pero el gólem es inmune a los hechizos de dormir, encantar y retener, y a todos los gases. Como es torpe, tiene una penalización de -1 a su tirada de iniciativa, y como está hecho de madera, tiene una penalización de -2 a su tirada de salvación contra los ataques basados en el fuego. Si es alcanzado por el fuego, también recibe un punto extra de daño por dado. Por lo demás, la habitación está vacía.
+
+9. SALA DEL TESORO
+
+A tu izquierda ves una zona abierta de unos 30 pies de este a oeste por unos 20 pies de norte a sur. La zona parece estar vacía.
+
+La habitación está vacía, excepto por el tesoro secreto marcado con una "X" en el mapa. El mapa del tesoro (Mapa del Tesoro #2) encontrado en la habitación 5 revelará su ubicación al grupo. Como en la sala 5, el tesoro está escondido detrás de un bloque de piedra suelta a la altura de la cintura. Detrás de la piedra se encuentra el siguiente tesoro:
+
+Un palo liso de unos 45 centímetros de largo. Esto es en realidad una varita de paralización (3 cargas) - cualquier elfo o usuario de magia la reconoce como lo que es, y sólo un elfo o usuario de magia puede manejarla. La palabra de mando está escrita en la varita.
+
+Una espada. En realidad es una espada +1.
+
+Un trozo de pergamino enrollado. Esto es en realidad un pergamino clerical que contiene un hechizo de curar heridas leves y un hechizo de silencio de 15' de radio. El hechizo de silencio de 15' de radio se describe en el D&D® Expert Set. Hará que un área de 30 pies de diámetro sea totalmente silenciosa durante 12 turnos. Se impide la conversión y el uso de hechizos en el área del hechizo de silencio. Si se lanza sobre una persona, la víctima debe hacer una tirada de salvación contra Hechizos, o el efecto del hechizo se moverá con la víctima. Si la tirada de salvación tiene éxito, el hechizo sigue funcionando, pero se queda en un lugar. La víctima puede entonces abandonar el área y hablar normalmente.
+
+Un anillo. Esto es en realidad un anillo de almacenamiento de hechizos. Su funcionamiento se describe completamente en el D&D® Expert Set. Una vez puesto el anillo, el portador sabe qué hechizos hay en el anillo y cómo lanzarlos desde él. Después de usar un hechizo, el anillo puede ser recargado por un lanzador de hechizos, que debe lanzar el hechizo de reemplazo directamente al anillo. El anillo no absorbe los hechizos lanzados al portador. Los hechizos del anillo tienen una duración, un alcance y un efecto iguales al nivel más bajo de uso de la magia necesario para lanzarlos. Este anillo tiene dos hechizos de misiles mágicos, un hechizo de telaraña y un hechizo de rayo. El hechizo de rayo crea un rayo de 5 pies de ancho y 60 pies de largo en cualquier lugar dentro de su alcance (180 pies). Cualquier criatura en el área de efecto recibe 5d6 puntos de daño. Si la víctima hace una tirada de salvación contra Hechizos, el daño se reduce a la mitad. Si el rayo golpea una superficie sólida antes de alcanzar su longitud de 60 pies, rebota hacia su lanzador hasta alcanzar su longitud total. Si golpea a su lanzador, éste recibe todo el daño (o la mitad si el lanzador hace una tirada de salvación contra Hechizos).
+
+10. DAIS
+
+A tu izquierda ves un área abierta de unos 30 pies de este a oeste por unos 20 pies de norte a sur. La zona parece estar vacía, excepto por un altar similar a los que has visto en todo este extraño santuario. Hay un pedestal en el centro del altar. Encima del pedestal hay una campana que parece estar hecha de un metal plateado.
+
+El altar es de mármol, demasiado pesado para ser movido. El pedestal es un bloque macizo de caoba; se puede mover, aunque es extremadamente pesado. Se necesitan al menos cuatro miembros del grupo para moverlo. Su valor en el mercado sería de 500 gp. La campana es una campana normal hecha de plata, y vale unos 50 gp.
+
+11. ESTATUA
+
+A tu derecha ves un área abierta de unos 10 pies de este a oeste por unos 20 pies de norte a sur. La zona parece estar vacía, excepto por una gran estatua de piedra en el cor te noreste. La estatua es una imagen de Chardastes.
+
+La estatua es una estatua de roca viviente. Ataca lanzando un chorro de magma desde la punta de los dedos en cuanto cualquier miembro del grupo entra en el espacio. Se oye la risa diabólica de una mujer (Elwyn, de nuevo) cuando la criatura ataca. Aquí no hay ningún tratado.
+
+12. SALA VACIA
+
+A tu derecha ves un área abierta de unos 10 pies de este a oeste por unos 20 pies de norte a sur. El área parece estar vacía.
+
+Cuando el primer personaje entra en la habitación, se abre un pozo trampa que cubre toda el área de 10x20. El pozo tiene 3 metros de profundidad, y la víctima recibe entre 1 y 6 puntos de daño por la caída. Por lo demás, la habitación está vacía.
+
+13. ESTATUA
+
+El corredor se ensancha aquí para formar una habitación de unos 30 pies de norte a sur por unos 20 pies de este a oeste. El pasillo continúa hacia el este. La habitación parece estar vacía excepto por una estatua de un pequeño caballo en la esquina sureste, La estatua está hecha de un metal amarillento.
+
+La estatua es de bronce macizo y no se puede mover. Es inmune a cualquier daño. Si es golpeada por un arma metálica de mano, el portador del arma sufre de 2 a 5 puntos de daño por descarga eléctrica (sin tirada de salvación). No hay nada más en la habitación.
+
+14. DAIS
+
+El pasillo se ensancha aquí para formar una habitación de unos 30 pies de norte a sur por unos 20 pies de este a oeste. El pasillo continúa hacia el reparto. Esta zona contiene un altar idéntico a los que has visto antes. La campana del altar está hecha de un metal dorado.
+
+El altar es de mármol, demasiado pesado para ser movido. El pedestal es un bloque sólido de caoba; se puede mover, aunque es extremadamente pesado. Se necesitan al menos cuatro miembros del grupo para moverlo. Su valor en el mercado sería de 500 gp. La campana es una campana normal hecha de oro, y vale unos 500 gp.
+
+15. CELDA
+
+A tu derecha ves un área abierta de unos 10 pies de este a oeste por unos 20 pies de norte a sur. La zona parece estar vacía.
+
+El área está vacía. Si todo el grupo entra en la habitación, una rejilla de hierro desciende repentinamente (activada por Elwyn, que está mirando, como siempre), atrapando al grupo en la habitación. Elwyn se ríe diabólicamente. Un panel se abre en la pared este del pasillo, frente a la celda. Detrás del panel hay un ojo de la cerradura con una llave clavada en él. "Gira la llave y la libertad será tuya", dice burlonamente. La llave, cuando se gira, hace que el rastrillo se levante.
+
+Hay varias soluciones disponibles para el grupo. Un hechizo de golpeo en el ojo de la cerradura hace que la llave gire mágicamente. Si el grupo tiene la poción de polimorfia, uno de los miembros puede beberla, transformarse en una criatura lo suficientemente pequeña como para atravesar los barrotes, salir de la celda, esperar a que la poción desaparezca (o cambiar a una forma más grande o normal) y luego girar la llave. Un personaje puede intentar echar el lazo a la llave y girarla en la cerradura retorciendo la cuerda. Esto requiere una tirada de golpe exitosa con una penalización de -3, pero se permiten intentos ilimitados. Los personajes con una fuerza combinada de 36 o más pueden doblar los barrotes de la celda lo suficiente como para permitir el paso; sin embargo, cada personaje que ayude a doblar los barrotes debe hacer una tirada de salvación contra Parálisis o tensión muscular. El efecto de una distensión muscular es que el personaje tiene una penalización de -2 a las tiradas de golpeo durante el resto de la aventura.
+
+Los jugadores creativos pueden idear otros métodos inusuales para escapar de esta trampa. Recompensa el pensamiento inteligente y creativo permitiendo que cualquier sugerencia razonablemente buena tenga éxito. Otorga un premio especial de 100 puntos de experiencia al jugador que proponga una solución viable y creativa a la trampa.
+
+EL SANTUARIO DE ELWYN
+
+16. DRAGÓN NEGRO
+
+El pasillo se ensancha aquí para formar una habitación de unos 6 metros cuadrados. El pasillo continúa hacia el oeste. Una enorme criatura negra parecida a un lagarto con alas está dormida y roncando en la esquina. Tiene un collar de hierro alrededor del cuello y está encadenado a la pared. Hay varios sacos grandes en la esquina noroeste.
+
+La criatura es un joven dragón negro, dormido. El grupo obtiene una ronda de ataques gratuitos, con un bono de +2 en todas las tiradas de impacto. La cadena del dragón le permite moverse hasta 30 pies en cualquier dirección. Si el grupo intenta escabullirse del dragón, éste se despierta automáticamente.
+
+La zona del mapa marcada como 16a es una puerta secreta que conduce al pasillo desde el que Elwyn ha estado espiando al grupo. Es mejor que el grupo no encuentre la puerta en este momento. Si lo hacen, procedan al encuentro final con Elwyn. De lo contrario, el grupo se encontrará con Elwyn aquí después de haber estado en el área 21. El encuentro final con Elwyn tiene lugar aquí cuando el grupo intenta salir.
+
+17-21. EL SANTUARIO MÁS ÍNTIMO
+
+Lee lo siguiente a los jugadores mientras entran en el pasillo que lleva al área 21.
+
+Se ve una gran área abierta, de unos 20 pies de ancho y más de 100 pies de largo. Está débilmente iluminada por unas pocas velas en apliques a lo largo de las paredes. Hay cuatro nichos que se extienden desde el pasillo central: dos a unos 30 pies de este extremo de la sala y otros dos casi al final. El extremo más alejado parece desvanecerse en la oscuridad. Las paredes que se ven están pintadas con diseños abstractos en colores suaves.
+
+Este es el santuario más íntimo de Elwyn's for tress. El grupo presumiblemente explorará la zona al acercarse al área 21. Observa que la mujer retratada en los murales situados detrás de las cortinas es la misma en cada uno de ellos. Si el grupo no se da cuenta de esto, díselo después de que hayan visto el tercer mural.
+
+17. ALCOVE
+
+La pared oeste de esta zona está cubierta por una cortina negra.
+
+Si el grupo mira detrás de la cortina, ve:
+
+Ven un mural que representa a una mujer con una túnica amarilla brillante con una espada desenvainada en la mano. Está rodeada de víctimas humanas.
+
+18. ALCOVE
+
+La pared este de esta zona está cubierta por una cortina negra.
+
+Si el grupo mira detrás de la cortina, ve:
+
+Se ve un mural que representa a una mujer con una túnica lavanda arrodillada ante un altar. Está flanqueada por seis hombres con túnicas negras y armados con mazas. Están en posición de firmes. El brillo de las armaduras de metal se puede ver bajo sus túnicas.
+
+19. ALCOVE
+
+La pared oeste de esta zona está cubierta por una cortina negra.
+
+Si el grupo mira detrás de la cortina, ve:
+
+Se ve un mural que representa a una mujer con una túnica blanca. Está a punto de disparar una flecha de un arco largo a un ser que empieza a desaparecer en el cielo. Reconoces al ser como Chardastes.
+
+20. CUEVA
+
+La pared este de esta zona está cubierta por una cortina negra.
+
+Si el grupo mira detrás de la cortina, ve:
+
+Hay un pedestal en el centro de la zona elevada. Tiene unos tres pies de altura, cinco pies de profundidad y diez pies de ancho, y parece estar hecho de madera. Encima del pedestal hay una campana que parece estar hecha de un metal silvestre.
+
+Se ve un mural que representa a una mujer con una túnica negra a punto de descender a un gran abismo. Guiándola hacia la sima hay una enorme figura humanoide masculina cubierta de pelo corto y oscuro. Sólo tiene las manos y los pies descubiertos. No lleva ropa.
+
+El miembro del grupo con mayor inteligencia reconoce a este ser como Leptar, un inmortal caótico que fue derrotado hace tiempo por Char dastes.
+
+21. ALTAR
+
+Hasta que el grupo haya examinado los cuatro murales, esta zona está envuelta en la oscuridad, causada por el hechizo clerical oscuridad, lanzado por Elwyn. (La oscuridad es el reverso de la luz, y crea un círculo de 30 pies de oscuridad.) Tan pronto como el grupo haya examinado el último de los cuatro murales, ocurre lo siguiente:
+
+Al alejarse del mural, la oscuridad de la zona al norte se disuelve, revelando un área de unos 20 pies cuadrados. Toda la zona está elevada unos 30 centímetros por encima del suelo y parece de piedra pulida.
+
+El altar es de mármol, demasiado pesado para ser movido. El pedestal es un bloque macizo de caoba; se puede mover, aunque es extremadamente pesado. Se necesitan al menos cuatro miembros del grupo para moverlo. Su valor en el mercado sería de 500 gp. La campana es, por supuesto, la campana sagrada de platino que el grupo ha estado buscando. Si alguien la recoge, ocurre lo siguiente:
+
+Al recoger la campana sagrada, ésta comienza a sonar. Casi al mismo tiempo, cuatro criaturas aparecen y se abalanzan sobre ti, como si fueran llamadas por el sonido de la campana. Dos de las criaturas son cosas feas con cuernos y largos colmillos. Las otras dos son oscuras y difíciles de distinguir. Sus contornos parecen brillar y casi se puede ver a través de ellos.
+
+Las criaturas con cuernos son gárgolas voladoras; las otras dos criaturas son sombras. Han surgido a través de las puertas secretas de una sola dirección en las áreas 19 y 20, e inmediatamente atacan al grupo.
+
+Las gárgolas sólo pueden ser golpeadas con magia o armas mágicas. No les afectan los hechizos de sueño y encanto. Las sombras sólo pueden ser golpeadas especialmente con armas mágicas. Cuando una sombra golpea a un oponente, drena un punto de Fuerza de su víctima además de causar el daño normal. La pérdida de Fuerza dura ocho turnos, pero cualquier criatura cuya Fuerza se reduce a cero se convierte en una sombra. Las sombras, al igual que las gárgolas, no se ven afectadas por los hechizos de dormir y encantar.
+
+SANTUARIO DE ELWYN: Monstruos
+Habitación Monstruo No. Tirada de Golpe AC HD hp MV #AT D Save ML AL SA/SD XP
+- Trolodita 4 18 5 2 12,14,10,10 120'(40') 3 1-4/1-4/1-4 F2 9 C Sí 30
+3 Acólito (C1) 6 19 2 1 6 cada uno 120'(40') 1 1-6 C1 7 C No 10
+5b Líder Orco 1 18 5 2 9 120'(40') 1 1-6 + 1 espada Fl 9 C No 20
+5b Orcos 5 19 5 1 6 cada uno 120'(40') 1 1-6 Fl 8 C No 10
+8 Golem de madera 1 17 7 2+2 14 120'(40') 1 1-8 Fl 12 N Sí 35
+11 Estatua viviente de roca 1 16 4 5 23 60'(20') 2 2-12/2-12 F5 11 C Sí 300
+16 Dragón Negro 1 16 2 7 28 90'(30') o 240'(80') de vuelo 3 2-5/2-5/2-20 F7 8 C Sí 1250
+21 Gárgola 2 16 5 4 18,15 90'(30') o 150'(50') de vuelo 4° 1-3/1-3/1-6/1-4 F8 11 C Sí 125
+21 Shadow 2 17 7 2+2 9,12 90'(30') 1 1-4 + especial F2 12 C Sí 35
+16 Elwyn (C6) 1 17 1 6 24 120'(40') 1 1-6 + especial C6 12 C Sí 500
+
+16a. EDWYN EL ARDIENTE
+
+Si el grupo derrota a los monstruos y recupera la campana sagrada, puede abandonar la fortaleza. Sin embargo, mientras se van, Elwyn la Ardiente sale de su corredor secreto y espera al grupo en el área 16a.
+
+Ves a una mujer de pie en el corredor al este. Lleva una túnica a rayas de color amarillo brillante, lavanda, blanco y negro, y lleva un escudo brillante, es claramente la mujer representada en los murales. Bajo la túnica se ve una armadura metálica, y en su cinturón hay un llavero y una maza. Cuando empieza a hablar, reconoces la voz que te ha provocado durante toda la expedición:
+
+"En el nombre de Leptar, bienvenido a MI santuario sagrado. Lo has hecho muy bien; mucho mejor que todos los demás miserables que han intentado asaltar mi fortaleza. Supongo que habéis encontrado sus huesos después de derrotar a mis orcos. Oh, bueno, los orcos son fáciles de encontrar, y les gusta trabajar para Elwyn el Ardiente. Los nuevos disfrutarán de un festín con tus huesos cuando acabe contigo".
+
+Elwyn lleva una armadura de cota de malla y un escudo +1. El llavero de su cinturón abre la puerta de hierro entre las habitaciones 1 y 2. Va armada con una maza de drenaje +1. Además del daño normal, esta maza drena un nivel de experiencia del personaje golpeado, como si se tratara de un wight. Sólo puede absorber un total de tres niveles. Una vez agotados esos niveles, se convierte en una maza normal + 1.
+
+Ten en cuenta que Elwyn tiene fuerza superior, lo que le da un +1 adicional al daño en cualquier ataque.
+
+Los hechizos de Elwyn son los siguientes
+
+1er nivel: causar miedo, oscuridad (usado)
+2º nivel: tizón, retener persona
+3er nivel: maldición
+
+La mayoría de estos hechizos están contenidos en el Set de Expertos de D&D®.
+
+Causar miedo es el reverso de quitar miedo. Hace huir a cualquier criatura durante dos turnos. Este hechizo inverso tiene un alcance de 120 pies.
+
+Oscuridad es el reverso de luz. Crea un círculo de oscuridad de 30 pies de diámetro. Elwyn ya ha utilizado este hechizo en el altar.
+
+Tizón es el reverso de bendición. Impone una penalización de -1 a la moral, las tiradas de impacto y las tiradas de daño de los enemigos. Cada víctima puede hacer una tirada de salvación contra Hechizos para evitar las penalizaciones. Afecta a todas las criaturas en un área de 6 metros cuadrados y dura seis turnos. Elwyn lanza este hechizo sobre el grupo cuando abandonan el altar por primera vez. El DM debe hacer una tirada de salvación secreta para cada miembro del grupo antes de que lleguen a Elwyn.
+
+Sujetar a una persona afecta a los seres humanos o similares. Cada víctima debe hacer una tirada de salvación contra hechizos o quedar paralizada durante 9 turnos. El hechizo puede ser lanzado a una sola persona o a un grupo. Si se lanza a una sola persona, se aplica una penalización de -2 a la tirada de salvación. Si se lanza a un grupo, afectará hasta a 4 personas (a elección del clérigo), pero sin penalización a sus tiradas. La parálisis sólo puede eliminarse con su reverso o con el conjuro disipar magia.
+
+La maldición es el reverso de eliminar maldición. Las maldiciones están limitadas únicamente por la imaginación del lanzador, pero si una maldición intentada es demasiado poderosa, puede volver al lanzador. Elwyn está considerando una maldición para hacer que una de las botas del grupo se convierta en pegamento y se pegue al suelo. El DM, por supuesto, puede pensar en una maldición más ingeniosa. La víctima tiene derecho a una tirada de salvación contra hechizos contra la maldición.
+
+La estrategia de Elwyn es lanzar tizón antes de que llegue el grupo. Luego lanzará retener a la persona seguido de maldición. Luego, lanzará causar miedo. Después, sacará su maza +1 y atacará al grupo. Si el dragón negro sigue vivo, lo libera de su cadena y también ataca al grupo.
+
+Sin saber que el grupo ha adquirido un hechizo de telaraña, está de pie en el estrecho pasillo y puede ser rápidamente apresada si el grupo es inteligente. Si el grupo utiliza el rayo, debe tener cuidado, porque el rebote puede causar mucho daño en su propio bando.
+
+Elwyn debería ser un oponente difícil, pero no imposible de derrotar. Nunca se rendirá. Una vez derrotada, el grupo ve automáticamente la puerta secreta ligeramente abierta detrás de ella. Justo dentro de la puerta secreta está el tesoro de Elwyn: un pequeño cofre de madera que contiene 11 gemas (con un valor total de 1.650 gp), y 2 pares de brazaletes a juego (uno con un valor de 1.000 gp cada uno y el otro con un valor de 1.100 gp cada uno). Junto al cofre hay un bastón de curación.
+
+El grupo puede utilizar la llave del cinturón de Elwyn para abrir la puerta de hierro entre las habitaciones 1 y 2, y salir por la puerta principal, o puede seguir el pasillo secreto de Elwyn hasta la puerta que lleva al exterior.
+
+Tras la aventura en el Santuario de Elwyn, los aventureros regresan a Umbral con la campana. Rápidamente se corre la voz sobre la hazaña del grupo. Durante la semana siguiente, más o menos, la partida no podrá seguir con las invitaciones; es un buen momento para que los personajes dejen caer unos cientos de piezas de oro para disfraces, regalos para los anfitriones y artículos similares. También es un buen momento para introducir más contactos de PNJ si los jugadores están interesados. Finalmente, las cosas se calmarán. La campana se guardará a la espera de decidir si se construye un nuevo santuario en Umbral o se devuelve a Specularum (lo primero exigirá un impuesto especial, lo segundo podría dar lugar a una nueva aventura). En este momento los jugadores pueden ser llamados por la Iglesia o recibir una inusual visita en sueños. La primera lleva a las Cuevas del Caos, la segunda es con un templo maligno escondido en unas cuevas cerca de la Fortaleza de Castellan. La zona está llena de humanoides, pero el templo debe ser encontrado y destruido. Los personajes deben viajar río arriba pasando por Kelvin en barco, hasta el puesto militar llamado Castellan Keep. Si aceptan, recibirán una carta de presentación de Sherlane.
+
+El viaje hasta el fuerte, aunque largo, es tranquilo. El grupo dejará el barco en un desierto de colinas boscosas y completará su viaje a pie.
+
+La fortaleza se alza en lo alto de un monte de piedra de paredes escarpadas, al que sólo se puede acceder por un estrecho camino rocoso. La puerta se abre a un patio exterior que contiene establos, barracones, un tavem, una capilla y otras estructuras similares. A través de una segunda puerta se encuentra el patio interior y la torre del homenaje, prohibida a todos, excepto a los que están en misión oficial.
+
+El comandante será educado, pero formal. Le preocupan los gigantes, no los templos malignos. No tiene tiempo, ni hombres, ni equipo para dedicarse a las preocupaciones de un patriarca en otra parte del reino. Los suministros pueden obtenerse de la intendencia al doble del precio de lista, según la disponibilidad, y es una pena que no haya traído algunos reclutas. La entrevista termina cuando un ayudante interrumpe con unos papeles importantes que hay que firmar. (Si la parte es grosera, el comandante se volverá Jess cooperativo).
+
+El tabernero puede dar al grupo la ubicación del complejo de cuevas, que ha estado bastante tranquilo últimamente. Como no hay gigantes allí, las patrullas han sido escasas. Los soldados de la taberna pueden proporcionar estos rumores:
+1. Tribus de diferentes criaturas viven en las cuevas.
+2. Todas las entradas de las cuevas están atrapadas. (Falso)
+3. Si te pierdes, ¡cuidado con el devorador de hombres!
+4. "Bree-yark" es el lenguaje de los goblins para decir "¡nos rendimos!". (Falso)
+5. Hay más de una tribu de orcos en las cuevas.
