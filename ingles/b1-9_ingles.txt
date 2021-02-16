@@ -238,7 +238,7 @@ This room is empty.
 
 24-41. OFFICERS’ QUARTERS
 
-All the officers at this oupost have private quarters. The rooms in this section are all identical. They contain a single bed, a wardrobe, a table with a chair pulled up to it, alow table near the bed, and chair near the low table.
+All the officers at this outpost have private quarters. The rooms in this section are all identical. They contain a single bed, a wardrobe, a table with a chair pulled up to it, allow table near the bed, and chair near the low table.
 
 24. FEMALE VETERAN’S QUARTERS
  
@@ -378,11 +378,11 @@ The Town of Luln
 
 Luln is a frontier town about the size of Threshold, but much more crowded, and its living conditions are slightly more primitive. The general services provided are much the same, but the quality is generally inferior to that of Threshold. Part of this is due to the fact that the Black Eagle Barony is close by, and continual humanoid raids have prevented the development of the land, which is rich.
 
-The Baron’s role in the town’s troubles is something of an open secret, but the fact remains that Duke Stephan has his hands full with other matters and little short of a blatant invasion by the Baron’s regular forces will bring outside aid. The Baron’s strategy is to keep the area worn down by continual harrassment while he builds his own forces. Then, when the Duke becomes involved in a major conflict elsewhere, the Baron can seize the town and hopefully conclude a separate peace with the Duke.
+The Baron’s role in the town’s troubles is something of an open secret, but the fact remains that Duke Stephan has his hands full with other matters and little short of a blatant invasion by the Baron’s regular forces will bring outside aid. The Baron’s strategy is to keep the area worn down by continual harassment while he builds his own forces. Then, when the Duke becomes involved in a major conflict elsewhere, the Baron can seize the town and hopefully conclude a separate peace with the Duke.
 
 The Duke knows this, of course, and has placed the ambitious Townmistress Sascia (a high level fighter) in charge of the place. Her job is to preserve the town and build up the local economy in the face of the Baron’s interference.
 
-The nearby Radlebb Keep assists Luln when itcan, which is not often—the area its garrison must patrol is large, and the haunted Koriszegy Keep must be constantly watched. Also, Sascia has her eye on a knighthood, and is interested in proving her leadership without resorting to the Duke’s soldiers.
+The nearby Radlebb Keep assists Luln when it can, which is not often—the area its garrison must patrol is large, and the haunted Koriszegy Keep must be constantly watched. Also, Sascia has her eye on a knighthood, and is interested in proving her leadership without resorting to the Duke’s soldiers.
 
 Background
 
@@ -717,7 +717,12 @@ The keep looms atop a sheer-walled mount of stone, reachable only by means of a 
 
 The commander will be polite, but formal. He is worried about giants, not evil temples. He has no time, men or equipment to spare for the concerns of a patriarch in another part of the realm. Supplies can be drawn from the quartermaster at twice list price, subject to availability—and it’s a shame you didn’t bring some recruits with you. The interview ends as an aide interrupts with some important papers to be signed. (If the party is rude, the commander will become Jess cooperative.)
 
-The tavern keeper can give the party the location of the cave complex, which has been pretty quiet lately. Since there are no giants there, patrols have been few. These rumors are available from soldiers in the tavern: 1. Tribes of different creatures live in the caves. 2. All of the cave entrances are trapped. (False) 3. If you get lost, beware the eater of men! 4. “Bree-yark” is goblin language for “we surrender!” (False) 5. There is more than one tribe of orcs within the caves.
+The tavern keeper can give the party the location of the cave complex, which has been pretty quiet lately. Since there are no giants there, patrols have been few. These rumors are available from soldiers in the tavern:
+1. Tribes of different creatures live in the caves.
+2. All of the cave entrances are trapped. (False)
+3. If you get lost, beware the eater of men!
+4. “Bree-yark” is goblin language for “we surrender!” (False)
+5. There is more than one tribe of orcs within the caves.
 
 
 
