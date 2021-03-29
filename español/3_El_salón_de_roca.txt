@@ -7,10 +7,10 @@ Arte interior: Doug Watson
 Diseño gráfico: Ruth Hoyer
 Cartografía: David S. "Diesel" LaForce
 
-_Notas generales: La aventura original, B8, Viaje a la Roca, era un torneo de una sola vuelta con tres caminos diferentes hacia la Roca. Para esta colección se ha seleccionado la ruta más directa._
+_Notas generales: La aventura original, *B 8, Viaje a la Roca*, era un torneo de una sola vuelta con tres caminos diferentes hacia la Roca. Para esta colección se ha seleccionado la ruta más directa._
 
-Mapas ..................... 134-135
-Hoja de ruta para el jugador ........... 159
+Mapas.....................134-135
+Hoja de ruta para el jugador.....................159
 
 *INTRODUCCIÓN*
 
@@ -62,7 +62,7 @@ Jenlar Temlin, Campeón (Luchador de 7º nivel): AC 6; F7; hp 42; MV 120' (40');
 
 Tiradas de combate: Las tiradas "para golpear" de un luchador de 7º nivel se dan en las tulas de juego de D&D Expert. Si no tienes estas reglas, utiliza la línea "4+ a 5" de la Tabla de Golpeo de los Monstruos del Juego Básico. Las tiradas de salvación de un luchador de 7º nivel se dan en la Tabla de Tiradas de Salvación del Juego Básico.
 
-Objetos mágicos: daga +2, anillo de protección +1
+Objetos mágicos: _daga +2_, _anillo de protección +1_
 
 Otras Notas: Jenlar Tenlin no lleva armadura. Su CA se debe a un bono de destreza de +2 y a su anillo mágico.
 
@@ -76,78 +76,70 @@ Tengo una advertencia que darles, una que podría ayudarles en su camino. El mae
 
 Jenlar Temlin busca en su túnica y saca un pequeño pergamino. Lo desenrolla, se aclara la garganta y comienza a leer.  "*Los sueños dorados pueden convertirse rápidamente en pesadillas llenas de llamas que arden.  Las nubes oscuras pueden no traerte la luz, pero busca los revestimientos de plata brillantes. La fuerza no es lo que parece; ¡recuerda los libros falsos! Los tesoros sencillos no envejecen, ¡y no es oro todo lo que reluce!". Jenlar da cuerda al pergamino y añade: "Las leyendas también dicen que el secreto está en dos partes, la visible y la invisible. Buena suerte a todos".
 
-EL CAMINO DEL BOSQUE
+*EL CAMINO DEL BOSQUE*
+*TABLA DE ENCUENTROS OPCIONAL EN EL CAMINO DEL BOSQUE*
+*DÍA (tira 1d8)*
 
-CAMINO DEL BOSQUE OPCIONAL
-TABLA DE ENCUENTROS
+*Tirada* *Encuentro opcional*
+1 Goblins
+2 Sprites (sólo en el bosque)
+3 Ogro
+4 Jabalí
+5 Lobo
+6 Elfos (sólo en el bosque)
+7 Trampa de caza de duendes
+8 Manada de ratas
 
-DÍA (tira 1d8)
-Tirada Encuentro opcional
+*Goblins.* (244) AC 6; HD 1-1; hp 3 cada uno; MV 90' (30'); #AT 1; D 1d6; Save NM; ML 7; AL C; XP 5 cada uno. Cada goblin lleva una lanza y 2-12 ep. Estos goblins son una banda de cazadores. Si los personajes jugadores hacen prisioneros, los goblins les dirán cómo reconocer y evitar la trampa de caza (encuentro opcional 7).
 
-Goblins
+*Sprites.* (6) CA 5; HD 1/2*; hp 3 cada uno; MV 180' (60) volando; #AT 1 hechizo; D maldición; Salvar E1; ML7; ALN; XP6 cada uno. Estas criaturas juguetonas y curiosas intentarán que los personajes jueguen con ellas. Si el grupo se niega, los sprites los regañarán y se irán volando. Si algún personaje juega con los sprites durante cinco turnos, los sprites volverán durante el siguiente encuentro hostil opcional y lanzarán una maldición sobre los oponentes del grupo (-2 a las tiradas de "golpear" y de salvación).
 
-Sprites (sólo en el bosque)
-Ogro
+*Ogro.* (1) CA 5; HD 4+1; hp 19; MV 90' (30'); #AT 1; D 1d8+2; Save F4; AL C; XP 125. Este ogro lleva 40 gp. Amenaza con atacar a menos que los personajes paguen 80 gp como soborno. Si lo hacen, ataca de todos modos.
 
-Jabalí
+*Jabalí.* (1-2) AC 7; HD 3; MV 90' (30'); #AT 1; D 2d4; Save F2; ML 9; AL N; XP 35 cada uno.  Estos animales no atacarán si un personaje les arroja comida y los deja tranquilos.
 
-Lobo
+*Lobo.* (1-3) AC 7; HD 2+2; MV 180' (60); #AT 1; D 1-6; Save Fl; ML 6; AL N; XP 25 cada uno.
 
-Elfos (sólo en el bosque)
-Trampa de caza de duendes
-Manada de ratas
+*Elfos.* (1d6 +2) AC 6; HD 1*; MV 120' (40'); #AT 1; D 1-6; Save E1; ML 8; AL N; XP 13.  Hechizo: encantar persona. Estos elfos son una patrulla que vigila a los bandidos o a los grandes monstruos. Cada uno está armado con un arco largo, 20 flechas y una lanza. Todos llevan armadura de cuero y tienen una bonificación de ~1 en su clase de armadura debido a su alta destreza. Los elfos han seguido en secreto al grupo. Si los personajes fueron amables con los sprites, los elfos dicen que los sprites se lo contaron. También darán una poción de curación al grupo si un personaje está herido. De lo contrario, trata esto como un encuentro normal. Los elfos se revelarán y exigirán saber por qué los personajes están en el bosque. Si los personajes dicen que son aventureros que buscan matar monstruos malvados, los elfos estarán satisfechos. Si el grupo habla con los elfos sobre La Roca, estos dirán que no saben nada al respecto. Los elfos desaparecerán entonces en el bosque. Los personajes no podrán seguirlos.
 
-DYAVRWNE
+*Trampa de caza de duendes.* Es un pozo de 20' cuadrados y 15' de profundidad, destinado a atrapar animales, no aventureros. Los personajes enanos, elfos y ladrones tienen un 80% de posibilidades de detectar este pozo; los demás personajes tienen un 40% de posibilidades de detectarlo. Haz la tirada de detectar aunque nadie esté buscando la trampa, porque esta trampa no es difícil de encontrar. (Si los personajes tomaron un prisionero goblin en un encuentro anterior, él les dirá cómo detectar este pozo automáticamente). Si la fosa no es detectada, el personaje principal del jugador cae automáticamente en ella y sufre 1d4 puntos de daño.
 
-Goblins. (244) AC 6; HD 1-1; hp 3 cada uno; MV 90' (30'); #AT 1; D 1d6; Save NM; ML 7; AL C; XP 5 cada uno. Cada goblin lleva una lanza y 2-12 ep. Estos goblins son una banda de cazadores. Si los personajes jugadores hacen prisioneros, los goblins les dirán cómo reconocer y evitar la trampa de caza (encuentro opcional 7).
+*Manada de ratas.* (20) CA 9; HD 1 punto de vida cada una; MV 60' (30'); #AT 1; D 1-6 (sin enfermedad); Salvar NM; AL Neutral; XP 5 por manada). Estas ratas viven en un tronco hueco en el sendero. Si alguien monta o camina sobre el tronco o intenta moverlo, saldrán en tropel y atacarán. Su único tesoro es una pequeña gema que vale 10 gp.
 
-Sprites. (6) CA 5; HD 1/2*; hp 3 cada uno; MV 180' (60) volando; #AT 1 hechizo; D maldición; Salvar E1; ML7; ALN; XP6 cada uno. Estas criaturas juguetonas y curiosas intentarán que los personajes jueguen con ellas. Si el grupo se niega, los sprites los regañarán y se irán volando. Si algún personaje juega con los sprites durante cinco turnos, los sprites volverán durante el siguiente encuentro hostil opcional y lanzarán una maldición sobre los oponentes del grupo (-2 a las tiradas de "golpear" y de salvación).
+*NOCHE (tira 1d6)*
+*Tirada* *Encuentro opcional*
+1 Murciélagos gigantes
+2 Ratas gigantes
+3 Lobos
+4 Ogro
+5 Goblins
+6 Lobo Feroz
 
-Ogro. (1) CA 5; HD 4+1; hp 19; MV 90' (30'); #AT 1; D 1d8+2; Save F4; AL C; XP 125. Este ogro lleva 40 gp. Amenaza con atacar a menos que los personajes paguen 80 gp como soborno. Si lo hacen, ataca de todos modos.
+*Murciélagos Gigantes.* ¡(2d4) AC 6; HD 2; MV 30! (10')/ 180' (60'); #AT 1; D 1d4; Salvar F1; ML 8; ALN; XP 20.
 
-Jabalí. (1-2) AC 7; HD 3; MV 90' (30'); #AT 1; D 2d4; Save F2; ML 9; AL N; XP 35 cada uno.  Estos animales no atacarán si un personaje les arroja comida y los deja tranquilos.  Lobo. (1-3) AC 7; HD 2+2; MV 180' (60); #AT 1; D 1-6; Save Fl; ML 6; AL N; XP 25 cada uno.
+*Ratas Gigantes.* (2d6) AC 7; HD 1/2; hp 3 cada una; MV 120' (40'); #AT 1; D 1-3 (sin enfermedad); Salvar NM; ML 8; AL C: XP 5 cada una.
 
-Elfos. (1d6 +2) AC 6; HD 1*; MV 120' (40'); #AT 1; D 1-6; Save E1; ML 8; AL N; XP 13.  Hechizo: encantar persona. Estos elfos son una patrulla que vigila a los bandidos o a los grandes monstruos. Cada uno está armado con un arco largo, 20 flechas y una lanza. Todos llevan armadura de cuero y tienen una bonificación de ~1 en su clase de armadura debido a su alta destreza. Los elfos han seguido en secreto al grupo. Si los personajes fueron amables con los sprites, los elfos dicen que los sprites se lo contaron. También darán una poción de curación al grupo si un personaje está herido. De lo contrario, trata esto como un encuentro normal. Los elfos se revelarán y exigirán saber por qué los personajes están en el bosque. Si los personajes dicen que son aventureros que buscan matar monstruos malvados, los elfos estarán satisfechos. Si el grupo habla con los elfos sobre La Roca, estos dirán que no saben nada al respecto. Los elfos desaparecerán entonces en el bosque. Los personajes no podrán seguirlos.
+*Lobos.* (1d4 +1) AC 7; HD 2+2; MV 180' (60'); #AT 1; D 1-6; Save Fl; ML 6; ALN; XP 25 cada uno.
 
-Trampa de caza de duendes. Es un pozo de 20' cuadrados y 15' de profundidad, destinado a atrapar animales, no aventureros. Los personajes enanos, elfos y ladrones tienen un 80% de posibilidades de detectar este pozo; los demás personajes tienen un 40% de posibilidades de detectarlo. Haz la tirada de detectar aunque nadie esté buscando la trampa, porque esta trampa no es difícil de encontrar. (Si los personajes tomaron un prisionero goblin en un encuentro anterior, él les dirá cómo detectar este pozo automáticamente). Si la fosa no es detectada, el personaje principal del jugador cae automáticamente en ella y sufre 1d4 puntos de daño.  Manada de ratas. (20) CA 9; HD 1 punto de vida cada una; MV 60' (30'); #AT 1; D 1-6 (sin enfermedad); Salvar NM; AL Neutral; XP 5 por manada). Estas ratas viven en un tronco hueco en el sendero. Si alguien monta o camina sobre el tronco o intenta moverlo, saldrán en tropel y atacarán. Su único tesoro es una pequeña gema que vale 10 gp.
+*Ogro.* AC 5; HD 4+1; hp 19; MV 90' (30'); #AT 1 (30'); #AT 1; D por arma; Salvar F4; AL C; XP 125. El ogro lleva un casco hecho con el cráneo y la cornamenta de un gran ciervo.  Lleva dos lanzas gigantes (D 1d6 +2) así como un garrote (D 1d4 +2). Si es posible, lanzará ambas lanzas antes de cerrarse para atacar. Lleva 52 gp y 5 pp.
 
-NOCHE (tira 1d6)
-Tirada Encuentro opcional
+*Goblins.* (244) CA 6; HD 1-1; hp 3 cada uno; MV 90' (30'); #AT 1; D 1d8; Salvar NM; ML 7 o 9; AL C; XP 5 cada uno. Si los personajes mataron a todos los goblins en el encuentro diurno opcional, estos goblins son una banda especialmente organizada en busca de venganza (ML 9). Si el encuentro diurno opcional con los goblins no tuvo lugar o si los personajes liberaron a algún prisionero, estos goblins son una banda de bandidos errantes (ML 7).
 
-Murciélagos gigantes
-Ratas gigantes
-Lobos
-Ogro
-Goblins
-Lobo Feroz
+*Lobo Feroz.* (1) CA 6; HD 4+1; hp 25; MV 150' (50'); #AT 1; D 2d4; Save F2; ML 8; XP 125.
 
-AvVRwOne
-
-Murciélagos Gigantes. ¡(2d4) AC 6; HD 2; MV 30! (10')/ 180' (60'); #AT 1; D 1d4; Salvar F1; ML 8; ALN; XP 20.
-
-Ratas Gigantes. (2d6) AC 7; HD 1/2; hp 3 cada una; MV 120' (40'); #AT 1; D 1-3 (sin enfermedad); Salvar NM; ML 8; AL C: XP 5 cada una.
-
-Lobos. (1d4 +1) AC 7; HD 2+2; MV 180' (60'); #AT 1; D 1-6; Save Fl; ML 6; ALN; XP 25 cada uno.
-
-Ogro. AC 5; HD 4+1; hp 19; MV 90' (30'); #AT 1 (30'); #AT 1; D por arma; Salvar F4; AL C; XP 125. El ogro lleva un casco hecho con el cráneo y la cornamenta de un gran ciervo.  Lleva dos lanzas gigantes (D 1d6 +2) así como un garrote (D 1d4 +2). Si es posible, lanzará ambas lanzas antes de cerrarse para atacar. Lleva 52 gp y 5 pp.
-
-Goblins. (244) CA 6; HD 1-1; hp 3 cada uno; MV 90' (30'); #AT 1; D 1d8; Salvar NM; ML 7 o 9; AL C; XP 5 cada uno. Si los personajes mataron a todos los goblins en el encuentro diurno opcional, estos goblins son una banda especialmente organizada en busca de venganza (ML 9). Si el encuentro diurno opcional con los goblins no tuvo lugar o si los personajes liberaron a algún prisionero, estos goblins son una banda de bandidos errantes (ML 7).
-
-Lobo Feroz. (1) CA 6; HD 4+1; hp 25; MV 150' (50'); #AT 1; D 2d4; Save F2; ML 8; XP 125.
-
-Encuentros en el Camino del Bosque
+*Encuentros en el Camino del Bosque*
 
 Todas las descripciones de encuentros en esta sección asumen que los personajes están viajando de día. Si los personajes deciden viajar de noche, tendrás que modificar las descripciones de los encuentros en consecuencia.
 
-W1. CLARO DE ARPÍA
+*W1. CLARO DE ARPÍA*
 
 El sendero tiene unos 6 metros de ancho. Los árboles que sobresalen bloquean la mayor parte del brillante cielo azul. El sol sigue oculto por los altos árboles, y sólo el cielo brillante ilumina el bosque.  Conejos, ardillas y otros pequeños animales corren entre los árboles, los arbustos y los matorrales. Unos cuantos ciervos asoman la cara por un momento, luego se dan la vuelta y corren hasta que sus blancas colas desaparecen en la espesura del bosque. El sendero parece abrirse justo delante. A tu derecha, la línea del bosque se aleja hacia el norte. Llegas a un claro con hierba verde brillante y algunos parches de fragantes rosas silvestres. De repente, oyes cantar, voces suaves y hermosas que te llaman para que abandones el sendero y te acerques a ellas.
 
-Todos los personajes deben realizar una tirada de salvación contra Conjuros. Aquellos que fallen su tirada de salvación se confundirán y se detendrán inmediatamente, sin realizar ninguna otra acción. Han sido encantados por el canto de cuatro arpías (CA 7; HD 3*; hp 19, 15, 15, 12; #AT 2 garras/1 maza; D 1-4/ 1-4/1-6; MV 60' (20')/vuelo 150' (50'); Salva F6; ML 7; AL Caótico; XP 50 cada una) escondidas en los altos árboles de la Casa Silvestre. Los personajes que realicen una tirada de salvación con éxito no tendrán que realizar más tiradas de salvación contra el canto continuado. Las arpías cargarán en el claro y atacarán incluso si nadie ha sido encantado. Las arpías ignorarán a los personajes encantados y atacarán primero a los demás. Seguirán cantando incluso mientras atacan. Los personajes encantados tratarán de evitar que otros ataquen a las arpías, pero los personajes encantados no atacarán a otros personajes del jugador. La primera arpía en atacar será la que tenga más puntos de vida. Ella bebió una poción de crecimiento antes de atacar. La poción duplica su tamaño y el daño de sus ataques. Sus puntos de vida no se duplican. Cuando ataca, grita: "¡Soy la poderosa Helgarth, reina de las arpías! ¿Quién se atreve a atacar a las Alas de la Muerte?" Helgarth lleva una tiara que vale 200 gp. Las otras arpías no tienen ningún tesoro.
+Todos los personajes deben realizar una tirada de salvación contra Conjuros. Aquellos que fallen su tirada de salvación se confundirán y se detendrán inmediatamente, sin realizar ninguna otra acción. Han sido encantados por el canto de cuatro arpías (CA 7; HD 3*; hp 19, 15, 15, 12; #AT 2 garras/1 maza; D 1-4/ 1-4/1-6; MV 60' (20')/vuelo 150' (50'); Salva F6; ML 7; AL Caótico; XP 50 cada una) escondidas en los altos árboles de la Casa Silvestre. Los personajes que realicen una tirada de salvación con éxito no tendrán que realizar más tiradas de salvación contra el canto continuado. Las arpías cargarán en el claro y atacarán incluso si nadie ha sido _encantado_. Las arpías ignorarán a los personajes _encantados_ y atacarán primero a los demás. Seguirán cantando incluso mientras atacan. Los personajes encantados tratarán de evitar que otros ataquen a las arpías, pero los personajes encantados no atacarán a otros personajes del jugador. La primera arpía en atacar será la que tenga más puntos de vida. Ella bebió una poción de _crecimiento_ antes de atacar. La poción duplica su tamaño y el daño de sus ataques. Sus puntos de vida no se duplican. Cuando ataca, grita: "¡Soy la poderosa Helgarth, reina de las arpías! ¿Quién se atreve a atacar a las Alas de la Muerte?" Helgarth lleva una tiara que vale 200 gp. Las otras arpías no tienen ningún tesoro.
 
 Cualquier personaje que busque pistas o más peligros en el claro encontrará un rastro en el lado norte del claro que lleva al encuentro W2.
 
-W2. GUARIDA DE LAS ARPÍAS
+*W2. GUARIDA DE LAS ARPÍAS*
 
 Mientras buscas en el claro, encuentras un estrecho sendero que sale del claro hacia el norte, en la dirección de la que vinieron las arpías. Este sendero es estrecho, de unos 1,5 metros de ancho, y está cubierto de maleza y zarzas.
 
@@ -165,13 +157,13 @@ Hay suciedad, basura y huesos roídos esparcidos por la cueva. Tres arpías reci
 
 Las pequeñas arpías (AC 9; HD 1/2; hp 1 cada una; MV 15' (5'); #AT 0; D None; Save NM; ML 7; AL Chaotic; XP 5) no pueden dañar a nadie. Sin embargo, tienen todos los instintos malignos de una arpía adulta.
 
-Un clérigo muerto yace en el fondo de la cueva.  Su mochila contiene tres viales de agua bendita y un pergamino con un hechizo de curar heridas leves.
+Un clérigo muerto yace en el fondo de la cueva.  Su mochila contiene tres viales de agua bendita y un pergamino con un hechizo de _curar heridas leves_.
 
 La cueva contiene 80 gp, 700 ep, 400 sp, y 2 gemas de 50 gp.
 
 Los personajes deben volver ahora al camino. Este viaje lateral a la guarida de las arpías ha llevado cuarenta minutos para recorrer una distancia de una milla. La dificultad de viajar en tierras salvajes sin rastro debería ser evidente para ellos.
 
-W3. GNOMOS EN EL DESIERTO
+*W3. GNOMOS EN EL DESIERTO*
 
 Los caballos parecen oírlo primero, deteniéndose y girando sus oídos hacia el viento. Poco a poco, sus oídos también lo captan: ¡el canto! Al principio el sonido es difícil de identificar, distante y débil. Pronto puedes distinguir fragmentos de melodía, el sonido de muchas voces que cantan lo que parece ser una canción de trabajo. A medida que el canto se hace más fuerte, se puede distinguir a duras penas... algo grande... que es arrastrado por el camino por un equipo de varias docenas de humanoides.
 
@@ -196,9 +188,7 @@ El barco está cargado de comida y agua.  Robern y su tripulación han estado ti
 
 Robern tiene 40 gnomos en su tripulación (AC 5; HD 1; hp 3; MV 60' (20'); #AT 1; D 1-6; Save D1; ML 10; ALL; XP 10. Cada tripulante tiene una pica de abordaje (tratada como lanza) pero sólo 10 están armados a la vez. El resto está trabajando en los rodillos que mantienen el barco en movimiento.
 
-W4. LOS HOMBRES CAMALEÓN
-
-
+*W4. LOS HOMBRES CAMALEÓN*
 
 Los árboles de Western Bough se alzan a tu derecha, altos y hermosos. Del mismo modo, Rendwood, a tu izquierda, se llena de color: hojas rojas y amarillas, troncos marrones cubiertos de musgo verde, el azul de las flores silvestres, sombras negras y profundas. Después de 3 millas y media, el bosque de Western Bough se aleja hacia el norte; a media milla de distancia, a través de una llanura, se alzan altas montañas con picos nevados que brillan bajo el sol. El sendero gira hacia el sur y el oeste, siguiendo el borde de Rendwood y dirigiéndose a una estrecha franja de llanura entre el bosque y las montañas. Recorres un kilómetro y medio más cuando, de repente, diez criaturas humanoides de aspecto extraño salen torpemente de la maleza delante de ti.  Con extraña rapidez, forman una fila a lo largo del sendero, bloqueando tu camino. Parecen arco iris vivientes, con sus cuerpos altos y delgados rayados de rojo, azul, verde, naranja, amarillo, marrón, negro y blanco.  Los que están más cerca de los árboles de Rendwood son más difíciles de ver; parecen mezclarse con el bosque. Llevan taparrabos y portan largas dagas. Cada uno lleva un pequeño saco atado a la cintura. Una de las criaturas levanta su ancha mano. En un idioma común y ronco, dice: "Este lugar es nuestro. Los extraños sólo pasan con permiso del Señor de la Sombra. Entregad vuestras armas y venid con nosotros. No podéis escapar al juicio del Omnerubesk".
 
@@ -212,9 +202,7 @@ Si se registran los cuerpos de los hombres camaleón muertos después de la bata
 
 Si los personajes jugadores aceptan rendirse, los hombres camaleón los desarmarán y los llevarán, con los ojos vendados y atados, a la caverna de la montaña de los hombres camaleón, encuentro W5. Si los personajes derrotan a los hombres camaleón, ignoran el encuentro W5.
 
-W5. LA CAVERNA DE LOS HOMBRES CAMALEÓN
-
-
+*W5. LA CAVERNA DE LOS HOMBRES CAMALEÓN*
 
 Los hombres camaleón os desarman y os vendan las heridas. Os vendan los ojos y os atan las manos por detrás. Los hombres camaleónicos os desarman y vendan vuestras heridas.  Cuando os quitan la venda, veis que estáis en una cueva de 60' de largo y 30' de ancho, con la entrada en el lado de 30'.  Hay dos antorchas, entre paréntesis, en cada pared. La luz del día brilla fuera de la entrada de la cueva. Dos hombres camaleón hacen guardia dentro de la cueva.
 
@@ -238,7 +226,7 @@ Después de que los personajes elijan a su campeón, serán conducidos a un áre
 
 Sea cual sea el resultado, los hombres camaleón llevarán al grupo de vuelta con los ojos vendados y atados al lugar donde se encontraron por primera vez (lugar de encuentro W4). Si los personajes dejaron un rehén, los hombres camaleón vigilarán diariamente el regreso del grupo.
 
-W6. EL PUENTE DE PIEDRA
+*W6. EL PUENTE DE PIEDRA*
 
 El terreno a ambos lados del sendero es duro y rocoso. Rocas dentadas y piedras afiladas ensucian el suelo. Sin embargo, el sendero sigue siendo suave y no tienes problemas para recorrerlo. Un río caudaloso cruza el camino, atravesado por un puente de piedra gris mate. En la desembocadura del puente se encuentra un arco de la misma piedra. En el arco están grabadas unas extrañas runas.  Las runas son antiguas, pero en cierto modo familiares. Más allá del puente, el sendero se adentra en un pequeño grupo de árboles, que bloquea la vista del terreno más allá.
 
@@ -256,7 +244,7 @@ El arco, que era gris apagado, es ahora tan azul como el río y los extraños mo
 
 Cuando se destruyen, los pájaros del agua pierden su forma de serpiente y se desploman en el río como un chorro de agua. No tienen ningún tesoro.
 
-W7. EL ARTESANO SIGILOSO
+*W7. EL ARTESANO SIGILOSO*
 
 El sendero se estrecha al entrar en las escarpadas estribaciones de las montañas Barkel. El sendero a veces serpentea o se inclina hacia arriba, pero el camino sigue siendo bastante fácil. Tras unos minutos de recorrido por este escarpado paisaje, oyes el silencioso movimiento de alguien o algo en las rocas a unos cuarenta metros a tu derecha. Definitivamente hay algo que se mueve, algo que no quiere ser visto.
 
@@ -272,7 +260,7 @@ Si el grupo no ataca, Dunnak se mostrará amistoso y se disculpará por haber as
 
 Si los personajes le preguntan sobre La Roca, Dunnark sólo dice: "Nunca he estado allí, pero he oído que ir allí es una mala idea". El DM decide si el enano acompañará o no al grupo tras este encuentro (no debería hacerlo a menos que el grupo sea débil).
 
-EL FINAL DEL CAMINO
+*EL FINAL DEL CAMINO*
 
 Os estáis acercando al final de vuestro viaje. El mapa de Jenlar Temlin indica que La Roca está a menos de dos millas. Si no hay problemas, deberíais llegar pronto a la Roca. El sendero se curva lentamente hasta que se dirige hacia el norte. A media milla del puente, el sendero termina en una maraña de rocas y escombros. Delante de ti hay un terreno lleno de enormes rocas y miles de rocas de todos los tamaños y formas.
 
@@ -282,7 +270,7 @@ Tras varias pruebas y batallas, el grupo ha llegado a su destino: la propia Roca
 
 La Roca está defendida por elaboradas ilusiones. Si los personajes reconocen esto, su batalla final será mucho más fácil.
 
-R1. CRONA DEL CAOS
+*R1. CRONA DEL CAOS*
 
 Estáis ante un pico solitario en el centro de una llanura de media milla cuadrada. Vuestro corazón os dice que ésta es vuestra meta, que ésta es La Roca. Este poderoso pilar de piedra tiene 150' de altura desde la base hasta su plana cima. La base es aproximadamente rectangular, 50' de ancho en sus lados norte y sur, y sólo 15' de ancho en los lados este y oeste. La roca se vuelve más circular cerca de la cumbre.  Los lados de la cima son empinados, y sería difícil escalarlos, si es que es posible. Te acercas y ves a una joven encantadora encadenada a La Roca. Sus ropas son de color púrpura y amarillo, pero están deshilachadas y rotas; su pelo dorado está sucio y lleva una tiara de plata deslustrada. Su rostro está manchado de mugre, sus rasgos pálidos y dibujados por el dolor y la soledad. Con una voz chillona te grita. "¡Huyan por sus vidas! Una vieja bruja que detesta mi belleza me ha encerrado aquí hasta que muera, vieja y fea. Huid antes de que vuelva a castigaros por atreveros a acercaros a mí".
 
@@ -290,21 +278,23 @@ El grupo se enfrenta a la primera de las ilusiones malignas que custodian La Roc
 
 La arpía no es una verdadera usuaria de la magia ni un clérigo, pero tiene varios ataques mágicos que utilizará contra el grupo, en el orden que se indica a continuación. Mantiene la ilusión de estar atada e indefensa hasta el último ataque. Los ataques mágicos no se lanzan de la forma en que lo hacen los hechizos normales, y la ilusión impide que nadie sepa que la arpía es la responsable de ellos (aunque cualquiera que utilice un hechizo de detectar magia verá que hay algún tipo de magia en la zona donde se encuentra la mujer). Para engañar aún más a los personajes, la joven pedirá ayuda lastimosamente y gritará ánimos a los personajes jugadores.
 
-Control de animales. La arpía puede controlar a todos los animales normales y gigantes automáticamente (sin tirada de salvación). Hace que los caballos de los personajes tiren a sus jinetes y huyan. Cualquier caballo sin jinete también huirá. Un personaje arrojado al suelo debe pasar el siguiente asalto levantándose y no puede atacar. Mientras los personajes se levantan, la arpía utiliza su segundo ataque.
+_Encantar Animal._ La arpía puede controlar a todos los animales normales y gigantes automáticamente (sin tirada de salvación). Hace que los caballos de los personajes tiren a sus jinetes y huyan. Cualquier caballo sin jinete también huirá. Un personaje arrojado al suelo debe pasar el siguiente asalto levantándose y no puede atacar. Mientras los personajes se levantan, la arpía utiliza su segundo ataque.
 
-Dagas de la Hechicería. Este ataque hace que una daga blanca y fantasmal aparezca en el aire ante cada personaje y ataque por sí misma. El ataque parece como si las dagas fueran empuñadas por manos invisibles. La daga se mueve por sí misma y sigue el ritmo de un personaje mientras éste se mueve hasta que la daga o el personaje son destruidos. Si un personaje fue mostrado desde su caballo en la ronda anterior, la daga atacante tiene automáticamente iniciativa y un bono de +2 "para golpear" cuando el personaje se levanta. Las dagas son construcciones mágicas; pueden ser atacadas y destruidas del mismo modo que las criaturas vivas. Cada daga tiene las siguientes características CA 2; hp 1; #AT 1; D 1-4; Salvación Fl. Cualquier impacto realizado por un personaje destruye una daga.
+_Dagas de la Hechicería._ Este ataque hace que una daga blanca y fantasmal aparezca en el aire ante cada personaje y ataque por sí misma. El ataque parece como si las dagas fueran empuñadas por manos invisibles. La daga se mueve por sí misma y sigue el ritmo de un personaje mientras éste se mueve hasta que la daga o el personaje son destruidos. Si un personaje fue mostrado desde su caballo en la ronda anterior, la daga atacante tiene automáticamente iniciativa y un bono de +2 "para golpear" cuando el personaje se levanta. Las dagas son construcciones mágicas; pueden ser atacadas y destruidas del mismo modo que las criaturas vivas. Cada daga tiene las siguientes características CA 2; hp 1; #AT 1; D 1-4; Salvación Fl. Cualquier impacto realizado por un personaje destruye una daga.
 
-Cuando cada daga es destruida, todos los personajes que lucharon con esa daga deben hacer una tirada de salvación contra Hechizos. Aquellos personajes que fallen sus tiradas quedan mareados y débiles durante 6 asaltos (-2 a las tiradas de golpe y de salvación). Los personajes que realicen tiradas de salvación con éxito no se ven afectados.  La Arpía Revelada. Después de que el último de los cuatro sea destruido, la forma de la joven cautiva cambia. En cuestión de segundos, la hermosa joven se convierte en una anciana marchita e hidalga con escaso pelo blanco, piel curtida, colmillos, largos brazos inhumanos y grandes manos con dedos en forma de garra. La arpía atacará al personaje más cercano a ella.
+Cuando cada daga es destruida, todos los personajes que lucharon con esa daga deben hacer una tirada de salvación contra Hechizos. Aquellos personajes que fallen sus tiradas quedan mareados y débiles durante 6 asaltos (-2 a las tiradas de golpe y de salvación). Los personajes que realicen tiradas de salvación con éxito no se ven afectados.
+
+_La Arpía Revelada._ Después de que el último de los cuatro sea destruido, la forma de la joven cautiva cambia. En cuestión de segundos, la hermosa joven se convierte en una anciana marchita e hidalga con escaso pelo blanco, piel curtida, colmillos, largos brazos inhumanos y grandes manos con dedos en forma de garra. La arpía atacará al personaje más cercano a ella.
 
 La arpía es una criatura antigua, a la que la magia de los enemigos de Tuma le dio una vida anormalmente larga. Cuando se enteraron del talismán y de su poder, intentaron destruirlo y descubrieron que no podían. Así que establecieron hechizos de protección sobre la Roca y colocaron a esta criatura allí como guardia. Sólo puede existir mientras el talismán permanezca en la Roca y moriría si se lo quitaran. Ella lo sabe, y por eso es la guardiana perfecta.
 
-Si los personajes examinan la zona de La Roca en la que la arpía estuvo por primera vez, verán una estrecha grieta en la roca. La crona permaneció frente a ella durante la mayor parte de la batalla. Al examinar la grieta más a fondo, encuentran una espada dorada encajada en el extremo de la grieta. Se trata de la Espada de la Roca, una espada mágica +2 que no puede ser utilizada por criaturas malignas. A lo largo de la hoja de la espada están escritas las siguientes palabras en lengua común: "Amplio y ancho el camino a ninguna parte; delgado y estrecho el camino a las verdaderas riquezas. Desvela el enigma las riquezas para ganar". Escribe estas palabras para que las lean los jugadores o léelas para que las escuchen. Si eliges leerlas, repítelas siempre que los personajes te lo pidan, ya que los personajes tendrán la espada con ellos y podrán leer las palabras cuando quieran.
+Si los personajes examinan la zona de La Roca en la que la arpía estuvo por primera vez, verán una estrecha grieta en la roca. La arpía permaneció frente a ella durante la mayor parte de la batalla. Al examinar la grieta más a fondo, encuentran una espada dorada encajada en el extremo de la grieta. Se trata de _la Espada de la Roca_, una _espada mágica +2_ que no puede ser utilizada por criaturas malignas. A lo largo de la hoja de la espada están escritas las siguientes palabras en lengua común: "Amplio y ancho el camino a ninguna parte; delgado y estrecho el camino a las verdaderas riquezas. Desvela el enigma las riquezas para ganar". Escribe estas palabras para que las lean los jugadores o léelas para que las escuchen. Si eliges leerlas, repítelas siempre que los personajes te lo pidan, ya que los personajes tendrán la espada con ellos y podrán leer las palabras cuando quieran.
 
-El significado del acertijo es que se puede entrar en La Roca por cualquiera de sus dos lados estrechos, este u oeste. Las entradas están ocultas por poderosas ilusiones; ningún personaje encontrará una puerta secreta o una puerta mágica; la magia de detección no penetrará la ilusión. Pero la simple colocación de la mano en la cara este u oeste de La Roca hará que la mano atraviese la piedra sólida. Las exposiciones norte y sur son sólo roca, y cualquier personaje que toque estas caras sólo sentirá la piedra. El grupo no puede llevar sus caballos a la Roca.
+El significado del acertijo es que se puede entrar en La Roca por cualquiera de sus dos lados estrechos, este u oeste. Las entradas están ocultas por poderosas ilusiones; ningún personaje encontrará una puerta secreta o una puerta mágica; _detectar magia_ no penetrará la ilusión. Pero la simple colocación de la mano en la cara este u oeste de La Roca hará que la mano atraviese la piedra sólida. Las exposiciones norte y sur son sólo roca, y cualquier personaje que toque estas caras sólo sentirá la piedra. El grupo no puede llevar sus caballos a la Roca.
 
 Cuando el grupo descubra cómo entrar en la Roca, vaya al encuentro R2.
 
-R2. LA SALA DE LA ROCA
+*R2. LA SALA DE LA ROCA*
 
 La piedra no es sólida. ¡Cualquier cosa que toque este lado de La Roca lo atraviesa como si fuera el aire! ¿Es ésta la entrada que buscan, o es otra trampa mortal?
 
@@ -314,9 +304,9 @@ Os encontráis en una gran sala de 380' de largo y 240' de ancho. La sala está 
 
 Esta sala es demasiado grande para ser el interior de La Roca que se veía desde el exterior; en realidad, La Roca no es más que un portal mágico oculto que conduce a esta sala, que antaño albergaba todos los mayores tesoros de Tuma.
 
-Las palabras, HUBRELIS TUMASSEN, están escritas en un estilo similar a la inscripción de los arcos del Puente de Piedra. Un personaje puede leerlas automáticamente con una lengua de lectura, o puede leerlas si la Inteligencia del personaje es alta. Cuando un personaje intenta leer las palabras, tira 3d6 y resta 1. Si el resultado es igual o menor que la Inteligencia del personaje, éste puede entender las palabras.  Cuando se traducen, se lee: "EL GRAN ORGULLO DE TUMA".
+Las palabras, HUBRELIS TUMASSEN, están escritas en un estilo similar a la inscripción de los arcos del Puente de Piedra. Un personaje puede leerlas automáticamente con una _entender idiomas_, o puede leerlas si la Inteligencia del personaje es alta. Cuando un personaje intenta leer las palabras, tira 3d6 y resta 1. Si el resultado es igual o menor que la Inteligencia del personaje, éste puede entender las palabras.  Cuando se traducen, se lee: "EL GRAN ORGULLO DE TUMA".
 
-Ahora que el grupo ha llegado por fin a La Roca, hay 2 posibles conclusiones para este módulo, cada una de ellas dependiendo de la fuerza del grupo cuando llegue a La Roca. El grupo puede tener todos sus miembros originales, pero cada personaje puede tener sólo una fracción de los puntos de vida originales; el grupo puede ser pequeño, pero cada personaje que queda vivo tiene todos los puntos de vida originales; o el grupo puede ser grande y fuerte, o pequeño y débil. En cualquier caso, Viaje a la Roca ofrece dos finales: uno para un grupo fuerte y otro para un grupo débil. El final A describirá lo que un grupo fuerte encuentra en la Sala de la Roca; el final B detallará lo que encuentra un grupo débil. Como DM, elige el final que sea apropiado para tus jugadores.
+Ahora que el grupo ha llegado por fin a La Roca, hay 2 posibles conclusiones para este módulo, cada una de ellas dependiendo de la fuerza del grupo cuando llegue a La Roca. El grupo puede tener todos sus miembros originales, pero cada personaje puede tener sólo una fracción de los puntos de vida originales; el grupo puede ser pequeño, pero cada personaje que queda vivo tiene todos los puntos de vida originales; o el grupo puede ser grande y fuerte, o pequeño y débil. En cualquier caso, _Viaje a la Roca_ ofrece dos finales: uno para un grupo fuerte y otro para un grupo débil. El final A describirá lo que un grupo fuerte encuentra en la Sala de la Roca; el final B detallará lo que encuentra un grupo débil. Como DM, elige el final que sea apropiado para tus jugadores.
 
 Entrega a los jugadores su copia del Mapa de la Sala de la Roca.
 
@@ -340,13 +330,13 @@ A medida que te acercas a las plataformas y a los cofres, puedes ver más claram
 
 Los siguientes párrafos describen cada estatua real. Puedes dar la descripción física de la estatua a cualquier personaje del jugador que esté luchando contra esa estatua.
 
-Rey Alcidaxes. Esta estatua es un hombre viejo, lleno de años y sabiduría. Su rostro está delineado con las preocupaciones de la realeza, e incluso sus ojos esculpidos parecen mostrar tristeza. Lleva una sencilla corona de hierro, sin decoración.  Su arma es una poderosa hacha de batalla. El Rey Alcidaxes tiene las habilidades de una estatua viviente de hierro (CA 2; HD 4*; hp 12; MV 30' (10'); #AT 1 (con hacha) o 2; D 1-8 (con hacha) + especial o 1-8/1-8 + especial; Salva F4; ML 11; AL Neutral; XP 125). Los atacantes con armas de metal no mágicas deben hacer una tirada de salvación contra Hechizos cuando la estatua es golpeada; fallar significa que el arma queda clavada hasta que la estatua es asesinada. Si la corona de Alcidaxes es derribada, las armas atascadas pueden ser retiradas. La Espada de la Roca no se atasca en el cuerpo de Alcidaxes.
+_Rey Alcidaxes._ Esta estatua es un hombre viejo, lleno de años y sabiduría. Su rostro está delineado con las preocupaciones de la realeza, e incluso sus ojos esculpidos parecen mostrar tristeza. Lleva una sencilla corona de hierro, sin decoración.  Su arma es una poderosa hacha de batalla. El Rey Alcidaxes tiene las habilidades de una estatua viviente de hierro (CA 2; HD 4*; hp 12; MV 30' (10'); #AT 1 (con hacha) o 2; D 1-8 (con hacha) + especial o 1-8/1-8 + especial; Salva F4; ML 11; AL Neutral; XP 125). Los atacantes con armas de metal no mágicas deben hacer una tirada de salvación contra Hechizos cuando la estatua es golpeada; fallar significa que el arma queda clavada hasta que la estatua es asesinada. Si la corona de Alcidaxes es derribada, las armas atascadas pueden ser retiradas. _La Espada de la Roca_ no se atasca en el cuerpo de Alcidaxes.
 
-Rey Belkazar. Este rey tiene una expresión serena y feliz en su rostro, como si estuviera en paz consigo mismo y con el mundo. La estatua está tallada para mostrar un símbolo sagrado alrededor del cuello del rey. Su corona es de granito, tallada para que parezca una muralla circular. Su arma es una maza. El rey Belkazar tiene las habilidades de una estatua viviente de roca (CA 4; HD 5*: hp 15; MV 60' (20'): #AT 1 (con maza) o 2; D 1-6 (con maza) o 2-12/2-12; Salvar F5; ML 11; AL Caótico; XP 300). Una estatua viviente de roca normalmente ataca disparando magma de sus dedos.  El Rey Belkazar no lo hará mientras tenga su maza.
+_Rey Belkazar._ Este rey tiene una expresión serena y feliz en su rostro, como si estuviera en paz consigo mismo y con el mundo. La estatua está tallada para mostrar un símbolo sagrado alrededor del cuello del rey. Su corona es de granito, tallada para que parezca una muralla circular. Su arma es una maza. El rey Belkazar tiene las habilidades de una estatua viviente de roca (CA 4; HD 5*: hp 15; MV 60' (20'): #AT 1 (con maza) o 2; D 1-6 (con maza) o 2-12/2-12; Salvar F5; ML 11; AL Caótico; XP 300). Una estatua viviente de roca normalmente ataca disparando magma de sus dedos.  El Rey Belkazar no lo hará mientras tenga su maza.
 
-Rey Calobanes. Este rey es joven, y tiene una expresión despreocupada y feliz en su rostro.  Parece un joven que ha aprendido a disfrutar de la vida. Su corona es de cristal de cuarzo, con ágatas y piedras semipreciosas engarzadas. Su arma es una larga daga. El Rey Calobanes tiene las habilidades de una estatua viviente de cristal (CA 4; HD 3; hp 9; MV 90' (30'); #AT 1 (con daga) o 2; D 1-4 (con daga) o 1-6/ 1-6; Salva F3; ML 11; AL Legal; XP 35).
+_Rey Calobanes._ Este rey es joven, y tiene una expresión despreocupada y feliz en su rostro.  Parece un joven que ha aprendido a disfrutar de la vida. Su corona es de cristal de cuarzo, con ágatas y piedras semipreciosas engarzadas. Su arma es una larga daga. El Rey Calobanes tiene las habilidades de una estatua viviente de cristal (CA 4; HD 3; hp 9; MV 90' (30'); #AT 1 (con daga) o 2; D 1-4 (con daga) o 1-6/ 1-6; Salva F3; ML 11; AL Legal; XP 35).
 
-Rey Delfos. Este rey es obviamente el hermano del rey Calobanes, y los dos parecen tener la misma edad. Un examen más detallado revela que son gemelos, pero donde Calobanes era divertido y despreocupado, Delfanes parece estudioso y sombrío. Su arma es una larga daga. ¡El rey Delophanes tiene las habilidades de una estatua viviente de cristal (AC 4; HD 3; hp 9; MV 90! (30'); #AT 1 (con daga) o 2; D 1-4 (con daga) o 1-6/ 1-6; Salva F3; ML 11; AL Legal; XP 35).
+_Rey Delfos._ Este rey es obviamente el hermano del rey Calobanes, y los dos parecen tener la misma edad. Un examen más detallado revela que son gemelos, pero donde Calobanes era divertido y despreocupado, Delfanes parece estudioso y sombrío. Su arma es una larga daga. ¡El rey Delophanes tiene las habilidades de una estatua viviente de cristal (AC 4; HD 3; hp 9; MV 90! (30'); #AT 1 (con daga) o 2; D 1-4 (con daga) o 1-6/ 1-6; Salva F3; ML 11; AL Legal; XP 35).
 
 Si se matan las tres estatuas, se convertirán en polvo, dejando al grupo con las armas y coronas de las estatuas. Si el grupo examina los pedestales de los que proceden las estatuas, encontrará el nombre del rey grabado en cada uno de ellos. A partir de otras inscripciones en los pedestales, aprenden lo siguiente:
 
@@ -376,7 +366,7 @@ Sólo hay un cofre que el grupo puede elegir para tener éxito en el aprendizaje
 
 Fallar en esta búsqueda produce algunos resultados muy interesantes. Si la parte había sido capturada por los hombres camaleón y había llegado a un acuerdo, entonces habrá que pagar. Si el pago es mucho menos de lo que el grupo había prometido, entonces tendrá que elegir qué hacer. En el mejor de los casos, se prohibirá al grupo el paso por el sendero y tendrá que volver a la mansión por otro camino.
 
-Pero esto sólo ocurre si se elige el cofre equivocado. Si el grupo elige el cofre correcto, ocurrirá lo siguiente. El cofre de madera no estará cerrado aunque parezca estarlo; de hecho, todos los demás cofres están cerrados.  Al abrir el cofre de madera, los personajes encontrarán estos objetos en su interior: 100 pp; 1.500 gp; 4 pulseras de oro por valor de 100 gp cada una; un anillo de protección +1; 2 pociones de curación una cuerda de escalada; 2 dagas + 1; y un talismán de forma curiosa que parece una T mayúscula con un corto tallo diagonal que cuelga del lado derecho del travesaño de la T. En la punta del tallo diagonal hay una pequeña piedra roja, no un rubí, y cuyo valor no puede ser estimado por ningún personaje. Cuando se haya examinado a fondo el contenido del cofre, la voz volverá a gritar al grupo
+Pero esto ocurre _sólo si_ se elige el cofre equivocado. Si el grupo elige el cofre correcto, ocurrirá lo siguiente. El cofre de madera no estará cerrado aunque parezca estarlo; de hecho, todos los demás cofres están cerrados.  Al abrir el cofre de madera, los personajes encontrarán estos objetos en su interior: 100 pp; 1.500 gp; 4 pulseras de oro por valor de 100 gp cada una; un _anillo de protección +1_; 2 pociones de _curación_ una _cuerda de escalada_; 2 _dagas + 1_; y un talismán de forma curiosa que parece una T mayúscula con un corto tallo diagonal que cuelga del lado derecho del travesaño de la T. En la punta del tallo diagonal hay una pequeña piedra roja, no un rubí, y cuyo valor no puede ser estimado por ningún personaje. Cuando se haya examinado a fondo el contenido del cofre, la voz volverá a gritar al grupo
 
 "¡Bien hecho, valientes héroes! A vosotros se os revelará el secreto de La Roca. Y este es el mayor de los secretos: Un alma cae en el juicio cuando un alma sube lo suficientemente alto como para sentarse en el asiento del juicio; no juzgues por lo que se ve, sino por lo que realmente hay. Que los ojos del corazón guíen y aconsejen a los ojos del cuerpo.  El brillo no hace un premio de oro; escondida en el corazón está la respuesta. El aspecto de una criatura nunca cambia lo que hay dentro. Juzga con recto juicio; sé sabio. Sé sabio".
 
@@ -384,7 +374,7 @@ El talismán del cofre es mágicamente inteligente, y es la fuente de las voces 
 
 El pago que se debe a los hombres camaleón, si el grupo se ha visto obligado a negociar, se tomará del total del tesoro reunido desde el comienzo de la partida, ni del lugar donde el grupo se encontró con los hombres camaleón. Si la negociación se hizo a un precio fijo, los personajes no tienen problemas; si el precio fue un porcentaje del tesoro encontrado, los jugadores tendrán que resolverlo.
 
-REGRESO A LA MANSIÓN
+*REGRESO A LA MANSIÓN*
 
 Después de que el grupo haya ajustado cuentas con los hombres camaleón (si es necesario), Lirdrium Arkayz encontrará a los personajes (estén donde estén) y los devolverá mágicamente a la mansión de Lirdriam Arkayz. Jenlar Temlin bajará la amplia escalinata para preguntar si el viaje ha sido exitoso; pedirá el Secreto de La Roca. El Secreto consiste en las últimas palabras del Talismán a los personajes. Si alguien recita el Secreto, Jenlar Temlin sonríe y dice
 
@@ -412,4 +402,4 @@ Esto es una trampa para los jugadores que toman a los NPCs al pie de la letra. A
 
 Si los personajes van con él (o deciden investigar por su cuenta en los alrededores de Luln) ve a la Aventura de la Gran Escapada.
 
-Nota de B1: El módulo B1. En busca de lo desconocido presentaba un complejo de "Acopio" dirigido por Rogahn, luchador de renombre, y Zelligar, un poderoso mago. Los mapas de esta aventura aparecen en la página 150.
+_Nota de B1: Módulo_ B1. En Busca de lo Desconocido _presentaba un complejo de "Acopio" dirigido por Rogahn, luchador de renombre, y Zelligar, un poderoso mago. Los mapas de esta aventura aparecen en la página 150._
