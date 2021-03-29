@@ -1,4 +1,4 @@
-EL SALÓN DE LA ROCA
+*EL SALÓN DE ROCA*
 
 Diseño: Michael Malone
 Edición: Edward G. Sollers
@@ -7,16 +7,16 @@ Arte interior: Doug Watson
 Diseño gráfico: Ruth Hoyer
 Cartografía: David S. "Diesel" LaForce
 
-Notas generales: La aventura original, B 8, Viaje a la Roca, era un torneo de una sola vuelta con tres caminos diferentes hacia la Roca.  Para esta colección se ha seleccionado la ruta más directa.
+_Notas generales: La aventura original, B8, Viaje a la Roca, era un torneo de una sola vuelta con tres caminos diferentes hacia la Roca. Para esta colección se ha seleccionado la ruta más directa._
 
 Mapas ..................... 134-135
 Hoja de ruta para el jugador ........... 159
 
-INTRODUCCIÓN
+*INTRODUCCIÓN*
 
 Lo siguiente es información para el DM. Por favor, lee la aventura detenidamente antes de intentar dirigirla a los jugadores.
 
-Antecedentes de la aventura
+*Antecedentes de la aventura*
 
 Hace miles de años, Tuma era una ciudad de riqueza y gloria, y su gente vivía según un código de sabiduría, honor, justicia y paz.  Esta ciudad de la Ley despertaba la envidia y el odio en los corazones de aquellos que seguían los caminos del Caos. Muchas veces los ejércitos del mal intentaron destruir Tuma, pero sus defensores siempre salieron victoriosos. Finalmente, los enemigos de Tuma utilizaron poderosos hechizos malignos para trasladar a los habitantes de Tuma a otra dimensión, donde todavía están atrapados. Con el paso de los siglos, Tuma se convirtió en una ciudad olvidada, objeto de supersticiones y leyendas susurradas. Sólo un hombre conoce su verdadera historia: Lirdrium Arkayz.
 
@@ -24,7 +24,7 @@ Arkayz fue una vez parte del consejo gobernante de la ciudad de Tuma. Durante la
 
 Los enemigos de Tuma no pudieron encontrar ni destruir el talismán, pero lanzaron un hechizo que hizo imposible que nadie de Tuma lo recuperara de su escondite. Arkayz ha contratado a aventureros para que le consigan el talismán, pero todos han fracasado. Aunque es un hombre justo y honorable, Arkayz nunca revela la naturaleza del talismán ni su verdadera identidad. En lo que respecta a los demás, Arkayz es un mago sabio y excéntrico que hace mucho tiempo dejó las aventuras para estudiar filosofía y escribir poesía. Si los personajes del jugador llegan a la Sala de la Roca, se romperá la magia que impide a Arkayz entrar en la Roca. Entonces podrá recuperar el talismán aunque los personajes jugadores no lo hagan. Si los personajes del jugador tienen éxito en su misión, Arkayz tendrá por fin la oportunidad de liberar a su pueblo. Una vez recuperada su parte del talismán, Arkayz sabrá cómo encontrar a su colega oculto, y Arkayz y su colega trabajarán juntos para salvar al pueblo de Tuma. Aunque el talismán tiene un poder mágico considerable, sus secretos están fuera del alcance de los personajes del jugador.
 
-INICIO DE LA AVENTURA
+*INICIO DE LA AVENTURA*
 
 Los personajes jugadores comienzan la aventura en Umbral, que está a varias horas de viaje al sur del Bosque de Carm. Cuando el grupo decida visitar la Mansión, empieza en el borde sur del mapa, en cualquiera de los tres senderos que llevan al Bosque de Carm. Los personajes del jugador no tendrán ningún encuentro en el sendero que lleva a La Mansión.
 
@@ -32,7 +32,7 @@ Todo el texto en caja en el "Trasfondo del Jugador" y en otras partes del módul
 
 Lee el recuadro "Trasfondo del Jugador" a los jugadores para comenzar la aventura.
 
-Antecedentes de los jugadores
+*Antecedentes de los jugadores*
 
 Mientras estáis terminando de desayunar en una posada barata de Umbral, un viajero entra en la sala común. En voz alta dice: "¡La paz sea con todos vosotros! Yo, Hakeem el mercader, busco amigos dignos en busca de aventuras".
 
@@ -48,17 +48,17 @@ Hakeem está armado con una espada corta, pero no lleva armadura. Lleva 35 mo.
 
 Si los personajes jugadores preguntan a otros (como los clientes de la taberna o los posaderos) sobre Jenlar Temlin o Lirdrium Arkayz, les dirán que ambos son muy respetados. Arkayz es un filósofo, sabio y consejero. Los personajes pueden obtener indicaciones para llegar a la Mansión de cualquier persona a la que pregunten.
 
-EL BOSQUE
+*EL BOSQUE*
 
 Con el mapa de Jenlar Temlin como guía, te diriges a La Mansión. Pronto te adentras en el bosque, siguiendo un estrecho sendero que conduce al norte. A veces vislumbras fugazmente algún conejo o ardilla que huye al acercarte. Sin embargo, no ves nada, animal o monstruo, que pueda amenazarte. El sendero parece tranquilo y seguro. Al anochecer, el sendero se abre a un gran claro. Un majestuoso edificio de mármol blanco se alza en medio del claro. La elegante casa no está fortificada ni protegida por un muro defensivo. Un patio abierto decorado con estatuas de aventureros heroicos y monstruos feroces rodea la casa. Por las descripciones de los aldeanos, sabes de inmediato que se trata de la Mansión de Lirdrium Arkayz, el inicio de tu aventura.
 
  No hay nadie a la vista. Si los personajes exploran el terreno, no encontrarán nada amenazante.  Cuando llaman o intentan entrar, las puertas de la casa se abren silenciosamente.
 
-LA CASA
+*LA CASA*
 
 Dos combatientes abren la puerta. Dicen: "Os esperábamos. Jenlar Temlin está esperando verte". Le acompañan a una sala lujosamente amueblada con una larga mesa en el centro. Un hombre de mediana edad con una túnica roja se sienta a la cabeza de la mesa. Se levanta cuando entras. Tiene el pelo y el bigote largo y caído de color rojo, y los ojos verdes. Tiene el aspecto de un guerrero duro y experimentado. Dice: "Confío en que hayas tenido un buen viaje. Las criaturas malignas han aprendido a no molestarnos aquí. Bienvenidos a la Mansión. Soy Jenlar Temlin. Las condiciones para contratarte son estas: Si vais a La Roca y traéis su secreto de vuelta, el Maestro Arkayz os pagará 300 piezas de oro a cada uno. También podrán quedarse con los tesoros que encuentren en el camino. El Maestro Arkayz sólo desea tener el secreto de La Roca; no necesita más riquezas. Os proporcionaremos caballos de montar para todos vosotros, si no los tenéis ya. Podéis partir ahora o descansar aquí durante la noche y partir por la mañana".
 
- Jenlar Temlin, Campeón (Luchador de 7º nivel): AC 6; F7; hp 42; MV 120' (40'); #AT 1; D 1d4 (+2 por arma mágica); Salva F7; ML 9; TODO; XP 450
+Jenlar Temlin, Campeón (Luchador de 7º nivel): AC 6; F7; hp 42; MV 120' (40'); #AT 1; D 1d4 (+2 por arma mágica); Salva F7; ML 9; TODO; XP 450
 
 Tiradas de combate: Las tiradas "para golpear" de un luchador de 7º nivel se dan en las tulas de juego de D&D Expert. Si no tienes estas reglas, utiliza la línea "4+ a 5" de la Tabla de Golpeo de los Monstruos del Juego Básico. Las tiradas de salvación de un luchador de 7º nivel se dan en la Tabla de Tiradas de Salvación del Juego Básico.
 
