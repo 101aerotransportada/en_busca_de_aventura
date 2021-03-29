@@ -1,5 +1,4 @@
-CASTILLO CALDWELL
-
+*EL CASTILLO CALDWELL*
 
 Diseño: Harry Nuckols
 Edición: Michael Dobson
@@ -11,10 +10,10 @@ Tipógrafo: Betty Elmore
 
 _Notas generales: Este módulo tenía originalmente cinco aventuras cortas, dos de las cuales aparecen aquí y otras dos que aparecen más adelante en esta colección. Las primeras, *El Despeje del Castillo Caldwell* y *Mazmorras del Terror* comprenden un único sitio de aventuras. Las estadísticas de los monstruos se han colocado en una tabla especial al final de la aventura, y los mapas del castillo se encuentran en la sección de mapas al final de este libro. Las aventuras *La Gran evasión* y *El Santuario de Elwyn* también aparecían en el módulo B9, junto con otra aventura, *El Secuestro de la Princesa Silvia*, que se ha omitido en esta colección._
 
-Estadísticas de monstruos ........ en el interior de la contraportada
-Mapas de los castillos .............. 132 & 133
-Mapas: La Gran Evasión ............. 136
-Mapas: Elwyn's Sanctuary ........ 137, 158
+Estadísticas de monstruos............en el interior de la contraportada
+Mapas de los castillos............132 & 133
+Mapas: La Gran Evasión............136
+Mapas: Elwyn's Sanctuary............137, 158
 
 
 *TRASFONDO*
@@ -148,7 +147,7 @@ Esta habitación está iluminada por una claraboya en la esquina suroeste de la 
 
 La pared norte de esta habitación tiene una cornisa a unos dos metros del suelo, con dos pequeñas ventanas sobre la cornisa. Tres hombres están tumbados en palés cerca de la pared norte. Están armados con espadas. Una bestia que parece un caballo pequeño está cerca de la pared este. La habitación contiene un montón de lo que parece ser equipo personal.
 
-Los tres hombres son bandidos (ladrones de primer nivel) que utilizan esta habitación como escondite temporal. Los tres hombres están armados con espadas cortas. Uno de los bandidos tiene una espada corta maldita ~ 1 que sólo inflige 1-5 puntos de daño (1d6-1, pero nunca menos de 1) y da a su usuario una penalización de - 1 en las tiradas para golpear.
+Los tres hombres son bandidos (ladrones de primer nivel) que utilizan esta habitación como escondite temporal. Los tres hombres están armados con espadas cortas. Uno de los bandidos tiene una _espada corta maldita -1_ que sólo inflige 1-5 puntos de daño (1d6-1, pero nunca menos de 1) y da a su usuario una penalización de - 1 en las tiradas para golpear.
 
 Es evidente que los bandidos han tenido éxito en su oficio. Además de su equipo personal (sacos de dormir, comida, etc.), tienen seis grandes sacos, cada uno de los cuales contiene 500 sp. También tienen una pequeña caja de madera que contiene seis gemas (por valor de 200 gp, 100 gp (x3) y 10 gp (x2), respectivamente), y dos collares de perlas por valor de 400 gp cada uno.
 
@@ -467,4 +466,4 @@ Si los jugadores rechazan la oferta de Hakeem, los otros rumores de Umbral (p.5)
 
 2. Una pequeña aldea a sólo un día de cabalgata hacia el este fue invadida por hobgoblins hace varios días. Todos fueron asesinados.
 
-3. Los gigantes de la escarcha en las montañas de Altan Tepe han estado demasiado tranquilos. Se están enviando refuerzos a la Fortaleza de Castellan.
+3. Los gigantes de la escarcha en las montañas de Altan Tepe han estado demasiado tranquilos. Se están enviando refuerzos a la Fortaleza Castellana.
