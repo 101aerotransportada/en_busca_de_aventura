@@ -1,12 +1,12 @@
-LA GRAN EVASIÓN
+*LA GRAN EVASIÓN*
 
-Antecedentes
+*Antecedentes*
 
-Investigando rumores de incursiones de goblins en los alrededores de Luln, el campamento del grupo es sorprendido una noche por una horda de goblins (organizada por Anton si está allí). Dile a los jugadores como DM que sus personajes probablemente morirán si se resisten, y mata a los personajes cuyos jugadores fuercen la situación. (Esto es algo así como una prueba de inteligencia, un juego poco inteligente costará un personaje en este punto. Obviamente, los personajes que se rindan no deben ser asesinados). Si Anton está allí, se regodeará de haber atrapado a los agentes del Duque. Los personajes serán trasladados a la fuerza durante varios días a un puesto de avanzada de la Baronía.
+Investigando rumores de incursiones de goblins en los alrededores de Luln, el campamento del grupo es sorprendido una noche por una horda de goblins (organizada por Anton si está allí). Diles a los jugadores como DM que sus personajes probablemente morirán si se resisten, y mata a los personajes cuyos jugadores fuercen la situación. (Esto es algo así como una prueba de inteligencia, un juego poco inteligente costará un personaje en este punto. Obviamente, los personajes que se rindan no deben ser asesinados). Si Anton está allí, se regodeará de haber atrapado a los agentes del Duque. Los personajes serán trasladados a la fuerza durante varios días a un puesto de avanzada de la Baronía.
 
-Si los jugadores se quejan de que su captura ha sido injusta, recuérdales amablemente que si la aventura fuera fácil, cualquiera podría hacerlo -no pueden esperar que las cosas salgan siempre como ellos quieren- y que había pistas. Tendrán muchas oportunidades de escapar y recuperar su equipo, si juegan bien.
+Si los jugadores se quejan de que su captura ha sido injusta, recuérdales amablemente que, si la aventura fuera fácil, cualquiera podría hacerlo -no pueden esperar que las cosas salgan siempre como ellos quieren- y que había pistas. Tendrán muchas oportunidades de escapar y recuperar su equipo, si juegan bien.
 
-Notas para el Dungeon Master
+*Notas para el Dungeon Master*
 
 Los miembros del grupo comienzan esta aventura sin armadura ni armas. Los libros de hechizos de los usuarios de magia han sido retirados. Sin embargo, todos los lanzadores de conjuros del grupo han memorizado conjuros y pueden lanzarlos normalmente. Se han quitado todos los objetos mágicos obvios a todos los personajes. Hay un 20% de posibilidades de que se hayan perdido pequeños objetos mágicos poco evidentes (como anillos) cuando los soldados enemigos registraron a sus prisioneros.
 
@@ -18,9 +18,9 @@ Los ocupantes del puesto de avanzada son soldados inteligentes. Trabajan juntos,
 
 Recuerda que los jugadores no pueden cartografiar el puesto de avanzada hasta que (o a menos que) sus personajes encuentren implementos y suministros de cartografía.
 
-Los pasillos y corredores del puesto de avanzada estarán vacíos durante exactamente 10 turnos después de que el grupo escape de la sala 1. Después de eso, los hombres y mujeres que están comiendo en la sala 2 abandonan el comedor de uno en uno, y un grupo se va cada dos turnos. Hay una probabilidad de 1 entre 6 en cada turno de que el grupo tenga un encuentro con 1 o 2 veteranos (F1, CA 9, hp 7 cada uno, daga D 1-4, ML 8). Los veteranos intentarán dar la alarma si tienen iniciativa y no son sorprendidos. Si se da la alarma, la posibilidad de un encuentro aumenta a 3 de cada 6 en cada turno. Si el grupo ya está en combate, hay una probabilidad de 1 en 6 en cada ronda de combate cuerpo a cuerpo de que llegue un veterano adicional para unirse a la lucha. Las estadísticas de los monstruos se dan en la página 28.
+Los pasillos y corredores del puesto de avanzada estarán vacíos durante exactamente 10 turnos después de que el grupo escape de la sala 1. Después de eso, los hombres y mujeres que están comiendo en la sala 2 abandonan el comedor de uno en uno, y un grupo se va cada dos turnos. Hay una probabilidad de 1 entre 6 en cada turno de que el grupo tenga un encuentro con 1 o 2 veteranos (F1, CA 9, hp 7 cada uno, daga D 1-4, ML 8). Los veteranos intentarán dar la alarma si tienen iniciativa y no son sorprendidos. Si se da la alarma, la posibilidad de un encuentro aumenta a 3 de cada 6 en cada turno. Si el grupo ya está en combate, hay una probabilidad de 1 en 6 en cada ronda de combate cuerpo a cuerpo de que llegue un veterano adicional para unirse a la lucha. _Las estadísticas de los monstruos se dan en la página 28.
 
-1. CELDA DE LA PRISIÓN
+*1. CELDA DE LA PRISIÓN*
 
 La vacilante luz de las antorchas apenas ilumina la celda de la prisión que habéis ocupado durante los dos últimos días. Hablando en voz baja entre vosotros, habéis reunido una cantidad lamentablemente escasa de información sobre vuestra situación. Fuisteis capturados por goblins y traídos a este puesto de avanzada, en algún lugar más allá de la frontera de Águila Negra. Os vendaron los ojos, os condujeron por los pasillos y finalmente os encadenaron con grilletes en esta estrecha celda.
 
@@ -30,11 +30,11 @@ Una vez que estás bien encadenado, te quitan las vendas de los ojos y puedes ve
 
 Has oído voces humanas de vez en cuando, pero hasta esta mañana, la única criatura que has visto es un gran humanoide que se parece mucho a una hiena. Te ha traído comida y agua tres veces al día. Está armado con una daga y una maza, y lleva un gran llavero con varias llaves. Ha murmurado y se ha quejado en la lengua común porque el comandante no le ha dejado torturarte.
 
-Esta mañana, el comandante humano del puesto de avanzada y una visitante, una oficial de otra unidad de Águila Negra, entraron en vuestra celda y se jactaron de que el agente de confianza de Águila Negra, Anton Turino, os había capturado. Le dijo a la visitante que en lugar de ser asesinados como espías, estáis a punto de ser llevados a los mercados de esclavos de Fort Doom, Allí, no tendréis ninguna esperanza de escapar.
+Esta mañana, el comandante humano del puesto de avanzada y una visitante, una oficial de otra unidad de Águila Negra, entraron en vuestra celda y se jactaron de que el agente de confianza de Águila Negra, Anton Turino, os había capturado. Le dijo a la visitante que, en lugar de ser asesinados como espías, estáis a punto de ser llevados a los mercados de esclavos de Fort Doom, Allí, no tendréis ninguna esperanza de escapar.
 
 Si quieren volver a ver su hogar, deben actuar pronto. Pronto, será la hora de su comida del mediodía...
 
-Dale a los jugadores hasta 10 minutos de tiempo real para crear un plan. Si deciden un plan en menos de 10 minutos, el carcelero llegará en cuanto el plan esté establecido. Si los jugadores no han terminado su plan cuando se acaba el tiempo, el carcelero llega de todos modos. Cuando el carcelero esté a punto de entrar en la habitación, lee lo siguiente:
+Dales a los jugadores hasta 10 minutos de tiempo real para crear un plan. Si deciden un plan en menos de 10 minutos, el carcelero llegará en cuanto el plan esté establecido. Si los jugadores no han terminado su plan cuando se acaba el tiempo, el carcelero llega de todos modos. Cuando el carcelero esté a punto de entrar en la habitación, lee lo siguiente:
 
 Oyes que se acercan pasos pesados y el sonido de una llave que gira en la puerta. Es tu carcelero, que viene con tu comida del mediodía. Entra solo, refunfuñando algo en voz baja. Parece distraído.
 
@@ -54,7 +54,7 @@ Si el grupo escapa de la habitación, lee lo siguiente en voz alta:
 
 Mientras te asomas con cuidado a la puerta de tu celda, ves un pasillo que se extiende a izquierda y derecha. Oyes los sonidos de la conversación y las risas que vienen de la izquierda. En ambas direcciones ves pasillos que se ramifican y varias puertas.
 
-2. COCINA Y COMEDOR COMÚN
+*2. COCINA Y COMEDOR COMÚN*
 
 NOTA: Hay dos huecos (sin puertas) que llevan al comedor, y una puerta (cerrada) que lleva a la cocina. Si el grupo se asoma por cualquiera de las dos puertas al comedor, lee lo siguiente:
 
@@ -68,19 +68,19 @@ Las dos mujeres en la cocina y diez de las personas sentadas a la mesa son sirvi
 
 Hay 6 sirvientes masculinos, 6 sirvientes femeninos, 8 luchadores veteranos (luchadores de primer nivel) y 2 guerreros (luchadores de segundo nivel). Dos de los veteranos son mujeres. Cada uno de los guerreros tiene una llave de la armería (sala 13).
 
-3. SALA COMÚN DE LOS HOMBRES
+*3. SALA COMÚN DE LOS HOMBRES*
 
 Esta habitación contiene varias camas y armarios, algunas sillas y un par de mesas. Por lo demás, parece estar vacía. Hay una puerta abierta en el otro extremo de la habitación.
 
 En esta habitación se alojan los criados masculinos. En este momento no hay nadie. Bajo un colchón se encuentran 12 sp y 14 cp. Bajo un segundo colchón se encuentran 6 sp y 15 cp. Un tercer colchón esconde 8 sp y 6 cp. Un cuarto esconde 3 sp y 19 cp.
 
-4. BAÑO DE HOMBRES
+*4. BAÑO DE HOMBRES*
 
 Esta habitación larga y estrecha tiene una puerta abierta en el extremo más alejado. Hay varias bañeras de madera en el suelo y lo que parece una estufa en el centro de la habitación. El suelo está mojado y huele a jabón. La habitación parece estar vacía.
 
 Esta habitación es un baño. La estufa se utiliza para calentar el agua de las bañeras. La habitación está actualmente vacía. El suelo es muy resbaladizo; cualquier personaje que busque aquí debe tirar su Destreza o menos, usando 3d6, o resbalar en el suelo y torcerse un tobillo. Un tobillo torcido reduce la velocidad de movimiento del personaje a la mitad durante 1d6 turnos.
 
-5. VESTUARIO DE HOMBRES
+*5. VESTUARIO DE HOMBRES*
 
 NOTA: La siguiente descripción supone que el grupo entra en esta sala desde el este. Si entran desde la sala 6, debes hacer los ajustes pertinentes. La pequeña entrada al este de esta sala está actualmente vacía. Ambas puertas son abatibles y pueden abrirse fácilmente.
 
@@ -88,7 +88,7 @@ La pared izquierda de esta larga y estrecha habitación parece ser una cortina. 
 
 Esta zona es utilizada por los hombres para cambiarse de ropa antes de utilizar el baño o la sala de ejercicios (sala 6). La cortina tiene varios huecos por los que se puede entrar en la habitación 6. La ropa pertenece al hombre de la habitación 6, e incluye una armadura de cuero y un cinturón con una daga. La cesta está llena de toallas húmedas.
 
-6. SALA DE EJERCICIOS PARA HOMBRES
+*6. SALA DE EJERCICIOS PARA HOMBRES*
 
 NOTA: La siguiente descripción supone que el grupo entra en esta habitación desde el sur. Si vienen desde la sala 5, haz los ajustes pertinentes.
 
@@ -98,19 +98,19 @@ Este hombre es un veterano (luchador de 1er nivel). Tiene una CA 8 debido a su b
 
 No hay nada de valor en esta sala. Si los miembros del grupo lo deciden, pueden usar las pesas como mazas, pero tienen - 1 a las tiradas de golpeo y al daño cuando las usan.
 
-7. HABITACIÓN COMÚN DE LAS MUJERES
+*7. HABITACIÓN COMÚN DE LAS MUJERES*
 
 Esta habitación contiene varias camas y armarios, algunas sillas y un par de mesas. Por lo demás, parece estar vacía. Hay una puerta abierta en el otro extremo de la habitación.
 
 En esta habitación se alojan las sirvientas. En este momento no hay nadie. Bajo un colchón se encuentran 7 sp y 5 cp. Bajo un segundo colchón se encuentran 8 sp y 20 cp.
 
-8. BAÑO DE MUJERES
+*8. BAÑO DE MUJERES*
 
 Esta habitación larga y estrecha tiene una puerta abierta en el extremo. Hay varias bañeras de madera en el suelo y lo que parece una estufa en el centro de la habitación. El suelo está mojado y huele a jabón. La habitación parece estar vacía.
 
 Esta habitación es un baño. La estufa se utiliza para calentar el agua de las bañeras. La habitación está actualmente vacía. El suelo es muy resbaladizo; cualquier personaje que busque aquí debe tirar su Destreza o menos, usando 3d6, o resbalar en el suelo y torcerse un tobillo. Un tobillo torcido reduce la velocidad de movimiento del personaje a la mitad durante 1d6 turnos.
 
-9. VESTUARIO DE MUJERES
+*9. VESTUARIO DE MUJERES*
 
 NOTA: La siguiente descripción asume que el grupo entra en esta habitación desde el este. Si entran desde la habitación 10, debes hacer los ajustes pertinentes. La pequeña entrada al este de esta habitación está actualmente vacía. Ambas puertas son abatibles y pueden abrirse fácilmente.
 
@@ -118,7 +118,7 @@ La pared izquierda de esta larga y estrecha habitación parece ser una cortina. 
 
 Las mujeres utilizan esta zona para cambiarse de ropa antes de utilizar el baño o la sala de ejercicios (sala 10). La cortina tiene varios huecos por los que se puede entrar en la sala 10. La cesta está llena de toallas húmedas.
 
-10. SALA DE EJERCICIOS PARA MUJERES
+*10. SALA DE EJERCICIOS PARA MUJERES*
 
 NOTA: La siguiente descripción supone que el grupo entra en esta sala desde el norte. Si vienen desde la sala 5, haz los ajustes pertinentes.
 
@@ -126,19 +126,19 @@ Esto parece una sala de ejercicios. Hay colchonetas en el suelo, pesas y otros e
 
 No hay nada de valor en esta sala. Si los miembros del grupo lo deciden, pueden usar las pesas como mazas, pero reciben un -1 a las tiradas de golpe y daño cuando las usan.
 
-11. PANTERÍA
+*11. DESPENSA*
 
 Esta habitación está llena de estanterías, y hay dos filas adicionales de estanterías en el centro de la habitación. Hay sacos y barriles apilados a lo largo de la pared izquierda.
 
-Los sacos contienen harina, patatas, judías y otros alimentos. Los barriles contienen encurtidos, pescado seco, carne seca y otros alimentos en conserva. Las estanterías no están muy bien surtidas, pero hay cajas de madera llenas de verduras y botellas. En un estante, junto con botellas de vinagre, aceite y otros líquidos comunes, hay cinco frascos. Tres contienen pociones de curación, uno contiene una poción de invisibilidad, y otro contiene una poción de veneno.
+Los sacos contienen harina, patatas, judías y otros alimentos. Los barriles contienen encurtidos, pescado seco, carne seca y otros alimentos en conserva. Las estanterías no están muy bien surtidas, pero hay cajas de madera llenas de verduras y botellas. En un estante, junto con botellas de vinagre, aceite y otros líquidos comunes, hay cinco frascos. Tres contienen pociones de _curación_, uno contiene una poción de _invisibilidad_, y otro contiene una poción de veneno.
 
-12. SALA DE ENTRENAMIENTO
+*12. SALA DE ENTRENAMIENTO*
 
 En el extremo de esta sala hay una ventana, y otras tres ventanas se alinean en la larga pared de la izquierda. Todas están enrejadas. El suelo está cubierto de paja, balas de heno y postes acolchados.
 
 Esta sala se utiliza para practicar el combate. El grupo no puede escapar por las ventanas. Dos escudos maltrechos, pero útiles, han sido arrojados en la esquina noreste de la habitación.
 
-13. ARMERÍA
+*13. ARMERÍA*
 
 Las dos puertas de esta sala están cerradas. El comandante y todos los guerreros (luchadores de 2º nivel) tienen llaves.
 
@@ -148,25 +148,25 @@ Esta sala contiene armaduras de cuero y cota de malla de todos los tamaños huma
 
 Todo el equipo del grupo, incluidos los objetos mágicos, se guarda aquí.
 
-14. CÁMARA DE TORTURA
+*14. CÁMARA DE TORTURA*
 
 La paja del suelo de esta habitación está descolorida. Una serie de extraños dispositivos se alinean en la pared oeste. En medio de la pared hay un pozo poco profundo.
 
 Se trata de una cámara de interrogatorio y tortura. Las manchas en el suelo son de sangre. La fosa es un pozo de fuego, con hierros para marcar que descansan en las cenizas de un fuego anterior. La sala contiene un potro de tortura y dos látigos de aspecto perverso (D 1-2).
 
-15. HABITACIÓN DEL CARCELERO
+*15. HABITACIÓN DEL CARCELERO*
 
 Este dormitorio desordenado contiene una cama, una mesa, una silla y un montón de ropa harapienta.
 
 El carcelero gnoll vive en esta habitación. Tiene un gran cofre escondido bajo las tablas del suelo, debajo de su cama. Está atrapado con un veneno necesario. Cualquiera que abra el cofre sin encontrar y quitar primero la aguja de veneno debe hacer una tirada de salvación contra Veneno o morir. El cofre contiene 300 gp.
 
-16. SALA DE ALMACENAMIENTO DE VINO
+*16. BODEGA*
 
 Esta sala contiene barriles y barriles de varios tamaños. Varios estantes alrededor de la habitación están llenos de botellas tumbadas.
 
 Esta habitación se utiliza para almacenar licores. Los barriles están llenos de cerveza, y los barriles y las botellas, de vino. Un estante de vino en la esquina suroeste sirve de puerta secreta al tesoro (sala 42). Para accionar la puerta, hay que tirar de la segunda botella de vino desde la izquierda en el estante inferior.
 
-17. SALA DE ESTAR COMÚN
+*17. SALA DE ESTAR COMÚN*
 
 NOTA: La siguiente descripción supone que el grupo entra en esta sala desde el oeste por la pared norte. Si entran desde otra dirección, ajusta la descripción en consecuencia.
 
@@ -176,35 +176,35 @@ Los dos hombres son veteranos (luchadores de primer nivel) armados con dagas. Es
 
 Si los combatientes son atacados pero no muertos o silenciados inmediatamente, gritan pidiendo ayuda. Haz un chequeo inmediato para ver si alguno de los combatientes errantes viene a ayudar. Los combatientes errantes llegan en 1-3 asaltos.
 
-18. COMEDOR DEL COMANDANTE
+*18. COMEDOR DEL COMANDANTE*
 
 Esto parece ser un comedor. Hay una gran mesa ovalada en el centro de la habitación rodeada de sillas rectas. El suelo está enmoquetado. En la esquina izquierda hay un armario cerrado. Hay dos grandes ventanas en la pared más alejada y una puerta en la pared derecha, cerca de la entrada.
 
 Esta sala la utiliza el comandante cuando recibe visitas. En el interior del armario hay un juego de vajilla de plata (con un valor de 600 gp) y porcelana fina (con un valor de 200 gp). Ahora no hay nadie aquí.
 
-19. SALA DE ESTAR DEL COMANDANTE
+*19. SALA DE ESTAR DEL COMANDANTE*
 
 Esto parece ser una sala de estar. Hay algunas mesas y varias sillas cómodas alrededor de la habitación. El suelo está enmoquetado. Hay una ventana a lo largo de la pared izquierda y una puerta en la pared del fondo, justo enfrente de la entrada. Hay tres personas sentadas en sillas alrededor de una mesa frente a la puerta por la que has entrado. Reconoces a dos de ellos como el comandante y el oficial de visita. Llevan una armadura de cuero. La tercera persona es una mujer vestida con ropa normal. Cada uno sostiene un vaso de vino.
 
 Las tres personas son el comandante, su esposa y el oficial visitante. Tanto el comandante como el oficial visitante están armados con dagas. Su CA y daño reflejan los bonos de destreza y fuerza. La esposa del comandante no lucha.
 
-Si se ha dado la alarma, el comandante está armado con una espada corta +1 y lleva una cota de malla y un escudo +1. Ambos objetos se encuentran en la sala 20 cuando no se llevan. El visitante lleva una espada corta. No pueden ser sorprendidos una vez dada la alarma.
+Si se ha dado la alarma, el comandante está armado con una _espada corta +1_ y lleva una cota de malla y un _escudo +1_. Ambos objetos se encuentran en la sala 20 cuando no se llevan. El visitante lleva una espada corta. No pueden ser sorprendidos una vez dada la alarma.
 
 El comandante lleva un brazalete de oro engastado con diamantes, con un valor de 750 gp. También lleva dos llaves: una abre la sala 1, la otra la sala 13.
 
-20. DORMITORIO DEL COMANDANTE
+*20. DORMITORIO DEL COMANDANTE*
 
 Esto es obviamente un dormitorio. Hay dos camas grandes, dos armarios, un escritorio, una mesa y varias sillas. Hay alfombras ornamentadas en el suelo. Hay una gran ventana en la pared exterior, una puerta justo enfrente de la puerta por la que has entrado, y una puerta abierta en la pared opuesta a la ventana.
 
-Si el comandante no fue alertado, una espada corta +1, una armadura de malla de placas y un escudo +1 están colgados en la pared.
+Si el comandante no fue alertado, una _espada corta +1_, una armadura de malla de placas y un _escudo +1_ están colgados en la pared.
 
 Si el grupo atraviesa la puerta abierta en la habitación 20a, lee lo siguiente:
 
 Esta zona parece ser un baño. Hay una pequeña estufa en el extremo más alejado y una gran bañera de metal cerca. Más cerca de la puerta hay un tocador con un espejo.
  
-Un cajón del tocador tiene un falso fondo que oculta 94 pp, 17 gp y una daga maldita -1.
+Un cajón del tocador tiene un falso fondo que oculta 94 pp, 17 gp y una _daga maldita -1_.
 
-21. HABITACIÓN DE LOS VISITANTES
+*21. HABITACIÓN DE LOS VISITANTES*
 
 Obviamente, se trata de un dormitorio, con una cama grande, un armario, un escritorio, una mesa y varias sillas. Hay algunas alfombras pequeñas en el suelo. Hay una gran ventana en la pared izquierda y una puerta abierta a su derecha. Por lo demás, la habitación parece estar vacía.
 
@@ -214,7 +214,7 @@ Esta zona parece ser un baño. Hay una pequeña estufa en el extremo más alejad
 
 Esta habitación está vacía.
 
-22. HABITACIÓN DE LOS VISITANTES
+*22. HABITACIÓN DE LOS VISITANTES*
 
 Obviamente se trata de un dormitorio, con una cama grande, un armario, un escritorio, una mesa y varias sillas. Hay algunas alfombras pequeñas en el suelo. Hay una gran ventana en la pared izquierda, y una puerta abierta a su derecha. Por lo demás, la habitación parece estar vacía.
 
@@ -224,7 +224,7 @@ Esta zona parece ser un baño. Hay una pequeña estufa en el extremo más alejad
 
 Esta habitación está vacía.
 
-23. HABITACIÓN DE LOS VISITANTES
+*23. HABITACIÓN DE LOS VISITANTES*
 
 Obviamente se trata de un dormitorio, con una cama grande, un armario, un escritorio, una mesa y varias sillas. Hay algunas alfombras pequeñas en el suelo. Hay una gran ventana en la pared de la izquierda, otra al otro lado de la habitación desde la puerta, y una puerta abierta a su derecha. Por lo demás, la habitación parece estar vacía.
 
@@ -236,91 +236,90 @@ Esta zona parece ser un baño. Hay una pequeña estufa en el extremo más alejad
 
 Esta habitación está vacía.
 
-24-41. CUARTEL DE OFICIALES
+*24-41. HABITACIONES DE OFICIALES*
 
 Todos los oficiales de este puesto tienen habitaciones privadas. Las habitaciones de esta sección son todas idénticas. Contienen una cama individual, un armario, una mesa con una silla arrimada a ella, una mesa baja cerca de la cama y una silla cerca de la mesa baja.
 
-24. HABITACIÓN DE LA VETERANA
- 
+*24. HABITACIÓN DE VETERANA*
+
 Hay una espada sobre la mesa baja y una armadura de cota de malla sobre la silla. Una mujer con armadura de cuero está dormida en la cama.
 
 La mujer es una veterana (luchadora de 1er nivel). La espada es una espada corta. Ha escondido 4 gp, 4 sp y 4 cp bajo el colchón.
 
-25. HABITACIÓN DE LA MUJER VETERANA
+*25. HABITACIÓN DE VETERANA*
 
 La mujer que vive en esta habitación está actualmente en el comedor. Hay una armadura de cota de malla en el armario. Hay un falso fondo en el cajón de la mesa que oculta 7 gp, 5 sp, y 10 cp.
 
-26. HABITACIÓN DE LA MUJER VETERANA
+*26. HABITACIÓN DE VETERANA*
 
 La mujer que vive en esta habitación está actualmente en el comedor. Hay una armadura de cota de malla en el armario.
 
-27. HABITACIÓN DE LA GUERRERA
+*27. HABITACIÓN DE GUERRERA*
 
 Esta habitación es ligeramente diferente a las demás. Apartada del resto de la habitación, en la esquina cercana a la izquierda, hay una mesa baja rodeada de cuatro cómodas sillas. En la esquina izquierda hay un escritorio y una espada colgada en la pared. Sentada en el escritorio hay una mujer vestida de cuero, escribiendo una carta.
 
-Esta mujer es una guerrera (luchadora de 2º nivel). Al alcance de su mano hay una espada corta +1. Debido a su fuerza, hace 1 punto extra de daño por ataque. Lleva una bolsa grande en su cinturón que contiene 10 gp, 21 sp, y 20 cp. Tiene un llavero con dos llaves: una para su habitación y otra para la armería (habitación 13).
+Esta mujer es una guerrera (luchadora de 2º nivel). Al alcance de su mano hay una _espada corta +1_. Debido a su fuerza, hace 1 punto extra de daño por ataque. Lleva una bolsa grande en su cinturón que contiene 10 gp, 21 sp, y 20 cp. Tiene un llavero con dos llaves: una para su habitación y otra para la armería (habitación 13).
 
-28. HABITACIÓN DEL VETERANO
+*28. HABITACIÓN DE VETERANO*
 
 Hay una espada colgada en un perchero en la pared.
 
 El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario.
 
-29. HABITACIÓN DEL VETERANO MASCULINO
+*29. HABITACIÓN DE VETERANO*
 
 Hay una espada colgada en un perchero de la pared.
 
 El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario. El cajón de la mesa contiene 1 gp y 3 sp.
 
-30. HABITACIÓN DEL VETERANO MASCULINO
+*30. HABITACIÓN DE VETERANO*
 
 Hay una espada colgada en un perchero de la pared.
 
 El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario.
 
-31. HABITACIÓN DEL VETERANO MASCULINO
+*31. HABITACIÓN DE VETERANO*
 
 Hay una espada colgada en un perchero de la pared.
 
 El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario. Hay 4 gp y 7 sp escondidos bajo el colchón.
 
-32. HABITACIÓN DEL VETERANO
+*32. HABITACIÓN DE VETERANO*
 
 Hay una espada en la mesa baja y una armadura de cota de malla sobre la silla. Un hombre con armadura de cuero está dormido en la cama.
 
 El hombre es un veterano (luchador de 1er nivel). La espada es una espada corta. El cajón de la mesa contiene 6 gp, 8 sp y 2 cp.
 
-33. DORMITORIOS VACÍOS
+*33. CUARTO VACÍO*
 
 Esta es idéntica a las otras habitaciones, pero parece estar sin usar.
 
 Esta habitación está vacía.
 
-34. CUARTOS VACÍOS
+*34. CUARTO VACÍO*
 
 Es idéntico a los otros dormitorios, pero parece que no se utiliza.
 
 Esta habitación está vacía.
 
-35. HABITACIÓN DEL VETERANO DE GUERRA
+*36. HABITACIÓN DE VETERANO*
 
 Hay una espada colgada en un perchero en la pared.
 
 El ocupante de esta habitación está ejercitándose en la sala de ejercicios (sala 6). La espada es una espada corta. Hay una armadura de cota de malla en el armario.
 
-36. HABITACIÓN DEL VETERANO MASCULINO
+*36. HABITACIÓN DE VETERANO*
 
 Hay una espada sobre la mesa baja y una armadura de cota de malla sobre la silla. Un hombre con armadura de cuero está dormido en la cama.
 
 El hombre es un veterano (luchador de 1er nivel). La espada es una espada corta. Una bolsa atada a su cinturón contiene 3 gp, 4 sp, y 2 cp.
 
-37. HABITACIÓN DE UN VETERANO
+*37. HABITACIÓN DE VETERANO*
 
 Hay una espada colgada en un perchero de la pared.
 
-LA GRAN HUIDA: Monstruos
-
-Habitación Monstruo No. Tirada de Golpe AC HD hp MV #AT D Save ML AL SA/SD XP
+*LA GRAN HUIDA: Monstruos*
+*Habitación* *Monstruo* *No.* *Tirada de Golpe* *AC* *HD* *hp* *MV* *#AT* *D* *Save* *ML* *AL* *SA/SD* *XP*
 WM Veterano (F1) 1 o 2 19 7 1 7 cada uno 120'(40') 1 1-4 F1 N No 10
 1 Gnoll 1 18 5 2 8 90'(30') 1 1-4 o 1-6+1 F2 8 C No 20
 2 Sirviente Masculino 6 19 9 1 3 cada 120'(40') 0 0 NM 6 N No 5
@@ -338,25 +337,25 @@ WM Veterano (F1) 1 o 2 19 7 1 7 cada uno 120'(40') 1 1-4 F1 N No 10
 
 El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta (D 1-6). Hay una armadura de cota de malla en el armario. En el armario también hay una pequeña bolsa que contiene 6 gp y 2 sp.
 
-38. CUARTEL DE VETERANO MASCULINO
+*38. CUARTEL DE SOLDADO VETERANO*
 
 Hay una espada colgada en un perchero de la pared.
 
 El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta (D 1-6). Hay una armadura de cota de malla en el armario.
 
-39. HABITACIÓN DEL GUERRERO MASCULINO
+*39. HABITACIÓN DE GUERRERO*
 
 Esta habitación es diferente de los otros dormitorios. Separada del resto de la habitación, en la esquina izquierda hay una mesa baja rodeada de cuatro cómodas sillas. Hay un escritorio en la esquina izquierda, y una espada y un escudo cuelgan de la pared junto a él.
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es de fabricación normal. Hay un conjunto de cota de malla +1 en el armario. Un pequeño monedero escondido en una silla contiene 7 gp y 12 sp.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es de fabricación normal. Hay un conjunto de _cota de malla +1_ en el armario. Un pequeño monedero escondido en una silla contiene 7 gp y 12 sp.
 
-40. HABITACIÓN DEL GUERRERO MASCULINO
+*40. HABITACIÓN DE GUERRERO*
 
 Esta habitación es diferente de los otros dormitorios. Apartada del resto de la habitación, en la esquina izquierda hay una mesa baja rodeada de cuatro cómodas sillas. Hay un escritorio en la esquina izquierda, y una espada y un escudo cuelgan de la pared junto a él.
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es un escudo +1. Hay un conjunto de armadura de cota de malla en el armario. Un compartimento secreto en el fondo del armario esconde 8 gp y 20 sp.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es un _escudo +1_. Hay un conjunto de armadura de cota de malla en el armario. Un compartimento secreto en el fondo del armario esconde 8 gp y 20 sp.
 
-41. HABITACIÓN DEL GUERRERO MASCULINO
+*41. HABITACIÓN DE GUERRERO *
 
 Esta habitación es diferente de los otros dormitorios. Apartada del resto de la habitación, en la esquina izquierda hay una mesa baja rodeada de cuatro cómodas sillas. Hay un escritorio en la esquina izquierda, y una espada y un escudo cuelgan de la pared junto a él. Un hombre vestido de cuero está dormido en la cama.
 
@@ -364,15 +363,15 @@ Este hombre es un guerrero (luchador de 2º nivel). Su fuerza superior le da +1 
 
 La pared oeste de esta habitación tiene paneles de madera. Si se pulsa el panel más cercano a la pared norte justo por encima del nivel de los ojos de un humano normal, se abrirá la puerta secreta del tesoro. Una de las sillas que rodean la mesa de esta esquina está arrinconada en ella, por lo que hay que mover la silla para poder abrir la puerta.
 
-42. TESORO
+*42. TESORO*
 
 Esta sala está vacía, excepto por un número de sacos a lo largo de la pared más lejana.
 
-Esta sala contiene la mayoría de los objetos de valor del puesto de avanzada. Dos sacos pequeños contienen 200 gp cada uno. Seis sacos grandes contienen 500 gp cada uno. Tres sacos grandes contienen 500 sp cada uno. Entre los sacos hay una caja de hierro de tamaño medio que está bien cerrada. Pesa 100 cn, y no puede abrirse por la fuerza. Un ladrón puede forzar la cerradura, o un hechizo de golpe la abrirá, pero no puede ser forzada. La caja contiene tres viales, cada uno de los cuales contiene una poción de crecimiento, un anillo de resistencia al fuego y una vara de anulación.
+Esta sala contiene la mayoría de los objetos de valor del puesto de avanzada. Dos sacos pequeños contienen 200 gp cada uno. Seis sacos grandes contienen 500 gp cada uno. Tres sacos grandes contienen 500 sp cada uno. Entre los sacos hay una caja de hierro de tamaño medio que está bien cerrada. Pesa 100 cn, y no puede abrirse por la fuerza. Un ladrón puede forzar la cerradura, o un hechizo de golpe la abrirá, pero no puede ser forzada. La caja contiene tres viales, cada uno de los cuales contiene una poción de _crecimiento_, un anillo de _resistencia al fuego_ y una _vara de anulación_.
 
 El resultado del escenario de la Gran Evasión depende de cómo lo hagan los personajes. Si no logran escapar del puesto de avanzada, serán colocados en una carreta bajo una fuerte guardia y comenzará su viaje a Fort Doom. La primera noche, el carro será emboscado por una fuerza de asalto de Luln y los personajes serán rescatados. La marcha forzada de vuelta para avisar a Luln fracasará; la incursión habrá causado graves daños. La situación seguirá siendo tensa, y Sascia elaborará un informe completo sobre la situación. Cuando el grupo esté listo para abandonar Luln, les pedirá que entreguen el informe al escriba Franz Dubloi, que se encuentra en la guarnición militar de Specularum. El grupo recibirá un pequeño saco de oro para los gastos de viaje y podrá entregar el mensaje sin dificultad. Consulta la aventura de la Sociedad Velada para obtener más detalles sobre Specularum.
 
-La ciudad de Luln
+*La ciudad de Luln*
 
 Luln es una ciudad fronteriza del tamaño de Umbral, pero mucho más poblada, y sus condiciones de vida son ligeramente más primitivas. Los servicios generales que se prestan son muy parecidos, pero la calidad es generalmente inferior a la de Umbral. En parte, esto se debe a que la Baronía del Águila Negra está cerca, y las continuas incursiones humanoides han impedido el desarrollo de la tierra, que es rica.
 
@@ -381,4 +380,3 @@ El papel del Barón en los problemas de la ciudad es una especie de secreto a vo
 El duque lo sabe, por supuesto, y ha puesto a la ambiciosa alcaldesa Sascia (una luchadora de alto nivel) a cargo del lugar. Su trabajo consiste en preservar la ciudad y construir la economía local frente a la interferencia del Barón.
 
 La cercana Fortaleza de Radlebb ayuda a Luln cuando puede, lo que no es frecuente, ya que la zona que debe patrullar su guarnición es grande, y la encantada Fortaleza de Koriszegy debe estar constantemente vigilada. Además, Sascia tiene la vista puesta en un título de caballero, y está interesada en demostrar su liderazgo sin recurrir a los soldados del Duque.
-
