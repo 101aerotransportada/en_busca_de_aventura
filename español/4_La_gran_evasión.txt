@@ -172,7 +172,7 @@ NOTA: La siguiente descripción supone que el grupo entra en esta sala desde el 
 
 Esta es una sala enorme con muchas mesas y sillas cómodas. La pared de la izquierda y la del fondo tienen cuatro ventanas cada una. Hay una puerta en el centro de la pared del fondo que parece conducir al exterior. Dos hombres vestidos de cuero están sentados en una mesa en la esquina izquierda, tirando dados.
 
-Los dos hombres son veteranos (luchadores de primer nivel) armados con dagas. Están completamente absortos en su juego, y son sorprendidos con una tirada de 1-5 en un 1d6. Las apuestas en la mesa consisten en 24 gp y 52 sp.
+Los dos hombres son veteranos (luchadores de primer nivel) armados con dagas. Están completamente absortos en su juego, y son sorprendidos con una tirada de 1-5 en un 1d6. Las apuestas en la mesa consisten en 24 mo y 52 sp.
 
 Si los combatientes son atacados pero no muertos o silenciados inmediatamente, gritan pidiendo ayuda. Haz un chequeo inmediato para ver si alguno de los combatientes errantes viene a ayudar. Los combatientes errantes llegan en 1-3 asaltos.
 
@@ -180,7 +180,7 @@ Si los combatientes son atacados pero no muertos o silenciados inmediatamente, g
 
 Esto parece ser un comedor. Hay una gran mesa ovalada en el centro de la habitación rodeada de sillas rectas. El suelo está enmoquetado. En la esquina izquierda hay un armario cerrado. Hay dos grandes ventanas en la pared más alejada y una puerta en la pared derecha, cerca de la entrada.
 
-Esta sala la utiliza el comandante cuando recibe visitas. En el interior del armario hay un juego de vajilla de plata (con un valor de 600 gp) y porcelana fina (con un valor de 200 gp). Ahora no hay nadie aquí.
+Esta sala la utiliza el comandante cuando recibe visitas. En el interior del armario hay un juego de vajilla de plata (con un valor de 600 gp) y porcelana fina (con un valor de 200 mo). Ahora no hay nadie aquí.
 
 *19. SALA DE ESTAR DEL COMANDANTE*
 
