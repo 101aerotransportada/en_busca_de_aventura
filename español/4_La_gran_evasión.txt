@@ -72,7 +72,7 @@ Hay 6 sirvientes masculinos, 6 sirvientes femeninos, 8 luchadores veteranos (luc
 
 Esta habitación contiene varias camas y armarios, algunas sillas y un par de mesas. Por lo demás, parece estar vacía. Hay una puerta abierta en el otro extremo de la habitación.
 
-En esta habitación se alojan los criados masculinos. En este momento no hay nadie. Bajo un colchón se encuentran 12 sp y 14 cp. Bajo un segundo colchón se encuentran 6 sp y 15 cp. Un tercer colchón esconde 8 sp y 6 cp. Un cuarto esconde 3 sp y 19 cp.
+En esta habitación se alojan los criados masculinos. En este momento no hay nadie. Bajo un colchón se encuentran 12 mp y 14 mc. Bajo un segundo colchón se encuentran 6 mp y 15 mc. Un tercer colchón esconde 8 mp y 6 mc. Un cuarto esconde 3 mp y 19 mc.
 
 *4. BAÑO DE HOMBRES*
 
@@ -102,7 +102,7 @@ No hay nada de valor en esta sala. Si los miembros del grupo lo deciden, pueden 
 
 Esta habitación contiene varias camas y armarios, algunas sillas y un par de mesas. Por lo demás, parece estar vacía. Hay una puerta abierta en el otro extremo de la habitación.
 
-En esta habitación se alojan las sirvientas. En este momento no hay nadie. Bajo un colchón se encuentran 7 sp y 5 cp. Bajo un segundo colchón se encuentran 8 sp y 20 cp.
+En esta habitación se alojan las sirvientas. En este momento no hay nadie. Bajo un colchón se encuentran 7 mp y 5 mc. Bajo un segundo colchón se encuentran 8 mp y 20 mc.
 
 *8. BAÑO DE MUJERES*
 
@@ -158,7 +158,7 @@ Se trata de una cámara de interrogatorio y tortura. Las manchas en el suelo son
 
 Este dormitorio desordenado contiene una cama, una mesa, una silla y un montón de ropa harapienta.
 
-El carcelero gnoll vive en esta habitación. Tiene un gran cofre escondido bajo las tablas del suelo, debajo de su cama. Está atrapado con un veneno necesario. Cualquiera que abra el cofre sin encontrar y quitar primero la aguja de veneno debe hacer una tirada de salvación contra Veneno o morir. El cofre contiene 300 gp.
+El carcelero gnoll vive en esta habitación. Tiene un gran cofre escondido bajo las tablas del suelo, debajo de su cama. Está atrapado con un veneno necesario. Cualquiera que abra el cofre sin encontrar y quitar primero la aguja de veneno debe hacer una tirada de salvación contra Veneno o morir. El cofre contiene 300 mo.
 
 *16. BODEGA*
 
@@ -172,7 +172,7 @@ NOTA: La siguiente descripción supone que el grupo entra en esta sala desde el 
 
 Esta es una sala enorme con muchas mesas y sillas cómodas. La pared de la izquierda y la del fondo tienen cuatro ventanas cada una. Hay una puerta en el centro de la pared del fondo que parece conducir al exterior. Dos hombres vestidos de cuero están sentados en una mesa en la esquina izquierda, tirando dados.
 
-Los dos hombres son veteranos (luchadores de primer nivel) armados con dagas. Están completamente absortos en su juego, y son sorprendidos con una tirada de 1-5 en un 1d6. Las apuestas en la mesa consisten en 24 mo y 52 sp.
+Los dos hombres son veteranos (luchadores de primer nivel) armados con dagas. Están completamente absortos en su juego, y son sorprendidos con una tirada de 1-5 en un 1d6. Las apuestas en la mesa consisten en 24 mo y 52 mp.
 
 Si los combatientes son atacados pero no muertos o silenciados inmediatamente, gritan pidiendo ayuda. Haz un chequeo inmediato para ver si alguno de los combatientes errantes viene a ayudar. Los combatientes errantes llegan en 1-3 asaltos.
 
@@ -180,7 +180,7 @@ Si los combatientes son atacados pero no muertos o silenciados inmediatamente, g
 
 Esto parece ser un comedor. Hay una gran mesa ovalada en el centro de la habitación rodeada de sillas rectas. El suelo está enmoquetado. En la esquina izquierda hay un armario cerrado. Hay dos grandes ventanas en la pared más alejada y una puerta en la pared derecha, cerca de la entrada.
 
-Esta sala la utiliza el comandante cuando recibe visitas. En el interior del armario hay un juego de vajilla de plata (con un valor de 600 gp) y porcelana fina (con un valor de 200 mo). Ahora no hay nadie aquí.
+Esta sala la utiliza el comandante cuando recibe visitas. En el interior del armario hay un juego de vajilla de plata (con un valor de 600 mo) y porcelana fina (con un valor de 200 mo). Ahora no hay nadie aquí.
 
 *19. SALA DE ESTAR DEL COMANDANTE*
 
@@ -190,7 +190,7 @@ Las tres personas son el comandante, su esposa y el oficial visitante. Tanto el 
 
 Si se ha dado la alarma, el comandante está armado con una _espada corta +1_ y lleva una cota de malla y un _escudo +1_. Ambos objetos se encuentran en la sala 20 cuando no se llevan. El visitante lleva una espada corta. No pueden ser sorprendidos una vez dada la alarma.
 
-El comandante lleva un brazalete de oro engastado con diamantes, con un valor de 750 gp. También lleva dos llaves: una abre la sala 1, la otra la sala 13.
+El comandante lleva un brazalete de oro engastado con diamantes, con un valor de 750 mo. También lleva dos llaves: una abre la sala 1, la otra la sala 13.
 
 *20. DORMITORIO DEL COMANDANTE*
 
@@ -202,7 +202,7 @@ Si el grupo atraviesa la puerta abierta en la habitación 20a, lee lo siguiente:
 
 Esta zona parece ser un baño. Hay una pequeña estufa en el extremo más alejado y una gran bañera de metal cerca. Más cerca de la puerta hay un tocador con un espejo.
  
-Un cajón del tocador tiene un falso fondo que oculta 94 pp, 17 gp y una _daga maldita -1_.
+Un cajón del tocador tiene un falso fondo que oculta 94 mpt, 17 mo y una _daga maldita -1_.
 
 *21. HABITACIÓN DE LOS VISITANTES*
 
@@ -228,7 +228,7 @@ Esta habitación está vacía.
 
 Obviamente se trata de un dormitorio, con una cama grande, un armario, un escritorio, una mesa y varias sillas. Hay algunas alfombras pequeñas en el suelo. Hay una gran ventana en la pared de la izquierda, otra al otro lado de la habitación desde la puerta, y una puerta abierta a su derecha. Por lo demás, la habitación parece estar vacía.
 
-El oficial visitante está acuartelado aquí. Sus cosas están en el armario. Además de la ropa, hay una armadura de malla de placas, un escudo y una espada larga. También hay una bolsa de mano que contiene 2.000 gp y 6.000 sp.
+El oficial visitante está acuartelado aquí. Sus cosas están en el armario. Además de la ropa, hay una armadura de malla de placas, un escudo y una espada larga. También hay una bolsa de mano que contiene 2.000 mo y 6.000 mp.
 
 Si el grupo pasa por la puerta abierta en la habitación 23a, lee lo siguiente:
 
@@ -244,11 +244,11 @@ Todos los oficiales de este puesto tienen habitaciones privadas. Las habitacione
 
 Hay una espada sobre la mesa baja y una armadura de cota de malla sobre la silla. Una mujer con armadura de cuero está dormida en la cama.
 
-La mujer es una veterana (luchadora de 1er nivel). La espada es una espada corta. Ha escondido 4 gp, 4 sp y 4 cp bajo el colchón.
+La mujer es una veterana (luchadora de 1er nivel). La espada es una espada corta. Ha escondido 4 mo, 4 mp y 4 mc bajo el colchón.
 
 *25. HABITACIÓN DE VETERANA*
 
-La mujer que vive en esta habitación está actualmente en el comedor. Hay una armadura de cota de malla en el armario. Hay un falso fondo en el cajón de la mesa que oculta 7 gp, 5 sp, y 10 cp.
+La mujer que vive en esta habitación está actualmente en el comedor. Hay una armadura de cota de malla en el armario. Hay un falso fondo en el cajón de la mesa que oculta 7 mo, 5 mp, y 10 mc.
 
 *26. HABITACIÓN DE VETERANA*
 
@@ -258,7 +258,7 @@ La mujer que vive en esta habitación está actualmente en el comedor. Hay una a
 
 Esta habitación es ligeramente diferente a las demás. Apartada del resto de la habitación, en la esquina cercana a la izquierda, hay una mesa baja rodeada de cuatro cómodas sillas. En la esquina izquierda hay un escritorio y una espada colgada en la pared. Sentada en el escritorio hay una mujer vestida de cuero, escribiendo una carta.
 
-Esta mujer es una guerrera (luchadora de 2º nivel). Al alcance de su mano hay una _espada corta +1_. Debido a su fuerza, hace 1 punto extra de daño por ataque. Lleva una bolsa grande en su cinturón que contiene 10 gp, 21 sp, y 20 cp. Tiene un llavero con dos llaves: una para su habitación y otra para la armería (habitación 13).
+Esta mujer es una guerrera (luchadora de 2º nivel). Al alcance de su mano hay una _espada corta +1_. Debido a su fuerza, hace 1 punto extra de daño por ataque. Lleva una bolsa grande en su cinturón que contiene 10 mo, 21 mp, y 20 mc. Tiene un llavero con dos llaves: una para su habitación y otra para la armería (habitación 13).
 
 *28. HABITACIÓN DE VETERANO*
 
@@ -270,7 +270,7 @@ El hombre que vive en esta habitación está actualmente en el comedor. La espad
 
 Hay una espada colgada en un perchero de la pared.
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario. El cajón de la mesa contiene 1 gp y 3 sp.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario. El cajón de la mesa contiene 1 mo y 3 mp.
 
 *30. HABITACIÓN DE VETERANO*
 
@@ -282,13 +282,13 @@ El hombre que vive en esta habitación está actualmente en el comedor. La espad
 
 Hay una espada colgada en un perchero de la pared.
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario. Hay 4 gp y 7 sp escondidos bajo el colchón.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta. Hay una armadura de cota de malla en el armario. Hay 4 mo y 7 mp escondidos bajo el colchón.
 
 *32. HABITACIÓN DE VETERANO*
 
 Hay una espada en la mesa baja y una armadura de cota de malla sobre la silla. Un hombre con armadura de cuero está dormido en la cama.
 
-El hombre es un veterano (luchador de 1er nivel). La espada es una espada corta. El cajón de la mesa contiene 6 gp, 8 sp y 2 cp.
+El hombre es un veterano (luchador de 1er nivel). La espada es una espada corta. El cajón de la mesa contiene 6 mo, 8 mp y 2 mc.
 
 *33. CUARTO VACÍO*
 
@@ -312,7 +312,7 @@ El ocupante de esta habitación está ejercitándose en la sala de ejercicios (s
 
 Hay una espada sobre la mesa baja y una armadura de cota de malla sobre la silla. Un hombre con armadura de cuero está dormido en la cama.
 
-El hombre es un veterano (luchador de 1er nivel). La espada es una espada corta. Una bolsa atada a su cinturón contiene 3 gp, 4 sp, y 2 cp.
+El hombre es un veterano (luchador de 1er nivel). La espada es una espada corta. Una bolsa atada a su cinturón contiene 3 mo, 4 mp, y 2 mc.
 
 *37. HABITACIÓN DE VETERANO*
 
@@ -335,7 +335,7 @@ WM Veterano (F1) 1 o 2 19 7 1 7 cada uno 120'(40') 1 1-4 F1 N No 10
 36 Veterano (F1) 1 19 7 1 6 120'(40') 1 1-6 F1 8 N No 10
 41 Guerrero (F2) 1 19 6 2 8 120'(40') 1 1-6 F2 9 N No 20
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta (D 1-6). Hay una armadura de cota de malla en el armario. En el armario también hay una pequeña bolsa que contiene 6 gp y 2 sp.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta (D 1-6). Hay una armadura de cota de malla en el armario. En el armario también hay una pequeña bolsa que contiene 6 mo y 2 mp.
 
 *38. CUARTEL DE SOLDADO VETERANO*
 
@@ -347,19 +347,19 @@ El hombre que vive en esta habitación está actualmente en el comedor. La espad
 
 Esta habitación es diferente de los otros dormitorios. Separada del resto de la habitación, en la esquina izquierda hay una mesa baja rodeada de cuatro cómodas sillas. Hay un escritorio en la esquina izquierda, y una espada y un escudo cuelgan de la pared junto a él.
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es de fabricación normal. Hay un conjunto de _cota de malla +1_ en el armario. Un pequeño monedero escondido en una silla contiene 7 gp y 12 sp.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es de fabricación normal. Hay un conjunto de _cota de malla +1_ en el armario. Un pequeño monedero escondido en una silla contiene 7 mo y 12 mp.
 
 *40. HABITACIÓN DE GUERRERO*
 
 Esta habitación es diferente de los otros dormitorios. Apartada del resto de la habitación, en la esquina izquierda hay una mesa baja rodeada de cuatro cómodas sillas. Hay un escritorio en la esquina izquierda, y una espada y un escudo cuelgan de la pared junto a él.
 
-El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es un _escudo +1_. Hay un conjunto de armadura de cota de malla en el armario. Un compartimento secreto en el fondo del armario esconde 8 gp y 20 sp.
+El hombre que vive en esta habitación está actualmente en el comedor. La espada es una espada corta; y el escudo es un _escudo +1_. Hay un conjunto de armadura de cota de malla en el armario. Un compartimento secreto en el fondo del armario esconde 8 mo y 20 mp.
 
 *41. HABITACIÓN DE GUERRERO *
 
 Esta habitación es diferente de los otros dormitorios. Apartada del resto de la habitación, en la esquina izquierda hay una mesa baja rodeada de cuatro cómodas sillas. Hay un escritorio en la esquina izquierda, y una espada y un escudo cuelgan de la pared junto a él. Un hombre vestido de cuero está dormido en la cama.
 
-Este hombre es un guerrero (luchador de 2º nivel). Su fuerza superior le da +1 al daño en cualquier ataque. Lleva una armadura de cuero y una daga en el cinturón. La espada corta y el escudo son de fabricación normal. Hay una armadura de malla de placas en el armario. Una llave en la mesilla de noche abre la armería (habitación 13). Una caja metálica cerrada en el fondo del armario contiene 19 gp y 20 sp.
+Este hombre es un guerrero (luchador de 2º nivel). Su fuerza superior le da +1 al daño en cualquier ataque. Lleva una armadura de cuero y una daga en el cinturón. La espada corta y el escudo son de fabricación normal. Hay una armadura de malla de placas en el armario. Una llave en la mesilla de noche abre la armería (habitación 13). Una caja metálica cerrada en el fondo del armario contiene 19 mo y 20 mp.
 
 La pared oeste de esta habitación tiene paneles de madera. Si se pulsa el panel más cercano a la pared norte justo por encima del nivel de los ojos de un humano normal, se abrirá la puerta secreta del tesoro. Una de las sillas que rodean la mesa de esta esquina está arrinconada en ella, por lo que hay que mover la silla para poder abrir la puerta.
 
@@ -367,9 +367,9 @@ La pared oeste de esta habitación tiene paneles de madera. Si se pulsa el panel
 
 Esta sala está vacía, excepto por un número de sacos a lo largo de la pared más lejana.
 
-Esta sala contiene la mayoría de los objetos de valor del puesto de avanzada. Dos sacos pequeños contienen 200 gp cada uno. Seis sacos grandes contienen 500 gp cada uno. Tres sacos grandes contienen 500 sp cada uno. Entre los sacos hay una caja de hierro de tamaño medio que está bien cerrada. Pesa 100 cn, y no puede abrirse por la fuerza. Un ladrón puede forzar la cerradura, o un hechizo de golpe la abrirá, pero no puede ser forzada. La caja contiene tres viales, cada uno de los cuales contiene una poción de _crecimiento_, un anillo de _resistencia al fuego_ y una _vara de anulación_.
+Esta sala contiene la mayoría de los objetos de valor del puesto de avanzada. Dos sacos pequeños contienen 200 mo cada uno. Seis sacos grandes contienen 500 mo cada uno. Tres sacos grandes contienen 500 mp cada uno. Entre los sacos hay una caja de hierro de tamaño medio que está bien cerrada. Pesa 100 cn, y no puede abrirse por la fuerza. Un ladrón puede forzar la cerradura, o un hechizo de golpe la abrirá, pero no puede ser forzada. La caja contiene tres viales, cada uno de los cuales contiene una poción de _crecimiento_, un anillo de _resistencia al fuego_ y una _vara de anulación_.
 
-El resultado del escenario de la Gran Evasión depende de cómo lo hagan los personajes. Si no logran escapar del puesto de avanzada, serán colocados en una carreta bajo una fuerte guardia y comenzará su viaje a Fort Doom. La primera noche, el carro será emboscado por una fuerza de asalto de Luln y los personajes serán rescatados. La marcha forzada de vuelta para avisar a Luln fracasará; la incursión habrá causado graves daños. La situación seguirá siendo tensa, y Sascia elaborará un informe completo sobre la situación. Cuando el grupo esté listo para abandonar Luln, les pedirá que entreguen el informe al escriba Franz Dubloi, que se encuentra en la guarnición militar de Specularum. El grupo recibirá un pequeño saco de oro para los gastos de viaje y podrá entregar el mensaje sin dificultad. Consulta la aventura de la Sociedad Velada para obtener más detalles sobre Specularum.
+El resultado del escenario de la Gran Evasión depende de cómo lo hagan los personajes. Si no logran escapar del puesto de avanzada, serán colocados en una carreta bajo una fuerte guardia y comenzará su viaje a Fort Doom. La primera noche, el carro será emboscado por una fuerza de asalto de Luln y los personajes serán rescatados. La marcha forzada de vuelta para avisar a Luln fracasará; la incursión habrá causado graves daños. La situación seguirá siendo tensa, y Sascia elaborará un informe completo sobre la situación. Cuando el grupo esté listo para abandonar Luln, les pedirá que entreguen el informe al escriba Franz Dubloi, que se encuentra en la guarnición militar de mpecularum. El grupo recibirá un pequeño saco de oro para los gastos de viaje y podrá entregar el mensaje sin dificultad. Consulta la aventura de la Sociedad Velada para obtener más detalles sobre mpecularum.
 
 *La ciudad de Luln*
 
