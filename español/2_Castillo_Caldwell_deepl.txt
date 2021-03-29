@@ -17,7 +17,7 @@ Mapas: La Gran Evasión ............. 136
 Mapas: Elwyn's Sanctuary ........ 137, 158
 
 
-*ANTECEDENTES*
+*TRASFONDO*
 
 Clifton Caldwell, un comerciante local, ha comprado recientemente un pequeño castillo, situado a unas millas de la ciudad. El castillo no había sido ocupado durante algún tiempo. Clifton había comprado el castillo por un precio ridículo, ya que siempre había querido tener uno. Pero cuando fue a visitar su nuevo hogar, descubrió que estaba invadido por monstruos. Tuvo suerte de escapar con vida.
 
@@ -35,7 +35,7 @@ Todas las habitaciones del primer nivel del castillo tienen ventanas, por lo que
 
 A excepción de los monstruos que viven juntos, los monstruos no forman un grupo, sino que utilizan este castillo abandonado por casualidad. Si uno o más de los monstruos inteligentes descubren al grupo sin ser detectados, probablemente intentarán huir con su vida y con todo el tesoro que puedan conseguir.
 
-MONSTRUOS ERRANTES
+*MONSTRUOS ERRANTES*
 
 Hay cuatro goblins (hp 4, 5, 3, 6) vagando por los pasillos. Van armados con arcos cortos y dagas. Tira 1d6 cada turno que el grupo esté en el pasillo. Con una tirada de 1, los goblins aparecen y se acercan a la esquina más cercana.
 
@@ -45,13 +45,13 @@ Los goblins viven con el resto de los goblins en la habitación 2. Llevan 6 ep, 
 
 La aventura comienza con el grupo de pie fuera de las puertas dobles que conducen al castillo. Las puertas están desbloqueadas y se abren fácilmente...
 
-1. COMEDOR ABANDONADO
+*1. COMEDOR ABANDONADO*
 
 Esta sala parece haber sido utilizada como comedor. Hay mesas y bancos esparcidos por toda la habitación, muchos de ellos girados de lado o boca abajo. Todo está cubierto de telarañas.
 
 La habitación está vacía de monstruos, pero hay un gran saco debajo de una de las mesas. El grupo lo encontrará si se toma un turno para buscar en la habitación. El saco contiene 500 sp y tres gemas, una por valor de 300 gp y dos por valor de 50 gp cada una. Las gemas no se pueden ver a menos que se vuelque el contenido del saco.
 
-2. GUARDIA
+*2. GUARDIA*
 
 Si el grupo escucha la puerta antes de abrirla, oirá sonidos de una discusión en un idioma extraño. Si alguien entiende la lengua goblin, se da cuenta de que hay goblins en la habitación discutiendo sobre el reparto de su tesoro. Cuando el grupo abre la puerta...
 
@@ -62,7 +62,7 @@ La habitación está habitada por cuatro goblins (hp 6, 6, 6, 4) cada uno armado
 
 Además del tesoro en el suelo, los goblins llevan 4 ep, 7 ep, 8 ep y 7 ep, respectivamente, en sus bolsillos.
 
-3. HABITACIÓN
+*3. DORMITORIO*
 
 NOTA: Los comerciantes de las habitaciones 3, 4 y 5 quieren salvar su tesoro y sus vidas. Prefieren tratar con el grupo en lugar de luchar. Por ejemplo, podrían estar dispuestos a intercambiar información sobre los otros monstruos del castillo a cambio de que se les permita salir en paz.
 
@@ -70,13 +70,13 @@ Ves a un hombre armado con una espada corta tumbado en una cama.
 
 La habitación está iluminada por una claraboya en la esquina noreste de la habitación que deja pasar la luz, pero no la lluvia. El hombre tumbado en la cama es un comerciante humano armado con una espada corta. Está aliado con los comerciantes de las habitaciones 4 y 5. Si tiene problemas, golpea la pared este con la culata de su espada para llamar a los demás. Del mismo modo, responderá a una señal de la sala 4 alertando primero al comerciante de la sala 5 y luego acudiendo en ayuda de su amigo. Tiene una gran bolsa con 8 gp y 20 sp en ella.
 
-4. HABITACIÓN
+*4. DORMITORIO*
 
 Ves a un hombre tumbado en una cama. Está armado con un hacha. Hay una puerta en el extremo de la habitación. A ambos lados de la puerta hay ventanas en lo alto de la pared.
 
 Ver la nota de la habitación 3. El hombre tumbado en la cama es un comerciante humano armado con un hacha +1.  Está aliado con los comerciantes de las habitaciones 3 y 5.  Si está en problemas, golpea la pared este u oeste para alertar a sus compañeros. Del mismo modo, responderá a una señal de la sala 3 o 5 alertando primero al otro comerciante y luego acudiendo en ayuda de su amigo. Lleva una pequeña bolsa con tres gemas (con un valor de 60 gp, 40 gp y 10 gp).
 
-5. CAMA
+*5. DORMITORIO*
 
 Ves a un hombre tumbado en una cama. Está armado con una espada corta.
 
@@ -84,13 +84,13 @@ Ver la nota de la habitación 3. El hombre tumbado en la cama es un comerciante 
 
 Esta sala está iluminada por una claraboya idéntica a la de la sala 3.
 
-6. SALA DE LA TORRE
+*6. SALA DE LA TORRE*
 
 Ves una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente alrededor de la pared exterior. Las ventanas se extienden desde la altura de la cintura hasta la altura de la cabeza de un humano normal.  Obviamente, se trata de puertos por los que se pueden disparar flechas. La habitación parece estar vacía.
 
 La habitación está vacía.
 
-7. CUARTO DE SERVICIO
+*7. CUARTO DE SERVICIO*
 
 La pared este de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. La habitación parece estar vacía excepto por una estatua de un pastor en la esquina noreste.
 
@@ -98,19 +98,19 @@ La estatua es de piedra. Si hay un personaje legítimo en el grupo cuando entra 
 
 La estatua puede responder a preguntas sobre el castillo y sus habitantes. Responderá con la verdad a las tres preguntas que le hagan los personajes legales una vez al día. No responderá en absoluto a los personajes de otros alineamientos, y después de haber respondido a tres preguntas, no responderá en absoluto hasta que hayan pasado 24 horas.  La estatua tiene 100 puntos de vida. Si es golpeada por un arma de filo, hay un 15% de posibilidades de que el arma se rompa (5% de posibilidades para las armas mágicas). Un arma de filo rota es inútil para siempre.
 
-8. ALMACÉN
+*8. ALMACÉN*
 
 La pared del yeso de esta habitación tiene una cornisa a unos dos metros del suelo. Hay dos pequeñas ventanas sobre la cornisa. Excepto por la basura en el suelo, la habitación parece estar vacía.
 
 A excepción de la basura en el suelo (que no tiene ningún valor), la habitación está vacía.
 
-9. GUARDERÍA
+*9. ALMACÉN*
 
 La pared fundida de esta habitación tiene una cornisa a unos dos metros del suelo. Hay dos pequeñas ventanas sobre la cornisa. Excepto por la basura en el suelo, la habitación parece estar vacía.
 
 Excepto por la basura en el suelo (que no tiene ningún valor), la habitación está vacía.
 
-10. ALMACÉN
+*10. ALMACÉN*
 
 La pared este de esta habitación tiene una cornisa a unos dos metros del suelo. Hay dos pequeñas ventanas sobre la cornisa. Excepto por dos largas mesas a lo largo de la pared sur, la habitación parece estar vacía. Al entrar en la sala, se oye el sonido de unas pequeñas alas.
 
@@ -120,31 +120,31 @@ Un stirge volador obtiene una bonificación de +2 en su primera tirada para golp
 
 A los agitadores les gustan las cosas brillantes. En su saliente hay tres gemas que valen 500 gp, 100 gp y 50 gp, respectivamente. La cornisa puede alcanzarse fácilmente si un personaje de tamaño humano normal se coloca sobre una de las mesas.
 
-11. CAPILLA
+*11. CAPILLA*
 
 La pared este de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. Hay un pequeño altar en la pared diagonal del noroeste.  Hay varios bancos largos en la sala. Dos de ellos han sido empujados juntos en la esquina sureste para formar una ruda cama. Una mujer con armadura y una maza se arrodilla ante el altar.
 
 La mujer es una acólita (clérigo de 1er nivel) de alineamiento caótico. Va armada con una maza.  Lleva una cota de malla y recibe un bonificador de clase de armadura de +1 por su alta destreza.  Hay objetos religiosos en el altar, pero ninguno vale más que unas pocas piezas de plata.  Hay un pequeño armario bajo el altar que contiene dos viales, cada uno una poción de curación.  Si los personajes no atacan inmediatamente a la acólita, ésta se ofrece a guiarlos en la adoración. Ella, al igual que los comerciantes de las habitaciones 3, 4 y 5, está ansiosa por evitar luchar contra un grupo numeroso.
 
-12. SALA DE LA TORRE
+*12. SALA DE LA TORRE*
 
 Ves una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente alrededor de la pared exterior. Las ventanas se extienden desde la altura de la cintura hasta la altura de la cabeza de un humano normal.  Obviamente, se trata de puertos por los que se pueden disparar flechas. La habitación parece estar vacía.
 
 La habitación está vacía.
 
-13. CUARTO DE SERVICIO
+*13. CUARTO DE SERVICIO*
 
 La pared norte de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. La habitación parece estar vacía.
 
 La habitación está vacía.
 
-14. DORMITORIO
+*14. DORMITORIO*
 
 Excepto por una cama desocupada, esta habitación parece estar vacía.
 
 Esta habitación está iluminada por una claraboya en la esquina suroeste de la habitación que deja pasar la luz, pero no la lluvia. Una araña cangrejo se aferra al techo cuando el grupo entra, y se deja caer sobre un miembro del grupo (elegido al azar), sorprendiendo con una tirada de 1-4 en un 1d6. Si la araña cangrejo acierta, la víctima recibe el daño normal y debe hacer una tirada de salvación contra Veneno (a +2 porque el veneno de la araña es débil) o morir.
 
-15. ALMACÉN
+*15. ALMACÉN*
 
 La pared norte de esta habitación tiene una cornisa a unos dos metros del suelo, con dos pequeñas ventanas sobre la cornisa. Tres hombres están tumbados en palés cerca de la pared norte. Están armados con espadas. Una bestia que parece un caballo pequeño está cerca de la pared este. La habitación contiene un montón de lo que parece ser equipo personal.
 
@@ -156,7 +156,7 @@ La bestia es una mula de carga que los bandidos guardan en su habitación para q
 
 Los bandidos, al igual que los otros monstruos inteligentes de este castillo, tratarán de escapar con sus vidas y su tesoro, en ese orden. Si escapan y el grupo se lleva su tesoro, podrán volver para vengarse, a elección del DM.
 
-16. DORMITORIO
+*16. DORMITORIO*
 
 En esta habitación hay tres pequeños humanoides armados con lanzas. Hay una puerta en el extremo de la habitación, flanqueada por pequeñas ventanas en lo alto de la pared.
 
@@ -164,35 +164,35 @@ La puerta conduce al patio (habitación 31).  Los humanoides son kobolds. No tie
 
 Los kobolds no hablan la lengua común, y son muy cautelosos con un grupo grande.  Conocen a los lobos de la sala 31. Si el grupo ataca, abren la puerta del patio. Los lobos, sin embargo, son tan propensos a atacar a los kobolds como a los PC.
 
-17. ALMACÉN
+*17. ALMACÉN*
 
 La pared norte de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. La habitación parece estar vacía.
 
 La habitación está vacía.
 
-18. DORMITORIO
+*18. DORMITORIO*
 
 Excepto por una cama desocupada, esta habitación parece estar vacía.
 
 La habitación está iluminada por una ingeniosa claraboya en la esquina sureste que deja pasar la luz, pero no la lluvia. La habitación está vacía.
 
-19. GUARDIA
+*19. SALA DE GUARDIA*
 
 La pared norte de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. La habitación parece que podría haber sido un puesto de guardia.  Hay unas cuantas camas, algunos ganchos en las paredes para la ropa, un estante para guardar las armas y una larga mesa con un cajón que podría haber servido de escritorio. Hay ropa apolillada en la cama, pero por lo demás la habitación parece estar vacía.
 
 Si el grupo registra la habitación, encontrará bajo una de las camas un pequeño saco que contiene 100 sp y 20 gp.
 
-20. SALA DE LA TORRE
+*20. SALA DE LA TORRE*
 
 Ves una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente por la pared exterior. Las ventanas se extienden desde la altura de la cintura hasta la altura de la cabeza de un humano normal.  Obviamente, se trata de puertos por los que se pueden disparar flechas. La habitación parece estar vacía.
 
 La habitación está vacía.
 
-21. CUARTO DE SERVICIO
+*21. CUARTO DE SERVICIO*
 
-La puerta de esta habitación está cerrada por un mago y no puede ser abierta por nadie del grupo. Si el grupo pregunta a la estatua de la habitación 7 sobre la puerta, ésta dirá: "Mucho peligro, extraña magia y un gran tesoro se encuentran detrás de la puerta, pero no puede ser abierta por ningún medio como el que tú posees". Consulta la segunda parte de esta aventura para conocer más detalles sobre lo que hay detrás de esta puerta. Por el momento, haz que sea un misterio irresoluble para que el grupo reflexione.
+La puerta de esta habitación está cerrada por una _cerradura arcana_ y no puede ser abierta por nadie del grupo. Si el grupo pregunta a la estatua de la habitación 7 sobre la puerta, ésta dirá: "Mucho peligro, extraña magia y un gran tesoro se encuentran detrás de la puerta, pero no puede ser abierta por ningún medio como el que tú posees". Consulta la segunda parte de esta aventura para conocer más detalles sobre lo que hay detrás de esta puerta. Por el momento, haz que sea un misterio irresoluble para que el grupo reflexione.
 
-22. ALMACÉN
+*22. ALMACÉN*
 
 La pared oeste de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. A excepción de algunos desperdicios en el suelo, la habitación parece estar vacía.
 
@@ -202,13 +202,13 @@ Si el grupo busca en la habitación después de enfrentarse a la musaraña, encu
 
 No hay ningún tesoro aquí.
 
-23. BIBLIOTECA
+*23. BIBLIOTECA*
 
 La pared oeste de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. Las estanterías se alinean en las paredes norte y sur; en ellas quedan algunos libros apolillados.  Dos enormes escarabajos se posan en la polvorienta alfombra del centro de la habitación.
 
 Son escarabajos de fuego. Han estado comiendo la alfombra, y les encantaría una comida de verdad.  No hay ningún tesoro aquí, pero el grupo podría pensar en sacar las glándulas brillantes de los escarabajos de fuego para usarlas como fuente de luz.  Las glándulas emiten luz en un radio de 3 metros, y brillan de 1 a 6 días después de ser retiradas.
 
-24. PANTRY
+*24. DESPENSA*
 
 La pared oeste de esta habitación tiene una cornisa a unos dos metros del suelo, con dos pequeñas ventanas sobre la cornisa. Armarios y estanterías se alinean en la pared. En medio del suelo yace el cuerpo de un duende con un brazo horriblemente hinchado. Hay basura y sacos viejos esparcidos por el suelo.
 
@@ -216,7 +216,7 @@ Uno de los sacos de la esquina suroeste contiene una cobra escupidora. La cobra 
 
 Aquí no hay ningún tesoro.
 
-25. COCINA
+*25. COCINA*
 
 La pared oeste de esta habitación tiene un saliente a unos dos metros del suelo, con dos pequeñas ventanas sobre el saliente. La habitación parece ser una cocina. Hay varias mesas, una bomba y una vieja estufa. Hay un gran baúl de cuero en el centro de la pared oeste.
 
@@ -224,37 +224,37 @@ El cofre está cerrado y atado con correas de cuero, pero no está cerrado con l
 
 El cofre está vacío, pero vale 50 gp si se vende. Es lo suficientemente grande como para contener 2.000 monedas.
 
-26. SALA DE LA TORRE
+*26. SALA DE LA TORRE
 
 Ves una habitación circular, de unos 40 pies de diámetro, con ocho aberturas espaciadas uniformemente por la pared exterior. Las ventanas se extienden desde la altura de la cintura hasta la altura de la cabeza de un humano normal.  Obviamente, se trata de puertos por los que se pueden disparar flechas. La habitación parece estar vacía.
 
-La habitación está vacía.
+La habitación está vacía.*
 
-27. DORMITORIO
+*27. DORMITORIO*
 
 Esta habitación llena de basura contiene una cama vacía con ropa de cama harapienta. Por lo demás, parece estar vacía. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos dos metros del suelo.
 
 Hay un gran saco bajo la ropa de cama que contiene 300 sp y 50 gp.
 
-28. DORMITORIO
+*28. DORMITORIO*
 
 Esta habitación llena de basura contiene una cama vacía con ropa de cama harapienta. Por lo demás, parece estar vacía. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos dos metros del suelo.
 
 La habitación está vacía.
 
-29. DORMITORIO
+*29. DORMITORIO*
 
 Esta habitación llena de basura contiene una cama vacía con ropa de cama harapienta. Por lo demás, parece estar vacía. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos dos metros del suelo.
 
 La habitación está vacía.
 
-30. DORMITORIO
+*30. DORMITORIO*
 
 Esta habitación llena de basura contiene una cama vacía con ropa de cama harapienta. Por lo demás, parece estar vacía. Una puerta en la pared este está flanqueada por dos pequeñas ventanas a unos dos metros del suelo.
 
 La habitación está vacía.
 
-31. CORTIJO
+*31. PATIO*
 
 NOTA: La siguiente información debe ser cambiada si el grupo ya se ha encontrado con los lobos en la habitación 16. Si el grupo ya se ha enterado de la existencia de los lobos (por ejemplo, mirando a través de las ventanas del patio, o preguntando a la estatua de la sala 7), no pueden ser sorprendidos aquí.
 
@@ -262,15 +262,15 @@ Se ve un patio de hierba abierto al cielo.  Seis puertas, incluida aquella por l
 
 Los lobos han estado utilizando la sala 4 para entrar en el castillo, pero los comerciantes han bloqueado la puerta cuando llegaron hace unos días. Los lobos están muy hambrientos.
 
-LAS MAZMORRAS DEL TERROR
+*LAS MAZMORRAS DEL TERROR*
 
 Esta es la segunda parte de la aventura en el Castillo Caldwell. Cuando los personajes desalojaron el primer nivel del castillo, encontraron una misteriosa habitación cerrada con llave (la habitación 21) que no podía abrirse por ningún medio al alcance del grupo. Clifton Caldwell, preocupado por la habitación cerrada, contrató a un usuario de magia de alto nivel para que abriera la puerta.
 
 La habitación detrás de la puerta estaba totalmente vacía, excepto por una trampilla en el suelo. Las ventanas de la habitación habían sido tapiadas.
 
-La trampilla del suelo se abría con facilidad, pero la zona de abajo estaba totalmente a oscuras. Cuando la usuaria de la magia lanzó un hechizo de luz a través de la trampilla, vio una habitación vacía con una abertura que conducía a un pasillo. No estaba dispuesta a seguir explorando, ni sola ni en compañía de un grupo más numeroso. Así que Clifton volvió a ponerse en contacto con los aventureros que despejaron el castillo para abordar las mazmorras de abajo...
+La trampilla del suelo se abría con facilidad, pero la zona de abajo estaba totalmente a oscuras. Cuando el usuario de la magia lanzó un hechizo de _luz_ a través de la trampilla, vio una habitación vacía con una abertura que conducía a un pasillo. No estaba dispuesta a seguir explorando, ni sola ni en compañía de un grupo más numeroso. Así que Clifton volvió a ponerse en contacto con los aventureros que despejaron el castillo para abordar las mazmorras de abajo...
 
-Notas para el Dungeon Master
+*Notas para el Dungeon Master*
 
 Esta aventura está diseñada como una continuación de la aventura anterior, pero puedes decidir que un grupo diferente explore las mazmorras (¡especialmente si el primer grupo no sobrevivió!).  En ese caso, Clifton debe contar a los nuevos aventureros lo que ocurrió en la aventura anterior.
 
@@ -294,7 +294,7 @@ Si el grupo recibe mucho daño y parece estar en peligro de no sobrevivir a este
 
 Prepara copias del mapa del tesoro y otros materiales para repartirlos a los jugadores antes de la partida. Es mejor copiarlos utilizando una hoja de papel distinta para cada uno.
 
-1. ENTRADA DE LA MAZMORRA
+*1. ENTRADA A LA MAZMORRA*
 
 NOTA: El monstruo que está a punto de aparecer es un doppleganger. Elige como primera víctima al miembro más débil del grupo (probablemente un usuario de magia). Elige primero a la víctima del doppleganger y luego rellena los espacios en blanco cuando leas en voz alta la copia de abajo.
 
@@ -312,17 +312,17 @@ La trampilla de arriba es una puerta mágica de un solo sentido. Una vez que el 
 
 La "ruta de escape" del doppleganger no existe. Conoce la salida secreta, pero no la revelará al grupo bajo ninguna circunstancia.
 
-2. GUARIDA DEL USUARIO MÁGICO
+*2. GUARIDA DEL MAGO*
 
-Esta sala contiene una zona de descanso con dos palés, un par de sillas y varios muebles más en la esquina suroeste. En la pared norte hay un tosco laboratorio. Tiene un banco de trabajo con algunas herramientas básicas para hacer experimentos y un surtido de productos químicos comunes.  Hay un ligero olor a gas de pantano en el aire.  Unas cuantas velas proporcionan luz. Dos hombres, vestidos con túnicas raídas, se sientan en el banco.
+Esta sala contiene una zona de descanso con dos palés, un par de sillas y varios muebles más en la esquina suroeste. En la pared norte hay un tosco laboratorio. Tiene un banco de trabajo con algunas herramientas básicas para hacer experimentos y un surtido de productos químicos comunes. Hay un ligero olor a gas de pantano en el aire. Unas cuantas velas proporcionan luz. Dos hombres, vestidos con túnicas raídas, se sientan en el banco.
 
-Los hombres son médiums (usuarios de magia de primer nivel).  Tienen una gran destreza, lo que les da un bono de +1 a la clase de armadura. Cada uno está armado con una daga. El primero tiene un hechizo de misil mágico, el otro tiene un hechizo de sueño.
+Los hombres son médiums (magos de primer nivel). Tienen una gran destreza, lo que les da un bono de +1 a la clase de armadura. Cada uno está armado con una daga. El primero tiene un hechizo de _proyectil mágico_, el otro tiene un hechizo de _sueño_.
 
-Estos usuarios de la magia están locos. Hablan en voz baja y parecen ser amables, pero tienen el asesinato en sus mentes. Se acercan al grupo con aparente amabilidad, pero si se acercan lo suficiente, intentan enterrar sus dagas en las costillas de alguien. Utilizan hechizos sólo después de que haya comenzado el combate cuerpo a cuerpo. Su moral es de 12 debido a su locura, por lo que luchan hasta la muerte.
+Estos magos están locos. Hablan en voz baja y parecen ser amables, pero tienen el asesinato en sus mentes. Se acercan al grupo con aparente amabilidad pero, si se acercan lo suficiente, intentan enterrar sus dagas en las costillas de alguien. Utilizan hechizos sólo después de que haya comenzado el combate cuerpo a cuerpo. Su moral es de 12 debido a su locura, por lo que luchan hasta la muerte.
 
-Cada uno de los médiums lleva una gema que vale 20 gp. El equipo del laboratorio vale 50 gp para un usuario de magia.
+Cada uno de los médiums lleva una gema que vale 20 gp. El equipo del laboratorio vale 50 gp para un mago.
 
-3. SALA INACABADA
+*3. SALA INACABADA*
 
 NOTA: Si algún miembro del grupo escucha en esta puerta, se oye un zumbido bajo.
 
@@ -334,15 +334,15 @@ Las moscas se esconden en sus nidos cuando el grupo entra, y las sorprenden con 
 
 Hay 10 gp, 50 sp y 100 cp esparcidos por el suelo.
 
-4. HABITACIÓN VACÍA
+*4. HABITACIÓN VACÍA*
 
 Esta habitación parece estar vacía.
 
 La habitación está vacía.
 
-5. CÁMARA DE TELETRANSPORTE
+*5. CÁMARA DE TELETRANSPORTE*
 
-NOTA: La llave de esta habitación se encuentra en las habitaciones 9, 10, 11, 12 o 13 -la que los personajes busquen en último lugar- aunque la habitación esté vacía. Cualquier intento de forzar la cerradura falla, independientemente de la tirada de dados (haz la tirada en secreto y dile al jugador que el intento ha fallado).  La puerta está imbuida de un hechizo especial de disipación de magia que frustrará cualquier hechizo de golpeo lanzado sobre ella.
+NOTA: La llave de esta habitación se encuentra en las habitaciones 9, 10, 11, 12 o 13 -la que los personajes busquen en último lugar- aunque la habitación esté vacía. Cualquier intento de forzar la cerradura falla, independientemente de la tirada de dados (haz la tirada en secreto y dile al jugador que el intento ha fallado).  La puerta está imbuida de un hechizo especial de _disipar magia_ que frustrará cualquier hechizo de golpeo lanzado sobre ella.
 
 La puerta de esta habitación está cerrada con seguridad.  Hay una cerradura ornamentada en la puerta.
 
@@ -352,7 +352,7 @@ Cuando los personajes consiguen finalmente entrar en la habitación, ven lo sigu
 
 La habitación parece estar vacía excepto por un armario abierto en la esquina sureste. Los estantes del armario están repletos de tesoros: gemas brillantes y elaboradas piezas de joyería. Tres grandes sacos en el estante inferior están repletos de monedas brillantes. El armario y la zona que lo rodea parecen estar bañados en un resplandor verde pálido.
 
-El armario es una ilusión. Cualquier personaje que se acerque a menos de 3 metros del armario es teletransportado instantáneamente a la habitación 14. Los demás personajes de la sala ven cómo el personaje se desvanece en una ráfaga de luz verde.
+El armario es una ilusión. Cualquier personaje que se acerque a menos de 3 metros del armario es _teleportado_ instantáneamente a la habitación 14. Los demás personajes de la sala ven cómo el personaje se desvanece en una ráfaga de luz verde.
 
 Hay una barrera invisible que se extiende 10 pies desde la esquina noreste de la habitación mientras el gabinete parece estar en la esquina sureste. Si la barrera invisible es golpeada, cede ligeramente y luego vuelve a su posición original.
 
@@ -366,25 +366,25 @@ Siempre que algún personaje sea teletransportado lejos del resto del grupo, sep
 
 Consulta la descripción de la sala 14 para más detalles.
 
-6. ANTECHAMBA
+*6. ANTECÁMARA*
 
 Esta habitación parece estar vacía. Hay una puerta en la pared del fondo.
 
 La habitación está vacía.
 
-7. ALMACÉN
+*7. ALMACÉN*
 
 Esta habitación parece estar vacía.
 
-En realidad, la habitación contiene un cubo gelatinoso que sorprende al grupo con una tirada de 1-4 en 146.  Dentro del cubo hay 72 sp y una daga +1.
+En realidad, la habitación contiene un cubo gelatinoso que sorprende al grupo con una tirada de 1-4 en 146. Dentro del cubo hay 72 sp y una _daga +1_.
 
-8. ALMACÉN
+*8. ALMACÉN*
 
 Esta habitación parece estar vacía.
 
 La habitación está vacía.
 
-9. EXCAVACIÓN
+*9. EXCAVACIÓN*
 
 El suelo de esta zona está cubierto de escombros procedentes de los trabajos de excavación. Unas cuantas monedas brillantes son visibles entre los escombros.
 
@@ -392,29 +392,29 @@ Si el grupo pasa un turno recogiendo monedas, encuentra 400 sp y 100 gp. Si el g
 
 Hay una probabilidad de 1 en 6 en el primer turno, una probabilidad de 2 en 6 en el segundo turno, una probabilidad de 3 en 6 en el tercer turno, y así sucesivamente, mientras el grupo esté buscando en la habitación, de que los berserkers de la habitación 10 descubran al grupo y ataquen.
 
-10. CAVERNA
+*10. CAVERNA*
 
 NOTA: La siguiente descripción es lo que los personajes ven desde la sala 9.
 
 Parece que hay una débil luz que proviene de la más occidental de las tres aberturas en la pared sur.
 
-Esta es la guarida de cuatro berserkers. Tres están armados con espadas cortas. Uno, el líder, está armado con una espada +1, +2 contra muertos vivientes (D 2-9).
+Esta es la guarida de cuatro berserkers. Tres están armados con espadas cortas. Uno, el líder, está armado con una _espada +1, +2 contra muertos vivientes_ (D 2-9).
 
 Esta zona está débilmente iluminada por una única antorcha clavada en la pared oeste. Hay 7.000 cp esparcidos por el suelo aquí.
 
-11. CAVERNA
+*11. CAVERNA*
 
 El suelo aquí está cubierto de escombros.  A excepción de una forma grande y mal definida cerca de la pared sur, la zona parece estar vacía.
 
 La forma cerca de la pared sur es un cofre, cerrado pero no con llave. Está atrapado con tres dardos de resorte que disparan a cualquiera que lo abra a menos que la trampa se desactive con éxito o se tomen otras precauciones. Los dardos (D 1-4 cada uno) golpean como si fueran disparados por un monstruo de 4 HD. Tira por separado para cada dardo.  El cofre contiene 700 sp y 100 gp.
 
-12. CONSTRUCCIÓN
+*12. CONSTRUCCIÓN*
 
 Esta zona parece estar vacía.
 
 La zona está vacía.
 
-13. CAVERNA
+*13. CAVERNA*
 
 Un pasillo largo y estrecho se abre en una cámara excavada en la roca. Tres figuras humanoides están cerca de la pared del fondo.
 
@@ -422,7 +422,7 @@ Los humanoides se parecen a los hobgoblins, pero en realidad son thouls.
 
 La esquina noreste de esta cámara contiene dos grandes sacos. Un saco contiene 500 ep. El segundo contiene 500 ep y cuatro gemas por valor de 100 gp (x2) y 50 gp (x2), respectivamente.
 
-14. TUMBA
+*14. TUMBA*
 
 Esta cámara rectangular contiene diez sarcófagos de piedra con tapas ornamentadas.  Cada uno mide unos siete pies de largo y cuatro de ancho. No hay puertas, ventanas ni salidas visibles de la habitación. En el suelo hay inscrito un círculo decorado.
 
@@ -430,23 +430,22 @@ Los ataúdes son demasiado pesados para ser movidos. Las tapas de piedra sólo p
 
 El contenido de los ataúdes es el siguiente:
 
-Ataúd 1 o 10 (el que el grupo abra primero): Este ataúd es el ataúd de cambio que cambia la dirección del teletransportador. Cuando se retira la tapa, se produce un destello de luz y el suelo dentro del círculo inscrito (ver mapa) brilla de color verde pálido durante unos 30 segundos, y luego se desvanece. De vuelta en la sala 5, el armario ilusorio se desplaza de la esquina sureste de la sala a la esquina noreste. El ataúd está vacío.
-Ataúd 1 o 10 (el que el grupo abra en último lugar): El ataúd contiene 1.000 sp.
+*Ataúd 1 o 10 (el que el grupo abra primero)*: Este ataúd es el ataúd de cambio que cambia la dirección del teletransportador. Cuando se retira la tapa, se produce un destello de luz y el suelo dentro del círculo inscrito (ver mapa) brilla de color verde pálido durante unos 30 segundos, y luego se desvanece. De vuelta en la sala 5, el armario ilusorio se desplaza de la esquina sureste de la sala a la esquina noreste. El ataúd está vacío.
+*Ataúd 1 o 10 (el que el grupo abra en último lugar)*: El ataúd contiene 1.000 sp.
+*Ataúd 2:* El ataúd contiene 1.200 sp.
+*Ataúd 3:* El ataúd contiene un wight, que ataca inmediatamente. Sorprende con una tirada de 13 en 1d6. El ataúd también contiene 200 pp.
+*Ataúd 4:* El ataúd contiene 1.000 sp.
+*Ataúd 5:* Este ataúd está atrapado con un rocío especial que afecta al metal como si fuera un monstruo oxidado. Todas las armas y armaduras no mágicas se ven afectadas a menos que el jugador haga una tirada de salvación contra _Rayo Mortal_. Las armaduras y armas mágicas y los metales preciosos (plata, oro o platino) no se ven afectados. El rayo afecta a todo el metal en un radio de 5 pies. El ataúd también contiene 300 gp.
+*Ataúd 6:* El ataúd contiene 1.000 ep.
+*Ataúd 7:* Un mapa del tesoro que muestra la ubicación del tesoro en la sala 1, un pergamino de _disco flotante_ y el trozo de papel (ver más abajo) con las instrucciones para escapar del nivel de la mazmorra. El hechizo de _disco flotante_ puede transportar la mayoría de las monedas que se encuentran en esta sala. Atravesará el círculo del teletransportador con su dueño.
+*Ataúd 8:* El ataúd contiene un wight, que ataca inmediatamente. Sorprende con una tirada de 13 en 1d6. El ataúd también contiene dos brazaletes por valor de 300 gp y 500 gp, respectivamente, y 5 gemas por valor de 100 gp (x3) y 50 gp (x2), respectivamente.
+*Ataúd 9:* El ataúd contiene 1.100 sp.
 
-Ataúd 2: El ataúd contiene 1.200 sp.
-Ataúd 3: El ataúd contiene un wight, que ataca inmediatamente. Sorprende con una tirada de 13 en 1d6. El ataúd también contiene 200 pp.
-Ataúd 4: El ataúd contiene 1.000 sp.
-Ataúd 5: Este ataúd está atrapado con un rocío especial que afecta al metal como si fuera un monstruo oxidado. Todas las armas y armaduras no mágicas se ven afectadas a menos que el jugador haga una tirada de salvación contra el Rayo de la Muerte. Las armaduras y armas mágicas y los metales preciosos (plata, oro o platino) no se ven afectados. El rayo afecta a todo el metal en un radio de 5 pies. El ataúd también contiene 300 gp.
-Ataúd 6: El ataúd contiene 1.000 ep.
-Ataúd 7: Un mapa del tesoro que muestra la ubicación del tesoro en la sala 1, un pergamino de disco flotante y el trozo de papel (ver más abajo) con las instrucciones para escapar del nivel de la mazmorra. El hechizo de disco flotante puede transportar la mayoría de las monedas que se encuentran en esta sala. Atravesará el círculo del teletransportador con su dueño.
-Ataúd 8: El ataúd contiene un wight, que ataca inmediatamente. Sorprende con una tirada de 13 en 1d6. El ataúd también contiene dos brazaletes por valor de 300 gp y 500 gp, respectivamente, y 5 gemas por valor de 100 gp (x3) y 50 gp (x2), respectivamente.
-Ataúd 9: El ataúd contiene 1.100 sp.
-
-15. TÚNEL DE ESCAPE
+*15. TÚNEL DE ESCAPE*
 
 Copia el pergamino que indica a los personajes cómo escapar del nivel, y entrégalo a los jugadores cuando descubran el pergamino en el ataúd.
 
-Las palabras mágicas "OWAH TAGOO SIAM" se pronuncian "Oh, qué ganso soy". La frase debe ser pronunciada correctamente para que la magia funcione.
+Las palabras mágicas "OJKE GANS OSHOY" se pronuncian "Oh, qué ganso soy". La frase debe ser pronunciada correctamente para que la magia funcione.
 
 Siempre que cualquier personaje en el pasillo fuera de las habitaciones 4 y 5 cante esas palabras, la sección de tres metros de la pared este del pasillo este marcada en el mapa desaparece, revelando el pasillo de salida. La pared vuelve a aparecer después de dos turnos, pero desaparece de nuevo cada vez que se dice la frase mágica.
 
@@ -458,7 +457,7 @@ Si las aventuras no perseguidas deben retrasarse o dejar de estar disponibles du
 
 Sin embargo, si los jugadores abandonan la aventura en el castillo por capricho durante un largo periodo de tiempo, Clifton se quejará de que han roto el acuerdo y se correrá la voz, para desgracia de los personajes. Por ejemplo, otros que podrían contratarlos necesitarán mucho convencimiento (deja que los jugadores hablen rápido). Otra variante es que Clifton contrate a un grupo de PNJs (que al poco tiempo empiecen a sacar grandes tesoros). Estas suaves pistas son una tradición consagrada del buen juicio, y sólo deberían utilizarse cuando los jugadores que deberían saber más empiecen a ser descuidados.
 
-Cuando se despeja el castillo
+*Cuando el Castillo está Despejado*
 
 Cuando el Castillo de Caldwell sea finalmente despejado, se correrá la voz de las hazañas de los personajes por toda la ciudad. Haz que los jugadores se sientan atraídos por el ángulo del héroe (los niños pequeños se acercan por la calle y preguntan si es cierto que lucharon contra un lich... etc.) Esto llevará directamente a la aventura del Salón de la Roca, si los jugadores están interesados. El mercader Hakeem se acercará a ellos como se indica en la introducción de esa aventura en la página 14.
 
