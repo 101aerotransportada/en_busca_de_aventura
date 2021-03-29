@@ -17,13 +17,13 @@ Mapas: La Gran Evasión ............. 136
 Mapas: Elwyn's Sanctuary ........ 137, 158
 
 
-ANTECEDENTES
+*ANTECEDENTES*
 
 Clifton Caldwell, un comerciante local, ha comprado recientemente un pequeño castillo, situado a unas millas de la ciudad. El castillo no había sido ocupado durante algún tiempo. Clifton había comprado el castillo por un precio ridículo, ya que siempre había querido tener uno. Pero cuando fue a visitar su nuevo hogar, descubrió que estaba invadido por monstruos. Tuvo suerte de escapar con vida.
 
 Ha contratado a un grupo de aventureros (los personajes del jugador) para librar al castillo de sus monstruosos habitantes y poder instalarse en él.
 
-NOTAS PARA EL DUNGEON MASTER
+*NOTAS PARA EL DUNGEON MASTER*
 
 Si lo deseas, puedes rolear las negociaciones de Clifton con los personajes jugadores para limpiar el castillo. Aunque Clifton es rico, es un negociador astuto, e inicialmente ofrece a los personajes 100 piezas de oro a cada uno, además, por supuesto, de todo el tesoro que encuentren. Si se le presiona, aumenta su oferta a regañadientes, pero en ningún caso ofrece más de 250 gp a cada uno. Si no quieres rolear el regateo inicial, simplemente di a los jugadores que su tarifa es de 100 gp cada uno. La mitad del dinero se entrega por adelantado; el resto, cuando se vacíe el castillo.
 
