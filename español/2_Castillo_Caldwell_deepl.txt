@@ -442,7 +442,7 @@ El contenido de los ataúdes es el siguiente:
 
 *15. TÚNEL DE ESCAPE*
 
-Copia el pergamino que indica a los personajes cómo escapar del nivel, y entrégalo a los jugadores cuando descubran el pergamino en el ataúd.
+Copia el pergamino que indica a los personajes cómo escapar del nivel y entrégalo a los jugadores cuando descubran el pergamino en el ataúd.
 
 Las palabras mágicas "OJKE GANS OSHOY" se pronuncian "Oh, qué ganso soy". La frase debe ser pronunciada correctamente para que la magia funcione.
 
