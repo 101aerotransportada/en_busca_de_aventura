@@ -1,4 +1,3 @@
-
 DUNGEONS & DRAGONS
 
 Aventura oficial del juego
@@ -11,7 +10,7 @@ DUNGEONS & DRAGONS, D&D, PRODUCTOS DE SU IMAGINACION y el logotipo de TSR son ma
 
 LA CIUDAD PERDIDA
 
-Mesa de Monstruos Errantes: Nivel 1
+Tabla de Monstruos Errantes: Nivel 1
 
 Vagando
 Monster No AC HD hp #AT Damage Move
@@ -25,7 +24,7 @@ Ferret, Gigante 5 TH
 Gnome 5 1+1
 Duende 6 1-1
 
-Mesa de Monstruos Errantes: Nivel 2
+Tabla de Monstruos Errantes: Nivel 2
 
 Vagando
 Monster No AC HD hp #AT Daño
@@ -38,7 +37,7 @@ Rock Baboon 6 6 2
 Serpiente, Escupiendo Cobra 1*
 Warrior Maidens of Madarua 1
 
-Mesa de Monstruos Errantes: Nivel 3
+Tabla de Monstruos Errantes: Nivel 3
 Vagando
 Monster No AC HD hp MV #AT
 
@@ -65,17 +64,13 @@ Créditos
 
 Coordinador de diseño: Jeff Grubb
 Edición: Jon Pickens
-
 Portada: Keith Parkinson
 Tipografía: Betty Elmore
-
 Teclado de texto: Stephanie Tabat
 Map Keylining: Dennis Kauth
 
 Distribuido al comercio de libros en los Estados Unidos por Random House Inc., y en Canadá por Random House of Canada, Ltd.
-
 Distribuido al comercio de juguetes y pasatiempos por distribuidores regionales.
-
 Distribuido en el Reino Unido por TSR UK Ltd.
 
 Esta aventura está protegida por las leyes de derechos de autor de los Estados Unidos de América. Cualquier reproducción u otro uso no autorizado del material contenido en este documento está prohibido sin el permiso expreso por escrito de TSR Inc.
@@ -93,29 +88,29 @@ PROOUCTS DE TU IMAGINACION
 ISBN 0-88038-388-7
 
 Tabla de contenidos
-Introducción............................................................... 3
-Umbral.......................................... 4
-El gráfico de flujo de aventura .................................... 6
-Castillo de Caldwell ...................... 7
-Interludio A: Después del castillo de Caldwell ............. 13
-El Salón de las Rocas ................................. 14
-Interludio B: Después de la Sala del Rock ...................... 23
+Introducción ................. 3
+Umbral ................. 4
+El gráfico de flujo de aventura ................. 6
+Castillo de Caldwell ................. 
+Interludio A: Después del castillo de Caldwell ................. 13
+El Salón de las Rocas ................. 14
+Interludio B: Después de la Sala del Rock ................. 23
 El gran paisaje ................. 24
-Interludio C: Después de la gran escapada ................................ 29
+Interludio C: Después de la gran escapada ................. 29
 El Santuario de Elwyn ................. 30
 Interludio D: Después del Santuario de Elwyn ................. 35
 Las Cuevas del Caos ................. 36
-La princesa de plata .................... 46
-Interludio E: El Preludio de la Princesa de Plata .................................... 46
-El Rey Hobgoblin ................................ 61
-Interludio F: El Rey Hobgoblin ..................................... 61
-Rahasia .................. 77
-Interludio G: RAfter Rahasia ................................. 96
-La ciudad perdida .................................... 97
-Interludio H: Después de la ciudad perdida .................................... 111
-La Sociedad Velada ................................. 112
-Epílogo................................. 123
-Nuevos monstruos .............. 124
+La princesa de plata ................. 46
+Interludio E: El Preludio de la Princesa de Plata ................. 46
+El Rey Hobgoblin ................. 61
+Interludio F: El Rey Hobgoblin ................. 61
+Rahasia ................. 77
+Interludio G: RAfter Rahasia ................. 96
+La ciudad perdida ................. 97
+Interludio H: Después de la ciudad perdida ................. 111
+La Sociedad Velada ................. 112
+Epílogo ................. 123
+Nuevos monstruos ................. 124
 Mapas y folletos de jugadores ................. 129
 
 9190XXX1501
@@ -225,7 +220,7 @@ En la moneda oficial de Karameikos, una pieza de cobre es un kopec, una pieza de
 
 Los siguientes son los principales puntos de interés en una campaña en Karameikos:
 
-Pueblos y Ciudades. Umbral (pop. 5.000) es la base para las primeras aventuras y tiene su propia sección. Specularum (50.000) es la capital, y muchos detalles de su vida y política aparecen en la última aventura. Kelvin (20.000) y Luln (5.000) son los principales centros de población, tuled por el Barón Desmond Kelvin II y Townmistress Sascia (un luchador de alto nivel), respectivamente. Fort Doom (10.000) es el principal centro de población de la Black Eagle Barony, el único lugar en Karameikos donde la esclavitud es legal. Highforge (6500 gnomos, 1000 enanos) es una importante comunidad demihumana gobernada por Dorfus Hilltopper, el GnomeKing. Rifllian (1700, en su mayoría elfos) es un puesto comercial donde se encuentran humanos y elfos, dirigido por el elfo Jefe Trader, Prestelle. Los otros pueblos pequeños y aldeas son bastante típicos y poco probables que figuren en las aventuras de esta colección.
+Pueblos y Ciudades. Umbral (pop. 5.000) es la base para las primeras aventuras y tiene su propia sección. Specularum (50.000) es la capital, y muchos detalles de su vida y política aparecen en la última aventura. Kelvin (20.000) y Luln (5.000) son los principales centros de población, tuled por el Barón Desmond Kelvin II y Townmistress Sascia (un luchador de alto nivel), respectivamente. Fort Doom (10.000) es el principal centro de población de la Black Eagle Barony, el único lugar en Karameikos donde la esclavitud es legal. Highforge (6.500 gnomos, 1.000 enanos) es una importante comunidad demihumana gobernada por Dorfus Hilltopper, el GnomeKing. Rifllian (1.700, en su mayoría elfos) es un puesto comercial donde se encuentran humanos y elfos, dirigido por el elfo Jefe Trader, Prestelle. Los otros pueblos pequeños y aldeas son bastante típicos y poco probables que figuren en las aventuras de esta colección.
 
 Fuertes: Castellan Keep, Duke's Road Keep, Radlebb Keep, River Fork Keep y Rugalov Keep son puestos militares que custodian las fronteras del Ducado. Cada uno tiene una guarnición de unos 240 hombres, liderada por un caza de alto nivel (8o) con oficiales de nivel inferior. Alrededor del 20% de cada guarnición se puede montar, y alrededor del 20% puede tomar el campo con ballestas.
 
